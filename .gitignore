@@ -1,0 +1,44 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.ico
+*.avif
+*.heic
+*.jfif
+*.svg
+
+# Image and model datasets
+images/
+image/
+datasets/
+dataset/
+reference_images/
+reference-images/
+screenshots/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# JavaScript dependencies and generated files
+node_modules/
+dist/
+build/
+
+# Git and editor caches
+.pytest_cache/
+.mypy_cache/
+
+# Secrets and local settings
+.env
+.env.*
+!.env.example

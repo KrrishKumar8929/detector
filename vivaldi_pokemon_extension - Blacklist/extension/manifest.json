@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Pokémon Detector for Vivaldi",
+  "version": "0.3.0",
+  "description": "Recognizes Pokémon spawns only in a selected Discord channel using the local detector.",
+  "permissions": ["storage", "tabs", "activeTab", "clipboardWrite"],
+  "host_permissions": [
+    "https://discord.com/*",
+    "https://*.discord.com/*",
+    "https://cdn.discordapp.com/*",
+    "https://media.discordapp.net/*",
+    "http://127.0.0.1:8765/*"
+  ],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "Pokémon Detector", "default_popup": "popup.html" },
+  "content_scripts": [{
+    "matches": ["https://discord.com/*", "https://*.discord.com/*"],
+    "js": ["content.js"],
+    "run_at": "document_idle"
+  }]
+}

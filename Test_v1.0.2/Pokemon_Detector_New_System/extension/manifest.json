@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "Pokémon Detector — New Detection System",
+  "version": "1.0.2",
+  "description": "Resilient Discord spawn monitoring with local recognition using background, transparent-art, and silhouette references.",
+  "permissions": [
+    "storage",
+    "tabs",
+    "activeTab",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "https://discord.com/*",
+    "https://*.discord.com/*",
+    "https://cdn.discordapp.com/*",
+    "https://media.discordapp.net/*",
+    "http://127.0.0.1:8765/*",
+    "https://unpkg.com/*",
+    "https://huggingface.co/*",
+    "https://*.huggingface.co/*",
+    "https://*.hf.co/*",
+    "https://cdn.poketwo.net/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Pokémon Detector",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://discord.com/*",
+        "https://*.discord.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
