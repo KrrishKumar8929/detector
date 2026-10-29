@@ -1,0 +1,13 @@
+POKEMON DETECTOR — BLACKLIST + DESKTOP PANEL (CHROME)
+
+This ZIP is based on your shared Pokemon Detector with Pokemon Blacklist package. It preserves the popup, multilingual names, user alt names, blacklist feature, and other extension files, and adds the Vivaldi desktop-panel bridge.
+
+INSTALL
+1. Back up your current C:\PokemonDetector\vivaldi_pokemon_extension folder.
+2. Extract this ZIP into a NEW folder first to inspect it.
+3. Copy the extracted files into the actual Vivaldi extension folder, replacing files when prompted. This ZIP includes the full extension package.
+4. Make sure the recognition service on 127.0.0.1:8765 and the desktop panel on 127.0.0.1:8767 are both running.
+5. Open chrome://extensions, click Reload on Pokémon Detector, then refresh Discord.
+6. This copy is configured as Chrome. Keep it in a separate folder from the Vivaldi and other browser copies.
+
+The desktop panel receives the latest recognized Pokémon, picture and command. Clicking a panel card only focuses the matching Discord tab/composer. The extension does not automatically send catch commands; it retains your existing copy-command behavior. Blacklisted Pokémon keep the existing single-dot command behavior.

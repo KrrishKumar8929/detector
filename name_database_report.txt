@@ -1,0 +1,107 @@
+Records with alternate English names: 233
+Records marked as forms: 464
+Records with mega forms: 48
+
+EXAMPLES WITH ALTERNATE ENGLISH NAMES:
+unown | {'english': 'Unown', 'english_alternate': 'Unown F', 'german': 'Icognito', 'french': 'Zarbi'}
+burmy-plant | {'english': 'Burmy', 'english_alternate': 'Plant Burmy', 'german': 'Burmy', 'french': 'Cheniti'}
+cherrim | {'english': 'Cherrim', 'english_alternate': 'Overcast Cherrim', 'german': 'Kinoso', 'french': 'Ceriflor'}
+shellos | {'english': 'Shellos', 'english_alternate': 'West Sea Shellos', 'german': 'Schalellos', 'french': 'Sancoki'}
+gastrodon | {'english': 'Gastrodon', 'english_alternate': 'West Sea Gastrodon', 'german': 'Gastrodon', 'french': 'Tritosor'}
+arceus | {'english': 'Arceus', 'english_alternate': 'Normal Arceus', 'german': 'Arceus', 'french': 'Arceus'}
+deerling | {'english': 'Deerling', 'english_alternate': 'Spring Deerling', 'german': 'Sesokitz', 'french': 'Vivaldaim'}
+sawsbuck | {'english': 'Sawsbuck', 'english_alternate': 'Spring Sawsbuck', 'german': 'Kronjuwild', 'french': 'Haydaim'}
+vivillon | {'english': 'Vivillon', 'english_alternate': 'Meadow Vivillon', 'german': 'Vivillon', 'french': 'Prismillon'}
+flabebe | {'english': 'Flabébé', 'english_alternate': 'Red Flabébé', 'german': 'Flabébé', 'french': 'Flabébé'}
+floette | {'english': 'Floette', 'english_alternate': 'Red Floette', 'german': 'Floette', 'french': 'Floette'}
+florges | {'english': 'Florges', 'english_alternate': 'Red Florges', 'german': 'Florges', 'french': 'Florges'}
+xerneas | {'english': 'Xerneas', 'english_alternate': 'Active Xerneas', 'german': 'Xerneas', 'french': 'Xerneas'}
+lycanroc-midday | {'english': 'Lycanroc', 'english_alternate': 'Midday Lycanroc', 'german': 'Wolwerock', 'french': 'Lougaroc'}
+silvally | {'english': 'Silvally', 'english_alternate': 'Normal Silvally', 'german': 'Amigento', 'french': 'Silvallié'}
+minior-meteor | {'english': 'Minior', 'english_alternate': 'Meteor Minior', 'german': 'Meteno', 'french': 'Météno'}
+toxtricity-amped | {'english': 'Amped Toxtricity', 'english_alternate': 'Toxtricity', 'german': 'Riffex', 'french': 'Salarsen'}
+alcremie-vanilla-cream-strawberry-sweet | {'english': 'Alcremie', 'english_alternate': 'Vanilla Cream Strawberry Sweet Alcremie', 'german': 'Pokusan', 'french': 'Charmilly'}
+tauros-paldea-combat-breed | {'english': 'Combat Breed Tauros', 'english_alternate': 'Paldean Tauros'}
+tauros-paldea-blaze-breed | {'english': 'Blaze Breed Tauros', 'english_alternate': 'Paldean Tauros'}
+tauros-paldea-aqua-breed | {'english': 'Aqua Breed Tauros', 'english_alternate': 'Paldean Tauros'}
+rotom-pokedex | {'english': 'Rotom Pokédex', 'english_alternate': 'Rotom Dex'}
+missingno | {'english': 'MissingNo.', 'english_alternate': '???'}
+raichu-halloween | {'english': 'Vampire Raichu', 'english_alternate': 'Halloween Raichu'}
+sandshrew-halloween | {'english': 'Sandshrew of the Sarcophagus', 'english_alternate': 'Halloween Sandshrew'}
+jigglypuff-halloween | {'english': 'Devil Jigglypuff', 'english_alternate': 'Halloween Jigglypuff'}
+psyduck-halloween | {'english': 'Frankenstein Psyduck', 'english_alternate': 'Halloween Psyduck'}
+togepi-halloween | {'english': 'Pumpkin Togepi', 'english_alternate': 'Halloween Togepi'}
+wooper-halloween | {'english': 'Devil Wooper', 'english_alternate': 'Halloween Wooper'}
+chandelure-halloween | {'english': 'Jack-O-Lantern Chandelure', 'english_alternate': 'Halloween Chandelure'}
+xerneas-shadow | {'english': 'Shadow Xerneas', 'english_alternate': 'Halloween Xerneas'}
+cutiefly-halloween | {'english': 'Candy Corn Cutiefly', 'english_alternate': 'Halloween Cutiefly'}
+blacephalon-halloween | {'english': 'Ghost King Blacephalon', 'english_alternate': 'Halloween Blacephalon'}
+pikachu-united | {'english': 'United Pikachu', 'english_alternate': 'Fundraiser Pikachu'}
+vulpix-festive | {'english': 'Rudolph Vulpix', 'english_alternate': 'Festive Vulpix'}
+diglett-festive | {'english': 'Angel Diglett', 'english_alternate': 'Festive Diglett'}
+marowak-festive | {'english': 'Candy Cane Marowak', 'english_alternate': 'Festive Marowak'}
+jynx-festive | {'english': 'Mrs. Claus Jynx', 'english_alternate': 'Festive Jynx'}
+mareep-festive | {'english': 'Christmas Mareep', 'english_alternate': 'Festive Mareep'}
+delibird-festive | {'english': 'Santa Delibird', 'english_alternate': 'Festive Delibird'}
+spoink-festive | {'english': 'Ornaments Spoink', 'english_alternate': 'Festive Spoink'}
+lilligant-festive | {'english': 'Poinsettia Lilligant', 'english_alternate': 'Festive Lilligant'}
+rowlet-festive | {'english': 'Christmas Rowlet', 'english_alternate': 'Festive Rowlet'}
+comfey-festive | {'english': 'Wreath Comfey', 'english_alternate': 'Festive Comfey'}
+pyukumuku-festive | {'english': 'Lights Pyukumuku', 'english_alternate': 'Festive Pyukumuku'}
+komala-festive | {'english': 'Presents Komala', 'english_alternate': 'Festive Komala'}
+eldegoss-festive | {'english': 'Ornament Eldegoss', 'english_alternate': 'Festive Eldegoss'}
+appletun-festive | {'english': 'Cake Appletun', 'english_alternate': 'Festive Appletun'}
+impidimp-festive | {'english': 'Elf Impidimp', 'english_alternate': 'Festive Impidimp'}
+bronzor-winter | {'english': 'Snowflake Bronzor', 'english_alternate': 'Winter Bronzor'}
+
+EXAMPLE REGIONAL FORMS:
+chikorita | region=johto | {'english': 'Chikorita', 'german': 'Endivie', 'french': 'Germignon'}
+bayleef | region=johto | {'english': 'Bayleef', 'german': 'Lorblatt', 'french': 'Macronium'}
+meganium | region=johto | {'english': 'Meganium', 'german': 'Meganie', 'french': 'Méganium'}
+cyndaquil | region=johto | {'english': 'Cyndaquil', 'german': 'Feurigel', 'french': 'Héricendre'}
+quilava | region=johto | {'english': 'Quilava', 'german': 'Igelavar', 'french': 'Feurisson'}
+typhlosion | region=johto | {'english': 'Typhlosion', 'german': 'Tornupto', 'french': 'Typhlosion'}
+totodile | region=johto | {'english': 'Totodile', 'german': 'Karnimani', 'french': 'Kaiminus'}
+croconaw | region=johto | {'english': 'Croconaw', 'german': 'Tyracroc', 'french': 'Crocrodil'}
+feraligatr | region=johto | {'english': 'Feraligatr', 'german': 'Impergator', 'french': 'Aligatueur'}
+sentret | region=johto | {'english': 'Sentret', 'german': 'Wiesor', 'french': 'Fouinette'}
+furret | region=johto | {'english': 'Furret', 'german': 'Wiesenior', 'french': 'Fouinar'}
+hoothoot | region=johto | {'english': 'Hoothoot', 'german': 'Hoothoot', 'french': 'Hoothoot'}
+noctowl | region=johto | {'english': 'Noctowl', 'german': 'Noctuh', 'french': 'Noarfang'}
+ledyba | region=johto | {'english': 'Ledyba', 'german': 'Ledyba', 'french': 'Coxy'}
+ledian | region=johto | {'english': 'Ledian', 'german': 'Ledian', 'french': 'Coxyclaque'}
+spinarak | region=johto | {'english': 'Spinarak', 'german': 'Webarak', 'french': 'Mimigal'}
+ariados | region=johto | {'english': 'Ariados', 'german': 'Ariados', 'french': 'Migalos'}
+crobat | region=johto | {'english': 'Crobat', 'german': 'Iksbat', 'french': 'Nostenfer'}
+chinchou | region=johto | {'english': 'Chinchou', 'german': 'Lampi', 'french': 'Loupio'}
+lanturn | region=johto | {'english': 'Lanturn', 'german': 'Lanturn', 'french': 'Lanturn'}
+pichu | region=johto | {'english': 'Pichu', 'german': 'Pichu', 'french': 'Pichu'}
+cleffa | region=johto | {'english': 'Cleffa', 'german': 'Pii', 'french': 'Mélo'}
+igglybuff | region=johto | {'english': 'Igglybuff', 'german': 'Fluffeluff', 'french': 'Toudoudou'}
+togepi | region=johto | {'english': 'Togepi', 'german': 'Togepi', 'french': 'Togepi'}
+togetic | region=johto | {'english': 'Togetic', 'german': 'Togetic', 'french': 'Togetic'}
+natu | region=johto | {'english': 'Natu', 'german': 'Natu', 'french': 'Natu'}
+xatu | region=johto | {'english': 'Xatu', 'german': 'Xatu', 'french': 'Xatu'}
+mareep | region=johto | {'english': 'Mareep', 'german': 'Voltilamm', 'french': 'Wattouat'}
+flaaffy | region=johto | {'english': 'Flaaffy', 'german': 'Waaty', 'french': 'Lainergie'}
+ampharos | region=johto | {'english': 'Ampharos', 'german': 'Ampharos', 'french': 'Pharamp'}
+bellossom | region=johto | {'english': 'Bellossom', 'german': 'Blubella', 'french': 'Joliflor'}
+marill | region=johto | {'english': 'Marill', 'german': 'Marill', 'french': 'Marill'}
+azumarill | region=johto | {'english': 'Azumarill', 'german': 'Azumarill', 'french': 'Azumarill'}
+sudowoodo | region=johto | {'english': 'Sudowoodo', 'german': 'Mogelbaum', 'french': 'Simularbre'}
+politoed | region=johto | {'english': 'Politoed', 'german': 'Quaxo', 'french': 'Tarpaud'}
+hoppip | region=johto | {'english': 'Hoppip', 'german': 'Hoppspross', 'french': 'Granivol'}
+skiploom | region=johto | {'english': 'Skiploom', 'german': 'Hubelupf', 'french': 'Floravol'}
+jumpluff | region=johto | {'english': 'Jumpluff', 'german': 'Papungha', 'french': 'Cotovol'}
+aipom | region=johto | {'english': 'Aipom', 'german': 'Griffel', 'french': 'Capumain'}
+sunkern | region=johto | {'english': 'Sunkern', 'german': 'Sonnkern', 'french': 'Tournegrin'}
+sunflora | region=johto | {'english': 'Sunflora', 'german': 'Sonnflora', 'french': 'Héliatronc'}
+yanma | region=johto | {'english': 'Yanma', 'german': 'Yanma', 'french': 'Yanma'}
+wooper | region=johto | {'english': 'Wooper', 'german': 'Felino', 'french': 'Axoloto'}
+quagsire | region=johto | {'english': 'Quagsire', 'german': 'Morlord', 'french': 'Maraiste'}
+espeon | region=johto | {'english': 'Espeon', 'german': 'Psiana', 'french': 'Mentali'}
+umbreon | region=johto | {'english': 'Umbreon', 'german': 'Nachtara', 'french': 'Noctali'}
+murkrow | region=johto | {'english': 'Murkrow', 'german': 'Kramurx', 'french': 'Cornèbre'}
+slowking | region=johto | {'english': 'Slowking', 'german': 'Laschoking', 'french': 'Roigada'}
+misdreavus | region=johto | {'english': 'Misdreavus', 'german': 'Traunfugil', 'french': 'Feuforêve'}
+unown | region=johto | {'english': 'Unown', 'english_alternate': 'Unown F', 'german': 'Icognito', 'french': 'Zarbi'}

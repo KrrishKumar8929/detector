@@ -1,0 +1,1033 @@
+﻿dex_number,main_pokemon_name,main_slug,original_pokemon_label,alt_catch_name,language_tag_original,language_group,source,input_line_number,current_rules_status
+0,MissingNo.,missingno,MissingNo.,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+1,Bulbasaur,bulbasaur,Bulbasaur,Bisasam,de,German,User-provided pokemon alt names.txt,30,User-provided name kept
+2,Ivysaur,ivysaur,Ivysaur,ivysaur,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ivysaur),,Filled from current naming rules
+3,Venusaur,venusaur,Venusaur,bisaflor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=venusaur),,Filled from current naming rules
+4,Charmander,charmander,Charmander,Hitokage,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,31,User-provided name kept
+5,Charmeleon,charmeleon,Charmeleon,glutexo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=charmeleon),,Filled from current naming rules
+6,Charizard,charizard,Charizard,Glurak,de,German,User-provided pokemon alt names.txt,182,User-provided name kept
+7,Squirtle,squirtle,Squirtle,Schiggy,de,German,User-provided pokemon alt names.txt,46,User-provided name kept
+8,Wartortle,wartortle,Wartortle,Kamēru,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,256,User-provided name kept
+9,Blastoise,blastoise,Blastoise,Kamex,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,177,User-provided name kept
+10,Caterpie,caterpie,caterpie,raupy,german,German,User-provided pokemon alt names.txt,3,User-provided name kept
+11,Metapod,metapod,Metapod,safcon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=metapod),,Filled from current naming rules
+12,Butterfree,butterfree,Butterfree,smettbo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=butterfree),,Filled from current naming rules
+13,Weedle,weedle,Weedle,weedle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=weedle),,Filled from current naming rules
+14,Kakuna,kakuna,Kakuna,kakuna,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kakuna),,Filled from current naming rules
+15,Beedrill,beedrill,Beedrill,Supiā,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,175,User-provided name kept
+16,Pidgey,pidgey,pidgey,poppo,japanese,Japanese / unspecified romanization,User-provided pokemon alt names.txt,18,User-provided name kept
+17,Pidgeotto,pidgeotto,Pidgeotto,Pigeon,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,115,User-provided name kept
+18,Pidgeot,pidgeot,Pidgeot,pidgeot,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pidgeot),,Filled from current naming rules
+19,Rattata,rattata,Rattata,Koratta,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,42,User-provided name kept
+20,Raticate,raticate,Raticate,Ratta,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,235,User-provided name kept
+21,Spearow,spearow,Spearow,Habitak,de,German,User-provided pokemon alt names.txt,140,User-provided name kept
+22,Fearow,fearow,Fearow,fearow,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=fearow),,Filled from current naming rules
+23,Ekans,ekans,Ekans,Abo,"fr, ja-roma",Japanese Romanized (ja_r),User-provided pokemon alt names.txt,72,User-provided name kept
+24,Arbok,arbok,Arbok,arbok,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=arbok),,Filled from current naming rules
+25,Pikachu,pikachu,Pikachu,pikachu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pikachu),,Filled from current naming rules
+26,Raichu,raichu,Raichu,raichu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=raichu),,Filled from current naming rules
+27,Sandshrew,sandshrew,Sandshrew,Sand,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,124,User-provided name kept
+28,Sandslash,sandslash,Sandslash,sandamer,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sandslash),,Filled from current naming rules
+29,Nidoran♀️,nidoran,Nidoran♀️,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+30,Nidorina,nidorina,Nidorina,nidorina,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nidorina),,Filled from current naming rules
+31,Nidoqueen,nidoqueen,Nidoqueen,nidoqueen,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nidoqueen),,Filled from current naming rules
+32,Nidoran♂️,nidoran,Nidoran♂️,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+33,Nidorino,nidorino,Nidorino,nidorino,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nidorino),,Filled from current naming rules
+34,Nidoking,nidoking,Nidoking,nidoking,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nidoking),,Filled from current naming rules
+35,Clefairy,clefairy,Clefairy,Piepi,de,German,User-provided pokemon alt names.txt,57,User-provided name kept
+36,Clefable,clefable,Clefable,Pixi,de,German,User-provided pokemon alt names.txt,187,User-provided name kept
+37,Vulpix,vulpix,Vulpix,Rokon,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,157,User-provided name kept
+38,Ninetales,ninetales,Ninetales,Kyukon,ja,Japanese / unspecified romanization,User-provided pokemon alt names.txt,227,User-provided name kept
+39,Jigglypuff,jigglypuff,Jigglypuff,Purin,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,89,User-provided name kept
+40,Wigglytuff,wigglytuff,Wigglytuff,grodoudou,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wigglytuff),,Filled from current naming rules
+41,Zubat,zubat,Zubat,zubat,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zubat),,Filled from current naming rules
+42,Golbat,golbat,Golbat,golbat,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=golbat),,Filled from current naming rules
+43,Oddish,oddish,Oddish,oddish,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=oddish),,Filled from current naming rules
+44,Gloom,gloom,Gloom,gloom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gloom),,Filled from current naming rules
+45,Vileplume,vileplume,Vileplume,Giflor,de,German,User-provided pokemon alt names.txt,255,User-provided name kept
+46,Paras,paras,Paras,paras,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=paras),,Filled from current naming rules
+47,Parasect,parasect,Parasect,parasek,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=parasect),,Filled from current naming rules
+48,Venonat,venonat,Venonat,bluzuk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=venonat),,Filled from current naming rules
+49,Venomoth,venomoth,Venomoth,Omot,de,German,User-provided pokemon alt names.txt,253,User-provided name kept
+50,Diglett,diglett,Diglett,Digda,"ja-tm, de",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,66,User-provided name kept
+51,Dugtrio,dugtrio,Dugtrio,digdri,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dugtrio),,Filled from current naming rules
+52,Meowth,meowth,Meowth,Mauzi,de,German,User-provided pokemon alt names.txt,103,User-provided name kept
+53,Persian,persian,Persian,persian,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=persian),,Filled from current naming rules
+54,Psyduck,psyduck,Psyduck,Enton,de,German,User-provided pokemon alt names.txt,118,User-provided name kept
+55,Golduck,golduck,Golduck,Entoron,de,German,User-provided pokemon alt names.txt,205,User-provided name kept
+56,Mankey,mankey,Mankey,Mankī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,100,User-provided name kept
+57,Primeape,primeape,Primeape,Rasaff,de,German,User-provided pokemon alt names.txt,230,User-provided name kept
+58,Growlithe,growlithe,Growlithe,Gādi,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,83,User-provided name kept
+59,Arcanine,arcanine,Arcanine,Uindi,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,170,User-provided name kept
+60,Poliwag,poliwag,Poliwag,poliwag,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=poliwag),,Filled from current naming rules
+61,Poliwhirl,poliwhirl,Poliwhirl,Têtarte,fr,French,User-provided pokemon alt names.txt,117,User-provided name kept
+62,Poliwrath,poliwrath,Poliwrath,Quappo,de,German,User-provided pokemon alt names.txt,229,User-provided name kept
+63,Abra,abra,Abra,abra,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=abra),,Filled from current naming rules
+64,Kadabra,kadabra,Kadabra,kadabra,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kadabra),,Filled from current naming rules
+65,Alakazam,alakazam,Alakazam,Fūdin,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,164,User-provided name kept
+66,Machop,machop,Machop,machoc,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=machop),,Filled from current naming rules
+67,Machoke,machoke,Machoke,machoke,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=machoke),,Filled from current naming rules
+68,Machamp,machamp,Machamp,machamp,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=machamp),,Filled from current naming rules
+69,Bellsprout,bellsprout,Bellsprout,knofensa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bellsprout),,Filled from current naming rules
+70,Weepinbell,weepinbell,Weepinbell,Utsudon,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,158,User-provided name kept
+71,Victreebel,victreebel,Victreebel,empiflor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=victreebel),,Filled from current naming rules
+72,Tentacool,tentacool,Tentacool,Tentacha,de,German,User-provided pokemon alt names.txt,146,User-provided name kept
+73,Tentacruel,tentacruel,Tentacruel,tentoxa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tentacruel),,Filled from current naming rules
+74,Geodude,geodude,Geodude,geodude,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=geodude),,Filled from current naming rules
+75,Graveler,graveler,Graveler,Gorōn,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,82,User-provided name kept
+76,Golem,golem,Golem,golem,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=golem),,Filled from current naming rules
+77,Ponyta,ponyta,Ponyta,ponita,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ponyta),,Filled from current naming rules
+78,Rapidash,rapidash,Rapidash,Galopa,fr,French,User-provided pokemon alt names.txt,234,User-provided name kept
+79,Slowpoke,slowpoke,Slowpoke,Yadon,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,137,User-provided name kept
+80,Slowbro,slowbro,Slowbro,lahmus,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=slowbro),,Filled from current naming rules
+81,Magnemite,magnemite,magnemite,coil,japanese trademarked,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,16,User-provided name kept
+82,Magneton,magneton,Magneton,magneton,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=magneton),,Filled from current naming rules
+83,Farfetch'd,farfetchd,Farfetch'd,Porenta,de,German,User-provided pokemon alt names.txt,199,User-provided name kept
+84,Doduo,doduo,Doduo,Dodo,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,67,User-provided name kept
+85,Dodrio,dodrio,Dodrio,dodri,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dodrio),,Filled from current naming rules
+86,Seel,seel,Seel,seel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=seel),,Filled from current naming rules
+87,Dewgong,dewgong,Dewgong,Jugon,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,195,User-provided name kept
+88,Grimer,grimer,Grimer,grimer,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=grimer),,Filled from current naming rules
+89,Muk,muk,Muk,muk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=muk),,Filled from current naming rules
+90,Shellder,shellder,Shellder,kokiyas,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shellder),,Filled from current naming rules
+91,Cloyster,cloyster,Cloyster,austos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cloyster),,Filled from current naming rules
+92,Gastly,gastly,gastly,ghos,japanese trademarked,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,10,User-provided name kept
+93,Haunter,haunter,Haunter,Ghost,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,84,User-provided name kept
+94,Gengar,gengar,Gengar,gengar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gengar),,Filled from current naming rules
+95,Onix,onix,Onix,onix,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=onix),,Filled from current naming rules
+96,Drowzee,drowzee,Drowzee,Sleepe,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,69,User-provided name kept
+97,Hypno,hypno,Hypno,hypno,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hypno),,Filled from current naming rules
+98,Krabby,krabby,Krabby,Crab,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,94,User-provided name kept
+99,Kingler,kingler,Kingler,kingler,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kingler),,Filled from current naming rules
+100,Voltorb,voltorb,Voltorb,voltorb,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=voltorb),,Filled from current naming rules
+101,Electrode,electrode,Electrode,electrode,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=electrode),,Filled from current naming rules
+102,Exeggcute,exeggcute,Exeggcute,Owei,de,German,User-provided pokemon alt names.txt,76,User-provided name kept
+103,Exeggutor,exeggutor,Exeggutor,kokowei,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=exeggutor),,Filled from current naming rules
+104,Cubone,cubone,Cubone,cubone,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cubone),,Filled from current naming rules
+105,Marowak,marowak,Marowak,knogga,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=marowak),,Filled from current naming rules
+106,Hitmonlee,hitmonlee,Hitmonlee,Kicklee,"fr, de","fr, de",User-provided pokemon alt names.txt,209,User-provided name kept
+107,Hitmonchan,hitmonchan,Hitmonchan,tygnon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hitmonchan),,Filled from current naming rules
+108,Lickitung,lickitung,Lickitung,Schlurp,de,German,User-provided pokemon alt names.txt,96,User-provided name kept
+109,Koffing,koffing,Koffing,Smogo,fr,French,User-provided pokemon alt names.txt,93,User-provided name kept
+110,Weezing,weezing,Weezing,Smogogo,fr,French,User-provided pokemon alt names.txt,258,User-provided name kept
+111,Rhyhorn,rhyhorn,Rhyhorn,rihorn,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rhyhorn),,Filled from current naming rules
+112,Rhydon,rhydon,Rhydon,Sidon,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,121,User-provided name kept
+113,Chansey,chansey,Chansey,chansey,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chansey),,Filled from current naming rules
+114,Tangela,tangela,Tangela,tangela,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tangela),,Filled from current naming rules
+115,Kangaskhan,kangaskhan,Kangaskhan,Garura,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,215,User-provided name kept
+115,Kangaskhan,kangaskhan,Kangaskhan,Garūra,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,216,User-provided name kept
+116,Horsea,horsea,Horsea,horsea,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=horsea),,Filled from current naming rules
+117,Seadra,seadra,Seadra,seadra,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=seadra),,Filled from current naming rules
+118,Goldeen,goldeen,Goldeen,goldeen,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=goldeen),,Filled from current naming rules
+119,Seaking,seaking,Seaking,golking,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=seaking),,Filled from current naming rules
+120,Staryu,staryu,Staryu,Stari,fr,French,User-provided pokemon alt names.txt,143,User-provided name kept
+121,Starmie,starmie,Starmie,starmie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=starmie),,Filled from current naming rules
+122,Mr. Mime,mr-mime,Mr. Mime,m. mime,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mr-mime),,Filled from current naming rules
+123,Scyther,scyther,Scyther,Strike,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,127,User-provided name kept
+124,Jynx,jynx,Jynx,jynx,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=jynx),,Filled from current naming rules
+125,Electabuzz,electabuzz,Electabuzz,Erebū,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,73,User-provided name kept
+126,Magmar,magmar,Magmar,Būbā,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,99,User-provided name kept
+127,Pinsir,pinsir,Pinsir,pinsir,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pinsir),,Filled from current naming rules
+128,Tauros,tauros,Tauros,tauros,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tauros),,Filled from current naming rules
+129,Magikarp,magikarp,Magikarp,karpador,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=magikarp),,Filled from current naming rules
+130,Gyarados,gyarados,Gyarados,garados,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gyarados),,Filled from current naming rules
+131,Lapras,lapras,Lapras,lapras,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lapras),,Filled from current naming rules
+132,Ditto,ditto,Ditto,ditto,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ditto),,Filled from current naming rules
+133,Eevee,eevee,Eevee,Ībui,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,71,User-provided name kept
+134,Vaporeon,vaporeon,Vaporeon,aquali,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=vaporeon),,Filled from current naming rules
+135,Jolteon,jolteon,Jolteon,blitza,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=jolteon),,Filled from current naming rules
+136,Flareon,flareon,Flareon,pyroli,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=flareon),,Filled from current naming rules
+137,Porygon,porygon,Porygon,porygon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=porygon),,Filled from current naming rules
+138,Omanyte,omanyte,Omanyte,amonita,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=omanyte),,Filled from current naming rules
+139,Omastar,omastar,Omastar,amoroso,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=omastar),,Filled from current naming rules
+140,Kabuto,kabuto,Kabuto,kabuto,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kabuto),,Filled from current naming rules
+141,Kabutops,kabutops,Kabutops,kabutops,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kabutops),,Filled from current naming rules
+142,Aerodactyl,aerodactyl,Aerodactyl,Ptera,"fr, ja-tm",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,163,User-provided name kept
+143,Snorlax,snorlax,Snorlax,relaxo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=snorlax),,Filled from current naming rules
+144,Articuno,articuno,Articuno,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+145,Zapdos,zapdos,Zapdos,zapdos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zapdos),,Filled from current naming rules
+146,Moltres,moltres,Moltres,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+147,Dratini,dratini,Dratini,dratini,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dratini),,Filled from current naming rules
+148,Dragonair,dragonair,Dragonair,Draco,fr,French,User-provided pokemon alt names.txt,197,User-provided name kept
+149,Dragonite,dragonite,Dragonite,dragoran,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dragonite),,Filled from current naming rules
+150,Mewtwo,mewtwo,Mewtwo,mewtu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mewtwo),,Filled from current naming rules
+151,Mew,mew,Mew,mew,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mew),,Filled from current naming rules
+152,Chikorita,chikorita,Chikorita,Endivie,de,German,User-provided pokemon alt names.txt,32,User-provided name kept
+153,Bayleef,bayleef,Bayleef,bayleef,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bayleef),,Filled from current naming rules
+154,Meganium,meganium,Meganium,meganium,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=meganium),,Filled from current naming rules
+155,Cyndaquil,cyndaquil,Cyndaquil,feurigel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cyndaquil),,Filled from current naming rules
+156,Quilava,quilava,Quilava,quilava,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=quilava),,Filled from current naming rules
+157,Typhlosion,typhlosion,Typhlosion,tornupto,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=typhlosion),,Filled from current naming rules
+158,Totodile,totodile,Totodile,kaiminus,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=totodile),,Filled from current naming rules
+159,Croconaw,croconaw,Croconaw,croconaw,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=croconaw),,Filled from current naming rules
+160,Feraligatr,feraligatr,Feraligatr,Ordile,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,200,User-provided name kept
+161,Sentret,sentret,Sentret,Wiesor,de,German,User-provided pokemon alt names.txt,128,User-provided name kept
+162,Furret,furret,Furret,furret,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=furret),,Filled from current naming rules
+163,Hoothoot,hoothoot,Hoothoot,Hoho,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,86,User-provided name kept
+163,Hoothoot,hoothoot,Hoothoot,Hōhō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,87,User-provided name kept
+164,Noctowl,noctowl,Noctowl,noctuh,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=noctowl),,Filled from current naming rules
+165,Ledyba,ledyba,Ledyba,coxy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ledyba),,Filled from current naming rules
+166,Ledian,ledian,Ledian,ledian,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ledian),,Filled from current naming rules
+167,Spinarak,spinarak,Spinarak,mimigal,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=spinarak),,Filled from current naming rules
+168,Ariados,ariados,Ariados,Migalos,fr,French,User-provided pokemon alt names.txt,171,User-provided name kept
+169,Crobat,crobat,Crobat,crobat,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=crobat),,Filled from current naming rules
+170,Chinchou,chinchou,Chinchou,Lampi,de,German,User-provided pokemon alt names.txt,54,User-provided name kept
+171,Lanturn,lanturn,Lanturn,Rantān,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,218,User-provided name kept
+172,Pichu,pichu,Pichu,pichu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pichu),,Filled from current naming rules
+173,Cleffa,cleffa,Cleffa,pii,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cleffa),,Filled from current naming rules
+174,Igglybuff,igglybuff,Igglybuff,igglybuff,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=igglybuff),,Filled from current naming rules
+175,Togepi,togepi,Togepi,togepi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=togepi),,Filled from current naming rules
+176,Togetic,togetic,Togetic,togetic,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=togetic),,Filled from current naming rules
+177,Natu,natu,Natu,natu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=natu),,Filled from current naming rules
+178,Xatu,xatu,Xatu,xatu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=xatu),,Filled from current naming rules
+179,Mareep,mareep,Mareep,mareep,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mareep),,Filled from current naming rules
+180,Flaaffy,flaaffy,Flaaffy,waaty,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=flaaffy),,Filled from current naming rules
+181,Ampharos,ampharos,Ampharos,Denryu,ja,Japanese / unspecified romanization,User-provided pokemon alt names.txt,167,User-provided name kept
+182,Bellossom,bellossom,Bellossom,blubella,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bellossom),,Filled from current naming rules
+183,Marill,marill,Marill,marill,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=marill),,Filled from current naming rules
+184,Azumarill,azumarill,Azumarill,Marilli,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,173,User-provided name kept
+185,Sudowoodo,sudowoodo,Sudowoodo,Usokkī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,245,User-provided name kept
+186,Politoed,politoed,Politoed,quaxo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=politoed),,Filled from current naming rules
+187,Hoppip,hoppip,Hoppip,hoppip,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hoppip),,Filled from current naming rules
+188,Skiploom,skiploom,Skiploom,Popocco,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,133,User-provided name kept
+189,Jumpluff,jumpluff,Jumpluff,cotovol,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=jumpluff),,Filled from current naming rules
+190,Aipom,aipom,Aipom,aipom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=aipom),,Filled from current naming rules
+191,Sunkern,sunkern,Sunkern,sunkern,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sunkern),,Filled from current naming rules
+192,Sunflora,sunflora,Sunflora,sunflora,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sunflora),,Filled from current naming rules
+193,Yanma,yanma,Yanma,yanma,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=yanma),,Filled from current naming rules
+194,Wooper,wooper,Wooper,Upā,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,161,User-provided name kept
+195,Quagsire,quagsire,Quagsire,Nuō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,232,User-provided name kept
+196,Espeon,espeon,Espeon,espeon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=espeon),,Filled from current naming rules
+197,Umbreon,umbreon,Umbreon,noctali,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=umbreon),,Filled from current naming rules
+198,Murkrow,murkrow,Murkrow,kramurx,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=murkrow),,Filled from current naming rules
+199,Slowking,slowking,Slowking,roigada,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=slowking),,Filled from current naming rules
+200,Misdreavus,misdreavus,Misdreavus,Muma,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,105,User-provided name kept
+200,Misdreavus,misdreavus,Misdreavus,Mūma,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,106,User-provided name kept
+201,Unown,unown,Unown,unown,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=unown),,Filled from current naming rules
+202,Wobbuffet,wobbuffet,Wobbuffet,Sonans,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,260,User-provided name kept
+203,Girafarig,girafarig,Girafarig,girafarig,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=girafarig),,Filled from current naming rules
+204,Pineco,pineco,Pineco,pineco,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pineco),,Filled from current naming rules
+205,Forretress,forretress,Forretress,Foretos,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,202,User-provided name kept
+206,Dunsparce,dunsparce,Dunsparce,dummisel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dunsparce),,Filled from current naming rules
+207,Gligar,gligar,Gligar,gligar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gligar),,Filled from current naming rules
+208,Steelix,steelix,Steelix,stahlos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=steelix),,Filled from current naming rules
+209,Snubbull,snubbull,Snubbull,Burū,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,139,User-provided name kept
+210,Granbull,granbull,Granbull,granbull,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=granbull),,Filled from current naming rules
+211,Qwilfish,qwilfish,Qwilfish,Harīsen,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,233,User-provided name kept
+212,Scizor,scizor,Scizor,scizor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=scizor),,Filled from current naming rules
+213,Shuckle,shuckle,Shuckle,shuckle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shuckle),,Filled from current naming rules
+214,Heracross,heracross,Heracross,scarhino,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=heracross),,Filled from current naming rules
+215,Sneasel,sneasel,Sneasel,Nyūra,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,138,User-provided name kept
+216,Teddiursa,teddiursa,Teddiursa,teddiursa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=teddiursa),,Filled from current naming rules
+217,Ursaring,ursaring,Ursaring,Ringuma,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,154,User-provided name kept
+218,Slugma,slugma,Slugma,slugma,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=slugma),,Filled from current naming rules
+219,Magcargo,magcargo,Magcargo,magcargo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=magcargo),,Filled from current naming rules
+220,Swinub,swinub,Swinub,swinub,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swinub),,Filled from current naming rules
+221,Piloswine,piloswine,Piloswine,Keifel,de,German,User-provided pokemon alt names.txt,116,User-provided name kept
+222,Corsola,corsola,Corsola,corayon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=corsola),,Filled from current naming rules
+223,Remoraid,remoraid,Remoraid,Teppōō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,120,User-provided name kept
+224,Octillery,octillery,Octillery,Okutan,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,228,User-provided name kept
+225,Delibird,delibird,Delibird,botogel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=delibird),,Filled from current naming rules
+226,Mantine,mantine,Mantine,mantax,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mantine),,Filled from current naming rules
+227,Skarmory,skarmory,Skarmory,Airmd,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,239,User-provided name kept
+228,Houndour,houndour,Houndour,Delvil,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,88,User-provided name kept
+229,Houndoom,houndoom,Houndoom,Herugā,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,211,User-provided name kept
+230,Kingdra,kingdra,Kingdra,hyporoi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kingdra),,Filled from current naming rules
+231,Phanpy,phanpy,Phanpy,phanpy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=phanpy),,Filled from current naming rules
+232,Donphan,donphan,Donphan,donphan,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=donphan),,Filled from current naming rules
+233,Porygon2,porygon2,Porygon2,porygon2,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=porygon2),,Filled from current naming rules
+234,Stantler,stantler,Stantler,stantler,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=stantler),,Filled from current naming rules
+235,Smeargle,smeargle,Smeargle,Doble,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,241,User-provided name kept
+236,Tyrogue,tyrogue,Tyrogue,Balkie,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,153,User-provided name kept
+237,Hitmontop,hitmontop,Hitmontop,kapoera,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hitmontop),,Filled from current naming rules
+238,Smoochum,smoochum,Smoochum,Muchul,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,242,User-provided name kept
+239,Elekid,elekid,Elekid,elekid,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=elekid),,Filled from current naming rules
+240,Magby,magby,Magby,magby,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=magby),,Filled from current naming rules
+241,Miltank,miltank,Miltank,miltank,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=miltank),,Filled from current naming rules
+242,Blissey,blissey,Blissey,blissey,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=blissey),,Filled from current naming rules
+243,Raikou,raikou,Raikou,raikou,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=raikou),,Filled from current naming rules
+244,Entei,entei,Entei,entei,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=entei),,Filled from current naming rules
+245,Suicune,suicune,Suicune,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+246,Larvitar,larvitar,Larvitar,embrylex,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=larvitar),,Filled from current naming rules
+247,Pupitar,pupitar,Pupitar,pupitar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pupitar),,Filled from current naming rules
+248,Tyranitar,tyranitar,Tyranitar,despotar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tyranitar),,Filled from current naming rules
+249,Lugia,lugia,Lugia,lugia,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lugia),,Filled from current naming rules
+250,Ho-Oh,ho-oh,Ho-Oh,ho-oh,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ho-oh),,Filled from current naming rules
+251,Celebi,celebi,Celebi,celebi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=celebi),,Filled from current naming rules
+252,Treecko,treecko,Treecko,arcko,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=treecko),,Filled from current naming rules
+253,Grovyle,grovyle,Grovyle,massko,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=grovyle),,Filled from current naming rules
+254,Sceptile,sceptile,Sceptile,Jukain,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,237,User-provided name kept
+255,Torchic,torchic,Torchic,Achamo,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,48,User-provided name kept
+256,Combusken,combusken,Combusken,Galifeu,fr,French,User-provided pokemon alt names.txt,59,User-provided name kept
+257,Blaziken,blaziken,Blaziken,lohgock,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=blaziken),,Filled from current naming rules
+258,Mudkip,mudkip,Mudkip,Gobou,fr,French,User-provided pokemon alt names.txt,39,User-provided name kept
+259,Marshtomp,marshtomp,Marshtomp,Flobio,fr,French,User-provided pokemon alt names.txt,101,User-provided name kept
+260,Swampert,swampert,Swampert,Sumpex,de,German,User-provided pokemon alt names.txt,246,User-provided name kept
+261,Poochyena,poochyena,Poochyena,fiffyen,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=poochyena),,Filled from current naming rules
+262,Mightyena,mightyena,Mightyena,Graena,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,224,User-provided name kept
+263,Zigzagoon,zigzagoon,Zigzagoon,zigzachs,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zigzagoon),,Filled from current naming rules
+264,Linoone,linoone,Linoone,lineon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=linoone),,Filled from current naming rules
+265,Wurmple,wurmple,Wurmple,waumpel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wurmple),,Filled from current naming rules
+266,Silcoon,silcoon,Silcoon,armulys,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=silcoon),,Filled from current naming rules
+267,Beautifly,beautifly,Beautifly,beautifly,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=beautifly),,Filled from current naming rules
+268,Cascoon,cascoon,Cascoon,cascoon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cascoon),,Filled from current naming rules
+269,Dustox,dustox,Dustox,pudox,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dustox),,Filled from current naming rules
+270,Lotad,lotad,Lotad,lotad,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lotad),,Filled from current naming rules
+271,Lombre,lombre,Lombre,lombre,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lombre),,Filled from current naming rules
+272,Ludicolo,ludicolo,Ludicolo,ludicolo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ludicolo),,Filled from current naming rules
+273,Seedot,seedot,Seedot,seedot,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=seedot),,Filled from current naming rules
+274,Nuzleaf,nuzleaf,Nuzleaf,Blanas,de,German,User-provided pokemon alt names.txt,110,User-provided name kept
+275,Shiftry,shiftry,Shiftry,shiftry,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shiftry),,Filled from current naming rules
+276,Taillow,taillow,Taillow,Subame,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,145,User-provided name kept
+277,Swellow,swellow,Swellow,swellow,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swellow),,Filled from current naming rules
+278,Wingull,wingull,Wingull,goelise,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wingull),,Filled from current naming rules
+279,Pelipper,pelipper,Pelipper,bekipan,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pelipper),,Filled from current naming rules
+280,Ralts,ralts,Ralts,ralts,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ralts),,Filled from current naming rules
+281,Kirlia,kirlia,Kirlia,kirlia,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kirlia),,Filled from current naming rules
+282,Gardevoir,gardevoir,Gardevoir,gardevoir,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gardevoir),,Filled from current naming rules
+283,Surskit,surskit,Surskit,Arakdo,fr,French,User-provided pokemon alt names.txt,144,User-provided name kept
+284,Masquerain,masquerain,Masquerain,Amemoth,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,222,User-provided name kept
+285,Shroomish,shroomish,Shroomish,Knilz,de,German,User-provided pokemon alt names.txt,130,User-provided name kept
+286,Breloom,breloom,Breloom,Kapilz,de,German,User-provided pokemon alt names.txt,179,User-provided name kept
+287,Slakoth,slakoth,Slakoth,bummelz,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=slakoth),,Filled from current naming rules
+288,Vigoroth,vigoroth,Vigoroth,Muntier,de,German,User-provided pokemon alt names.txt,156,User-provided name kept
+289,Slaking,slaking,Slaking,slaking,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=slaking),,Filled from current naming rules
+290,Nincada,nincada,Nincada,nincada,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nincada),,Filled from current naming rules
+291,Ninjask,ninjask,Ninjask,ninjask,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ninjask),,Filled from current naming rules
+292,Shedinja,shedinja,Shedinja,munja,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shedinja),,Filled from current naming rules
+293,Whismur,whismur,Whismur,flurmel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=whismur),,Filled from current naming rules
+294,Loudred,loudred,Loudred,loudred,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=loudred),,Filled from current naming rules
+295,Exploud,exploud,Exploud,exploud,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=exploud),,Filled from current naming rules
+296,Makuhita,makuhita,Makuhita,makuhita,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=makuhita),,Filled from current naming rules
+297,Hariyama,hariyama,Hariyama,hariyama,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hariyama),,Filled from current naming rules
+298,Azurill,azurill,Azurill,azurill,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=azurill),,Filled from current naming rules
+299,Nosepass,nosepass,Nosepass,nasgnet,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nosepass),,Filled from current naming rules
+300,Skitty,skitty,Skitty,Eneko,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,134,User-provided name kept
+301,Delcatty,delcatty,Delcatty,enekoro,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=delcatty),,Filled from current naming rules
+302,Sableye,sableye,Sableye,sableye,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sableye),,Filled from current naming rules
+303,Mawile,mawile,Mawile,mawile,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mawile),,Filled from current naming rules
+304,Aron,aron,Aron,aron,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=aron),,Filled from current naming rules
+305,Lairon,lairon,Lairon,lairon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lairon),,Filled from current naming rules
+306,Aggron,aggron,Aggron,aggron,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=aggron),,Filled from current naming rules
+307,Meditite,meditite,Meditite,meditie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=meditite),,Filled from current naming rules
+308,Medicham,medicham,Medicham,Charem,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,223,User-provided name kept
+309,Electrike,electrike,Electrike,Rakurai,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,74,User-provided name kept
+310,Manectric,manectric,Manectric,Livolt,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,221,User-provided name kept
+311,Plusle,plusle,Plusle,plusle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=plusle),,Filled from current naming rules
+312,Minun,minun,Minun,minun,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=minun),,Filled from current naming rules
+313,Volbeat,volbeat,Volbeat,muciole,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=volbeat),,Filled from current naming rules
+314,Illumise,illumise,Illumise,illumise,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=illumise),,Filled from current naming rules
+315,Roselia,roselia,Roselia,roselia,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=roselia),,Filled from current naming rules
+316,Gulpin,gulpin,Gulpin,gulpin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gulpin),,Filled from current naming rules
+317,Swalot,swalot,Swalot,swalot,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swalot),,Filled from current naming rules
+318,Carvanha,carvanha,Carvanha,carvanha,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=carvanha),,Filled from current naming rules
+319,Sharpedo,sharpedo,Sharpedo,tohaido,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sharpedo),,Filled from current naming rules
+320,Wailmer,wailmer,Wailmer,wailmer,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wailmer),,Filled from current naming rules
+321,Wailord,wailord,Wailord,wailord,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wailord),,Filled from current naming rules
+322,Numel,numel,Numel,numel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=numel),,Filled from current naming rules
+323,Camerupt,camerupt,Camerupt,Bakūda,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,180,User-provided name kept
+324,Torkoal,torkoal,Torkoal,qurtel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=torkoal),,Filled from current naming rules
+325,Spoink,spoink,Spoink,spoink,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=spoink),,Filled from current naming rules
+326,Grumpig,grumpig,Grumpig,groink,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=grumpig),,Filled from current naming rules
+327,Spinda,spinda,Spinda,pandir,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=spinda),,Filled from current naming rules
+328,Trapinch,trapinch,Trapinch,kraknoix,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=trapinch),,Filled from current naming rules
+329,Vibrava,vibrava,Vibrava,vibrava,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=vibrava),,Filled from current naming rules
+330,Flygon,flygon,Flygon,flygon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=flygon),,Filled from current naming rules
+331,Cacnea,cacnea,Cacnea,tuska,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cacnea),,Filled from current naming rules
+332,Cacturne,cacturne,Cacturne,cacturne,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cacturne),,Filled from current naming rules
+333,Swablu,swablu,Swablu,wablu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swablu),,Filled from current naming rules
+334,Altaria,altaria,Altaria,altaria,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=altaria),,Filled from current naming rules
+335,Zangoose,zangoose,Zangoose,Sengo,de,German,User-provided pokemon alt names.txt,262,User-provided name kept
+336,Seviper,seviper,Seviper,seviper,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=seviper),,Filled from current naming rules
+337,Lunatone,lunatone,Lunatone,seleroc,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lunatone),,Filled from current naming rules
+338,Soluna,soluna,Soluna,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+339,Barboach,barboach,Barboach,barboach,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=barboach),,Filled from current naming rules
+340,Whiscash,whiscash,Whiscash,welsar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=whiscash),,Filled from current naming rules
+341,Corphish,corphish,Corphish,corphish,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=corphish),,Filled from current naming rules
+342,Crawdaunt,crawdaunt,Crawdaunt,colhomard,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=crawdaunt),,Filled from current naming rules
+343,Baltoy,baltoy,Baltoy,baltoy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=baltoy),,Filled from current naming rules
+344,Claydol,claydol,Claydol,claydol,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=claydol),,Filled from current naming rules
+345,Lileep,lileep,Lileep,Lilia,fr,French,User-provided pokemon alt names.txt,97,User-provided name kept
+346,Cradily,cradily,Cradily,wielie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cradily),,Filled from current naming rules
+347,Anorith,anorith,Anorith,anorith,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=anorith),,Filled from current naming rules
+348,Armaldo,armaldo,Armaldo,armaldo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=armaldo),,Filled from current naming rules
+349,Feebas,feebas,Feebas,barpau,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=feebas),,Filled from current naming rules
+350,Milotic,milotic,Milotic,milotic,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=milotic),,Filled from current naming rules
+351,Castform,castform,Castform,Formeo,de,German,User-provided pokemon alt names.txt,181,User-provided name kept
+352,Kecleon,kecleon,Kecleon,kecleon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kecleon),,Filled from current naming rules
+353,Shuppet,shuppet,Shuppet,shuppet,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shuppet),,Filled from current naming rules
+354,Banette,banette,Banette,banette,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=banette),,Filled from current naming rules
+355,Duskull,duskull,Duskull,duskull,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=duskull),,Filled from current naming rules
+356,Dusclops,dusclops,Dusclops,dusclops,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dusclops),,Filled from current naming rules
+357,Tropius,tropius,Tropius,tropius,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tropius),,Filled from current naming rules
+358,Chimecho,chimecho,Chimecho,Éoko,fr,French,User-provided pokemon alt names.txt,183,User-provided name kept
+359,Absol,absol,Absol,absol,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=absol),,Filled from current naming rules
+360,Wynaut,wynaut,Wynaut,Isso,de,German,User-provided pokemon alt names.txt,261,User-provided name kept
+361,Snorunt,snorunt,Snorunt,snorunt,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=snorunt),,Filled from current naming rules
+362,Glalie,glalie,Glalie,glalie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=glalie),,Filled from current naming rules
+363,Spheal,spheal,Spheal,obalie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=spheal),,Filled from current naming rules
+364,Sealeo,sealeo,Sealeo,sealeo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sealeo),,Filled from current naming rules
+365,Walrein,walrein,Walrein,walrein,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=walrein),,Filled from current naming rules
+366,Clamperl,clamperl,Clamperl,Perlu,de,German,User-provided pokemon alt names.txt,55,User-provided name kept
+367,Huntail,huntail,Huntail,huntail,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=huntail),,Filled from current naming rules
+368,Gorebyss,gorebyss,Gorebyss,gorebyss,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gorebyss),,Filled from current naming rules
+369,Relicanth,relicanth,Relicanth,relicanth,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=relicanth),,Filled from current naming rules
+370,Luvdisc,luvdisc,Luvdisc,lovdisc,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=luvdisc),,Filled from current naming rules
+371,Bagon,bagon,Bagon,bagon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bagon),,Filled from current naming rules
+372,Shelgon,shelgon,Shelgon,shelgon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shelgon),,Filled from current naming rules
+373,Salamence,salamence,Salamence,drattak,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=salamence),,Filled from current naming rules
+374,Beldum,beldum,Beldum,beldum,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=beldum),,Filled from current naming rules
+375,Metang,metang,Metang,metang,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=metang),,Filled from current naming rules
+376,Metagross,metagross,Metagross,metagross,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=metagross),,Filled from current naming rules
+377,Regirock,regirock,Regirock,regirock,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=regirock),,Filled from current naming rules
+378,Regice,regice,Regice,regice,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=regice),,Filled from current naming rules
+379,Registeel,registeel,Registeel,registeel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=registeel),,Filled from current naming rules
+380,Latias,latias,Latias,latias,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=latias),,Filled from current naming rules
+381,Latios,latios,Latios,latios,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=latios),,Filled from current naming rules
+382,Kyogre,kyogre,Kyogre,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+383,Groudon,groudon,Groudon,groudon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=groudon),,Filled from current naming rules
+384,Rayquaza,rayquaza,Rayquaza,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+385,Jirachi,jirachi,Jirachi,jirachi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=jirachi),,Filled from current naming rules
+386,Deoxys,deoxys,Deoxys,deoxys,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=deoxys-normal),,Filled from current naming rules
+387,Turtwig,turtwig,Turtwig,chelast,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=turtwig),,Filled from current naming rules
+388,Grotle,grotle,Grotle,grotle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=grotle),,Filled from current naming rules
+389,Torterra,torterra,Torterra,torterra,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=torterra),,Filled from current naming rules
+390,Chimchar,chimchar,Chimchar,Panflam,de,German,User-provided pokemon alt names.txt,33,User-provided name kept
+391,Monferno,monferno,Monferno,panpyro,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=monferno),,Filled from current naming rules
+392,Infernape,infernape,Infernape,panferno,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=infernape),,Filled from current naming rules
+393,Piplup,piplup,Piplup,piplup,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=piplup),,Filled from current naming rules
+394,Prinplup,prinplup,Prinplup,pliprin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=prinplup),,Filled from current naming rules
+395,Empoleon,empoleon,Empoleon,Emperte,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,198,User-provided name kept
+396,Starly,starly,Starly,starly,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=starly),,Filled from current naming rules
+397,Staravia,staravia,Staravia,staravia,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=staravia),,Filled from current naming rules
+398,Staraptor,staraptor,Staraptor,staraptor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=staraptor),,Filled from current naming rules
+399,Bidoof,bidoof,Bidoof,bidiza,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bidoof),,Filled from current naming rules
+400,Bibarel,bibarel,Bibarel,bibarel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bibarel),,Filled from current naming rules
+401,Kricketot,kricketot,Kricketot,Crikzik,fr,French,User-provided pokemon alt names.txt,95,User-provided name kept
+402,Kricketune,kricketune,Kricketune,melokrik,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kricketune),,Filled from current naming rules
+403,Shinx,shinx,Shinx,lixy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shinx),,Filled from current naming rules
+404,Luxio,luxio,Luxio,luxio,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=luxio),,Filled from current naming rules
+405,Luxray,luxray,Luxray,luxray,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=luxray),,Filled from current naming rules
+406,Budew,budew,Budew,budew,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=budew),,Filled from current naming rules
+407,Roserade,roserade,Roserade,roserade,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=roserade),,Filled from current naming rules
+408,Cranidos,cranidos,Cranidos,cranidos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cranidos),,Filled from current naming rules
+409,Rampardos,rampardos,Rampardos,charkos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rampardos),,Filled from current naming rules
+410,Shieldon,shieldon,Shieldon,shieldon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shieldon),,Filled from current naming rules
+411,Bastiodon,bastiodon,Bastiodon,bastiodon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bastiodon),,Filled from current naming rules
+412,Burmy,burmy,Burmy,burmy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=burmy-plant),,Filled from current naming rules
+413,Wormadam,wormadam,Wormadam,wormadam,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wormadam-plant),,Filled from current naming rules
+414,Mothim,mothim,Mothim,mothim,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mothim),,Filled from current naming rules
+415,Combee,combee,Combee,combee,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=combee),,Filled from current naming rules
+416,Vespiquen,vespiquen,Vespiquen,Bīkuin,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,254,User-provided name kept
+417,Pachirisu,pachirisu,Pachirisu,pachirisu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pachirisu),,Filled from current naming rules
+418,Buizel,buizel,Buizel,buizel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=buizel),,Filled from current naming rules
+419,Floatzel,floatzel,Floatzel,bojelin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=floatzel),,Filled from current naming rules
+420,Cherubi,cherubi,Cherubi,kikugi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cherubi),,Filled from current naming rules
+421,Cherrim,cherrim,Cherrim,kinoso,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cherrim),,Filled from current naming rules
+422,Shellos,shellos,Shellos,sancoki,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shellos),,Filled from current naming rules
+423,Gastrodon,gastrodon,Gastrodon,tritosor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gastrodon),,Filled from current naming rules
+424,Ambipom,ambipom,Ambipom,ambipom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ambipom),,Filled from current naming rules
+425,Drifloon,drifloon,Drifloon,baudrive,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=drifloon),,Filled from current naming rules
+426,Drifboy,drifboy,Drifboy,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+427,Buneary,buneary,Buneary,buneary,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=buneary),,Filled from current naming rules
+428,Lopunny,lopunny,Lopunny,lockpin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lopunny),,Filled from current naming rules
+429,Mismagius,mismagius,Mismagius,Mūmāji,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,225,User-provided name kept
+430,Honchkrow,honchkrow,Honchkrow,Corboss,fr,French,User-provided pokemon alt names.txt,210,User-provided name kept
+431,Glameow,glameow,Glameow,chaglam,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=glameow),,Filled from current naming rules
+432,Purugly,purugly,Purugly,purugly,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=purugly),,Filled from current naming rules
+433,Chingling,chingling,Chingling,Rīshan,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,184,User-provided name kept
+434,Stunky,stunky,Stunky,stunky,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=stunky),,Filled from current naming rules
+435,Skuntank,skuntank,Skuntank,skuntank,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=skuntank),,Filled from current naming rules
+436,Bronzor,bronzor,Bronzor,bronzel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bronzor),,Filled from current naming rules
+437,Bronzong,bronzong,Bronzong,bronzong,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bronzong),,Filled from current naming rules
+438,Bonsly,bonsly,Bonsly,mobai,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bonsly),,Filled from current naming rules
+439,Mime Jr.,mime-jr,Mime Jr.,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+440,Happiny,happiny,Happiny,happiny,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=happiny),,Filled from current naming rules
+441,Chatot,chatot,Chatot,chatot,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chatot),,Filled from current naming rules
+442,Spiritomb,spiritomb,Spiritomb,kryppuk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=spiritomb),,Filled from current naming rules
+443,Gible,gible,Gible,gible,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gible),,Filled from current naming rules
+444,Gabite,gabite,Gabite,gabite,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gabite),,Filled from current naming rules
+445,Garchomp,garchomp,Garchomp,garchomp,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=garchomp),,Filled from current naming rules
+446,Munchlax,munchlax,Munchlax,Gonbe,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,226,User-provided name kept
+447,Riolu,riolu,Riolu,riolu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=riolu),,Filled from current naming rules
+448,Lucario,lucario,Lucario,lucario,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lucario),,Filled from current naming rules
+449,Hippopotas,hippopotas,Hippopotas,hippopotas,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hippopotas),,Filled from current naming rules
+450,Hippowdon,hippowdon,Hippowdon,hippowdon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hippowdon),,Filled from current naming rules
+451,Skorupi,skorupi,Skorupi,rapion,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=skorupi),,Filled from current naming rules
+452,Drapion,drapion,Drapion,drapion,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=drapion),,Filled from current naming rules
+453,Croagunk,croagunk,Croagunk,croagunk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=croagunk),,Filled from current naming rules
+454,Toxicroak,toxicroak,Toxicroak,Coatox,fr,French,User-provided pokemon alt names.txt,249,User-provided name kept
+455,Carnivine,carnivine,Carnivine,vortente,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=carnivine),,Filled from current naming rules
+456,Finneon,finneon,Finneon,ecayon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=finneon),,Filled from current naming rules
+457,Lumineon,lumineon,Lumineon,lumineon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lumineon),,Filled from current naming rules
+458,Mantyke,mantyke,Mantyke,mantyke,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mantyke),,Filled from current naming rules
+459,Snover,snover,Snover,blizzi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=snover),,Filled from current naming rules
+460,Abomasnow,abomasnow,Abomasnow,abomasnow,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=abomasnow),,Filled from current naming rules
+461,Weavile,weavile,Weavile,dimoret,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=weavile),,Filled from current naming rules
+462,Magnezone,magnezone,Magnezone,magnezone,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=magnezone),,Filled from current naming rules
+463,Lickilicky,lickilicky,Lickilicky,coudlangue,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lickilicky),,Filled from current naming rules
+464,Rhyperior,rhyperior,Rhyperior,rhinastoc,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rhyperior),,Filled from current naming rules
+465,Tangrowth,tangrowth,Tangrowth,bouldeneu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tangrowth),,Filled from current naming rules
+466,Electivire,electivire,Electivire,elekable,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=electivire),,Filled from current naming rules
+467,Magmortar,magmortar,Magmortar,Būbān,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,219,User-provided name kept
+468,Togekiss,togekiss,Togekiss,togekiss,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=togekiss),,Filled from current naming rules
+469,Yanmega,yanmega,Yanmega,yanmega,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=yanmega),,Filled from current naming rules
+470,Leafeon,leafeon,Leafeon,leafeon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=leafeon),,Filled from current naming rules
+471,Glaceon,glaceon,Glaceon,givrali,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=glaceon),,Filled from current naming rules
+472,Gliscor,gliscor,Gliscor,gliscor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gliscor),,Filled from current naming rules
+473,Mamoswine,mamoswine,Mamoswine,Manmū,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,220,User-provided name kept
+474,Porygon-Z,porygon-z,Porygon-Z,porygon-z,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=porygon-z),,Filled from current naming rules
+475,Gallade,gallade,Gallade,gallade,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gallade),,Filled from current naming rules
+476,Probopass,probopass,Probopass,probopass,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=probopass),,Filled from current naming rules
+477,Dusknoir,dusknoir,Dusknoir,dusknoir,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dusknoir),,Filled from current naming rules
+478,Froslass,froslass,Froslass,froslass,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=froslass),,Filled from current naming rules
+479,Rotom,rotom,Rotom,rotom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rotom),,Filled from current naming rules
+480,Uxie,uxie,Uxie,uxie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=uxie),,Filled from current naming rules
+481,Mesprit,mesprit,Mesprit,mesprit,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mesprit),,Filled from current naming rules
+482,Azelf,azelf,Azelf,azelf,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=azelf),,Filled from current naming rules
+483,Dialga,dialga,Dialga,dialga,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dialga),,Filled from current naming rules
+484,Palkia,palkia,Palkia,palkia,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=palkia),,Filled from current naming rules
+485,Heatran,heatran,Heatran,heatran,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=heatran),,Filled from current naming rules
+486,Regigigas,regigigas,Regigigas,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+487,Giratina,giratina,Giratina,giratina,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=giratina-altered),,Filled from current naming rules
+488,Cresselia,cresselia,Cresselia,cresselia,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cresselia),,Filled from current naming rules
+489,Phione,phione,Phione,phione,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=phione),,Filled from current naming rules
+490,Manaphy,manaphy,Manaphy,manaphy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=manaphy),,Filled from current naming rules
+491,Darkrai,darkrai,Darkrai,darkrai,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=darkrai),,Filled from current naming rules
+492,Shaymin,shaymin,Shaymin,shaymin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shaymin-land),,Filled from current naming rules
+493,Arceus,arceus,Arceus,arceus,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=arceus),,Filled from current naming rules
+494,Victini,victini,Victini,victini,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=victini),,Filled from current naming rules
+495,Snivy,snivy,Snivy,snivy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=snivy),,Filled from current naming rules
+496,Servine,servine,Servine,Janobī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,129,User-provided name kept
+497,Serperior,serperior,Serperior,majaspic,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=serperior),,Filled from current naming rules
+498,Tepig,tepig,Tepig,tepig,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tepig),,Filled from current naming rules
+499,Pignite,pignite,Pignite,pignite,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pignite),,Filled from current naming rules
+500,Emboar,emboar,Emboar,emboar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=emboar),,Filled from current naming rules
+501,Oshawott,oshawott,Oshawott,Ottaro,de,German,User-provided pokemon alt names.txt,40,User-provided name kept
+502,Dewott,dewott,Dewott,dewott,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dewott),,Filled from current naming rules
+503,Samurott,samurott,Samurott,admurai,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=samurott),,Filled from current naming rules
+504,Patrat,patrat,Patrat,patrat,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=patrat),,Filled from current naming rules
+505,Watchog,watchog,Watchog,Miradar,fr,French,User-provided pokemon alt names.txt,257,User-provided name kept
+506,Lillipup,lillipup,lillipup,yoteri,japanese romaji,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,15,User-provided name kept
+507,Herdier,herdier,Herdier,herdier,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=herdier),,Filled from current naming rules
+508,Stoutland,stoutland,Stoutland,Mooland,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,244,User-provided name kept
+509,Purrloin,purrloin,Purrloin,felilou,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=purrloin),,Filled from current naming rules
+510,Liepard,liepard,Liepard,liepard,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=liepard),,Filled from current naming rules
+511,Pansage,pansage,Pansage,pansage,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pansage),,Filled from current naming rules
+512,Simisage,simisage,Simisage,simisage,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=simisage),,Filled from current naming rules
+513,Pansear,pansear,Pansear,pansear,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pansear),,Filled from current naming rules
+514,Simisear,simisear,Simisear,simisear,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=simisear),,Filled from current naming rules
+515,Panpour,panpour,Panpour,panpour,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=panpour),,Filled from current naming rules
+516,Simipour,simipour,Simipour,simipour,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=simipour),,Filled from current naming rules
+517,Munna,munna,Munna,munna,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=munna),,Filled from current naming rules
+518,Musharna,musharna,Musharna,mushana,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=musharna),,Filled from current naming rules
+519,Pidove,pidove,Pidove,pidove,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pidove),,Filled from current naming rules
+520,Tranquill,tranquill,Tranquill,Hatōbō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,152,User-provided name kept
+521,Unfezant,unfezant,Unfezant,fasasnob,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=unfezant),,Filled from current naming rules
+522,Blitzle,blitzle,Blitzle,blitzle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=blitzle),,Filled from current naming rules
+523,Zebstrika,zebstrika,Zebstrika,zebritz,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zebstrika),,Filled from current naming rules
+524,Roggenrola,roggenrola,roggenrola,dangoro,japanese,Japanese / unspecified romanization,User-provided pokemon alt names.txt,19,User-provided name kept
+525,Boldore,boldore,Boldore,boldore,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=boldore),,Filled from current naming rules
+526,Gigalith,gigalith,Gigalith,gigalith,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gigalith),,Filled from current naming rules
+527,Woobat,woobat,Woobat,woobat,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=woobat),,Filled from current naming rules
+528,Swoobat,swoobat,Swoobat,swoobat,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swoobat),,Filled from current naming rules
+529,Drilbur,drilbur,Drilbur,drilbur,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=drilbur),,Filled from current naming rules
+530,Excadrill,excadrill,Excadrill,stalobor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=excadrill),,Filled from current naming rules
+531,Audino,audino,Audino,audino,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=audino),,Filled from current naming rules
+532,Timburr,timburr,Timburr,timburr,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=timburr),,Filled from current naming rules
+533,Gurdurr,gurdurr,Gurdurr,gurdurr,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gurdurr),,Filled from current naming rules
+534,Conkeldurr,conkeldurr,Conkeldurr,betochef,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=conkeldurr),,Filled from current naming rules
+535,Tympole,tympole,Tympole,tympole,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tympole),,Filled from current naming rules
+536,Palpitoad,palpitoad,Palpitoad,Mebrana,de,German,User-provided pokemon alt names.txt,112,User-provided name kept
+537,Seismitoad,seismitoad,Seismitoad,branawarz,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=seismitoad),,Filled from current naming rules
+538,Throh,throh,Throh,throh,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=throh),,Filled from current naming rules
+539,Sawk,sawk,Sawk,sawk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sawk),,Filled from current naming rules
+540,Sewaddle,sewaddle,Sewaddle,sewaddle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sewaddle),,Filled from current naming rules
+541,Swadloon,swadloon,Swadloon,folikon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swadloon),,Filled from current naming rules
+542,Leavanny,leavanny,Leavanny,leavanny,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=leavanny),,Filled from current naming rules
+543,Venipede,venipede,Venipede,toxiped,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=venipede),,Filled from current naming rules
+544,Whirlipede,whirlipede,Whirlipede,Hoīga,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,159,User-provided name kept
+545,Scolipede,scolipede,Scolipede,brutapode,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=scolipede),,Filled from current naming rules
+546,Cottonee,cottonee,Cottonee,Monmen,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,60,User-provided name kept
+547,Whimsicott,whimsicott,Whimsicott,Elfun,de,German,User-provided pokemon alt names.txt,259,User-provided name kept
+548,Petilil,petilil,Petilil,petilil,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=petilil),,Filled from current naming rules
+549,Lilligant,lilligant,Lilligant,dressella,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lilligant),,Filled from current naming rules
+550,Basculin,basculin,Basculin,basculin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=basculin-red-striped),,Filled from current naming rules
+551,Sandile,sandile,Sandile,ganovil,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sandile),,Filled from current naming rules
+552,Krokorok,krokorok,Krokorok,escroco,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=krokorok),,Filled from current naming rules
+553,Krookodile,krookodile,Krookodile,rabigator,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=krookodile),,Filled from current naming rules
+554,Darumaka,darumaka,Darumaka,darumaka,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=darumaka),,Filled from current naming rules
+555,Darmanitan,darmanitan,Darmanitan,darumacho,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=darmanitan-standard),,Filled from current naming rules
+556,Maractus,maractus,Maractus,maractus,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=maractus),,Filled from current naming rules
+557,Dwebble,dwebble,Dwebble,dwebble,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dwebble),,Filled from current naming rules
+558,Crustle,crustle,Crustle,crustle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=crustle),,Filled from current naming rules
+559,Scraggy,scraggy,Scraggy,scraggy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=scraggy),,Filled from current naming rules
+560,Scrafty,scrafty,Scrafty,irokex,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=scrafty),,Filled from current naming rules
+561,Sigilyph,sigilyph,Sigilyph,cryptero,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sigilyph),,Filled from current naming rules
+562,Yamask,yamask,Yamask,yamask,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=yamask),,Filled from current naming rules
+563,Cofagrigus,cofagrigus,Cofagrigus,Desukān,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,188,User-provided name kept
+564,Tirtouga,tirtouga,Tirtouga,Protoga,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,149,User-provided name kept
+565,Carracosta,carracosta,Carracosta,karippas,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=carracosta),,Filled from current naming rules
+566,Archen,archen,Archen,archen,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=archen),,Filled from current naming rules
+567,Archeops,archeops,Archeops,archeops,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=archeops),,Filled from current naming rules
+568,Trubbish,trubbish,Trubbish,trubbish,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=trubbish),,Filled from current naming rules
+569,Garbodor,garbodor,Garbodor,miasmax,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=garbodor),,Filled from current naming rules
+570,Zorua,zorua,Zorua,zorua,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zorua),,Filled from current naming rules
+571,Zoroark,zoroark,Zoroark,zoroark,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zoroark),,Filled from current naming rules
+572,Minccino,minccino,Minccino,Chirāmī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,104,User-provided name kept
+573,Cinccino,cinccino,Cinccino,cinccino,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cinccino),,Filled from current naming rules
+574,Gothita,gothita,Gothita,gothita,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gothita),,Filled from current naming rules
+575,Gothorita,gothorita,Gothorita,gothorita,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gothorita),,Filled from current naming rules
+576,Gothitelle,gothitelle,Gothitelle,siderella,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gothitelle),,Filled from current naming rules
+577,Solosis,solosis,Solosis,nucleos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=solosis),,Filled from current naming rules
+578,Duosion,duosion,Duosion,Méios,fr,French,User-provided pokemon alt names.txt,70,User-provided name kept
+579,Reuniclus,reuniclus,Reuniclus,symbios,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=reuniclus),,Filled from current naming rules
+580,Ducklett,ducklett,Ducklett,ducklett,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ducklett),,Filled from current naming rules
+581,Swanna,swanna,Swanna,swanna,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swanna),,Filled from current naming rules
+582,Vanillite,vanillite,Vanillite,sorbebe,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=vanillite),,Filled from current naming rules
+583,Vanillish,vanillish,Vanillish,Sorboul,fr,French,User-provided pokemon alt names.txt,155,User-provided name kept
+584,Vanilluxe,vanilluxe,Vanilluxe,gelatwino,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=vanilluxe),,Filled from current naming rules
+585,Deerling,deerling,Deerling,deerling,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=deerling),,Filled from current naming rules
+586,Sawsbuck,sawsbuck,Sawsbuck,haydaim,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sawsbuck),,Filled from current naming rules
+587,Emolga,emolga,Emolga,emolga,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=emolga),,Filled from current naming rules
+588,Karrablast,karrablast,Karrablast,Laukaps,de,German,User-provided pokemon alt names.txt,90,User-provided name kept
+589,Escavalier,escavalier,Escavalier,lancargot,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=escavalier),,Filled from current naming rules
+590,Foongus,foongus,Foongus,foongus,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=foongus),,Filled from current naming rules
+591,Amoonguss,amoonguss,Amoonguss,Gaulet,fr,French,User-provided pokemon alt names.txt,165,User-provided name kept
+592,Frillish,frillish,Frillish,Quabbel,de,German,User-provided pokemon alt names.txt,79,User-provided name kept
+593,Jellicent,jellicent,Jellicent,Moyade,fr,French,User-provided pokemon alt names.txt,214,User-provided name kept
+594,Alomomola,alomomola,Alomomola,mamanbo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=alomomola),,Filled from current naming rules
+595,Joltik,joltik,Joltik,joltik,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=joltik),,Filled from current naming rules
+596,Galvantula,galvantula,Galvantula,Dentula,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,203,User-provided name kept
+597,Ferroseed,ferroseed,Ferroseed,Grindur,fr,French,User-provided pokemon alt names.txt,77,User-provided name kept
+598,Ferrothorn,ferrothorn,Ferrothorn,Nutrey,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,201,User-provided name kept
+599,Klink,klink,klink,tic,french,French,User-provided pokemon alt names.txt,14,User-provided name kept
+600,Klang,klang,Klang,Clic,fr,French,User-provided pokemon alt names.txt,92,User-provided name kept
+601,Klinklang,klinklang,Klinklang,cliticlic,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=klinklang),,Filled from current naming rules
+602,Tynamo,tynamo,Tynamo,tynamo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tynamo),,Filled from current naming rules
+603,Eelektrik,eelektrik,Eelektrik,eelektrik,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=eelektrik),,Filled from current naming rules
+604,Eelektross,eelektross,Eelektross,eelektross,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=eelektross),,Filled from current naming rules
+605,Elgyem,elgyem,Elgyem,elgyem,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=elgyem),,Filled from current naming rules
+606,Beheeyem,beheeyem,Beheeyem,Ohbem,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,176,User-provided name kept
+607,Litwick,litwick,Litwick,lichtel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=litwick),,Filled from current naming rules
+608,Lampent,lampent,Lampent,lampent,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lampent),,Filled from current naming rules
+609,Chandelure,chandelure,Chandelure,skelabra,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chandelure),,Filled from current naming rules
+610,Axew,axew,Axew,axew,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=axew),,Filled from current naming rules
+611,Fraxure,fraxure,Fraxure,Onondo,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,78,User-provided name kept
+612,Haxorus,haxorus,Haxorus,Maxax,de,German,User-provided pokemon alt names.txt,208,User-provided name kept
+613,Cubchoo,cubchoo,Cubchoo,cubchoo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cubchoo),,Filled from current naming rules
+614,Beartic,beartic,Beartic,beartic,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=beartic),,Filled from current naming rules
+615,Cryogonal,cryogonal,Cryogonal,Hexagel,fr,French,User-provided pokemon alt names.txt,192,User-provided name kept
+616,Shelmet,shelmet,Shelmet,shelmet,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shelmet),,Filled from current naming rules
+617,Accelgor,accelgor,Accelgor,accelgor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=accelgor),,Filled from current naming rules
+618,Stunfisk,stunfisk,Stunfisk,limonde,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=stunfisk),,Filled from current naming rules
+619,Mienfoo,mienfoo,Mienfoo,lin-fu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mienfoo),,Filled from current naming rules
+620,Mienshao,mienshao,Mienshao,wie-shu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mienshao),,Filled from current naming rules
+621,Druddigon,druddigon,Druddigon,druddigon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=druddigon),,Filled from current naming rules
+622,Golett,golett,Golett,golbit,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=golett),,Filled from current naming rules
+623,Golurk,golurk,Golurk,golurk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=golurk),,Filled from current naming rules
+624,Pawniard,pawniard,Pawniard,pawniard,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pawniard),,Filled from current naming rules
+625,Bisharp,bisharp,Bisharp,bisharp,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bisharp),,Filled from current naming rules
+626,Bouffalant,bouffalant,Bouffalant,Frison,fr,French,User-provided pokemon alt names.txt,178,User-provided name kept
+627,Rufflet,rufflet,Rufflet,rufflet,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rufflet),,Filled from current naming rules
+628,Braviary,braviary,Braviary,braviary,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=braviary),,Filled from current naming rules
+629,Vullaby,vullaby,Vullaby,skallyk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=vullaby),,Filled from current naming rules
+630,Mandibuzz,mandibuzz,Mandibuzz,mandibuzz,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mandibuzz),,Filled from current naming rules
+631,Heatmor,heatmor,Heatmor,heatmor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=heatmor),,Filled from current naming rules
+632,Durant,durant,Durant,durant,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=durant),,Filled from current naming rules
+633,Deino,deino,Deino,deino,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=deino),,Filled from current naming rules
+634,Zweilous,zweilous,Zweilous,Dihead,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,263,User-provided name kept
+635,Hydreigon,hydreigon,Hydreigon,hydreigon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hydreigon),,Filled from current naming rules
+636,Larvesta,larvesta,Larvesta,ignivor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=larvesta),,Filled from current naming rules
+637,Volcarona,volcarona,Volcarona,pyrax,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=volcarona),,Filled from current naming rules
+638,Cobalion,cobalion,Cobalion,cobalion,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cobalion),,Filled from current naming rules
+639,Terrakion,terrakion,Terrakion,terrakion,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=terrakion),,Filled from current naming rules
+640,Virizion,virizion,Virizion,viridium,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=virizion),,Filled from current naming rules
+641,Tornadus,tornadus,Tornadus,boreos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tornadus-incarnate),,Filled from current naming rules
+642,Thundurus,thundurus,Thundurus,fulguris,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=thundurus-incarnate),,Filled from current naming rules
+643,Reshiram,reshiram,Reshiram,reshiram,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=reshiram),,Filled from current naming rules
+644,Zekrom,zekrom,Zekrom,zekrom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zekrom),,Filled from current naming rules
+645,Landorus,landorus,Landorus,landorus,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=landorus-incarnate),,Filled from current naming rules
+646,Kyurem,kyurem,Kyurem,kyurem,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kyurem),,Filled from current naming rules
+647,Keldeo,keldeo,Keldeo,keldeo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=keldeo-ordinary),,Filled from current naming rules
+648,Meloetta,meloetta,Meloetta,meloetta,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=meloetta-aria),,Filled from current naming rules
+649,Genesect,genesect,Genesect,genesect,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=genesect),,Filled from current naming rules
+650,Chespin,chespin,Chespin,chespin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chespin),,Filled from current naming rules
+651,Quilladin,quilladin,Quilladin,quilladin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=quilladin),,Filled from current naming rules
+652,Chesnaught,chesnaught,Chesnaught,brigaron,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chesnaught),,Filled from current naming rules
+653,Fennekin,fennekin,Fennekin,Fynx,de,German,User-provided pokemon alt names.txt,35,User-provided name kept
+654,Braixen,braixen,Braixen,rutena,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=braixen),,Filled from current naming rules
+655,Delphox,delphox,Delphox,Mahoxy,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,194,User-provided name kept
+656,Froakie,froakie,Froakie,Froxy,de,German,User-provided pokemon alt names.txt,36,User-provided name kept
+657,Frogadier,frogadier,Frogadier,amphizel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=frogadier),,Filled from current naming rules
+658,Greninja,greninja,Greninja,greninja,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=greninja),,Filled from current naming rules
+659,Bunnelby,bunnelby,Bunnelby,Horubī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,52,User-provided name kept
+660,Diggersby,diggersby,Diggersby,Horudo,ja,Japanese / unspecified romanization,User-provided pokemon alt names.txt,196,User-provided name kept
+661,Fletchling,fletchling,fletchling,dartiri,german,German,User-provided pokemon alt names.txt,8,User-provided name kept
+662,Fletchinder,fletchinder,Fletchinder,dartignis,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=fletchinder),,Filled from current naming rules
+663,Talonflame,talonflame,Talonflame,Fiaro,de,German,User-provided pokemon alt names.txt,247,User-provided name kept
+664,Scatterbug,scatterbug,scatterbug,purmel,german,German,User-provided pokemon alt names.txt,22,User-provided name kept
+665,Spewpa,spewpa,Spewpa,spewpa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=spewpa),,Filled from current naming rules
+666,Vivillon,vivillon,Vivillon,vivillon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=vivillon),,Filled from current naming rules
+667,Litleo,litleo,Litleo,leufeo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=litleo),,Filled from current naming rules
+668,Pyroar,pyroar,Pyroar,pyroar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pyroar),,Filled from current naming rules
+669,Flabébé,flab-b,Flabébé,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+670,Floette,floette,Floette,floette,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=floette),,Filled from current naming rules
+671,Florges,florges,Florges,florges,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=florges),,Filled from current naming rules
+672,Skiddo,skiddo,Skiddo,skiddo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=skiddo),,Filled from current naming rules
+673,Gogoat,gogoat,Gogoat,gogoat,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gogoat),,Filled from current naming rules
+674,Pancham,pancham,Pancham,pam-pam,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pancham),,Filled from current naming rules
+675,Pangoro,pangoro,Pangoro,pangoro,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pangoro),,Filled from current naming rules
+676,Furfrou,furfrou,Furfrou,furfrou,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=furfrou),,Filled from current naming rules
+677,Espurr,espurr,Espurr,Psiau,de,German,User-provided pokemon alt names.txt,75,User-provided name kept
+678,Meowstic,meowstic,Meowstic,meowstic,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=meowstic-male),,Filled from current naming rules
+679,Honedge,honedge,Honedge,honedge,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=honedge),,Filled from current naming rules
+680,Doublade,doublade,Doublade,duokles,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=doublade),,Filled from current naming rules
+681,Aegislash,aegislash,Aegislash,Exagide,fr,French,User-provided pokemon alt names.txt,162,User-provided name kept
+682,Spritzee,spritzee,Spritzee,Parfi,de,German,User-provided pokemon alt names.txt,141,User-provided name kept
+683,Aromatisse,aromatisse,Aromatisse,Cocotine,fr,French,User-provided pokemon alt names.txt,172,User-provided name kept
+684,Swirlix,swirlix,Swirlix,swirlix,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=swirlix),,Filled from current naming rules
+685,Slurpuff,slurpuff,Slurpuff,slurpuff,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=slurpuff),,Filled from current naming rules
+686,Inkay,inkay,Inkay,inkay,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=inkay),,Filled from current naming rules
+687,Malamar,malamar,Malamar,malamar,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=malamar),,Filled from current naming rules
+688,Binacle,binacle,Binacle,binacle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=binacle),,Filled from current naming rules
+689,Barbaracle,barbaracle,Barbaracle,barbaracle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=barbaracle),,Filled from current naming rules
+690,Skrelp,skrelp,Skrelp,Algitt,de,German,User-provided pokemon alt names.txt,135,User-provided name kept
+691,Dragalge,dragalge,Dragalge,tandrak,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dragalge),,Filled from current naming rules
+692,Clauncher,clauncher,Clauncher,Udeppō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,56,User-provided name kept
+693,Clawitzer,clawitzer,Clawitzer,Wummer,de,German,User-provided pokemon alt names.txt,186,User-provided name kept
+694,Helioptile,helioptile,Helioptile,Eguana,de,German,User-provided pokemon alt names.txt,85,User-provided name kept
+695,Heliolisk,heliolisk,Heliolisk,elezard,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=heliolisk),,Filled from current naming rules
+696,Tyrunt,tyrunt,Tyrunt,tyrunt,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tyrunt),,Filled from current naming rules
+697,Tyrantrum,tyrantrum,Tyrantrum,rexillius,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tyrantrum),,Filled from current naming rules
+698,Amaura,amaura,Amaura,amaura,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=amaura),,Filled from current naming rules
+699,Aurorus,aurorus,Aurorus,aurorus,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=aurorus),,Filled from current naming rules
+700,Sylveon,sylveon,Sylveon,sylveon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sylveon),,Filled from current naming rules
+701,Hawlucha,hawlucha,Hawlucha,hawlucha,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hawlucha),,Filled from current naming rules
+702,Dedenne,dedenne,Dedenne,dedenne,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dedenne),,Filled from current naming rules
+703,Carbink,carbink,Carbink,rocara,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=carbink),,Filled from current naming rules
+704,Goomy,goomy,Goomy,goomy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=goomy),,Filled from current naming rules
+705,Sliggoo,sliggoo,Sliggoo,Numeil,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,240,User-provided name kept
+706,Goodra,goodra,Goodra,goodra,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=goodra),,Filled from current naming rules
+707,Klefki,klefki,Klefki,klefki,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=klefki),,Filled from current naming rules
+708,Phantump,phantump,Phantump,Bokurē,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,114,User-provided name kept
+709,Trevenant,trevenant,Trevenant,Ohrot,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,250,User-provided name kept
+710,Pumpkaboo,pumpkaboo,Pumpkaboo,Irrbis,de,German,User-provided pokemon alt names.txt,119,User-provided name kept
+711,Gourgeist,gourgeist,Gourgeist,gourgeist,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gourgeist-average),,Filled from current naming rules
+712,Bergmite,bergmite,Bergmite,Arktip,de,German,User-provided pokemon alt names.txt,51,User-provided name kept
+713,Avalugg,avalugg,Avalugg,avalugg,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=avalugg),,Filled from current naming rules
+714,Noibat,noibat,Noibat,ef-em,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=noibat),,Filled from current naming rules
+715,Noivern,noivern,Noivern,noivern,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=noivern),,Filled from current naming rules
+716,Xerneas,xerneas,Xerneas,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+717,Yveltal,yveltal,Yveltal,yveltal,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=yveltal),,Filled from current naming rules
+718,Zygarde,zygarde,Zygarde,zygarde,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zygarde-50),,Filled from current naming rules
+719,Diancie,diancie,Diancie,diancie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=diancie),,Filled from current naming rules
+720,Hoopa,hoopa,Hoopa,hoopa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hoopa),,Filled from current naming rules
+721,Volcanion,volcanion,Volcanion,volcanion,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=volcanion),,Filled from current naming rules
+722,Rowlet,rowlet,Rowlet,Bauz,de,German,User-provided pokemon alt names.txt,43,User-provided name kept
+723,Dartrix,dartrix,Dartrix,dartrix,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dartrix),,Filled from current naming rules
+724,Decidueye,decidueye,Decidueye,Junaipā,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,193,User-provided name kept
+725,Litten,litten,Litten,Nyabī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,38,User-provided name kept
+726,Torracat,torracat,Torracat,Nyahīto,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,151,User-provided name kept
+727,Incineroar,incineroar,Incineroar,Fuegro,de,German,User-provided pokemon alt names.txt,212,User-provided name kept
+728,Popplio,popplio,Popplio,otaquin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=popplio),,Filled from current naming rules
+729,Brionne,brionne,Brionne,brionne,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=brionne),,Filled from current naming rules
+730,Primarina,primarina,Primarina,oratoria,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=primarina),,Filled from current naming rules
+731,Pikipek,pikipek,Pikipek,peppeck,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pikipek),,Filled from current naming rules
+732,Trumbeak,trumbeak,Trumbeak,trompeck,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=trumbeak),,Filled from current naming rules
+733,Toucannon,toucannon,Toucannon,Tukanon,de,German,User-provided pokemon alt names.txt,248,User-provided name kept
+734,Yungoos,yungoos,Yungoos,yungoos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=yungoos),,Filled from current naming rules
+735,Gumshoos,gumshoos,Gumshoos,argouste,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gumshoos),,Filled from current naming rules
+736,Grubbin,grubbin,Grubbin,mabula,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=grubbin),,Filled from current naming rules
+737,Charjabug,charjabug,Charjabug,Akkup,de,German,User-provided pokemon alt names.txt,53,User-provided name kept
+738,Vikavolt,vikavolt,Vikavolt,lucanon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=vikavolt),,Filled from current naming rules
+739,Crabrawler,crabrawler,Crabrawler,Krabbox,de,German,User-provided pokemon alt names.txt,61,User-provided name kept
+740,Crabominable,crabominable,Crabominable,Krawell,de,German,User-provided pokemon alt names.txt,191,User-provided name kept
+741,Oricorio,oricorio,Oricorio,oricorio,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=oricorio-baile),,Filled from current naming rules
+742,Cutiefly,cutiefly,Cutiefly,Aburī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,63,User-provided name kept
+743,Ribombee,ribombee,Ribombee,bandelby,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ribombee),,Filled from current naming rules
+744,Rockruff,rockruff,Rockruff,Iwanko,"ja-tm, ja-roma",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,122,User-provided name kept
+745,Lycanroc,lycanroc,Lycanroc,lougaroc,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lycanroc-midday),,Filled from current naming rules
+746,Wishiwashi,wishiwashi,Wishiwashi,lusardin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wishiwashi-solo),,Filled from current naming rules
+747,Mareanie,mareanie,Mareanie,mareanie,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mareanie),,Filled from current naming rules
+748,Toxapex,toxapex,Toxapex,toxapex,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=toxapex),,Filled from current naming rules
+749,Mudbray,mudbray,Mudbray,mudbray,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mudbray),,Filled from current naming rules
+750,Mudsdale,mudsdale,Mudsdale,mudsdale,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mudsdale),,Filled from current naming rules
+751,Dewpider,dewpider,Dewpider,Araqua,"fr, de","fr, de",User-provided pokemon alt names.txt,65,User-provided name kept
+752,Araquanid,araquanid,Araquanid,aranestro,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=araquanid),,Filled from current naming rules
+753,Fomantis,fomantis,Fomantis,imantis,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=fomantis),,Filled from current naming rules
+754,Lurantis,lurantis,Lurantis,lurantis,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lurantis),,Filled from current naming rules
+755,Morelull,morelull,Morelull,Spododo,fr,French,User-provided pokemon alt names.txt,107,User-provided name kept
+756,Shiinotic,shiinotic,Shiinotic,Mashēdo,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,238,User-provided name kept
+757,Salandit,salandit,Salandit,Tritox,fr,French,User-provided pokemon alt names.txt,123,User-provided name kept
+758,Salazzle,salazzle,Salazzle,Amfira,de,German,User-provided pokemon alt names.txt,236,User-provided name kept
+759,Stufful,stufful,Stufful,stufful,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=stufful),,Filled from current naming rules
+760,Bewear,bewear,Bewear,bewear,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bewear),,Filled from current naming rules
+761,Bounsweet,bounsweet,bounsweet,amakaji,japanese,Japanese / unspecified romanization,User-provided pokemon alt names.txt,2,User-provided name kept
+762,Steenee,steenee,Steenee,candine,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=steenee),,Filled from current naming rules
+763,Tsareena,tsareena,Tsareena,Amajo,ja,Japanese / unspecified romanization,User-provided pokemon alt names.txt,251,User-provided name kept
+764,Comfey,comfey,Comfey,comfey,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=comfey),,Filled from current naming rules
+765,Oranguru,oranguru,Oranguru,oranguru,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=oranguru),,Filled from current naming rules
+766,Passimian,passimian,Passimian,passimian,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=passimian),,Filled from current naming rules
+767,Wimpod,wimpod,Wimpod,wimpod,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wimpod),,Filled from current naming rules
+768,Golisopod,golisopod,Golisopod,tectass,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=golisopod),,Filled from current naming rules
+769,Sandygast,sandygast,Sandygast,Sunaba,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,125,User-provided name kept
+769,Sandygast,sandygast,Sandygast,Sunabā,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,126,User-provided name kept
+770,Palossand,palossand,Palossand,colossand,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=palossand),,Filled from current naming rules
+771,Pyukumuku,pyukumuku,Pyukumuku,Gufa,de,German,User-provided pokemon alt names.txt,231,User-provided name kept
+772,Type: Null,type-null,Type: Null,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+773,Silvally,silvally,Silvally,amigento,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=silvally),,Filled from current naming rules
+774,Minior,minior,Minior,meteno,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=minior-meteor),,Filled from current naming rules
+775,Komala,komala,Komala,komala,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=komala),,Filled from current naming rules
+776,Turtonator,turtonator,Turtonator,Boumata,fr,French,User-provided pokemon alt names.txt,252,User-provided name kept
+777,Togedemaru,togedemaru,Togedemaru,togedemaru,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=togedemaru),,Filled from current naming rules
+778,Mimikyu,mimikyu,Mimikyu,mimigma,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mimikyu-disguised),,Filled from current naming rules
+779,Bruxish,bruxish,Bruxish,bruxish,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bruxish),,Filled from current naming rules
+780,Drampa,drampa,Drampa,drampa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=drampa),,Filled from current naming rules
+781,Dhelmise,dhelmise,Dhelmise,moruda,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dhelmise),,Filled from current naming rules
+782,Jangmo-o,jangmo-o,Jangmo-o,Jarako,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,37,User-provided name kept
+783,Hakamo-o,hakamo-o,Hakamo-o,Écaïd,fr,French,User-provided pokemon alt names.txt,207,User-provided name kept
+784,Kommo-o,kommo-o,Kommo-o,Ékaïser,fr,French,User-provided pokemon alt names.txt,217,User-provided name kept
+785,Tapu Koko,tapu-koko,Tapu Koko,tokorico,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tapu-koko),,Filled from current naming rules
+786,Tapu Lele,tapu-lele,Tapu Lele,kapu-fala,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tapu-lele),,Filled from current naming rules
+787,Tapu Bulu,tapu-bulu,Tapu Bulu,tokotoro,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tapu-bulu),,Filled from current naming rules
+788,Tapu Fini,tapu-fini,Tapu Fini,kapu-kime,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tapu-fini),,Filled from current naming rules
+789,Cosmog,cosmog,Cosmog,cosmog,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cosmog),,Filled from current naming rules
+790,Cosmoem,cosmoem,Cosmoem,cosmoem,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cosmoem),,Filled from current naming rules
+791,Solgaleo,solgaleo,Solgaleo,solgaleo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=solgaleo),,Filled from current naming rules
+792,Lunala,lunala,Lunala,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+793,Nihilego,nihilego,Nihilego,anego,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nihilego),,Filled from current naming rules
+794,Buzzwole,buzzwole,Buzzwole,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+795,Pheromosa,pheromosa,Pheromosa,pheromosa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pheromosa),,Filled from current naming rules
+796,Xurkitree,xurkitree,Xurkitree,cablifere,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=xurkitree),,Filled from current naming rules
+797,Celesteela,celesteela,Celesteela,kaguron,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=celesteela),,Filled from current naming rules
+798,Kartana,kartana,Kartana,kartana,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kartana),,Filled from current naming rules
+799,Guzzlord,guzzlord,Guzzlord,guzzlord,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=guzzlord),,Filled from current naming rules
+800,Necrozma,necrozma,Necrozma,necrozma,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=necrozma),,Filled from current naming rules
+801,Magearna,magearna,Magearna,magearna,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=magearna),,Filled from current naming rules
+802,Marshadow,marshadow,Marshadow,marshadow,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=marshadow),,Filled from current naming rules
+803,Poipole,poipole,Poipole,vemini,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=poipole),,Filled from current naming rules
+804,Naganadel,naganadel,Naganadel,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+805,Stakataka,stakataka,Stakataka,ama-ama,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=stakataka),,Filled from current naming rules
+806,Blacephalon,blacephalon,Blacephalon,kopplosio,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=blacephalon),,Filled from current naming rules
+807,Zeraora,zeraora,Zeraora,zeraora,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zeraora),,Filled from current naming rules
+808,Meltan,meltan,Meltan,meltan,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=meltan),,Filled from current naming rules
+809,Melmetal,melmetal,Melmetal,melmetal,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=melmetal),,Filled from current naming rules
+810,Grookey,grookey,Grookey,chimpep,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=grookey),,Filled from current naming rules
+811,Thwackey,thwackey,Thwackey,Chimstix,de,German,User-provided pokemon alt names.txt,147,User-provided name kept
+812,Rillaboom,rillaboom,Rillaboom,gortrom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rillaboom),,Filled from current naming rules
+813,Scorbunny,scorbunny,Scorbunny,Hibanī,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,44,User-provided name kept
+814,Raboot,raboot,Raboot,lapyro,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=raboot),,Filled from current naming rules
+815,Cinderace,cinderace,Cinderace,Ēsubān,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,185,User-provided name kept
+816,Sobble,sobble,Sobble,sobble,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sobble),,Filled from current naming rules
+817,Drizzile,drizzile,Drizzile,arrozard,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=drizzile),,Filled from current naming rules
+818,Inteleon,inteleon,Inteleon,inteleon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=inteleon),,Filled from current naming rules
+819,Skwovet,skwovet,Skwovet,Raffel,de,German,User-provided pokemon alt names.txt,136,User-provided name kept
+820,Greedent,greedent,Greedent,greedent,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=greedent),,Filled from current naming rules
+821,Rookidee,rookidee,rookidee,meikro,german,German,User-provided pokemon alt names.txt,21,User-provided name kept
+822,Corvisquire,corvisquire,Corvisquire,kranoviz,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=corvisquire),,Filled from current naming rules
+823,Corviknight,corviknight,Corviknight,Āmāgā,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,190,User-provided name kept
+824,Blipbug,blipbug,Blipbug,blipbug,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=blipbug),,Filled from current naming rules
+825,Dottler,dottler,Dottler,dottler,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dottler),,Filled from current naming rules
+826,Orbeetle,orbeetle,Orbeetle,orbeetle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=orbeetle),,Filled from current naming rules
+827,Nickit,nickit,Nickit,nickit,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nickit),,Filled from current naming rules
+828,Thievul,thievul,Thievul,gaunux,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=thievul),,Filled from current naming rules
+829,Gossifleur,gossifleur,Gossifleur,Himenka,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,80,User-provided name kept
+830,Eldegoss,eldegoss,Eldegoss,cottomi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=eldegoss),,Filled from current naming rules
+831,Wooloo,wooloo,Wooloo,Ūrū,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,160,User-provided name kept
+832,Dubwool,dubwool,Dubwool,dubwool,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dubwool),,Filled from current naming rules
+833,Chewtle,chewtle,Chewtle,chewtle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chewtle),,Filled from current naming rules
+834,Drednaw,drednaw,Drednaw,kamalm,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=drednaw),,Filled from current naming rules
+835,Yamper,yamper,Yamper,voldi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=yamper),,Filled from current naming rules
+836,Boltund,boltund,Boltund,boltund,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=boltund),,Filled from current naming rules
+837,Rolycoly,rolycoly,rolycoly,tandon,japanese,Japanese / unspecified romanization,User-provided pokemon alt names.txt,20,User-provided name kept
+838,Carkol,carkol,Carkol,carkol,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=carkol),,Filled from current naming rules
+839,Coalossal,coalossal,Coalossal,coalossal,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=coalossal),,Filled from current naming rules
+840,Applin,applin,Applin,applin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=applin),,Filled from current naming rules
+841,Flapple,flapple,Flapple,drapfel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=flapple),,Filled from current naming rules
+842,Appletun,appletun,Appletun,appletun,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=appletun),,Filled from current naming rules
+843,Silicobra,silicobra,Silicobra,Dunaja,fr,French,User-provided pokemon alt names.txt,131,User-provided name kept
+844,Sandaconda,sandaconda,Sandaconda,dunaconda,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sandaconda),,Filled from current naming rules
+845,Cramorant,cramorant,Cramorant,urgl,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cramorant),,Filled from current naming rules
+846,Arrokuda,arrokuda,Arrokuda,Pikuda,de,German,User-provided pokemon alt names.txt,50,User-provided name kept
+847,Barraskewda,barraskewda,Barraskewda,hastacuda,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=barraskewda),,Filled from current naming rules
+848,Toxel,toxel,Toxel,toxel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=toxel),,Filled from current naming rules
+849,Toxtricity,toxtricity,Amped Toxtricity,Riffex,de,German,User-provided pokemon alt names.txt,166,User-provided name kept
+850,Sizzlipede,sizzlipede,Sizzlipede,Yakude,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,132,User-provided name kept
+851,Centiskorch,centiskorch,Centiskorch,infernopod,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=centiskorch),,Filled from current naming rules
+852,Clobbopus,clobbopus,Clobbopus,tatakko,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=clobbopus),,Filled from current naming rules
+853,Grapploct,grapploct,Grapploct,kaocto,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=grapploct),,Filled from current naming rules
+854,Sinistea,sinistea,Sinistea,sinistea,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sinistea),,Filled from current naming rules
+855,Polteageist,polteageist,Polteageist,mortipot,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=polteageist),,Filled from current naming rules
+856,Hatenna,hatenna,Hatenna,brimova,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hatenna),,Filled from current naming rules
+857,Hattrem,hattrem,Hattrem,brimano,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hattrem),,Filled from current naming rules
+858,Hatterene,hatterene,Hatterene,hatterene,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hatterene),,Filled from current naming rules
+859,Impidimp,impidimp,impidimp,beroba,japanese,Japanese / unspecified romanization,User-provided pokemon alt names.txt,13,User-provided name kept
+860,Morgrem,morgrem,Morgrem,Gimō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,108,User-provided name kept
+861,Grimmsnarl,grimmsnarl,Grimmsnarl,Ōronge,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,206,User-provided name kept
+862,Obstagoon,obstagoon,Obstagoon,ixon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=obstagoon),,Filled from current naming rules
+863,Perrserker,perrserker,Perrserker,mauzinger,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=perrserker),,Filled from current naming rules
+864,Cursola,cursola,Cursola,cursola,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cursola),,Filled from current naming rules
+865,Sirfetch'd,sirfetchd,Sirfetch'd,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+866,Mr. Rime,mr-rime,Mr. Rime,mr. rime,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=mr-rime),,Filled from current naming rules
+867,Runerigus,runerigus,Runerigus,oghnatoll,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=runerigus),,Filled from current naming rules
+868,Milcery,milcery,Milcery,cremy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=milcery),,Filled from current naming rules
+869,Alcremie,alcremie,Alcremie,pokusan,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=alcremie-vanilla-cream-strawberry-sweet),,Filled from current naming rules
+870,Falinks,falinks,Falinks,legios,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=falinks),,Filled from current naming rules
+871,Pincurchin,pincurchin,Pincurchin,wattapik,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pincurchin),,Filled from current naming rules
+872,Snom,snom,Snom,snom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=snom),,Filled from current naming rules
+873,Frosmoth,frosmoth,Frosmoth,frosmoth,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=frosmoth),,Filled from current naming rules
+874,Stonjourner,stonjourner,Stonjourner,Dolman,fr,French,User-provided pokemon alt names.txt,243,User-provided name kept
+875,Eiscue,eiscue,Eiscue,eiscue,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=eiscue-ice),,Filled from current naming rules
+876,Indeedee,indeedee,Indeedee,Servol,de,German,User-provided pokemon alt names.txt,213,User-provided name kept
+877,Morpeko,morpeko,Morpeko,morpeko,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=morpeko-full-belly),,Filled from current naming rules
+878,Cufant,cufant,Cufant,Zōdō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,62,User-provided name kept
+879,Copperajah,copperajah,Copperajah,Daiōdō,ja-roma,Japanese Romanized (ja_r),User-provided pokemon alt names.txt,189,User-provided name kept
+880,Dracozolt,dracozolt,Dracozolt,galvagon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dracozolt),,Filled from current naming rules
+881,Arctozolt,arctozolt,Arctozolt,galvagla,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=arctozolt),,Filled from current naming rules
+882,Dracovish,dracovish,Dracovish,hydragon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dracovish),,Filled from current naming rules
+883,Arctovish,arctovish,Arctovish,hydragla,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=arctovish),,Filled from current naming rules
+884,Duraludon,duraludon,Duraludon,duraludon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=duraludon),,Filled from current naming rules
+885,Dreepy,dreepy,Dreepy,dreepy,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dreepy),,Filled from current naming rules
+886,Drakloak,drakloak,Drakloak,Phandra,de,German,User-provided pokemon alt names.txt,68,User-provided name kept
+887,Dragapult,dragapult,Dragapult,dragapult,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dragapult),,Filled from current naming rules
+888,Zacian,zacian,Zacian,zacian,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zacian),,Filled from current naming rules
+889,Zamazenta,zamazenta,Zamazenta,zamazenta,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zamazenta),,Filled from current naming rules
+890,Eternatus,eternatus,Eternatus,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+891,Kubfu,kubfu,Kubfu,kubfu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kubfu),,Filled from current naming rules
+892,Urshifu,urshifu,Urshifu,urshifu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=urshifu-single-strike),,Filled from current naming rules
+893,Zarude,zarude,Zarude,zarude,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=zarude),,Filled from current naming rules
+894,Regieleki,regieleki,Regieleki,regieleki,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=regieleki),,Filled from current naming rules
+895,Regidrago,regidrago,Regidrago,regidrago,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=regidrago),,Filled from current naming rules
+896,Glastrier,glastrier,Glastrier,polaross,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=glastrier),,Filled from current naming rules
+897,Spectrier,spectrier,Spectrier,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+898,Calyrex,calyrex,Calyrex,calyrex,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=calyrex),,Filled from current naming rules
+899,Wyrdeer,wyrdeer,Wyrdeer,wyrdeer,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wyrdeer),,Filled from current naming rules
+900,Kleavor,kleavor,Kleavor,axantor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kleavor),,Filled from current naming rules
+901,Ursaluna,ursaluna,Ursaluna,ursaking,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ursaluna),,Filled from current naming rules
+902,Basculegion,basculegion,Basculegion,basculegion,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=manually_approved; source=manual_approval),,Filled from current naming rules
+903,Sneasler,sneasler,Sneasler,farfurex,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sneasler),,Filled from current naming rules
+904,Overqwil,overqwil,Overqwil,qwilpik,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=overqwil),,Filled from current naming rules
+905,Enamorus,enamorus,Enamorus,cupidos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=enamorus-incarnate),,Filled from current naming rules
+906,Sprigatito,sprigatito,Sprigatito,Felori,de,German,User-provided pokemon alt names.txt,45,User-provided name kept
+907,Floragato,floragato,Floragato,feliospa,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=floragato),,Filled from current naming rules
+908,Meowscarada,meowscarada,Meowscarada,maskagato,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=meowscarada),,Filled from current naming rules
+909,Fuecoco,fuecoco,Fuecoco,krokel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=fuecoco),,Filled from current naming rules
+910,Crocalor,crocalor,Crocalor,lokroko,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=crocalor),,Filled from current naming rules
+911,Skeledirge,skeledirge,Skeledirge,skelokrok,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=skeledirge),,Filled from current naming rules
+912,Quaxly,quaxly,Quaxly,Kwaks,de,German,User-provided pokemon alt names.txt,41,User-provided name kept
+913,Quaxwell,quaxwell,Quaxwell,quaxwell,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=quaxwell),,Filled from current naming rules
+914,Quaquaval,quaquaval,Quaquaval,bailonda,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=quaquaval),,Filled from current naming rules
+915,Lechonk,lechonk,Lechonk,ferkuli,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lechonk),,Filled from current naming rules
+916,Oinkologne,oinkologne,Oinkologne,Perfuton,"ja-tm, ja-tm",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,111,User-provided name kept
+917,Tarountula,tarountula,tarountula,tarundel,german,German,User-provided pokemon alt names.txt,26,User-provided name kept
+918,Spidops,spidops,Spidops,spidops,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=spidops),,Filled from current naming rules
+919,Nymble,nymble,Nymble,nymble,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nymble),,Filled from current naming rules
+920,Lokix,lokix,Lokix,lokix,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=lokix),,Filled from current naming rules
+921,Pawmi,pawmi,Pawmi,Pamo,"ja-tm, de",Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,113,User-provided name kept
+922,Pawmo,pawmo,Pawmo,pawmo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pawmo),,Filled from current naming rules
+923,Pawmot,pawmot,Pawmot,pawmot,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pawmot),,Filled from current naming rules
+924,Tandemaus,tandemaus,tandemaus,zwieps,german,German,User-provided pokemon alt names.txt,25,User-provided name kept
+925,Maushold,maushold,Maushold,Famieps,de,German,User-provided pokemon alt names.txt,102,User-provided name kept
+926,Fidough,fidough,fidough,hefel,german,German,User-provided pokemon alt names.txt,6,User-provided name kept
+927,Dachsbun,dachsbun,Dachsbun,Backel,de,German,User-provided pokemon alt names.txt,64,User-provided name kept
+928,Smoliv,smoliv,Smoliv,olini,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=smoliv),,Filled from current naming rules
+929,Dolliv,dolliv,Dolliv,dolliv,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dolliv),,Filled from current naming rules
+930,Arboliva,arboliva,Arboliva,Orīva,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,169,User-provided name kept
+931,Squawkabilly,squawkabilly,squawkabilly,tapatoes,french,French,User-provided pokemon alt names.txt,23,User-provided name kept
+931,Squawkabilly,squawkabilly,Squawkabilly,Tapatoès,fr,French,User-provided pokemon alt names.txt,142,User-provided name kept
+932,Nacli,nacli,Nacli,nacli,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=nacli),,Filled from current naming rules
+933,Naclstack,naclstack,Naclstack,Sedisal,de,German,User-provided pokemon alt names.txt,109,User-provided name kept
+934,Garganacl,garganacl,Garganacl,Gigansel,fr,French,User-provided pokemon alt names.txt,204,User-provided name kept
+935,Charcadet,charcadet,charcadet,carbou,french,French,User-provided pokemon alt names.txt,4,User-provided name kept
+936,Armarouge,armarouge,Armarouge,crimanzo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=armarouge),,Filled from current naming rules
+937,Ceruledge,ceruledge,Ceruledge,azugladis,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ceruledge),,Filled from current naming rules
+938,Tadbulb,tadbulb,tadbulb,blipp,german,German,User-provided pokemon alt names.txt,24,User-provided name kept
+939,Bellibolt,bellibolt,Bellibolt,wampitz,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bellibolt),,Filled from current naming rules
+940,Wattrel,wattrel,wattrel,kaiden,japanese,Japanese / unspecified romanization,User-provided pokemon alt names.txt,29,User-provided name kept
+941,Kilowattrel,kilowattrel,Kilowattrel,Taikaiden,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,91,User-provided name kept
+942,Maschiff,maschiff,Maschiff,mobtiff,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=maschiff),,Filled from current naming rules
+943,Mabosstiff,mabosstiff,Mabosstiff,Dogrino,fr,French,User-provided pokemon alt names.txt,98,User-provided name kept
+944,Shroodle,shroodle,Shroodle,sproxi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=shroodle),,Filled from current naming rules
+945,Grafaiai,grafaiai,Grafaiai,Affiti,de,German,User-provided pokemon alt names.txt,81,User-provided name kept
+946,Bramblin,bramblin,Bramblin,weherba,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=bramblin),,Filled from current naming rules
+947,Brambleghast,brambleghast,Brambleghast,horrerba,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=brambleghast),,Filled from current naming rules
+948,Toedscool,toedscool,toedscool,tentagra,german,German,User-provided pokemon alt names.txt,28,User-provided name kept
+949,Toedscruel,toedscruel,Toedscruel,Tenterra,de,German,User-provided pokemon alt names.txt,150,User-provided name kept
+950,Klawf,klawf,Klawf,klawf,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=klawf),,Filled from current naming rules
+951,Capsakid,capsakid,Capsakid,pimito,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=capsakid),,Filled from current naming rules
+952,Scovillain,scovillain,Scovillain,halupenjo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=scovillain),,Filled from current naming rules
+953,Rellor,rellor,Rellor,rellor,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rellor),,Filled from current naming rules
+954,Rabsca,rabsca,Rabsca,rabsca,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=rabsca),,Filled from current naming rules
+955,Flittle,flittle,Flittle,flittle,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=flittle),,Filled from current naming rules
+956,Espathra,espathra,Espathra,espathra,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=espathra),,Filled from current naming rules
+957,Tinkatink,tinkatink,tinkatink,forgita,french,French,User-provided pokemon alt names.txt,27,User-provided name kept
+958,Tinkatuff,tinkatuff,Tinkatuff,Forgella,fr,French,User-provided pokemon alt names.txt,148,User-provided name kept
+959,Tinkaton,tinkaton,Tinkaton,tinkaton,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=tinkaton),,Filled from current naming rules
+960,Wiglett,wiglett,Wiglett,wiglett,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wiglett),,Filled from current naming rules
+961,Wugtrio,wugtrio,Wugtrio,wugtrio,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wugtrio),,Filled from current naming rules
+962,Bombirdier,bombirdier,bombirdier,adebom,german,German,User-provided pokemon alt names.txt,1,User-provided name kept
+963,Finizen,finizen,finizen,dofin,french,French,User-provided pokemon alt names.txt,7,User-provided name kept
+964,Palafin,palafin,Palafin,palafin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=palafin),,Filled from current naming rules
+965,Varoom,varoom,Varoom,varoom,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=varoom),,Filled from current naming rules
+966,Revavroom,revavroom,Revavroom,knattatox,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=revavroom),,Filled from current naming rules
+967,Cyclizar,cyclizar,cyclizar,mopex,german,German,User-provided pokemon alt names.txt,5,User-provided name kept
+967,Cyclizar,cyclizar,Cyclizar,Mopex,de,German,User-provided pokemon alt names.txt,34,User-provided name kept
+968,Orthworm,orthworm,orthworm,schlurm,german,German,User-provided pokemon alt names.txt,17,User-provided name kept
+969,Glimmet,glimmet,Glimmet,glimmet,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=glimmet),,Filled from current naming rules
+970,Glimmora,glimmora,Glimmora,glimmora,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=glimmora),,Filled from current naming rules
+971,Greavard,greavard,greavard,bochi,japanese trademarked,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,12,User-provided name kept
+972,Houndstone,houndstone,Houndstone,tomberro,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=houndstone),,Filled from current naming rules
+973,Flamigo,flamigo,Flamigo,flamigo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=flamigo),,Filled from current naming rules
+974,Cetoddle,cetoddle,Cetoddle,pietace,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cetoddle),,Filled from current naming rules
+975,Cetitan,cetitan,Cetitan,cetitan,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=cetitan),,Filled from current naming rules
+976,Veluza,veluza,Veluza,veluza,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=veluza),,Filled from current naming rules
+977,Dondozo,dondozo,Dondozo,dondozo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dondozo),,Filled from current naming rules
+978,Tatsugiri,tatsugiri,Tatsugiri,Nigiragi,de,German,User-provided pokemon alt names.txt,47,User-provided name kept
+979,Annihilape,annihilape,Annihilape,Epitaff,de,German,User-provided pokemon alt names.txt,168,User-provided name kept
+980,Clodsire,clodsire,Clodsire,Dooh,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,58,User-provided name kept
+981,Farigiraf,farigiraf,Farigiraf,farigiraf,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=farigiraf),,Filled from current naming rules
+982,Dudunsparce,dudunsparce,Dudunsparce,dummimisel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dudunsparce),,Filled from current naming rules
+983,Kingambit,kingambit,Kingambit,kingambit,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=kingambit),,Filled from current naming rules
+984,Great Tusk,great-tusk,Great Tusk,great tusk,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=great-tusk),,Filled from current naming rules
+985,Scream Tail,scream-tail,Scream Tail,hurle-queue,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=scream-tail),,Filled from current naming rules
+986,Brute Bonnet,brute-bonnet,Brute Bonnet,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+987,Flutter Mane,flutter-mane,Flutter Mane,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+988,Slither Wing,slither-wing,Slither Wing,rampe-ailes,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=slither-wing),,Filled from current naming rules
+989,Sandy Shocks,sandy-shocks,Sandy Shocks,sandfell,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sandy-shocks),,Filled from current naming rules
+990,Iron Treads,iron-treads,Iron Treads,,Current Naming Rules,Current Naming Rules,Current naming rules map: no exact base-name match,,No exact base-name mapping found
+991,Iron Bundle,iron-bundle,Iron Bundle,eisenbundel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-bundle),,Filled from current naming rules
+992,Iron Hands,iron-hands,Iron Hands,eisenhand,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-hands),,Filled from current naming rules
+993,Iron Jugulis,iron-jugulis,Iron Jugulis,eisenhals,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-jugulis),,Filled from current naming rules
+994,Iron Moth,iron-moth,Iron Moth,iron moth,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-moth),,Filled from current naming rules
+995,Iron Thorns,iron-thorns,Iron Thorns,eisendorn,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-thorns),,Filled from current naming rules
+996,Frigibax,frigibax,frigibax,sebie,japanese,Japanese / unspecified romanization,User-provided pokemon alt names.txt,9,User-provided name kept
+997,Arctibax,arctibax,Arctibax,Cryodo,fr,French,User-provided pokemon alt names.txt,49,User-provided name kept
+998,Baxcalibur,baxcalibur,Baxcalibur,Seglaive,ja-tm,Japanese Alternate Romanized (ja_t),User-provided pokemon alt names.txt,174,User-provided name kept
+999,Gimmighoul,gimmighoul,gimmighoul,mordudor,french,French,User-provided pokemon alt names.txt,11,User-provided name kept
+1000,Gholdengo,gholdengo,Gholdengo,gromago,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gholdengo),,Filled from current naming rules
+1001,Wo-Chien,wo-chien,Wo-Chien,wo-chien,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=wo-chien),,Filled from current naming rules
+1002,Chien-Pao,chien-pao,Chien-Pao,baojian,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chien-pao),,Filled from current naming rules
+1003,Ting-Lu,ting-lu,Ting-Lu,dinglu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ting-lu),,Filled from current naming rules
+1004,Chi-Yu,chi-yu,Chi-Yu,yuyu,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=chi-yu),,Filled from current naming rules
+1005,Roaring Moon,roaring-moon,Roaring Moon,rugit-lune,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=roaring-moon),,Filled from current naming rules
+1006,Iron Valiant,iron-valiant,Iron Valiant,eisenkrieger,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-valiant),,Filled from current naming rules
+1007,Koraidon,koraidon,Koraidon,koraidon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=koraidon),,Filled from current naming rules
+1008,Miraidon,miraidon,Miraidon,miraidon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=miraidon),,Filled from current naming rules
+1009,Walking Wake,walking-wake,Walking Wake,windewoge,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=walking-wake),,Filled from current naming rules
+1010,Iron Leaves,iron-leaves,Iron Leaves,eisenblatt,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-leaves),,Filled from current naming rules
+1011,Dipplin,dipplin,Dipplin,dipplin,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=dipplin),,Filled from current naming rules
+1012,Poltchageist,poltchageist,Poltchageist,poltchageist,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=poltchageist),,Filled from current naming rules
+1013,Sinistcha,sinistcha,Sinistcha,sinistcha,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=sinistcha),,Filled from current naming rules
+1014,Okidogi,okidogi,Okidogi,okidogi,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=okidogi),,Filled from current naming rules
+1015,Munkidori,munkidori,Munkidori,munkidori,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=munkidori),,Filled from current naming rules
+1016,Fezandipiti,fezandipiti,Fezandipiti,fezandipiti,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=fezandipiti),,Filled from current naming rules
+1017,Ogerpon,ogerpon,Ogerpon,ogerpon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=ogerpon),,Filled from current naming rules
+1018,Archaludon,archaludon,Archaludon,archaludon,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=archaludon),,Filled from current naming rules
+1019,Hydrapple,hydrapple,Hydrapple,hydrapfel,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=hydrapple),,Filled from current naming rules
+1020,Gouging Fire,gouging-fire,Gouging Fire,gouging fire,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=gouging-fire),,Filled from current naming rules
+1021,Raging Bolt,raging-bolt,Raging Bolt,ire-foudre,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=raging-bolt),,Filled from current naming rules
+1022,Iron Boulder,iron-boulder,Iron Boulder,iron boulder,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-boulder),,Filled from current naming rules
+1023,Iron Crown,iron-crown,Iron Crown,eisenhaupt,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=iron-crown),,Filled from current naming rules
+1024,Terapagos,terapagos,Terapagos,terapagos,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=terapagos),,Filled from current naming rules
+1025,Pecharunt,pecharunt,Pecharunt,infamomo,Current Naming Rules,Current Naming Rules,Existing catch-name map (status=matched; source=pecharunt),,Filled from current naming rules
