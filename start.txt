@@ -1,0 +1,15 @@
+Set-ExecutionPolicy -Scope Process Bypass
+& "C:\PokemonDetector\vivaldi_pokemon_extension copy\Start-PokemonDetectorService.ps1"
+
+
+
+
+
+cd C:\PokemonDetector\ThreeBrowserPanel
+.\Start-Desktop-Panel.bat
+
+
+
+Set-ExecutionPolicy -Scope Process Bypass
+
+& 'C:\PokemonDetector\vivaldi_pokemon_extension\Install-BackgroundRemoval.ps1'

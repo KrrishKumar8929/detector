@@ -1,0 +1,1027 @@
+﻿dex_number,main_slug,main_pokemon_name,github_base_row_slug,huggingface_base_row_slug,english,english_source,german,german_source,french,french_source,japanese_script,japanese_script_source,japanese_romanized_ja_r,japanese_romanized_ja_r_source,japanese_alternate_romanized_ja_t,japanese_alternate_romanized_ja_t_source
+0,missingno,MissingNo.,missingno,,MissingNo.,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1,bulbasaur,Bulbasaur,bulbasaur,bulbasaur,Bulbasaur,GitHub,Bisasam,GitHub,Bulbizarre,GitHub,フシギダネ,GitHub,Fushigidane,GitHub,Fushigidane,GitHub
+2,ivysaur,Ivysaur,ivysaur,ivysaur,Ivysaur,GitHub,Bisaknosp,GitHub,Herbizarre,GitHub,フシギソウ,GitHub,Fushigisō,GitHub,Fushigisou,GitHub
+3,venusaur,Venusaur,venusaur,venusaur,Venusaur,GitHub,Bisaflor,GitHub,Florizarre,GitHub,フシギバナ,GitHub,Fushigibana,GitHub,Fushigibana,GitHub
+4,charmander,Charmander,charmander,charmander,Charmander,GitHub,Glumanda,GitHub,Salamèche,GitHub,ヒトカゲ,GitHub,Hitokage,GitHub,Hitokage,GitHub
+5,charmeleon,Charmeleon,charmeleon,charmeleon,Charmeleon,GitHub,Glutexo,GitHub,Reptincel,GitHub,リザード,GitHub,Rizādo,GitHub,Lizardo,GitHub
+6,charizard,Charizard,charizard,charizard,Charizard,GitHub,Glurak,GitHub,Dracaufeu,GitHub,リザードン,GitHub,Rizādon,GitHub,Lizardon,GitHub
+7,squirtle,Squirtle,squirtle,squirtle,Squirtle,GitHub,Schiggy,GitHub,Carapuce,GitHub,ゼニガメ,GitHub,Zenigame,GitHub,Zenigame,GitHub
+8,wartortle,Wartortle,wartortle,wartortle,Wartortle,GitHub,Schillok,GitHub,Carabaffe,GitHub,カメール,GitHub,Kamēru,GitHub,Kameil,GitHub
+9,blastoise,Blastoise,blastoise,blastoise,Blastoise,GitHub,Turtok,GitHub,Tortank,GitHub,カメックス,GitHub,Kamekkusu,GitHub,Kamex,GitHub
+10,caterpie,Caterpie,caterpie,caterpie,Caterpie,GitHub,Raupy,GitHub,Chenipan,GitHub,キャタピー,GitHub,Kyatapī,GitHub,Caterpie,GitHub
+11,metapod,Metapod,metapod,metapod,Metapod,GitHub,Safcon,GitHub,Chrysacier,GitHub,トランセル,GitHub,Toranseru,GitHub,Transel,GitHub
+12,butterfree,Butterfree,butterfree,butterfree,Butterfree,GitHub,Smettbo,GitHub,Papilusion,GitHub,バタフリー,GitHub,Batafurī,GitHub,Butterfree,GitHub
+13,weedle,Weedle,weedle,weedle,Weedle,GitHub,Hornliu,GitHub,Aspicot,GitHub,ビードル,GitHub,Bīdoru,GitHub,Beedle,GitHub
+14,kakuna,Kakuna,kakuna,kakuna,Kakuna,GitHub,Kokuna,GitHub,Coconfort,GitHub,コクーン,GitHub,Kokūn,GitHub,Cocoon,GitHub
+15,beedrill,Beedrill,beedrill,beedrill,Beedrill,GitHub,Bibor,GitHub,Dardargnan,GitHub,スピアー,GitHub,Supiā,GitHub,Spear,GitHub
+16,pidgey,Pidgey,pidgey,pidgey,Pidgey,GitHub,Taubsi,GitHub,Roucool,GitHub,ポッポ,GitHub,Poppo,GitHub,Poppo,GitHub
+17,pidgeotto,Pidgeotto,pidgeotto,pidgeotto,Pidgeotto,GitHub,Tauboga,GitHub,Roucoups,GitHub,ピジョン,GitHub,Pijon,GitHub,Pigeon,GitHub
+18,pidgeot,Pidgeot,pidgeot,pidgeot,Pidgeot,GitHub,Tauboss,GitHub,Roucarnage,GitHub,ピジョット,GitHub,Pijotto,GitHub,Pigeot,GitHub
+19,rattata,Rattata,rattata,rattata,Rattata,GitHub,Rattfratz,GitHub,Rattata,GitHub,コラッタ,GitHub,Koratta,GitHub,Koratta,GitHub
+20,raticate,Raticate,raticate,raticate,Raticate,GitHub,Rattikarl,GitHub,Rattatac,GitHub,ラッタ,GitHub,Ratta,GitHub,Ratta,GitHub
+21,spearow,Spearow,spearow,spearow,Spearow,GitHub,Habitak,GitHub,Piafabec,GitHub,オニスズメ,GitHub,Onisuzume,GitHub,Onisuzume,GitHub
+22,fearow,Fearow,fearow,fearow,Fearow,GitHub,Ibitak,GitHub,Rapasdepic,GitHub,オニドリル,GitHub,Onidoriru,GitHub,Onidrill,GitHub
+23,ekans,Ekans,ekans,ekans,Ekans,GitHub,Rettan,GitHub,Abo,GitHub,アーボ,GitHub,Ābo,GitHub,Arbo,GitHub
+24,arbok,Arbok,arbok,arbok,Arbok,GitHub,Arbok,GitHub,Arbok,GitHub,アーボック,GitHub,Ābokku,GitHub,Arbok,GitHub
+25,pikachu,Pikachu,pikachu,pikachu,Pikachu,GitHub,Pikachu,GitHub,Pikachu,GitHub,ピカチュウ,GitHub,Pikachū,GitHub,Pikachu,GitHub
+26,raichu,Raichu,raichu,raichu,Raichu,GitHub,Raichu,GitHub,Raichu,GitHub,ライチュウ,GitHub,Raichū,GitHub,Raichu,GitHub
+27,sandshrew,Sandshrew,sandshrew,sandshrew,Sandshrew,GitHub,Sandan,GitHub,Sabelette,GitHub,サンド,GitHub,Sando,GitHub,Sand,GitHub
+28,sandslash,Sandslash,sandslash,sandslash,Sandslash,GitHub,Sandamer,GitHub,Sablaireau,GitHub,サンドパン,GitHub,Sandopan,GitHub,Sandpan,GitHub
+29,nidoran,Nidoran♀️,nidoran-f,nidoran-f,Nidoran♀️,GitHub,Nidoran♀️,GitHub,Nidoran♀️,GitHub,ニドラン♀,GitHub,Nidoran♀,GitHub,Nidoran♀,GitHub
+30,nidorina,Nidorina,nidorina,nidorina,Nidorina,GitHub,Nidorina,GitHub,Nidorina,GitHub,ニドリーナ,GitHub,Nidorīna,GitHub,Nidorina,GitHub
+31,nidoqueen,Nidoqueen,nidoqueen,nidoqueen,Nidoqueen,GitHub,Nidoqueen,GitHub,Nidoqueen,GitHub,ニドクイン,GitHub,Nidokuin,GitHub,Nidoqueen,GitHub
+32,nidoran,Nidoran♂️,nidoran-m,nidoran-m,Nidoran♂️,GitHub,Nidoran♂️,GitHub,Nidoran♂️,GitHub,ニドラン♂,GitHub,Nidoran♂,GitHub,Nidoran♂,GitHub
+33,nidorino,Nidorino,nidorino,nidorino,Nidorino,GitHub,Nidorino,GitHub,Nidorino,GitHub,ニドリーノ,GitHub,Nidorīno,GitHub,Nidorino,GitHub
+34,nidoking,Nidoking,nidoking,nidoking,Nidoking,GitHub,Nidoking,GitHub,Nidoking,GitHub,ニドキング,GitHub,Nidokingu,GitHub,Nidoking,GitHub
+35,clefairy,Clefairy,clefairy,clefairy,Clefairy,GitHub,Piepi,GitHub,Mélofée,GitHub,ピッピ,GitHub,Pippi,GitHub,Pippi,GitHub
+36,clefable,Clefable,clefable,clefable,Clefable,GitHub,Pixi,GitHub,Mélodelfe,GitHub,ピクシー,GitHub,Pikushī,GitHub,Pixy,GitHub
+37,vulpix,Vulpix,vulpix,vulpix,Vulpix,GitHub,Vulpix,GitHub,Goupix,GitHub,ロコン,GitHub,Rokon,GitHub,Rokon,GitHub
+38,ninetales,Ninetales,ninetales,ninetales,Ninetales,GitHub,Vulnona,GitHub,Feunard,GitHub,キュウコン,GitHub,Kyūkon,GitHub,Kyukon,GitHub
+39,jigglypuff,Jigglypuff,jigglypuff,jigglypuff,Jigglypuff,GitHub,Pummeluff,GitHub,Rondoudou,GitHub,プリン,GitHub,Purin,GitHub,Purin,GitHub
+40,wigglytuff,Wigglytuff,wigglytuff,wigglytuff,Wigglytuff,GitHub,Knuddeluff,GitHub,Grodoudou,GitHub,プクリン,GitHub,Pukurin,GitHub,Pukurin,GitHub
+41,zubat,Zubat,zubat,zubat,Zubat,GitHub,Zubat,GitHub,Nosferapti,GitHub,ズバット,GitHub,Zubatto,GitHub,Zubat,GitHub
+42,golbat,Golbat,golbat,golbat,Golbat,GitHub,Golbat,GitHub,Nosferalto,GitHub,ゴルバット,GitHub,Gorubatto,GitHub,Golbat,GitHub
+43,oddish,Oddish,oddish,oddish,Oddish,GitHub,Myrapla,GitHub,Mystherbe,GitHub,ナゾノクサ,GitHub,Nazonokusa,GitHub,Nazonokusa,GitHub
+44,gloom,Gloom,gloom,gloom,Gloom,GitHub,Duflor,GitHub,Ortide,GitHub,クサイハナ,GitHub,Kusaihana,GitHub,Kusaihana,GitHub
+45,vileplume,Vileplume,vileplume,vileplume,Vileplume,GitHub,Giflor,GitHub,Rafflesia,GitHub,ラフレシア,GitHub,Rafureshia,GitHub,Ruffresia,GitHub
+46,paras,Paras,paras,paras,Paras,GitHub,Paras,GitHub,Paras,GitHub,パラス,GitHub,Parasu,GitHub,Paras,GitHub
+47,parasect,Parasect,parasect,parasect,Parasect,GitHub,Parasek,GitHub,Parasect,GitHub,パラセクト,GitHub,Parasekuto,GitHub,Parasect,GitHub
+48,venonat,Venonat,venonat,venonat,Venonat,GitHub,Bluzuk,GitHub,Mimitoss,GitHub,コンパン,GitHub,Konpan,GitHub,Kongpang,GitHub
+49,venomoth,Venomoth,venomoth,venomoth,Venomoth,GitHub,Omot,GitHub,Aéromite,GitHub,モルフォン,GitHub,Morufon,GitHub,Morphon,GitHub
+50,diglett,Diglett,diglett,diglett,Diglett,GitHub,Digda,GitHub,Taupiqueur,GitHub,ディグダ,GitHub,Diguda,GitHub,Digda,GitHub
+51,dugtrio,Dugtrio,dugtrio,dugtrio,Dugtrio,GitHub,Digdri,GitHub,Triopikeur,GitHub,ダグトリオ,GitHub,Dagutorio,GitHub,Dugtrio,GitHub
+52,meowth,Meowth,meowth,meowth,Meowth,GitHub,Mauzi,GitHub,Miaouss,GitHub,ニャース,GitHub,Nyāsu,GitHub,Nyarth,GitHub
+53,persian,Persian,persian,persian,Persian,GitHub,Snobilikat,GitHub,Persian,GitHub,ペルシアン,GitHub,Perushian,GitHub,Persian,GitHub
+54,psyduck,Psyduck,psyduck,psyduck,Psyduck,GitHub,Enton,GitHub,Psykokwak,GitHub,コダック,GitHub,Kodakku,GitHub,Koduck,GitHub
+55,golduck,Golduck,golduck,golduck,Golduck,GitHub,Entoron,GitHub,Akwakwak,GitHub,ゴルダック,GitHub,Gorudakku,GitHub,Golduck,GitHub
+56,mankey,Mankey,mankey,mankey,Mankey,GitHub,Menki,GitHub,Férosinge,GitHub,マンキー,GitHub,Mankī,GitHub,Mankey,GitHub
+57,primeape,Primeape,primeape,primeape,Primeape,GitHub,Rasaff,GitHub,Colossinge,GitHub,オコリザル,GitHub,Okorizaru,GitHub,Okorizaru,GitHub
+58,growlithe,Growlithe,growlithe,growlithe,Growlithe,GitHub,Fukano,GitHub,Caninos,GitHub,ガーディ,GitHub,Gādi,GitHub,Gardie,GitHub
+59,arcanine,Arcanine,arcanine,arcanine,Arcanine,GitHub,Arkani,GitHub,Arcanin,GitHub,ウインディ,GitHub,Uindi,GitHub,Windie,GitHub
+60,poliwag,Poliwag,poliwag,poliwag,Poliwag,GitHub,Quapsel,GitHub,Ptitard,GitHub,ニョロモ,GitHub,Nyoromo,GitHub,Nyoromo,GitHub
+61,poliwhirl,Poliwhirl,poliwhirl,poliwhirl,Poliwhirl,GitHub,Quaputzi,GitHub,Têtarte,GitHub,ニョロゾ,GitHub,Nyorozo,GitHub,Nyorozo,GitHub
+62,poliwrath,Poliwrath,poliwrath,poliwrath,Poliwrath,GitHub,Quappo,GitHub,Tartard,GitHub,ニョロボン,GitHub,Nyorobon,GitHub,Nyorobon,GitHub
+63,abra,Abra,abra,abra,Abra,GitHub,Abra,GitHub,Abra,GitHub,ケーシィ,GitHub,Kēshī,GitHub,Casey,GitHub
+64,kadabra,Kadabra,kadabra,kadabra,Kadabra,GitHub,Kadabra,GitHub,Kadabra,GitHub,ユンゲラー,GitHub,Yungerā,GitHub,Yungerer,GitHub
+65,alakazam,Alakazam,alakazam,alakazam,Alakazam,GitHub,Simsala,GitHub,Alakazam,GitHub,フーディン,GitHub,Fūdin,GitHub,Foodin,GitHub
+66,machop,Machop,machop,machop,Machop,GitHub,Machollo,GitHub,Machoc,GitHub,ワンリキー,GitHub,Wanrikī,GitHub,Wanriky,GitHub
+67,machoke,Machoke,machoke,machoke,Machoke,GitHub,Maschock,GitHub,Machopeur,GitHub,ゴーリキー,GitHub,Gōrikī,GitHub,Goriky,GitHub
+68,machamp,Machamp,machamp,machamp,Machamp,GitHub,Machomei,GitHub,Mackogneur,GitHub,カイリキー,GitHub,Kairikī,GitHub,Kairiky,GitHub
+69,bellsprout,Bellsprout,bellsprout,bellsprout,Bellsprout,GitHub,Knofensa,GitHub,Chétiflor,GitHub,マダツボミ,GitHub,Madatsubomi,GitHub,Madatsubomi,GitHub
+70,weepinbell,Weepinbell,weepinbell,weepinbell,Weepinbell,GitHub,Ultrigaria,GitHub,Boustiflor,GitHub,ウツドン,GitHub,Utsudon,GitHub,Utsudon,GitHub
+71,victreebel,Victreebel,victreebel,victreebel,Victreebel,GitHub,Sarzenia,GitHub,Empiflor,GitHub,ウツボット,GitHub,Utsubotto,GitHub,Utsubot,GitHub
+72,tentacool,Tentacool,tentacool,tentacool,Tentacool,GitHub,Tentacha,GitHub,Tentacool,GitHub,メノクラゲ,GitHub,Menokurage,GitHub,Menokurage,GitHub
+73,tentacruel,Tentacruel,tentacruel,tentacruel,Tentacruel,GitHub,Tentoxa,GitHub,Tentacruel,GitHub,ドククラゲ,GitHub,Dokukurage,GitHub,Dokukurage,GitHub
+74,geodude,Geodude,geodude,geodude,Geodude,GitHub,Kleinstein,GitHub,Racaillou,GitHub,イシツブテ,GitHub,Ishitsubute,GitHub,Isitsubute,GitHub
+75,graveler,Graveler,graveler,graveler,Graveler,GitHub,Georok,GitHub,Gravalanch,GitHub,ゴローン,GitHub,Gorōn,GitHub,Golone,GitHub
+76,golem,Golem,golem,golem,Golem,GitHub,Geowaz,GitHub,Grolem,GitHub,ゴローニャ,GitHub,Gorōnya,GitHub,Golonya,GitHub
+77,ponyta,Ponyta,ponyta,ponyta,Ponyta,GitHub,Ponita,GitHub,Ponyta,GitHub,ポニータ,GitHub,Ponīta,GitHub,Ponyta,GitHub
+78,rapidash,Rapidash,rapidash,rapidash,Rapidash,GitHub,Gallopa,GitHub,Galopa,GitHub,ギャロップ,GitHub,Gyaroppu,GitHub,Gallop,GitHub
+79,slowpoke,Slowpoke,slowpoke,slowpoke,Slowpoke,GitHub,Flegmon,GitHub,Ramoloss,GitHub,ヤドン,GitHub,Yadon,GitHub,Yadon,GitHub
+80,slowbro,Slowbro,slowbro,slowbro,Slowbro,GitHub,Lahmus,GitHub,Flagadoss,GitHub,ヤドラン,GitHub,Yadoran,GitHub,Yadoran,GitHub
+81,magnemite,Magnemite,magnemite,magnemite,Magnemite,GitHub,Magnetilo,GitHub,Magnéti,GitHub,コイル,GitHub,Koiru,GitHub,Coil,GitHub
+82,magneton,Magneton,magneton,magneton,Magneton,GitHub,Magneton,GitHub,Magnéton,GitHub,レアコイル,GitHub,Reakoiru,GitHub,Rarecoil,GitHub
+83,farfetchd,Farfetch'd,farfetchd,farfetchd,Farfetch'd,GitHub,Porenta,GitHub,Canarticho,GitHub,カモネギ,GitHub,Kamonegi,GitHub,Kamonegi,GitHub
+84,doduo,Doduo,doduo,doduo,Doduo,GitHub,Dodu,GitHub,Doduo,GitHub,ドードー,GitHub,Dōdō,GitHub,Dodo,GitHub
+85,dodrio,Dodrio,dodrio,dodrio,Dodrio,GitHub,Dodri,GitHub,Dodrio,GitHub,ドードリオ,GitHub,Dōdorio,GitHub,Dodorio,GitHub
+86,seel,Seel,seel,seel,Seel,GitHub,Jurob,GitHub,Otaria,GitHub,パウワウ,GitHub,Pauwau,GitHub,Pawou,GitHub
+87,dewgong,Dewgong,dewgong,dewgong,Dewgong,GitHub,Jugong,GitHub,Lamantine,GitHub,ジュゴン,GitHub,Jugon,GitHub,Jugon,GitHub
+88,grimer,Grimer,grimer,grimer,Grimer,GitHub,Sleima,GitHub,Tadmorv,GitHub,ベトベター,GitHub,Betobetā,GitHub,Betbeter,GitHub
+89,muk,Muk,muk,muk,Muk,GitHub,Sleimok,GitHub,Grotadmorv,GitHub,ベトベトン,GitHub,Betobeton,GitHub,Betbeton,GitHub
+90,shellder,Shellder,shellder,shellder,Shellder,GitHub,Muschas,GitHub,Kokiyas,GitHub,シェルダー,GitHub,Sherudā,GitHub,Shellder,GitHub
+91,cloyster,Cloyster,cloyster,cloyster,Cloyster,GitHub,Austos,GitHub,Crustabri,GitHub,パルシェン,GitHub,Parushen,GitHub,Parshen,GitHub
+92,gastly,Gastly,gastly,gastly,Gastly,GitHub,Nebulak,GitHub,Fantominus,GitHub,ゴース,GitHub,Gōsu,GitHub,Ghos,GitHub
+93,haunter,Haunter,haunter,haunter,Haunter,GitHub,Alpollo,GitHub,Spectrum,GitHub,ゴースト,GitHub,Gōsuto,GitHub,Ghost,GitHub
+94,gengar,Gengar,gengar,gengar,Gengar,GitHub,Gengar,GitHub,Ectoplasma,GitHub,ゲンガー,GitHub,Gengā,GitHub,Gangar,GitHub
+95,onix,Onix,onix,onix,Onix,GitHub,Onix,GitHub,Onix,GitHub,イワーク,GitHub,Iwāku,GitHub,Iwark,GitHub
+96,drowzee,Drowzee,drowzee,drowzee,Drowzee,GitHub,Traumato,GitHub,Soporifik,GitHub,スリープ,GitHub,Surīpu,GitHub,Sleepe,GitHub
+97,hypno,Hypno,hypno,hypno,Hypno,GitHub,Hypno,GitHub,Hypnomade,GitHub,スリーパー,GitHub,Surīpā,GitHub,Sleeper,GitHub
+98,krabby,Krabby,krabby,krabby,Krabby,GitHub,Krabby,GitHub,Krabby,GitHub,クラブ,GitHub,Kurabu,GitHub,Crab,GitHub
+99,kingler,Kingler,kingler,kingler,Kingler,GitHub,Kingler,GitHub,Krabboss,GitHub,キングラー,GitHub,Kingurā,GitHub,Kingler,GitHub
+100,voltorb,Voltorb,voltorb,voltorb,Voltorb,GitHub,Voltobal,GitHub,Voltorbe,GitHub,ビリリダマ,GitHub,Biriridama,GitHub,Biriridama,GitHub
+101,electrode,Electrode,electrode,electrode,Electrode,GitHub,Lektrobal,GitHub,Électrode,GitHub,マルマイン,GitHub,Marumain,GitHub,Marumine,GitHub
+102,exeggcute,Exeggcute,exeggcute,exeggcute,Exeggcute,GitHub,Owei,GitHub,Noeunoeuf,GitHub,タマタマ,GitHub,Tamatama,GitHub,Tamatama,GitHub
+103,exeggutor,Exeggutor,exeggutor,exeggutor,Exeggutor,GitHub,Kokowei,GitHub,Noadkoko,GitHub,ナッシー,GitHub,Nasshī,GitHub,Nassy,GitHub
+104,cubone,Cubone,cubone,cubone,Cubone,GitHub,Tragosso,GitHub,Osselait,GitHub,カラカラ,GitHub,Karakara,GitHub,Karakara,GitHub
+105,marowak,Marowak,marowak,marowak,Marowak,GitHub,Knogga,GitHub,Ossatueur,GitHub,ガラガラ,GitHub,Garagara,GitHub,Garagara,GitHub
+106,hitmonlee,Hitmonlee,hitmonlee,hitmonlee,Hitmonlee,GitHub,Kicklee,GitHub,Kicklee,GitHub,サワムラー,GitHub,Sawamurā,GitHub,Sawamular,GitHub
+107,hitmonchan,Hitmonchan,hitmonchan,hitmonchan,Hitmonchan,GitHub,Nockchan,GitHub,Tygnon,GitHub,エビワラー,GitHub,Ebiwarā,GitHub,Ebiwalar,GitHub
+108,lickitung,Lickitung,lickitung,lickitung,Lickitung,GitHub,Schlurp,GitHub,Excelangue,GitHub,ベロリンガ,GitHub,Beroringa,GitHub,Beroringa,GitHub
+109,koffing,Koffing,koffing,koffing,Koffing,GitHub,Smogon,GitHub,Smogo,GitHub,ドガース,GitHub,Dogāsu,GitHub,Dogars,GitHub
+110,weezing,Weezing,weezing,weezing,Weezing,GitHub,Smogmog,GitHub,Smogogo,GitHub,マタドガス,GitHub,Matadogasu,GitHub,Matadogas,GitHub
+111,rhyhorn,Rhyhorn,rhyhorn,rhyhorn,Rhyhorn,GitHub,Rihorn,GitHub,Rhinocorne,GitHub,サイホーン,GitHub,Saihōn,GitHub,Sihorn,GitHub
+112,rhydon,Rhydon,rhydon,rhydon,Rhydon,GitHub,Rizeros,GitHub,Rhinoféros,GitHub,サイドン,GitHub,Saidon,GitHub,Sidon,GitHub
+113,chansey,Chansey,chansey,chansey,Chansey,GitHub,Chaneira,GitHub,Leveinard,GitHub,ラッキー,GitHub,Rakkī,GitHub,Lucky,GitHub
+114,tangela,Tangela,tangela,tangela,Tangela,GitHub,Tangela,GitHub,Saquedeneu,GitHub,モンジャラ,GitHub,Monjara,GitHub,Monjara,GitHub
+115,kangaskhan,Kangaskhan,kangaskhan,kangaskhan,Kangaskhan,GitHub,Kangama,GitHub,Kangourex,GitHub,ガルーラ,GitHub,Garūra,GitHub,Garura,GitHub
+116,horsea,Horsea,horsea,horsea,Horsea,GitHub,Seeper,GitHub,Hypotrempe,GitHub,タッツー,GitHub,Tattsū,GitHub,Tattu,GitHub
+117,seadra,Seadra,seadra,seadra,Seadra,GitHub,Seemon,GitHub,Hypocéan,GitHub,シードラ,GitHub,Shīdora,GitHub,Seadra,GitHub
+118,goldeen,Goldeen,goldeen,goldeen,Goldeen,GitHub,Goldini,GitHub,Poissirène,GitHub,トサキント,GitHub,Tosakinto,GitHub,Tosakinto,GitHub
+119,seaking,Seaking,seaking,seaking,Seaking,GitHub,Golking,GitHub,Poissoroy,GitHub,アズマオウ,GitHub,Azumaō,GitHub,Azumao,GitHub
+120,staryu,Staryu,staryu,staryu,Staryu,GitHub,Sterndu,GitHub,Stari,GitHub,ヒトデマン,GitHub,Hitodeman,GitHub,Hitodeman,GitHub
+121,starmie,Starmie,starmie,starmie,Starmie,GitHub,Starmie,GitHub,Staross,GitHub,スターミー,GitHub,Sutāmī,GitHub,Starmie,GitHub
+122,mr-mime,Mr. Mime,mr-mime,mr-mime,Mr. Mime,GitHub,Pantimos,GitHub,M. Mime,GitHub,バリヤード,GitHub,Bariyādo,GitHub,Barrierd,GitHub
+123,scyther,Scyther,scyther,scyther,Scyther,GitHub,Sichlor,GitHub,Insécateur,GitHub,ストライク,GitHub,Sutoraiku,GitHub,Strike,GitHub
+124,jynx,Jynx,jynx,jynx,Jynx,GitHub,Rossana,GitHub,Lippoutou,GitHub,ルージュラ,GitHub,Rūjura,GitHub,Rougela,GitHub
+125,electabuzz,Electabuzz,electabuzz,electabuzz,Electabuzz,GitHub,Elektek,GitHub,Élektek,GitHub,エレブー,GitHub,Erebū,GitHub,Eleboo,GitHub
+126,magmar,Magmar,magmar,magmar,Magmar,GitHub,Magmar,GitHub,Magmar,GitHub,ブーバー,GitHub,Būbā,GitHub,Boober,GitHub
+127,pinsir,Pinsir,pinsir,pinsir,Pinsir,GitHub,Pinsir,GitHub,Scarabrute,GitHub,カイロス,GitHub,Kairosu,GitHub,Kailios,GitHub
+128,tauros,Tauros,tauros,tauros,Tauros,GitHub,Tauros,GitHub,Tauros,GitHub,ケンタロス,GitHub,Kentarosu,GitHub,Kentauros,GitHub
+129,magikarp,Magikarp,magikarp,magikarp,Magikarp,GitHub,Karpador,GitHub,Magicarpe,GitHub,コイキング,GitHub,Koikingu,GitHub,Koiking,GitHub
+130,gyarados,Gyarados,gyarados,gyarados,Gyarados,GitHub,Garados,GitHub,Léviator,GitHub,ギャラドス,GitHub,Gyaradosu,GitHub,Gyarados,GitHub
+131,lapras,Lapras,lapras,lapras,Lapras,GitHub,Lapras,GitHub,Lokhlass,GitHub,ラプラス,GitHub,Rapurasu,GitHub,Laplace,GitHub
+132,ditto,Ditto,ditto,ditto,Ditto,GitHub,Ditto,GitHub,Métamorph,GitHub,メタモン,GitHub,Metamon,GitHub,Metamon,GitHub
+133,eevee,Eevee,eevee,eevee,Eevee,GitHub,Evoli,GitHub,Évoli,GitHub,イーブイ,GitHub,Ībui,GitHub,Eievui,GitHub
+134,vaporeon,Vaporeon,vaporeon,vaporeon,Vaporeon,GitHub,Aquana,GitHub,Aquali,GitHub,シャワーズ,GitHub,Shawāzu,GitHub,Showers,GitHub
+135,jolteon,Jolteon,jolteon,jolteon,Jolteon,GitHub,Blitza,GitHub,Voltali,GitHub,サンダース,GitHub,Sandāsu,GitHub,Thunders,GitHub
+136,flareon,Flareon,flareon,flareon,Flareon,GitHub,Flamara,GitHub,Pyroli,GitHub,ブースター,GitHub,Būsutā,GitHub,Booster,GitHub
+137,porygon,Porygon,porygon,porygon,Porygon,GitHub,Porygon,GitHub,Porygon,GitHub,ポリゴン,GitHub,Porigon,GitHub,Porygon,GitHub
+138,omanyte,Omanyte,omanyte,omanyte,Omanyte,GitHub,Amonitas,GitHub,Amonita,GitHub,オムナイト,GitHub,Omunaito,GitHub,Omnite,GitHub
+139,omastar,Omastar,omastar,omastar,Omastar,GitHub,Amoroso,GitHub,Amonistar,GitHub,オムスター,GitHub,Omusutā,GitHub,Omstar,GitHub
+140,kabuto,Kabuto,kabuto,kabuto,Kabuto,GitHub,Kabuto,GitHub,Kabuto,GitHub,カブト,GitHub,Kabuto,GitHub,Kabuto,GitHub
+141,kabutops,Kabutops,kabutops,kabutops,Kabutops,GitHub,Kabutops,GitHub,Kabutops,GitHub,カブトプス,GitHub,Kabutopusu,GitHub,Kabutops,GitHub
+142,aerodactyl,Aerodactyl,aerodactyl,aerodactyl,Aerodactyl,GitHub,Aerodactyl,GitHub,Ptéra,GitHub,プテラ,GitHub,Putera,GitHub,Ptera,GitHub
+143,snorlax,Snorlax,snorlax,snorlax,Snorlax,GitHub,Relaxo,GitHub,Ronflex,GitHub,カビゴン,GitHub,Kabigon,GitHub,Kabigon,GitHub
+144,articuno,Articuno,articuno,articuno,Articuno,GitHub,Arktos,GitHub,Artikodin,GitHub,フリーザー,GitHub,Furīzā,GitHub,Freezer,GitHub
+145,zapdos,Zapdos,zapdos,zapdos,Zapdos,GitHub,Zapdos,GitHub,Électhor,GitHub,サンダー,GitHub,Sandā,GitHub,Thunder,GitHub
+146,moltres,Moltres,moltres,moltres,Moltres,GitHub,Lavados,GitHub,Sulfura,GitHub,ファイヤー,GitHub,Faiyā,GitHub,Fire,GitHub
+147,dratini,Dratini,dratini,dratini,Dratini,GitHub,Dratini,GitHub,Minidraco,GitHub,ミニリュウ,GitHub,Miniryū,GitHub,Miniryu,GitHub
+148,dragonair,Dragonair,dragonair,dragonair,Dragonair,GitHub,Dragonir,GitHub,Draco,GitHub,ハクリュー,GitHub,Hakuryū,GitHub,Hakuryu,GitHub
+149,dragonite,Dragonite,dragonite,dragonite,Dragonite,GitHub,Dragoran,GitHub,Dracolosse,GitHub,カイリュー,GitHub,Kairyū,GitHub,Kairyu,GitHub
+150,mewtwo,Mewtwo,mewtwo,mewtwo,Mewtwo,GitHub,Mewtu,GitHub,Mewtwo,GitHub,ミュウツー,GitHub,Myūtsū,GitHub,Mewtwo,GitHub
+151,mew,Mew,mew,mew,Mew,GitHub,Mew,GitHub,Mew,GitHub,ミュウ,GitHub,Myū,GitHub,Mew,GitHub
+152,chikorita,Chikorita,chikorita,chikorita,Chikorita,GitHub,Endivie,GitHub,Germignon,GitHub,チコリータ,GitHub,Chikorīta,GitHub,Chicorita,GitHub
+153,bayleef,Bayleef,bayleef,bayleef,Bayleef,GitHub,Lorblatt,GitHub,Macronium,GitHub,ベイリーフ,GitHub,Beirīfu,GitHub,Bayleaf,GitHub
+154,meganium,Meganium,meganium,meganium,Meganium,GitHub,Meganie,GitHub,Méganium,GitHub,メガニウム,GitHub,Meganiumu,GitHub,Meganium,GitHub
+155,cyndaquil,Cyndaquil,cyndaquil,cyndaquil,Cyndaquil,GitHub,Feurigel,GitHub,Héricendre,GitHub,ヒノアラシ,GitHub,Hinoarashi,GitHub,Hinoarashi,GitHub
+156,quilava,Quilava,quilava,quilava,Quilava,GitHub,Igelavar,GitHub,Feurisson,GitHub,マグマラシ,GitHub,Magumarashi,GitHub,Magmarashi,GitHub
+157,typhlosion,Typhlosion,typhlosion,typhlosion,Typhlosion,GitHub,Tornupto,GitHub,Typhlosion,GitHub,バクフーン,GitHub,Bakufūn,GitHub,Bakphoon,GitHub
+158,totodile,Totodile,totodile,totodile,Totodile,GitHub,Karnimani,GitHub,Kaiminus,GitHub,ワニノコ,GitHub,Waninoko,GitHub,Waninoko,GitHub
+159,croconaw,Croconaw,croconaw,croconaw,Croconaw,GitHub,Tyracroc,GitHub,Crocrodil,GitHub,アリゲイツ,GitHub,Arigeitsu,GitHub,Alligates,GitHub
+160,feraligatr,Feraligatr,feraligatr,feraligatr,Feraligatr,GitHub,Impergator,GitHub,Aligatueur,GitHub,オーダイル,GitHub,Ōdairu,GitHub,Ordile,GitHub
+161,sentret,Sentret,sentret,sentret,Sentret,GitHub,Wiesor,GitHub,Fouinette,GitHub,オタチ,GitHub,Otachi,GitHub,Otachi,GitHub
+162,furret,Furret,furret,furret,Furret,GitHub,Wiesenior,GitHub,Fouinar,GitHub,オオタチ,GitHub,Ōtachi,GitHub,Ootachi,GitHub
+163,hoothoot,Hoothoot,hoothoot,hoothoot,Hoothoot,GitHub,Hoothoot,GitHub,Hoothoot,GitHub,ホーホー,GitHub,Hōhō,GitHub,Hoho,GitHub
+164,noctowl,Noctowl,noctowl,noctowl,Noctowl,GitHub,Noctuh,GitHub,Noarfang,GitHub,ヨルノズク,GitHub,Yorunozuku,GitHub,Yorunozuku,GitHub
+165,ledyba,Ledyba,ledyba,ledyba,Ledyba,GitHub,Ledyba,GitHub,Coxy,GitHub,レディバ,GitHub,Rediba,GitHub,Rediba,GitHub
+166,ledian,Ledian,ledian,ledian,Ledian,GitHub,Ledian,GitHub,Coxyclaque,GitHub,レディアン,GitHub,Redian,GitHub,Redian,GitHub
+167,spinarak,Spinarak,spinarak,spinarak,Spinarak,GitHub,Webarak,GitHub,Mimigal,GitHub,イトマル,GitHub,Itomaru,GitHub,Itomaru,GitHub
+168,ariados,Ariados,ariados,ariados,Ariados,GitHub,Ariados,GitHub,Migalos,GitHub,アリアドス,GitHub,Ariadosu,GitHub,Ariados,GitHub
+169,crobat,Crobat,crobat,crobat,Crobat,GitHub,Iksbat,GitHub,Nostenfer,GitHub,クロバット,GitHub,Kurobatto,GitHub,Crobat,GitHub
+170,chinchou,Chinchou,chinchou,chinchou,Chinchou,GitHub,Lampi,GitHub,Loupio,GitHub,チョンチー,GitHub,Chonchī,GitHub,Chonchie,GitHub
+171,lanturn,Lanturn,lanturn,lanturn,Lanturn,GitHub,Lanturn,GitHub,Lanturn,GitHub,ランターン,GitHub,Rantān,GitHub,Lantern,GitHub
+172,pichu,Pichu,pichu,pichu,Pichu,GitHub,Pichu,GitHub,Pichu,GitHub,ピチュー,GitHub,Pichū,GitHub,Pichu,GitHub
+173,cleffa,Cleffa,cleffa,cleffa,Cleffa,GitHub,Pii,GitHub,Mélo,GitHub,ピィ,GitHub,Pī,GitHub,Py,GitHub
+174,igglybuff,Igglybuff,igglybuff,igglybuff,Igglybuff,GitHub,Fluffeluff,GitHub,Toudoudou,GitHub,ププリン,GitHub,Pupurin,GitHub,Pupurin,GitHub
+175,togepi,Togepi,togepi,togepi,Togepi,GitHub,Togepi,GitHub,Togepi,GitHub,トゲピー,GitHub,Togepī,GitHub,Togepy,GitHub
+176,togetic,Togetic,togetic,togetic,Togetic,GitHub,Togetic,GitHub,Togetic,GitHub,トゲチック,GitHub,Togechikku,GitHub,Togechick,GitHub
+177,natu,Natu,natu,natu,Natu,GitHub,Natu,GitHub,Natu,GitHub,ネイティ,GitHub,Neiti,GitHub,Naty,GitHub
+178,xatu,Xatu,xatu,xatu,Xatu,GitHub,Xatu,GitHub,Xatu,GitHub,ネイティオ,GitHub,Neitio,GitHub,Natio,GitHub
+179,mareep,Mareep,mareep,mareep,Mareep,GitHub,Voltilamm,GitHub,Wattouat,GitHub,メリープ,GitHub,Merīpu,GitHub,Merriep,GitHub
+180,flaaffy,Flaaffy,flaaffy,flaaffy,Flaaffy,GitHub,Waaty,GitHub,Lainergie,GitHub,モココ,GitHub,Mokoko,GitHub,Mokoko,GitHub
+181,ampharos,Ampharos,ampharos,ampharos,Ampharos,GitHub,Ampharos,GitHub,Pharamp,GitHub,デンリュウ,GitHub,Denryū,GitHub,Denryu,GitHub
+182,bellossom,Bellossom,bellossom,bellossom,Bellossom,GitHub,Blubella,GitHub,Joliflor,GitHub,キレイハナ,GitHub,Kireihana,GitHub,Kireihana,GitHub
+183,marill,Marill,marill,marill,Marill,GitHub,Marill,GitHub,Marill,GitHub,マリル,GitHub,Mariru,GitHub,Maril,GitHub
+184,azumarill,Azumarill,azumarill,azumarill,Azumarill,GitHub,Azumarill,GitHub,Azumarill,GitHub,マリルリ,GitHub,Mariruri,GitHub,Marilli,GitHub
+185,sudowoodo,Sudowoodo,sudowoodo,sudowoodo,Sudowoodo,GitHub,Mogelbaum,GitHub,Simularbre,GitHub,ウソッキー,GitHub,Usokkī,GitHub,Usokkie,GitHub
+186,politoed,Politoed,politoed,politoed,Politoed,GitHub,Quaxo,GitHub,Tarpaud,GitHub,ニョロトノ,GitHub,Nyorotono,GitHub,Nyorotono,GitHub
+187,hoppip,Hoppip,hoppip,hoppip,Hoppip,GitHub,Hoppspross,GitHub,Granivol,GitHub,ハネッコ,GitHub,Hanekko,GitHub,Hanecco,GitHub
+188,skiploom,Skiploom,skiploom,skiploom,Skiploom,GitHub,Hubelupf,GitHub,Floravol,GitHub,ポポッコ,GitHub,Popokko,GitHub,Popocco,GitHub
+189,jumpluff,Jumpluff,jumpluff,jumpluff,Jumpluff,GitHub,Papungha,GitHub,Cotovol,GitHub,ワタッコ,GitHub,Watakko,GitHub,Watacco,GitHub
+190,aipom,Aipom,aipom,aipom,Aipom,GitHub,Griffel,GitHub,Capumain,GitHub,エイパム,GitHub,Eipamu,GitHub,Eipam,GitHub
+191,sunkern,Sunkern,sunkern,sunkern,Sunkern,GitHub,Sonnkern,GitHub,Tournegrin,GitHub,ヒマナッツ,GitHub,Himanattsu,GitHub,Himanuts,GitHub
+192,sunflora,Sunflora,sunflora,sunflora,Sunflora,GitHub,Sonnflora,GitHub,Héliatronc,GitHub,キマワリ,GitHub,Kimawari,GitHub,Kimawari,GitHub
+193,yanma,Yanma,yanma,yanma,Yanma,GitHub,Yanma,GitHub,Yanma,GitHub,ヤンヤンマ,GitHub,Yan'yanma,GitHub,Yanyanma,GitHub
+194,wooper,Wooper,wooper,wooper,Wooper,GitHub,Felino,GitHub,Axoloto,GitHub,ウパー,GitHub,Upā,GitHub,Upah,GitHub
+195,quagsire,Quagsire,quagsire,quagsire,Quagsire,GitHub,Morlord,GitHub,Maraiste,GitHub,ヌオー,GitHub,Nuō,GitHub,Nuoh,GitHub
+196,espeon,Espeon,espeon,espeon,Espeon,GitHub,Psiana,GitHub,Mentali,GitHub,エーフィ,GitHub,Ēfi,GitHub,Eifie,GitHub
+197,umbreon,Umbreon,umbreon,umbreon,Umbreon,GitHub,Nachtara,GitHub,Noctali,GitHub,ブラッキー,GitHub,Burakkī,GitHub,Blacky,GitHub
+198,murkrow,Murkrow,murkrow,murkrow,Murkrow,GitHub,Kramurx,GitHub,Cornèbre,GitHub,ヤミカラス,GitHub,Yamikarasu,GitHub,Yamikarasu,GitHub
+199,slowking,Slowking,slowking,slowking,Slowking,GitHub,Laschoking,GitHub,Roigada,GitHub,ヤドキング,GitHub,Yadokingu,GitHub,Yadoking,GitHub
+200,misdreavus,Misdreavus,misdreavus,misdreavus,Misdreavus,GitHub,Traunfugil,GitHub,Feuforêve,GitHub,ムウマ,GitHub,Mūma,GitHub,Muma,GitHub
+201,unown,Unown,unown,unown,Unown,GitHub,Icognito,GitHub,Zarbi,GitHub,アンノーン,GitHub,Annōn,GitHub,Unknown,GitHub
+202,wobbuffet,Wobbuffet,wobbuffet,wobbuffet,Wobbuffet,GitHub,Woingenau,GitHub,Qulbutoké,GitHub,ソーナンス,GitHub,Sōnansu,GitHub,Sonans,GitHub
+203,girafarig,Girafarig,girafarig,girafarig,Girafarig,GitHub,Girafarig,GitHub,Girafarig,GitHub,キリンリキ,GitHub,Kirinriki,GitHub,Kirinriki,GitHub
+204,pineco,Pineco,pineco,pineco,Pineco,GitHub,Tannza,GitHub,Pomdepik,GitHub,クヌギダマ,GitHub,Kunugidama,GitHub,Kunugidama,GitHub
+205,forretress,Forretress,forretress,forretress,Forretress,GitHub,Forstellka,GitHub,Foretress,GitHub,フォレトス,GitHub,Foretosu,GitHub,Foretos,GitHub
+206,dunsparce,Dunsparce,dunsparce,dunsparce,Dunsparce,GitHub,Dummisel,GitHub,Insolourdo,GitHub,ノコッチ,GitHub,Nokotchi,GitHub,Nokocchi,GitHub
+207,gligar,Gligar,gligar,gligar,Gligar,GitHub,Skorgla,GitHub,Scorplane,GitHub,グライガー,GitHub,Guraigā,GitHub,Gliger,GitHub
+208,steelix,Steelix,steelix,steelix,Steelix,GitHub,Stahlos,GitHub,Steelix,GitHub,ハガネール,GitHub,Haganēru,GitHub,Haganeil,GitHub
+209,snubbull,Snubbull,snubbull,snubbull,Snubbull,GitHub,Snubbull,GitHub,Snubbull,GitHub,ブルー,GitHub,Burū,GitHub,Bulu,GitHub
+210,granbull,Granbull,granbull,granbull,Granbull,GitHub,Granbull,GitHub,Granbull,GitHub,グランブル,GitHub,Guranburu,GitHub,Granbulu,GitHub
+211,qwilfish,Qwilfish,qwilfish,qwilfish,Qwilfish,GitHub,Baldorfish,GitHub,Qwilfish,GitHub,ハリーセン,GitHub,Harīsen,GitHub,Harysen,GitHub
+212,scizor,Scizor,scizor,scizor,Scizor,GitHub,Scherox,GitHub,Cizayox,GitHub,ハッサム,GitHub,Hassamu,GitHub,Hassam,GitHub
+213,shuckle,Shuckle,shuckle,shuckle,Shuckle,GitHub,Pottrott,GitHub,Caratroc,GitHub,ツボツボ,GitHub,Tsubotsubo,GitHub,Tsubotsubo,GitHub
+214,heracross,Heracross,heracross,heracross,Heracross,GitHub,Skaraborn,GitHub,Scarhino,GitHub,ヘラクロス,GitHub,Herakurosu,GitHub,Heracros,GitHub
+215,sneasel,Sneasel,sneasel,sneasel,Sneasel,GitHub,Sniebel,GitHub,Farfuret,GitHub,ニューラ,GitHub,Nyūra,GitHub,Nyula,GitHub
+216,teddiursa,Teddiursa,teddiursa,teddiursa,Teddiursa,GitHub,Teddiursa,GitHub,Teddiursa,GitHub,ヒメグマ,GitHub,Himeguma,GitHub,Himeguma,GitHub
+217,ursaring,Ursaring,ursaring,ursaring,Ursaring,GitHub,Ursaring,GitHub,Ursaring,GitHub,リングマ,GitHub,Ringuma,GitHub,Ringuma,GitHub
+218,slugma,Slugma,slugma,slugma,Slugma,GitHub,Schneckmag,GitHub,Limagma,GitHub,マグマッグ,GitHub,Magumaggu,GitHub,Magmag,GitHub
+219,magcargo,Magcargo,magcargo,magcargo,Magcargo,GitHub,Magcargo,GitHub,Volcaropod,GitHub,マグカルゴ,GitHub,Magukarugo,GitHub,Magcargot,GitHub
+220,swinub,Swinub,swinub,swinub,Swinub,GitHub,Quiekel,GitHub,Marcacrin,GitHub,ウリムー,GitHub,Urimū,GitHub,Urimoo,GitHub
+221,piloswine,Piloswine,piloswine,piloswine,Piloswine,GitHub,Keifel,GitHub,Cochignon,GitHub,イノムー,GitHub,Inomū,GitHub,Inomoo,GitHub
+222,corsola,Corsola,corsola,corsola,Corsola,GitHub,Corasonn,GitHub,Corayon,GitHub,サニーゴ,GitHub,Sanīgo,GitHub,Sunnygo,GitHub
+223,remoraid,Remoraid,remoraid,remoraid,Remoraid,GitHub,Remoraid,GitHub,Rémoraid,GitHub,テッポウオ,GitHub,Teppōō,GitHub,Teppouo,GitHub
+224,octillery,Octillery,octillery,octillery,Octillery,GitHub,Octillery,GitHub,Octillery,GitHub,オクタン,GitHub,Okutan,GitHub,Okutank,GitHub
+225,delibird,Delibird,delibird,delibird,Delibird,GitHub,Botogel,GitHub,Cadoizo,GitHub,デリバード,GitHub,Deribādo,GitHub,Delibird,GitHub
+226,mantine,Mantine,mantine,mantine,Mantine,GitHub,Mantax,GitHub,Démanta,GitHub,マンタイン,GitHub,Mantain,GitHub,Mantain,GitHub
+227,skarmory,Skarmory,skarmory,skarmory,Skarmory,GitHub,Panzaeron,GitHub,Airmure,GitHub,エアームド,GitHub,Eāmudo,GitHub,Airmd,GitHub
+228,houndour,Houndour,houndour,houndour,Houndour,GitHub,Hunduster,GitHub,Malosse,GitHub,デルビル,GitHub,Derubiru,GitHub,Delvil,GitHub
+229,houndoom,Houndoom,houndoom,houndoom,Houndoom,GitHub,Hundemon,GitHub,Démolosse,GitHub,ヘルガー,GitHub,Herugā,GitHub,Hellgar,GitHub
+230,kingdra,Kingdra,kingdra,kingdra,Kingdra,GitHub,Seedraking,GitHub,Hyporoi,GitHub,キングドラ,GitHub,Kingudora,GitHub,Kingdra,GitHub
+231,phanpy,Phanpy,phanpy,phanpy,Phanpy,GitHub,Phanpy,GitHub,Phanpy,GitHub,ゴマゾウ,GitHub,Gomazō,GitHub,Gomazou,GitHub
+232,donphan,Donphan,donphan,donphan,Donphan,GitHub,Donphan,GitHub,Donphan,GitHub,ドンファン,GitHub,Donfan,GitHub,Donfan,GitHub
+233,porygon2,Porygon2,porygon2,porygon2,Porygon2,GitHub,Porygon2,GitHub,Porygon2,GitHub,ポリゴン２,GitHub,Porigon2,GitHub,Porygon2,GitHub
+234,stantler,Stantler,stantler,stantler,Stantler,GitHub,Damhirplex,GitHub,Cerfrousse,GitHub,オドシシ,GitHub,Odoshishi,GitHub,Odoshishi,GitHub
+235,smeargle,Smeargle,smeargle,smeargle,Smeargle,GitHub,Farbeagle,GitHub,Queulorior,GitHub,ドーブル,GitHub,Dōburu,GitHub,Doble,GitHub
+236,tyrogue,Tyrogue,tyrogue,tyrogue,Tyrogue,GitHub,Rabauz,GitHub,Debugant,GitHub,バルキー,GitHub,Barukī,GitHub,Balkie,GitHub
+237,hitmontop,Hitmontop,hitmontop,hitmontop,Hitmontop,GitHub,Kapoera,GitHub,Kapoera,GitHub,カポエラー,GitHub,Kapoerā,GitHub,Kapoerer,GitHub
+238,smoochum,Smoochum,smoochum,smoochum,Smoochum,GitHub,Kussilla,GitHub,Lippouti,GitHub,ムチュール,GitHub,Muchūru,GitHub,Muchul,GitHub
+239,elekid,Elekid,elekid,elekid,Elekid,GitHub,Elekid,GitHub,Élekid,GitHub,エレキッド,GitHub,Erekiddo,GitHub,Elekid,GitHub
+240,magby,Magby,magby,magby,Magby,GitHub,Magby,GitHub,Magby,GitHub,ブビィ,GitHub,Bubī,GitHub,Buby,GitHub
+241,miltank,Miltank,miltank,miltank,Miltank,GitHub,Miltank,GitHub,Écrémeuh,GitHub,ミルタンク,GitHub,Mirutanku,GitHub,Miltank,GitHub
+242,blissey,Blissey,blissey,blissey,Blissey,GitHub,Heiteira,GitHub,Leuphorie,GitHub,ハピナス,GitHub,Hapinasu,GitHub,Happinas,GitHub
+243,raikou,Raikou,raikou,raikou,Raikou,GitHub,Raikou,GitHub,Raikou,GitHub,ライコウ,GitHub,Raikō,GitHub,Raikou,GitHub
+244,entei,Entei,entei,entei,Entei,GitHub,Entei,GitHub,Entei,GitHub,エンテイ,GitHub,Entei,GitHub,Entei,GitHub
+245,suicune,Suicune,suicune,suicune,Suicune,GitHub,Suicune,GitHub,Suicune,GitHub,スイクン,GitHub,Suikun,GitHub,Suicune,GitHub
+246,larvitar,Larvitar,larvitar,larvitar,Larvitar,GitHub,Larvitar,GitHub,Embrylex,GitHub,ヨーギラス,GitHub,Yōgirasu,GitHub,Yogiras,GitHub
+247,pupitar,Pupitar,pupitar,pupitar,Pupitar,GitHub,Pupitar,GitHub,Ymphect,GitHub,サナギラス,GitHub,Sanagirasu,GitHub,Sanagiras,GitHub
+248,tyranitar,Tyranitar,tyranitar,tyranitar,Tyranitar,GitHub,Despotar,GitHub,Tyranocif,GitHub,バンギラス,GitHub,Bangirasu,GitHub,Bangiras,GitHub
+249,lugia,Lugia,lugia,lugia,Lugia,GitHub,Lugia,GitHub,Lugia,GitHub,ルギア,GitHub,Rugia,GitHub,Lugia,GitHub
+250,ho-oh,Ho-Oh,ho-oh,ho-oh,Ho-Oh,GitHub,Ho-Oh,GitHub,Ho-Oh,GitHub,ホウオウ,GitHub,Hōō,GitHub,Houou,GitHub
+251,celebi,Celebi,celebi,celebi,Celebi,GitHub,Celebi,GitHub,Celebi,GitHub,セレビィ,GitHub,Serebī,GitHub,Celebi,GitHub
+252,treecko,Treecko,treecko,treecko,Treecko,GitHub,Geckarbor,GitHub,Arcko,GitHub,キモリ,GitHub,Kimori,GitHub,Kimori,GitHub
+253,grovyle,Grovyle,grovyle,grovyle,Grovyle,GitHub,Reptain,GitHub,Massko,GitHub,ジュプトル,GitHub,Juputoru,GitHub,Juptile,GitHub
+254,sceptile,Sceptile,sceptile,sceptile,Sceptile,GitHub,Gewaldro,GitHub,Jungko,GitHub,ジュカイン,GitHub,Jukain,GitHub,Jukain,GitHub
+255,torchic,Torchic,torchic,torchic,Torchic,GitHub,Flemmli,GitHub,Poussifeu,GitHub,アチャモ,GitHub,Achamo,GitHub,Achamo,GitHub
+256,combusken,Combusken,combusken,combusken,Combusken,GitHub,Jungglut,GitHub,Galifeu,GitHub,ワカシャモ,GitHub,Wakashamo,GitHub,Wakasyamo,GitHub
+257,blaziken,Blaziken,blaziken,blaziken,Blaziken,GitHub,Lohgock,GitHub,Braségali,GitHub,バシャーモ,GitHub,Bashāmo,GitHub,Bursyamo,GitHub
+258,mudkip,Mudkip,mudkip,mudkip,Mudkip,GitHub,Hydropi,GitHub,Gobou,GitHub,ミズゴロウ,GitHub,Mizugorō,GitHub,Mizugorou,GitHub
+259,marshtomp,Marshtomp,marshtomp,marshtomp,Marshtomp,GitHub,Moorabbel,GitHub,Flobio,GitHub,ヌマクロー,GitHub,Numakurō,GitHub,Numacraw,GitHub
+260,swampert,Swampert,swampert,swampert,Swampert,GitHub,Sumpex,GitHub,Laggron,GitHub,ラグラージ,GitHub,Ragurāji,GitHub,Laglarge,GitHub
+261,poochyena,Poochyena,poochyena,poochyena,Poochyena,GitHub,Fiffyen,GitHub,Medhyèna,GitHub,ポチエナ,GitHub,Pochiena,GitHub,Pochiena,GitHub
+262,mightyena,Mightyena,mightyena,mightyena,Mightyena,GitHub,Magnayen,GitHub,Grahyèna,GitHub,グラエナ,GitHub,Guraena,GitHub,Graena,GitHub
+263,zigzagoon,Zigzagoon,zigzagoon,zigzagoon,Zigzagoon,GitHub,Zigzachs,GitHub,Zigzaton,GitHub,ジグザグマ,GitHub,Jiguzaguma,GitHub,Jiguzaguma,GitHub
+264,linoone,Linoone,linoone,linoone,Linoone,GitHub,Geradaks,GitHub,Linéon,GitHub,マッスグマ,GitHub,Massuguma,GitHub,Massuguma,GitHub
+265,wurmple,Wurmple,wurmple,wurmple,Wurmple,GitHub,Waumpel,GitHub,Chenipotte,GitHub,ケムッソ,GitHub,Kemusso,GitHub,Kemusso,GitHub
+266,silcoon,Silcoon,silcoon,silcoon,Silcoon,GitHub,Schaloko,GitHub,Armulys,GitHub,カラサリス,GitHub,Karasarisu,GitHub,Karasalis,GitHub
+267,beautifly,Beautifly,beautifly,beautifly,Beautifly,GitHub,Papinella,GitHub,Charmillon,GitHub,アゲハント,GitHub,Agehanto,GitHub,Agehunt,GitHub
+268,cascoon,Cascoon,cascoon,cascoon,Cascoon,GitHub,Panekon,GitHub,Blindalys,GitHub,マユルド,GitHub,Mayurudo,GitHub,Mayuld,GitHub
+269,dustox,Dustox,dustox,dustox,Dustox,GitHub,Pudox,GitHub,Papinox,GitHub,ドクケイル,GitHub,Dokukeiru,GitHub,Dokucale,GitHub
+270,lotad,Lotad,lotad,lotad,Lotad,GitHub,Loturzel,GitHub,Nénupiot,GitHub,ハスボー,GitHub,Hasubō,GitHub,Hassboh,GitHub
+271,lombre,Lombre,lombre,lombre,Lombre,GitHub,Lombrero,GitHub,Lombre,GitHub,ハスブレロ,GitHub,Hasuburero,GitHub,Hasubrero,GitHub
+272,ludicolo,Ludicolo,ludicolo,ludicolo,Ludicolo,GitHub,Kappalores,GitHub,Ludicolo,GitHub,ルンパッパ,GitHub,Runpappa,GitHub,Runpappa,GitHub
+273,seedot,Seedot,seedot,seedot,Seedot,GitHub,Samurzel,GitHub,Grainipiot,GitHub,タネボー,GitHub,Tanebō,GitHub,Taneboh,GitHub
+274,nuzleaf,Nuzleaf,nuzleaf,nuzleaf,Nuzleaf,GitHub,Blanas,GitHub,Pifeuil,GitHub,コノハナ,GitHub,Konohana,GitHub,Konohana,GitHub
+275,shiftry,Shiftry,shiftry,shiftry,Shiftry,GitHub,Tengulist,GitHub,Tengalice,GitHub,ダーテング,GitHub,Dātengu,GitHub,Dirteng,GitHub
+276,taillow,Taillow,taillow,taillow,Taillow,GitHub,Schwalbini,GitHub,Nirondelle,GitHub,スバメ,GitHub,Subame,GitHub,Subame,GitHub
+277,swellow,Swellow,swellow,swellow,Swellow,GitHub,Schwalboss,GitHub,Hélédelle,GitHub,オオスバメ,GitHub,Ōsubame,GitHub,Ohsubame,GitHub
+278,wingull,Wingull,wingull,wingull,Wingull,GitHub,Wingull,GitHub,Goélise,GitHub,キャモメ,GitHub,Kyamome,GitHub,Camome,GitHub
+279,pelipper,Pelipper,pelipper,pelipper,Pelipper,GitHub,Pelipper,GitHub,Bekipan,GitHub,ペリッパー,GitHub,Perippā,GitHub,Pelipper,GitHub
+280,ralts,Ralts,ralts,ralts,Ralts,GitHub,Trasla,GitHub,Tarsal,GitHub,ラルトス,GitHub,Rarutosu,GitHub,Ralts,GitHub
+281,kirlia,Kirlia,kirlia,kirlia,Kirlia,GitHub,Kirlia,GitHub,Kirlia,GitHub,キルリア,GitHub,Kiruria,GitHub,Kirlia,GitHub
+282,gardevoir,Gardevoir,gardevoir,gardevoir,Gardevoir,GitHub,Guardevoir,GitHub,Gardevoir,GitHub,サーナイト,GitHub,Sānaito,GitHub,Sirnight,GitHub
+283,surskit,Surskit,surskit,surskit,Surskit,GitHub,Gehweiher,GitHub,Arakdo,GitHub,アメタマ,GitHub,Ametama,GitHub,Ametama,GitHub
+284,masquerain,Masquerain,masquerain,masquerain,Masquerain,GitHub,Maskeregen,GitHub,Maskadra,GitHub,アメモース,GitHub,Amemōsu,GitHub,Amemoth,GitHub
+285,shroomish,Shroomish,shroomish,shroomish,Shroomish,GitHub,Knilz,GitHub,Balignon,GitHub,キノココ,GitHub,Kinokoko,GitHub,Kinococo,GitHub
+286,breloom,Breloom,breloom,breloom,Breloom,GitHub,Kapilz,GitHub,Chapignon,GitHub,キノガッサ,GitHub,Kinogassa,GitHub,Kinogassa,GitHub
+287,slakoth,Slakoth,slakoth,slakoth,Slakoth,GitHub,Bummelz,GitHub,Parecool,GitHub,ナマケロ,GitHub,Namakero,GitHub,Namakero,GitHub
+288,vigoroth,Vigoroth,vigoroth,vigoroth,Vigoroth,GitHub,Muntier,GitHub,Vigoroth,GitHub,ヤルキモノ,GitHub,Yarukimono,GitHub,Yarukimono,GitHub
+289,slaking,Slaking,slaking,slaking,Slaking,GitHub,Letarking,GitHub,Monaflèmit,GitHub,ケッキング,GitHub,Kekkingu,GitHub,Kekking,GitHub
+290,nincada,Nincada,nincada,nincada,Nincada,GitHub,Nincada,GitHub,Ningale,GitHub,ツチニン,GitHub,Tsuchinin,GitHub,Tutinin,GitHub
+291,ninjask,Ninjask,ninjask,ninjask,Ninjask,GitHub,Ninjask,GitHub,Ninjask,GitHub,テッカニン,GitHub,Tekkanin,GitHub,Tekkanin,GitHub
+292,shedinja,Shedinja,shedinja,shedinja,Shedinja,GitHub,Ninjatom,GitHub,Munja,GitHub,ヌケニン,GitHub,Nukenin,GitHub,Nukenin,GitHub
+293,whismur,Whismur,whismur,whismur,Whismur,GitHub,Flurmel,GitHub,Chuchmur,GitHub,ゴニョニョ,GitHub,Gonyonyo,GitHub,Gonyonyo,GitHub
+294,loudred,Loudred,loudred,loudred,Loudred,GitHub,Krakeelo,GitHub,Ramboum,GitHub,ドゴーム,GitHub,Dogōmu,GitHub,Dogohmb,GitHub
+295,exploud,Exploud,exploud,exploud,Exploud,GitHub,Krawumms,GitHub,Brouhabam,GitHub,バクオング,GitHub,Bakuongu,GitHub,Bakuong,GitHub
+296,makuhita,Makuhita,makuhita,makuhita,Makuhita,GitHub,Makuhita,GitHub,Makuhita,GitHub,マクノシタ,GitHub,Makunoshita,GitHub,Makunoshita,GitHub
+297,hariyama,Hariyama,hariyama,hariyama,Hariyama,GitHub,Hariyama,GitHub,Hariyama,GitHub,ハリテヤマ,GitHub,Hariteyama,GitHub,Hariteyama,GitHub
+298,azurill,Azurill,azurill,azurill,Azurill,GitHub,Azurill,GitHub,Azurill,GitHub,ルリリ,GitHub,Ruriri,GitHub,Ruriri,GitHub
+299,nosepass,Nosepass,nosepass,nosepass,Nosepass,GitHub,Nasgnet,GitHub,Tarinor,GitHub,ノズパス,GitHub,Nozupasu,GitHub,Nosepass,GitHub
+300,skitty,Skitty,skitty,skitty,Skitty,GitHub,Eneco,GitHub,Skitty,GitHub,エネコ,GitHub,Eneko,GitHub,Eneco,GitHub
+301,delcatty,Delcatty,delcatty,delcatty,Delcatty,GitHub,Enekoro,GitHub,Delcatty,GitHub,エネコロロ,GitHub,Enekororo,GitHub,Enekororo,GitHub
+302,sableye,Sableye,sableye,sableye,Sableye,GitHub,Zobiris,GitHub,Ténéfix,GitHub,ヤミラミ,GitHub,Yamirami,GitHub,Yamirami,GitHub
+303,mawile,Mawile,mawile,mawile,Mawile,GitHub,Flunkifer,GitHub,Mysdibule,GitHub,クチート,GitHub,Kuchīto,GitHub,Kucheat,GitHub
+304,aron,Aron,aron,aron,Aron,GitHub,Stollunior,GitHub,Galekid,GitHub,ココドラ,GitHub,Kokodora,GitHub,Cokodora,GitHub
+305,lairon,Lairon,lairon,lairon,Lairon,GitHub,Stollrak,GitHub,Galegon,GitHub,コドラ,GitHub,Kodora,GitHub,Kodora,GitHub
+306,aggron,Aggron,aggron,aggron,Aggron,GitHub,Stolloss,GitHub,Galeking,GitHub,ボスゴドラ,GitHub,Bosugodora,GitHub,Bossgodora,GitHub
+307,meditite,Meditite,meditite,meditite,Meditite,GitHub,Meditie,GitHub,Méditikka,GitHub,アサナン,GitHub,Asanan,GitHub,Asanan,GitHub
+308,medicham,Medicham,medicham,medicham,Medicham,GitHub,Meditalis,GitHub,Charmina,GitHub,チャーレム,GitHub,Chāremu,GitHub,Charem,GitHub
+309,electrike,Electrike,electrike,electrike,Electrike,GitHub,Frizelbliz,GitHub,Dynavolt,GitHub,ラクライ,GitHub,Rakurai,GitHub,Rakurai,GitHub
+310,manectric,Manectric,manectric,manectric,Manectric,GitHub,Voltenso,GitHub,Élecsprint,GitHub,ライボルト,GitHub,Raiboruto,GitHub,Livolt,GitHub
+311,plusle,Plusle,plusle,plusle,Plusle,GitHub,Plusle,GitHub,Posipi,GitHub,プラスル,GitHub,Purasuru,GitHub,Prasle,GitHub
+312,minun,Minun,minun,minun,Minun,GitHub,Minun,GitHub,Négapi,GitHub,マイナン,GitHub,Mainan,GitHub,Minun,GitHub
+313,volbeat,Volbeat,volbeat,volbeat,Volbeat,GitHub,Volbeat,GitHub,Muciole,GitHub,バルビート,GitHub,Barubīto,GitHub,Barubeat,GitHub
+314,illumise,Illumise,illumise,illumise,Illumise,GitHub,Illumise,GitHub,Lumivole,GitHub,イルミーゼ,GitHub,Irumīze,GitHub,Illumise,GitHub
+315,roselia,Roselia,roselia,roselia,Roselia,GitHub,Roselia,GitHub,Rosélia,GitHub,ロゼリア,GitHub,Rozeria,GitHub,Roselia,GitHub
+316,gulpin,Gulpin,gulpin,gulpin,Gulpin,GitHub,Schluppuck,GitHub,Gloupti,GitHub,ゴクリン,GitHub,Gokurin,GitHub,Gokulin,GitHub
+317,swalot,Swalot,swalot,swalot,Swalot,GitHub,Schlukwech,GitHub,Avaltout,GitHub,マルノーム,GitHub,Marunōmu,GitHub,Marunoom,GitHub
+318,carvanha,Carvanha,carvanha,carvanha,Carvanha,GitHub,Kanivanha,GitHub,Carvanha,GitHub,キバニア,GitHub,Kibania,GitHub,Kibanha,GitHub
+319,sharpedo,Sharpedo,sharpedo,sharpedo,Sharpedo,GitHub,Tohaido,GitHub,Sharpedo,GitHub,サメハダー,GitHub,Samehadā,GitHub,Samehader,GitHub
+320,wailmer,Wailmer,wailmer,wailmer,Wailmer,GitHub,Wailmer,GitHub,Wailmer,GitHub,ホエルコ,GitHub,Hoeruko,GitHub,Hoeruko,GitHub
+321,wailord,Wailord,wailord,wailord,Wailord,GitHub,Wailord,GitHub,Wailord,GitHub,ホエルオー,GitHub,Hoeruō,GitHub,Whaloh,GitHub
+322,numel,Numel,numel,numel,Numel,GitHub,Camaub,GitHub,Chamallot,GitHub,ドンメル,GitHub,Donmeru,GitHub,Donmel,GitHub
+323,camerupt,Camerupt,camerupt,camerupt,Camerupt,GitHub,Camerupt,GitHub,Camérupt,GitHub,バクーダ,GitHub,Bakūda,GitHub,Bakuuda,GitHub
+324,torkoal,Torkoal,torkoal,torkoal,Torkoal,GitHub,Qurtel,GitHub,Chartor,GitHub,コータス,GitHub,Kōtasu,GitHub,Cotoise,GitHub
+325,spoink,Spoink,spoink,spoink,Spoink,GitHub,Spoink,GitHub,Spoink,GitHub,バネブー,GitHub,Banebū,GitHub,Baneboo,GitHub
+326,grumpig,Grumpig,grumpig,grumpig,Grumpig,GitHub,Groink,GitHub,Groret,GitHub,ブーピッグ,GitHub,Būpiggu,GitHub,Boopig,GitHub
+327,spinda,Spinda,spinda,spinda,Spinda,GitHub,Pandir,GitHub,Spinda,GitHub,パッチール,GitHub,Patchīru,GitHub,Patcheel,GitHub
+328,trapinch,Trapinch,trapinch,trapinch,Trapinch,GitHub,Knacklion,GitHub,Kraknoix,GitHub,ナックラー,GitHub,Nakkurā,GitHub,Nuckrar,GitHub
+329,vibrava,Vibrava,vibrava,vibrava,Vibrava,GitHub,Vibrava,GitHub,Vibraninf,GitHub,ビブラーバ,GitHub,Biburāba,GitHub,Vibrava,GitHub
+330,flygon,Flygon,flygon,flygon,Flygon,GitHub,Libelldra,GitHub,Libégon,GitHub,フライゴン,GitHub,Furaigon,GitHub,Flygon,GitHub
+331,cacnea,Cacnea,cacnea,cacnea,Cacnea,GitHub,Tuska,GitHub,Cacnea,GitHub,サボネア,GitHub,Sabonea,GitHub,Sabonea,GitHub
+332,cacturne,Cacturne,cacturne,cacturne,Cacturne,GitHub,Noktuska,GitHub,Cacturne,GitHub,ノクタス,GitHub,Nokutasu,GitHub,Noctus,GitHub
+333,swablu,Swablu,swablu,swablu,Swablu,GitHub,Wablu,GitHub,Tylton,GitHub,チルット,GitHub,Chirutto,GitHub,Tyltto,GitHub
+334,altaria,Altaria,altaria,altaria,Altaria,GitHub,Altaria,GitHub,Altaria,GitHub,チルタリス,GitHub,Chirutarisu,GitHub,Tyltalis,GitHub
+335,zangoose,Zangoose,zangoose,zangoose,Zangoose,GitHub,Sengo,GitHub,Mangriff,GitHub,ザングース,GitHub,Zangūsu,GitHub,Zangoose,GitHub
+336,seviper,Seviper,seviper,seviper,Seviper,GitHub,Vipitis,GitHub,Séviper,GitHub,ハブネーク,GitHub,Habunēku,GitHub,Habunake,GitHub
+337,lunatone,Lunatone,lunatone,lunatone,Lunatone,GitHub,Lunastein,GitHub,Séléroc,GitHub,ルナトーン,GitHub,Runatōn,GitHub,Lunatone,GitHub
+338,soluna,Soluna,solrock-halloween,solrock,Soluna,GitHub,Sonnfel,Hugging Face,Solaroc,Hugging Face,ソルロック,Hugging Face,Sorurokku,Hugging Face,Solrock,Hugging Face
+339,barboach,Barboach,barboach,barboach,Barboach,GitHub,Schmerbe,GitHub,Barloche,GitHub,ドジョッチ,GitHub,Dojotchi,GitHub,Dojoach,GitHub
+340,whiscash,Whiscash,whiscash,whiscash,Whiscash,GitHub,Welsar,GitHub,Barbicha,GitHub,ナマズン,GitHub,Namazun,GitHub,Namazun,GitHub
+341,corphish,Corphish,corphish,corphish,Corphish,GitHub,Krebscorps,GitHub,Écrapince,GitHub,ヘイガニ,GitHub,Heigani,GitHub,Heigani,GitHub
+342,crawdaunt,Crawdaunt,crawdaunt,crawdaunt,Crawdaunt,GitHub,Krebutack,GitHub,Colhomard,GitHub,シザリガー,GitHub,Shizarigā,GitHub,Shizariger,GitHub
+343,baltoy,Baltoy,baltoy,baltoy,Baltoy,GitHub,Puppance,GitHub,Balbuto,GitHub,ヤジロン,GitHub,Yajiron,GitHub,Yajilon,GitHub
+344,claydol,Claydol,claydol,claydol,Claydol,GitHub,Lepumentas,GitHub,Kaorine,GitHub,ネンドール,GitHub,Nendōru,GitHub,Nendoll,GitHub
+345,lileep,Lileep,lileep,lileep,Lileep,GitHub,Liliep,GitHub,Lilia,GitHub,リリーラ,GitHub,Rirīra,GitHub,Lilyla,GitHub
+346,cradily,Cradily,cradily,cradily,Cradily,GitHub,Wielie,GitHub,Vacilys,GitHub,ユレイドル,GitHub,Yureidoru,GitHub,Yuradle,GitHub
+347,anorith,Anorith,anorith,anorith,Anorith,GitHub,Anorith,GitHub,Anorith,GitHub,アノプス,GitHub,Anopusu,GitHub,Anopth,GitHub
+348,armaldo,Armaldo,armaldo,armaldo,Armaldo,GitHub,Armaldo,GitHub,Armaldo,GitHub,アーマルド,GitHub,Āmarudo,GitHub,Armaldo,GitHub
+349,feebas,Feebas,feebas,feebas,Feebas,GitHub,Barschwa,GitHub,Barpau,GitHub,ヒンバス,GitHub,Hinbasu,GitHub,Hinbass,GitHub
+350,milotic,Milotic,milotic,milotic,Milotic,GitHub,Milotic,GitHub,Milobellus,GitHub,ミロカロス,GitHub,Mirokarosu,GitHub,Milokaross,GitHub
+351,castform,Castform,castform,castform,Castform,GitHub,Formeo,GitHub,Morphéo,GitHub,ポワルン,GitHub,Powarun,GitHub,Powalen,GitHub
+352,kecleon,Kecleon,kecleon,kecleon,Kecleon,GitHub,Kecleon,GitHub,Kecleon,GitHub,カクレオン,GitHub,Kakureon,GitHub,Kakureon,GitHub
+353,shuppet,Shuppet,shuppet,shuppet,Shuppet,GitHub,Shuppet,GitHub,Polichombr,GitHub,カゲボウズ,GitHub,Kagebōzu,GitHub,Kagebouzu,GitHub
+354,banette,Banette,banette,banette,Banette,GitHub,Banette,GitHub,Branette,GitHub,ジュペッタ,GitHub,Jupetta,GitHub,Juppeta,GitHub
+355,duskull,Duskull,duskull,duskull,Duskull,GitHub,Zwirrlicht,GitHub,Skelénox,GitHub,ヨマワル,GitHub,Yomawaru,GitHub,Yomawaru,GitHub
+356,dusclops,Dusclops,dusclops,dusclops,Dusclops,GitHub,Zwirrklop,GitHub,Téraclope,GitHub,サマヨール,GitHub,Samayōru,GitHub,Samayouru,GitHub
+357,tropius,Tropius,tropius,tropius,Tropius,GitHub,Tropius,GitHub,Tropius,GitHub,トロピウス,GitHub,Toropiusu,GitHub,Tropius,GitHub
+358,chimecho,Chimecho,chimecho,chimecho,Chimecho,GitHub,Palimpalim,GitHub,Éoko,GitHub,チリーン,GitHub,Chirīn,GitHub,Chirean,GitHub
+359,absol,Absol,absol,absol,Absol,GitHub,Absol,GitHub,Absol,GitHub,アブソル,GitHub,Abusoru,GitHub,Absol,GitHub
+360,wynaut,Wynaut,wynaut,wynaut,Wynaut,GitHub,Isso,GitHub,Okéoké,GitHub,ソーナノ,GitHub,Sōnano,GitHub,Sohnano,GitHub
+361,snorunt,Snorunt,snorunt,snorunt,Snorunt,GitHub,Schneppke,GitHub,Stalgamin,GitHub,ユキワラシ,GitHub,Yukiwarashi,GitHub,Yukiwarashi,GitHub
+362,glalie,Glalie,glalie,glalie,Glalie,GitHub,Firnontor,GitHub,Oniglali,GitHub,オニゴーリ,GitHub,Onigōri,GitHub,Onigohri,GitHub
+363,spheal,Spheal,spheal,spheal,Spheal,GitHub,Seemops,GitHub,Obalie,GitHub,タマザラシ,GitHub,Tamazarashi,GitHub,Tamazarashi,GitHub
+364,sealeo,Sealeo,sealeo,sealeo,Sealeo,GitHub,Seejong,GitHub,Phogleur,GitHub,トドグラー,GitHub,Todogurā,GitHub,Todoggler,GitHub
+365,walrein,Walrein,walrein,walrein,Walrein,GitHub,Walraisa,GitHub,Kaimorse,GitHub,トドゼルガ,GitHub,Todozeruga,GitHub,Todoseruga,GitHub
+366,clamperl,Clamperl,clamperl,clamperl,Clamperl,GitHub,Perlu,GitHub,Coquiperl,GitHub,パールル,GitHub,Pāruru,GitHub,Pearlulu,GitHub
+367,huntail,Huntail,huntail,huntail,Huntail,GitHub,Aalabyss,GitHub,Serpang,GitHub,ハンテール,GitHub,Hantēru,GitHub,Huntail,GitHub
+368,gorebyss,Gorebyss,gorebyss,gorebyss,Gorebyss,GitHub,Saganabyss,GitHub,Rosabyss,GitHub,サクラビス,GitHub,Sakurabisu,GitHub,Sakurabyss,GitHub
+369,relicanth,Relicanth,relicanth,relicanth,Relicanth,GitHub,Relicanth,GitHub,Relicanth,GitHub,ジーランス,GitHub,Jīransu,GitHub,Glanth,GitHub
+370,luvdisc,Luvdisc,luvdisc,luvdisc,Luvdisc,GitHub,Liebiskus,GitHub,Lovdisc,GitHub,ラブカス,GitHub,Rabukasu,GitHub,Lovecus,GitHub
+371,bagon,Bagon,bagon,bagon,Bagon,GitHub,Kindwurm,GitHub,Draby,GitHub,タツベイ,GitHub,Tatsubei,GitHub,Tatsubay,GitHub
+372,shelgon,Shelgon,shelgon,shelgon,Shelgon,GitHub,Draschel,GitHub,Drackhaus,GitHub,コモルー,GitHub,Komorū,GitHub,Komoruu,GitHub
+373,salamence,Salamence,salamence,salamence,Salamence,GitHub,Brutalanda,GitHub,Drattak,GitHub,ボーマンダ,GitHub,Bōmanda,GitHub,Bohmander,GitHub
+374,beldum,Beldum,beldum,beldum,Beldum,GitHub,Tanhel,GitHub,Terhal,GitHub,ダンバル,GitHub,Danbaru,GitHub,Dumbber,GitHub
+375,metang,Metang,metang,metang,Metang,GitHub,Metang,GitHub,Métang,GitHub,メタング,GitHub,Metangu,GitHub,Metang,GitHub
+376,metagross,Metagross,metagross,metagross,Metagross,GitHub,Metagross,GitHub,Métalosse,GitHub,メタグロス,GitHub,Metagurosu,GitHub,Metagross,GitHub
+377,regirock,Regirock,regirock,regirock,Regirock,GitHub,Regirock,GitHub,Regirock,GitHub,レジロック,GitHub,Rejirokku,GitHub,Regirock,GitHub
+378,regice,Regice,regice,regice,Regice,GitHub,Regice,GitHub,Regice,GitHub,レジアイス,GitHub,Rejiaisu,GitHub,Regice,GitHub
+379,registeel,Registeel,registeel,registeel,Registeel,GitHub,Registeel,GitHub,Registeel,GitHub,レジスチル,GitHub,Rejisuchiru,GitHub,Registeel,GitHub
+380,latias,Latias,latias,latias,Latias,GitHub,Latias,GitHub,Latias,GitHub,ラティアス,GitHub,Ratiasu,GitHub,Latias,GitHub
+381,latios,Latios,latios,latios,Latios,GitHub,Latios,GitHub,Latios,GitHub,ラティオス,GitHub,Ratiosu,GitHub,Latios,GitHub
+382,kyogre,Kyogre,kyogre,kyogre,Kyogre,GitHub,Kyogre,GitHub,Kyogre,GitHub,カイオーガ,GitHub,Kaiōga,GitHub,Kyogre,GitHub
+383,groudon,Groudon,groudon,groudon,Groudon,GitHub,Groudon,GitHub,Groudon,GitHub,グラードン,GitHub,Gurādon,GitHub,Groudon,GitHub
+384,rayquaza,Rayquaza,rayquaza,rayquaza,Rayquaza,GitHub,Rayquaza,GitHub,Rayquaza,GitHub,レックウザ,GitHub,Rekkūza,GitHub,Rayquaza,GitHub
+385,jirachi,Jirachi,jirachi,jirachi,Jirachi,GitHub,Jirachi,GitHub,Jirachi,GitHub,ジラーチ,GitHub,Jirāchi,GitHub,Jirachi,GitHub
+386,deoxys,Deoxys,deoxys-normal,deoxys-normal,Deoxys,GitHub,Deoxys,GitHub,Deoxys,GitHub,デオキシス,GitHub,Deokishisu,GitHub,Deoxys,GitHub
+387,turtwig,Turtwig,turtwig,turtwig,Turtwig,GitHub,Chelast,GitHub,Tortipouss,GitHub,ナエトル,GitHub,Naetoru,GitHub,Naetle,GitHub
+388,grotle,Grotle,grotle,grotle,Grotle,GitHub,Chelcarain,GitHub,Boskara,GitHub,ハヤシガメ,GitHub,Hayashigame,GitHub,Hayashigame,GitHub
+389,torterra,Torterra,torterra,torterra,Torterra,GitHub,Chelterrar,GitHub,Torterra,GitHub,ドダイトス,GitHub,Dodaitosu,GitHub,Dodaitose,GitHub
+390,chimchar,Chimchar,chimchar,chimchar,Chimchar,GitHub,Panflam,GitHub,Ouisticram,GitHub,ヒコザル,GitHub,Hikozaru,GitHub,Hikozaru,GitHub
+391,monferno,Monferno,monferno,monferno,Monferno,GitHub,Panpyro,GitHub,Chimpenfeu,GitHub,モウカザル,GitHub,Mōkazaru,GitHub,Moukazaru,GitHub
+392,infernape,Infernape,infernape,infernape,Infernape,GitHub,Panferno,GitHub,Simiabraz,GitHub,ゴウカザル,GitHub,Gōkazaru,GitHub,Goukazaru,GitHub
+393,piplup,Piplup,piplup,piplup,Piplup,GitHub,Plinfa,GitHub,Tiplouf,GitHub,ポッチャマ,GitHub,Potchama,GitHub,Pochama,GitHub
+394,prinplup,Prinplup,prinplup,prinplup,Prinplup,GitHub,Pliprin,GitHub,Prinplouf,GitHub,ポッタイシ,GitHub,Pottaishi,GitHub,Pottaishi,GitHub
+395,empoleon,Empoleon,empoleon,empoleon,Empoleon,GitHub,Impoleon,GitHub,Pingoléon,GitHub,エンペルト,GitHub,Enperuto,GitHub,Emperte,GitHub
+396,starly,Starly,starly,starly,Starly,GitHub,Staralili,GitHub,Étourmi,GitHub,ムックル,GitHub,Mukkuru,GitHub,Mukkuru,GitHub
+397,staravia,Staravia,staravia,staravia,Staravia,GitHub,Staravia,GitHub,Étourvol,GitHub,ムクバード,GitHub,Mukubādo,GitHub,Mukubird,GitHub
+398,staraptor,Staraptor,staraptor,staraptor,Staraptor,GitHub,Staraptor,GitHub,Étouraptor,GitHub,ムクホーク,GitHub,Mukuhōku,GitHub,Mukuhawk,GitHub
+399,bidoof,Bidoof,bidoof,bidoof,Bidoof,GitHub,Bidiza,GitHub,Keunotor,GitHub,ビッパ,GitHub,Bippa,GitHub,Bippa,GitHub
+400,bibarel,Bibarel,bibarel,bibarel,Bibarel,GitHub,Bidifas,GitHub,Castorno,GitHub,ビーダル,GitHub,Bīdaru,GitHub,Beadaru,GitHub
+401,kricketot,Kricketot,kricketot,kricketot,Kricketot,GitHub,Zirpurze,GitHub,Crikzik,GitHub,コロボーシ,GitHub,Korobōshi,GitHub,Korobohshi,GitHub
+402,kricketune,Kricketune,kricketune,kricketune,Kricketune,GitHub,Zirpeise,GitHub,Mélokrik,GitHub,コロトック,GitHub,Korotokku,GitHub,Korotock,GitHub
+403,shinx,Shinx,shinx,shinx,Shinx,GitHub,Sheinux,GitHub,Lixy,GitHub,コリンク,GitHub,Korinku,GitHub,Kolink,GitHub
+404,luxio,Luxio,luxio,luxio,Luxio,GitHub,Luxio,GitHub,Luxio,GitHub,ルクシオ,GitHub,Rukushio,GitHub,Luxio,GitHub
+405,luxray,Luxray,luxray,luxray,Luxray,GitHub,Luxtra,GitHub,Luxray,GitHub,レントラー,GitHub,Rentorā,GitHub,Rentorar,GitHub
+406,budew,Budew,budew,budew,Budew,GitHub,Knospi,GitHub,Rozbouton,GitHub,スボミー,GitHub,Subomī,GitHub,Subomie,GitHub
+407,roserade,Roserade,roserade,roserade,Roserade,GitHub,Roserade,GitHub,Roserade,GitHub,ロズレイド,GitHub,Rozureido,GitHub,Roserade,GitHub
+408,cranidos,Cranidos,cranidos,cranidos,Cranidos,GitHub,Koknodon,GitHub,Kranidos,GitHub,ズガイドス,GitHub,Zugaidosu,GitHub,Zugaidos,GitHub
+409,rampardos,Rampardos,rampardos,rampardos,Rampardos,GitHub,Rameidon,GitHub,Charkos,GitHub,ラムパルド,GitHub,Ramuparudo,GitHub,Rampald,GitHub
+410,shieldon,Shieldon,shieldon,shieldon,Shieldon,GitHub,Schilterus,GitHub,Dinoclier,GitHub,タテトプス,GitHub,Tatetopusu,GitHub,Tatetops,GitHub
+411,bastiodon,Bastiodon,bastiodon,bastiodon,Bastiodon,GitHub,Bollterus,GitHub,Bastiodon,GitHub,トリデプス,GitHub,Toridepusu,GitHub,Torideps,GitHub
+412,burmy,Burmy,burmy-plant,burmy,Burmy,GitHub,Burmy,GitHub,Cheniti,GitHub,ミノムッチ,GitHub,Minomutchi,GitHub,Minomucchi,GitHub
+413,wormadam,Wormadam,wormadam-plant,wormadam-plant,Wormadam,GitHub,Burmadame,GitHub,Cheniselle,GitHub,ミノマダム,GitHub,Minomadamu,GitHub,Minomadam,GitHub
+414,mothim,Mothim,mothim,mothim,Mothim,GitHub,Moterpel,GitHub,Papilord,GitHub,ガーメイル,GitHub,Gāmeiru,GitHub,Gamale,GitHub
+415,combee,Combee,combee,combee,Combee,GitHub,Wadribie,GitHub,Apitrini,GitHub,ミツハニー,GitHub,Mitsuhanī,GitHub,Mitsuhoney,GitHub
+416,vespiquen,Vespiquen,vespiquen,vespiquen,Vespiquen,GitHub,Honweisel,GitHub,Apireine,GitHub,ビークイン,GitHub,Bīkuin,GitHub,Beequen,GitHub
+417,pachirisu,Pachirisu,pachirisu,pachirisu,Pachirisu,GitHub,Pachirisu,GitHub,Pachirisu,GitHub,パチリス,GitHub,Pachirisu,GitHub,Pachirisu,GitHub
+418,buizel,Buizel,buizel,buizel,Buizel,GitHub,Bamelin,GitHub,Mustébouée,GitHub,ブイゼル,GitHub,Buizeru,GitHub,Buoysel,GitHub
+419,floatzel,Floatzel,floatzel,floatzel,Floatzel,GitHub,Bojelin,GitHub,Mustéflott,GitHub,フローゼル,GitHub,Furōzeru,GitHub,Floazel,GitHub
+420,cherubi,Cherubi,cherubi,cherubi,Cherubi,GitHub,Kikugi,GitHub,Ceribou,GitHub,チェリンボ,GitHub,Cherinbo,GitHub,Cherinbo,GitHub
+421,cherrim,Cherrim,cherrim,cherrim,Cherrim,GitHub,Kinoso,GitHub,Ceriflor,GitHub,チェリム,GitHub,Cherimu,GitHub,Cherrim,GitHub
+422,shellos,Shellos,shellos,shellos,Shellos,GitHub,Schalellos,GitHub,Sancoki,GitHub,カラナクシ,GitHub,Karanakushi,GitHub,Karanakushi,GitHub
+423,gastrodon,Gastrodon,gastrodon,gastrodon,Gastrodon,GitHub,Gastrodon,GitHub,Tritosor,GitHub,トリトドン,GitHub,Toritodon,GitHub,Tritodon,GitHub
+424,ambipom,Ambipom,ambipom,ambipom,Ambipom,GitHub,Ambidiffel,GitHub,Capidextre,GitHub,エテボース,GitHub,Etebōsu,GitHub,Eteboth,GitHub
+425,drifloon,Drifloon,drifloon,drifloon,Drifloon,GitHub,Driftlon,GitHub,Baudrive,GitHub,フワンテ,GitHub,Fuwante,GitHub,Fuwante,GitHub
+426,drifboy,Drifboy,drifblim-halloween,drifblim,Drifboy,GitHub,Drifzepeli,Hugging Face,Grodrive,Hugging Face,フワライド,Hugging Face,Fuwaraido,Hugging Face,Fuwaride,Hugging Face
+427,buneary,Buneary,buneary,buneary,Buneary,GitHub,Haspiror,GitHub,Laporeille,GitHub,ミミロル,GitHub,Mimiroru,GitHub,Mimirol,GitHub
+428,lopunny,Lopunny,lopunny,lopunny,Lopunny,GitHub,Schlapor,GitHub,Lockpin,GitHub,ミミロップ,GitHub,Mimiroppu,GitHub,Mimilop,GitHub
+429,mismagius,Mismagius,mismagius,mismagius,Mismagius,GitHub,Traunmagil,GitHub,Magirêve,GitHub,ムウマージ,GitHub,Mūmāji,GitHub,Mumargi,GitHub
+430,honchkrow,Honchkrow,honchkrow,honchkrow,Honchkrow,GitHub,Kramshef,GitHub,Corboss,GitHub,ドンカラス,GitHub,Donkarasu,GitHub,Dongkarasu,GitHub
+431,glameow,Glameow,glameow,glameow,Glameow,GitHub,Charmian,GitHub,Chaglam,GitHub,ニャルマー,GitHub,Nyarumā,GitHub,Nyarmar,GitHub
+432,purugly,Purugly,purugly,purugly,Purugly,GitHub,Shnurgarst,GitHub,Chaffreux,GitHub,ブニャット,GitHub,Bunyatto,GitHub,Bunyatto,GitHub
+433,chingling,Chingling,chingling,chingling,Chingling,GitHub,Klingplim,GitHub,Korillon,GitHub,リーシャン,GitHub,Rīshan,GitHub,Lisyan,GitHub
+434,stunky,Stunky,stunky,stunky,Stunky,GitHub,Skunkapuh,GitHub,Moufouette,GitHub,スカンプー,GitHub,Sukanpū,GitHub,Skunpuu,GitHub
+435,skuntank,Skuntank,skuntank,skuntank,Skuntank,GitHub,Skuntank,GitHub,Moufflair,GitHub,スカタンク,GitHub,Sukatanku,GitHub,Skutank,GitHub
+436,bronzor,Bronzor,bronzor,bronzor,Bronzor,GitHub,Bronzel,GitHub,Archéomire,GitHub,ドーミラー,GitHub,Dōmirā,GitHub,Dohmirror,GitHub
+437,bronzong,Bronzong,bronzong,bronzong,Bronzong,GitHub,Bronzong,GitHub,Archéodong,GitHub,ドータクン,GitHub,Dōtakun,GitHub,Dohtakun,GitHub
+438,bonsly,Bonsly,bonsly,bonsly,Bonsly,GitHub,Mobai,GitHub,Manzaï,GitHub,ウソハチ,GitHub,Usohachi,GitHub,Usohachi,GitHub
+439,mime-jr,Mime Jr.,mime-jr,mime-jr,Mime Jr.,GitHub,Pantimimi,GitHub,Mime Jr.,GitHub,マネネ,GitHub,Manene,GitHub,Manene,GitHub
+440,happiny,Happiny,happiny,happiny,Happiny,GitHub,Wonneira,GitHub,Ptiravi,GitHub,ピンプク,GitHub,Pinpuku,GitHub,Pinpuku,GitHub
+441,chatot,Chatot,chatot,chatot,Chatot,GitHub,Plaudagei,GitHub,Pijako,GitHub,ペラップ,GitHub,Perappu,GitHub,Perap,GitHub
+442,spiritomb,Spiritomb,spiritomb,spiritomb,Spiritomb,GitHub,Kryppuk,GitHub,Spiritomb,GitHub,ミカルゲ,GitHub,Mikaruge,GitHub,Mikaruge,GitHub
+443,gible,Gible,gible,gible,Gible,GitHub,Kaumalat,GitHub,Griknot,GitHub,フカマル,GitHub,Fukamaru,GitHub,Fukamaru,GitHub
+444,gabite,Gabite,gabite,gabite,Gabite,GitHub,Knarksel,GitHub,Carmache,GitHub,ガバイト,GitHub,Gabaito,GitHub,Gabite,GitHub
+445,garchomp,Garchomp,garchomp,garchomp,Garchomp,GitHub,Knakrack,GitHub,Carchacrok,GitHub,ガブリアス,GitHub,Gaburiasu,GitHub,Gaburias,GitHub
+446,munchlax,Munchlax,munchlax,munchlax,Munchlax,GitHub,Mampfaxo,GitHub,Goinfrex,GitHub,ゴンベ,GitHub,Gonbe,GitHub,Gonbe,GitHub
+447,riolu,Riolu,riolu,riolu,Riolu,GitHub,Riolu,GitHub,Riolu,GitHub,リオル,GitHub,Rioru,GitHub,Riolu,GitHub
+448,lucario,Lucario,lucario,lucario,Lucario,GitHub,Lucario,GitHub,Lucario,GitHub,ルカリオ,GitHub,Rukario,GitHub,Lucario,GitHub
+449,hippopotas,Hippopotas,hippopotas,hippopotas,Hippopotas,GitHub,Hippopotas,GitHub,Hippopotas,GitHub,ヒポポタス,GitHub,Hipopotasu,GitHub,Hippopotas,GitHub
+450,hippowdon,Hippowdon,hippowdon,hippowdon,Hippowdon,GitHub,Hippoterus,GitHub,Hippodocus,GitHub,カバルドン,GitHub,Kabarudon,GitHub,Kabaldon,GitHub
+451,skorupi,Skorupi,skorupi,skorupi,Skorupi,GitHub,Pionskora,GitHub,Rapion,GitHub,スコルピ,GitHub,Sukorupi,GitHub,Scorupi,GitHub
+452,drapion,Drapion,drapion,drapion,Drapion,GitHub,Piondragi,GitHub,Drascore,GitHub,ドラピオン,GitHub,Dorapion,GitHub,Dorapion,GitHub
+453,croagunk,Croagunk,croagunk,croagunk,Croagunk,GitHub,Glibunkel,GitHub,Cradopaud,GitHub,グレッグル,GitHub,Guregguru,GitHub,Gureggru,GitHub
+454,toxicroak,Toxicroak,toxicroak,toxicroak,Toxicroak,GitHub,Toxiquak,GitHub,Coatox,GitHub,ドクロッグ,GitHub,Dokuroggu,GitHub,Dokurog,GitHub
+455,carnivine,Carnivine,carnivine,carnivine,Carnivine,GitHub,Venuflibis,GitHub,Vortente,GitHub,マスキッパ,GitHub,Masukippa,GitHub,Muskippa,GitHub
+456,finneon,Finneon,finneon,finneon,Finneon,GitHub,Finneon,GitHub,Écayon,GitHub,ケイコウオ,GitHub,Keikōō,GitHub,Keikouo,GitHub
+457,lumineon,Lumineon,lumineon,lumineon,Lumineon,GitHub,Lumineon,GitHub,Luminéon,GitHub,ネオラント,GitHub,Neoranto,GitHub,Neolant,GitHub
+458,mantyke,Mantyke,mantyke,mantyke,Mantyke,GitHub,Mantirps,GitHub,Babimanta,GitHub,タマンタ,GitHub,Tamanta,GitHub,Tamanta,GitHub
+459,snover,Snover,snover,snover,Snover,GitHub,Shnebedeck,GitHub,Blizzi,GitHub,ユキカブリ,GitHub,Yukikaburi,GitHub,Yukikaburi,GitHub
+460,abomasnow,Abomasnow,abomasnow,abomasnow,Abomasnow,GitHub,Rexblisar,GitHub,Blizzaroi,GitHub,ユキノオー,GitHub,Yukinōō,GitHub,Yukinooh,GitHub
+461,weavile,Weavile,weavile,weavile,Weavile,GitHub,Snibunna,GitHub,Dimoret,GitHub,マニューラ,GitHub,Manyūra,GitHub,Manyula,GitHub
+462,magnezone,Magnezone,magnezone,magnezone,Magnezone,GitHub,Magnezone,GitHub,Magnézone,GitHub,ジバコイル,GitHub,Jibakoiru,GitHub,Jibacoil,GitHub
+463,lickilicky,Lickilicky,lickilicky,lickilicky,Lickilicky,GitHub,Schlurplek,GitHub,Coudlangue,GitHub,ベロベルト,GitHub,Beroberuto,GitHub,Berobelt,GitHub
+464,rhyperior,Rhyperior,rhyperior,rhyperior,Rhyperior,GitHub,Rihornior,GitHub,Rhinastoc,GitHub,ドサイドン,GitHub,Dosaidon,GitHub,Dosidon,GitHub
+465,tangrowth,Tangrowth,tangrowth,tangrowth,Tangrowth,GitHub,Tangoloss,GitHub,Bouldeneu,GitHub,モジャンボ,GitHub,Mojanbo,GitHub,Mojumbo,GitHub
+466,electivire,Electivire,electivire,electivire,Electivire,GitHub,Elevoltek,GitHub,Élekable,GitHub,エレキブル,GitHub,Erekiburu,GitHub,Elekible,GitHub
+467,magmortar,Magmortar,magmortar,magmortar,Magmortar,GitHub,Magbrant,GitHub,Maganon,GitHub,ブーバーン,GitHub,Būbān,GitHub,Booburn,GitHub
+468,togekiss,Togekiss,togekiss,togekiss,Togekiss,GitHub,Togekiss,GitHub,Togekiss,GitHub,トゲキッス,GitHub,Togekissu,GitHub,Togekiss,GitHub
+469,yanmega,Yanmega,yanmega,yanmega,Yanmega,GitHub,Yanmega,GitHub,Yanmega,GitHub,メガヤンマ,GitHub,Megayanma,GitHub,Megayanma,GitHub
+470,leafeon,Leafeon,leafeon,leafeon,Leafeon,GitHub,Folipurba,GitHub,Phyllali,GitHub,リーフィア,GitHub,Rīfia,GitHub,Leafia,GitHub
+471,glaceon,Glaceon,glaceon,glaceon,Glaceon,GitHub,Glaziola,GitHub,Givrali,GitHub,グレイシア,GitHub,Gureishia,GitHub,Glacia,GitHub
+472,gliscor,Gliscor,gliscor,gliscor,Gliscor,GitHub,Skorgro,GitHub,Scorvol,GitHub,グライオン,GitHub,Guraion,GitHub,Glion,GitHub
+473,mamoswine,Mamoswine,mamoswine,mamoswine,Mamoswine,GitHub,Mamutel,GitHub,Mammochon,GitHub,マンムー,GitHub,Manmū,GitHub,Mammoo,GitHub
+474,porygon-z,Porygon-Z,porygon-z,porygon-z,Porygon-Z,GitHub,Porygon-Z,GitHub,Porygon-Z,GitHub,ポリゴンＺ,GitHub,Porigonz,GitHub,Porygon-Z,GitHub
+475,gallade,Gallade,gallade,gallade,Gallade,GitHub,Galagladi,GitHub,Gallame,GitHub,エルレイド,GitHub,Erureido,GitHub,Erureido,GitHub
+476,probopass,Probopass,probopass,probopass,Probopass,GitHub,Voluminas,GitHub,Tarinorme,GitHub,ダイノーズ,GitHub,Dainōzu,GitHub,Dainose,GitHub
+477,dusknoir,Dusknoir,dusknoir,dusknoir,Dusknoir,GitHub,Zwirrfinst,GitHub,Noctunoir,GitHub,ヨノワール,GitHub,Yonowāru,GitHub,Yonoir,GitHub
+478,froslass,Froslass,froslass,froslass,Froslass,GitHub,Frosdedje,GitHub,Momartik,GitHub,ユキメノコ,GitHub,Yukimenoko,GitHub,Yukimenoko,GitHub
+479,rotom,Rotom,rotom,rotom,Rotom,GitHub,Rotom,GitHub,Motisma,GitHub,ロトム,GitHub,Rotomu,GitHub,Rotom,GitHub
+480,uxie,Uxie,uxie,uxie,Uxie,GitHub,Selfe,GitHub,Créhelf,GitHub,ユクシー,GitHub,Yukushī,GitHub,Yuxie,GitHub
+481,mesprit,Mesprit,mesprit,mesprit,Mesprit,GitHub,Vesprit,GitHub,Créfollet,GitHub,エムリット,GitHub,Emuritto,GitHub,Emrit,GitHub
+482,azelf,Azelf,azelf,azelf,Azelf,GitHub,Tobutz,GitHub,Créfadet,GitHub,アグノム,GitHub,Agunomu,GitHub,Agnome,GitHub
+483,dialga,Dialga,dialga,dialga,Dialga,GitHub,Dialga,GitHub,Dialga,GitHub,ディアルガ,GitHub,Diaruga,GitHub,Dialga,GitHub
+484,palkia,Palkia,palkia,palkia,Palkia,GitHub,Palkia,GitHub,Palkia,GitHub,パルキア,GitHub,Parukia,GitHub,Palkia,GitHub
+485,heatran,Heatran,heatran,heatran,Heatran,GitHub,Heatran,GitHub,Heatran,GitHub,ヒードラン,GitHub,Hīdoran,GitHub,Heatran,GitHub
+486,regigigas,Regigigas,regigigas,regigigas,Regigigas,GitHub,Regigigas,GitHub,Regigigas,GitHub,レジギガス,GitHub,Rejigigasu,GitHub,Regigigas,GitHub
+487,giratina,Giratina,giratina-altered,giratina-altered,Giratina,GitHub,Giratina,GitHub,Giratina,GitHub,ギラティナ,GitHub,Giratina,GitHub,Giratina,GitHub
+488,cresselia,Cresselia,cresselia,cresselia,Cresselia,GitHub,Cresselia,GitHub,Cresselia,GitHub,クレセリア,GitHub,Kureseria,GitHub,Cresselia,GitHub
+489,phione,Phione,phione,phione,Phione,GitHub,Phione,GitHub,Phione,GitHub,フィオネ,GitHub,Fione,GitHub,Phione,GitHub
+490,manaphy,Manaphy,manaphy,manaphy,Manaphy,GitHub,Manaphy,GitHub,Manaphy,GitHub,マナフィ,GitHub,Manafi,GitHub,Manaphy,GitHub
+491,darkrai,Darkrai,darkrai,darkrai,Darkrai,GitHub,Darkrai,GitHub,Darkrai,GitHub,ダークライ,GitHub,Dākurai,GitHub,Darkrai,GitHub
+492,shaymin,Shaymin,shaymin-land,shaymin-land,Shaymin,GitHub,Shaymin,GitHub,Shaymin,GitHub,シェイミ,GitHub,Sheimi,GitHub,Shaymin,GitHub
+493,arceus,Arceus,arceus,arceus,Arceus,GitHub,Arceus,GitHub,Arceus,GitHub,アルセウス,GitHub,Aruseusu,GitHub,Arceus,GitHub
+494,victini,Victini,victini,victini,Victini,GitHub,Victini,GitHub,Victini,GitHub,ビクティニ,GitHub,Bikutini,GitHub,Victini,GitHub
+495,snivy,Snivy,snivy,snivy,Snivy,GitHub,Serpifeu,GitHub,Vipélierre,GitHub,ツタージャ,GitHub,Tsutāja,GitHub,Tsutarja,GitHub
+496,servine,Servine,servine,servine,Servine,GitHub,Efoserp,GitHub,Lianaja,GitHub,ジャノビー,GitHub,Janobī,GitHub,Janovy,GitHub
+497,serperior,Serperior,serperior,serperior,Serperior,GitHub,Serpiroyal,GitHub,Majaspic,GitHub,ジャローダ,GitHub,Jarōda,GitHub,Jalorda,GitHub
+498,tepig,Tepig,tepig,tepig,Tepig,GitHub,Floink,GitHub,Gruikui,GitHub,ポカブ,GitHub,Pokabu,GitHub,Pokabu,GitHub
+499,pignite,Pignite,pignite,pignite,Pignite,GitHub,Ferkokel,GitHub,Grotichon,GitHub,チャオブー,GitHub,Chaobū,GitHub,Chaoboo,GitHub
+500,emboar,Emboar,emboar,emboar,Emboar,GitHub,Flambirex,GitHub,Roitiflam,GitHub,エンブオー,GitHub,Enbuō,GitHub,Enbuoh,GitHub
+501,oshawott,Oshawott,oshawott,oshawott,Oshawott,GitHub,Ottaro,GitHub,Moustillon,GitHub,ミジュマル,GitHub,Mijumaru,GitHub,Mijumaru,GitHub
+502,dewott,Dewott,dewott,dewott,Dewott,GitHub,Zwottronin,GitHub,Mateloutre,GitHub,フタチマル,GitHub,Futachimaru,GitHub,Futachimaru,GitHub
+503,samurott,Samurott,samurott,samurott,Samurott,GitHub,Admurai,GitHub,Clamiral,GitHub,ダイケンキ,GitHub,Daikenki,GitHub,Daikenki,GitHub
+504,patrat,Patrat,patrat,patrat,Patrat,GitHub,Nagelotz,GitHub,Ratentif,GitHub,ミネズミ,GitHub,Minezumi,GitHub,Minezumi,GitHub
+505,watchog,Watchog,watchog,watchog,Watchog,GitHub,Kukmarda,GitHub,Miradar,GitHub,ミルホッグ,GitHub,Miruhoggu,GitHub,Miruhog,GitHub
+506,lillipup,Lillipup,lillipup,lillipup,Lillipup,GitHub,Yorkleff,GitHub,Ponchiot,GitHub,ヨーテリー,GitHub,Yōterī,GitHub,Yorterrie,GitHub
+507,herdier,Herdier,herdier,herdier,Herdier,GitHub,Terribark,GitHub,Ponchien,GitHub,ハーデリア,GitHub,Hāderia,GitHub,Herderrie,GitHub
+508,stoutland,Stoutland,stoutland,stoutland,Stoutland,GitHub,Bissbark,GitHub,Mastouffe,GitHub,ムーランド,GitHub,Mūrando,GitHub,Mooland,GitHub
+509,purrloin,Purrloin,purrloin,purrloin,Purrloin,GitHub,Felilou,GitHub,Chacripan,GitHub,チョロネコ,GitHub,Choroneko,GitHub,Choroneko,GitHub
+510,liepard,Liepard,liepard,liepard,Liepard,GitHub,Kleoparda,GitHub,Léopardus,GitHub,レパルダス,GitHub,Reparudasu,GitHub,Lepardas,GitHub
+511,pansage,Pansage,pansage,pansage,Pansage,GitHub,Vegimak,GitHub,Feuillajou,GitHub,ヤナップ,GitHub,Yanappu,GitHub,Yanappu,GitHub
+512,simisage,Simisage,simisage,simisage,Simisage,GitHub,Vegichita,GitHub,Feuiloutan,GitHub,ヤナッキー,GitHub,Yanakkī,GitHub,Yanakkie,GitHub
+513,pansear,Pansear,pansear,pansear,Pansear,GitHub,Grillmak,GitHub,Flamajou,GitHub,バオップ,GitHub,Baoppu,GitHub,Baoppu,GitHub
+514,simisear,Simisear,simisear,simisear,Simisear,GitHub,Grillchita,GitHub,Flamoutan,GitHub,バオッキー,GitHub,Baokkī,GitHub,Baokkie,GitHub
+515,panpour,Panpour,panpour,panpour,Panpour,GitHub,Sodamak,GitHub,Flotajou,GitHub,ヒヤップ,GitHub,Hiyappu,GitHub,Hiyappu,GitHub
+516,simipour,Simipour,simipour,simipour,Simipour,GitHub,Sodachita,GitHub,Flotoutan,GitHub,ヒヤッキー,GitHub,Hiyakkī,GitHub,Hiyakkie,GitHub
+517,munna,Munna,munna,munna,Munna,GitHub,Somniam,GitHub,Munna,GitHub,ムンナ,GitHub,Munna,GitHub,Munna,GitHub
+518,musharna,Musharna,musharna,musharna,Musharna,GitHub,Somnivora,GitHub,Mushana,GitHub,ムシャーナ,GitHub,Mushāna,GitHub,Musharna,GitHub
+519,pidove,Pidove,pidove,pidove,Pidove,GitHub,Dusselgurr,GitHub,Poichigeon,GitHub,マメパト,GitHub,Mamepato,GitHub,Mamepato,GitHub
+520,tranquill,Tranquill,tranquill,tranquill,Tranquill,GitHub,Navitaub,GitHub,Colombeau,GitHub,ハトーボー,GitHub,Hatōbō,GitHub,Hatoboh,GitHub
+521,unfezant,Unfezant,unfezant,unfezant,Unfezant,GitHub,Fasasnob,GitHub,Déflaisan,GitHub,ケンホロウ,GitHub,Kenhorō,GitHub,Kenhallow,GitHub
+522,blitzle,Blitzle,blitzle,blitzle,Blitzle,GitHub,Elezeba,GitHub,Zébibron,GitHub,シママ,GitHub,Shimama,GitHub,Shimama,GitHub
+523,zebstrika,Zebstrika,zebstrika,zebstrika,Zebstrika,GitHub,Zebritz,GitHub,Zéblitz,GitHub,ゼブライカ,GitHub,Zeburaika,GitHub,Zebraika,GitHub
+524,roggenrola,Roggenrola,roggenrola,roggenrola,Roggenrola,GitHub,Kiesling,GitHub,Nodulithe,GitHub,ダンゴロ,GitHub,Dangoro,GitHub,Dangoro,GitHub
+525,boldore,Boldore,boldore,boldore,Boldore,GitHub,Sedimantur,GitHub,Géolithe,GitHub,ガントル,GitHub,Gantoru,GitHub,Gantle,GitHub
+526,gigalith,Gigalith,gigalith,gigalith,Gigalith,GitHub,Brockoloss,GitHub,Gigalithe,GitHub,ギガイアス,GitHub,Gigaiasu,GitHub,Gigaiath,GitHub
+527,woobat,Woobat,woobat,woobat,Woobat,GitHub,Fleknoil,GitHub,Chovsourir,GitHub,コロモリ,GitHub,Koromori,GitHub,Koromori,GitHub
+528,swoobat,Swoobat,swoobat,swoobat,Swoobat,GitHub,Fletiamo,GitHub,Rhinolove,GitHub,ココロモリ,GitHub,Kokoromori,GitHub,Kokoromori,GitHub
+529,drilbur,Drilbur,drilbur,drilbur,Drilbur,GitHub,Rotomurf,GitHub,Rototaupe,GitHub,モグリュー,GitHub,Moguryū,GitHub,Mogurew,GitHub
+530,excadrill,Excadrill,excadrill,excadrill,Excadrill,GitHub,Stalobor,GitHub,Minotaupe,GitHub,ドリュウズ,GitHub,Doryūzu,GitHub,Doryuzu,GitHub
+531,audino,Audino,audino,audino,Audino,GitHub,Ohrdoch,GitHub,Nanméouïe,GitHub,タブンネ,GitHub,Tabunne,GitHub,Tabunne,GitHub
+532,timburr,Timburr,timburr,timburr,Timburr,GitHub,Praktibalk,GitHub,Charpenti,GitHub,ドッコラー,GitHub,Dokkorā,GitHub,Dokkorer,GitHub
+533,gurdurr,Gurdurr,gurdurr,gurdurr,Gurdurr,GitHub,Strepoli,GitHub,Ouvrifier,GitHub,ドテッコツ,GitHub,Dotekkotsu,GitHub,Dotekkotsu,GitHub
+534,conkeldurr,Conkeldurr,conkeldurr,conkeldurr,Conkeldurr,GitHub,Meistagrif,GitHub,Bétochef,GitHub,ローブシン,GitHub,Rōbushin,GitHub,Roubushin,GitHub
+535,tympole,Tympole,tympole,tympole,Tympole,GitHub,Schallquap,GitHub,Tritonde,GitHub,オタマロ,GitHub,Otamaro,GitHub,Otamaro,GitHub
+536,palpitoad,Palpitoad,palpitoad,palpitoad,Palpitoad,GitHub,Mebrana,GitHub,Batracné,GitHub,ガマガル,GitHub,Gamagaru,GitHub,Gamagaru,GitHub
+537,seismitoad,Seismitoad,seismitoad,seismitoad,Seismitoad,GitHub,Branawarz,GitHub,Crapustule,GitHub,ガマゲロゲ,GitHub,Gamageroge,GitHub,Gamageroge,GitHub
+538,throh,Throh,throh,throh,Throh,GitHub,Jiutesto,GitHub,Judokrak,GitHub,ナゲキ,GitHub,Nageki,GitHub,Nageki,GitHub
+539,sawk,Sawk,sawk,sawk,Sawk,GitHub,Karadonis,GitHub,Karaclée,GitHub,ダゲキ,GitHub,Dageki,GitHub,Dageki,GitHub
+540,sewaddle,Sewaddle,sewaddle,sewaddle,Sewaddle,GitHub,Strawickl,GitHub,Larveyette,GitHub,クルミル,GitHub,Kurumiru,GitHub,Kurumiru,GitHub
+541,swadloon,Swadloon,swadloon,swadloon,Swadloon,GitHub,Folikon,GitHub,Couverdure,GitHub,クルマユ,GitHub,Kurumayu,GitHub,Kurumayu,GitHub
+542,leavanny,Leavanny,leavanny,leavanny,Leavanny,GitHub,Matrifol,GitHub,Manternel,GitHub,ハハコモリ,GitHub,Hahakomori,GitHub,Hahakomori,GitHub
+543,venipede,Venipede,venipede,venipede,Venipede,GitHub,Toxiped,GitHub,Venipatte,GitHub,フシデ,GitHub,Fushide,GitHub,Fushide,GitHub
+544,whirlipede,Whirlipede,whirlipede,whirlipede,Whirlipede,GitHub,Rollum,GitHub,Scobolide,GitHub,ホイーガ,GitHub,Hoīga,GitHub,Wheega,GitHub
+545,scolipede,Scolipede,scolipede,scolipede,Scolipede,GitHub,Cerapendra,GitHub,Brutapode,GitHub,ペンドラー,GitHub,Pendorā,GitHub,Pendror,GitHub
+546,cottonee,Cottonee,cottonee,cottonee,Cottonee,GitHub,Waumboll,GitHub,Doudouvet,GitHub,モンメン,GitHub,Monmen,GitHub,Monmen,GitHub
+547,whimsicott,Whimsicott,whimsicott,whimsicott,Whimsicott,GitHub,Elfun,GitHub,Farfaduvet,GitHub,エルフーン,GitHub,Erufūn,GitHub,Elfuun,GitHub
+548,petilil,Petilil,petilil,petilil,Petilil,GitHub,Lilminip,GitHub,Chlorobule,GitHub,チュリネ,GitHub,Churine,GitHub,Churine,GitHub
+549,lilligant,Lilligant,lilligant,lilligant,Lilligant,GitHub,Dressella,GitHub,Fragilady,GitHub,ドレディア,GitHub,Doredia,GitHub,Dredear,GitHub
+550,basculin,Basculin,basculin-red-striped,basculin-red-striped,Basculin,GitHub,Barschuft,GitHub,Bargantua,GitHub,バスラオ,GitHub,Basurao,GitHub,Bassrao,GitHub
+551,sandile,Sandile,sandile,sandile,Sandile,GitHub,Ganovil,GitHub,Mascaïman,GitHub,メグロコ,GitHub,Meguroko,GitHub,Meguroco,GitHub
+552,krokorok,Krokorok,krokorok,krokorok,Krokorok,GitHub,Rokkaiman,GitHub,Escroco,GitHub,ワルビル,GitHub,Warubiru,GitHub,Waruvile,GitHub
+553,krookodile,Krookodile,krookodile,krookodile,Krookodile,GitHub,Rabigator,GitHub,Crocorible,GitHub,ワルビアル,GitHub,Warubiaru,GitHub,Waruvial,GitHub
+554,darumaka,Darumaka,darumaka,darumaka,Darumaka,GitHub,Flampion,GitHub,Darumarond,GitHub,ダルマッカ,GitHub,Darumakka,GitHub,Darumakka,GitHub
+555,darmanitan,Darmanitan,darmanitan-standard,darmanitan-standard,Darmanitan,GitHub,Flampivian,GitHub,Darumacho,GitHub,ヒヒダルマ,GitHub,Hihidaruma,GitHub,Hihidaruma,GitHub
+556,maractus,Maractus,maractus,maractus,Maractus,GitHub,Maracamba,GitHub,Maracachi,GitHub,マラカッチ,GitHub,Marakatchi,GitHub,Maracacchi,GitHub
+557,dwebble,Dwebble,dwebble,dwebble,Dwebble,GitHub,Lithomith,GitHub,Crabicoque,GitHub,イシズマイ,GitHub,Ishizumai,GitHub,Ishizumai,GitHub
+558,crustle,Crustle,crustle,crustle,Crustle,GitHub,Castellith,GitHub,Crabaraque,GitHub,イワパレス,GitHub,Iwaparesu,GitHub,Iwapalace,GitHub
+559,scraggy,Scraggy,scraggy,scraggy,Scraggy,GitHub,Zurrokex,GitHub,Baggiguane,GitHub,ズルッグ,GitHub,Zuruggu,GitHub,Zuruggu,GitHub
+560,scrafty,Scrafty,scrafty,scrafty,Scrafty,GitHub,Irokex,GitHub,Baggaïd,GitHub,ズルズキン,GitHub,Zuruzukin,GitHub,Zuruzukin,GitHub
+561,sigilyph,Sigilyph,sigilyph,sigilyph,Sigilyph,GitHub,Symvolara,GitHub,Cryptéro,GitHub,シンボラー,GitHub,Shinborā,GitHub,Symboler,GitHub
+562,yamask,Yamask,yamask,yamask,Yamask,GitHub,Makabaja,GitHub,Tutafeh,GitHub,デスマス,GitHub,Desumasu,GitHub,Desumasu,GitHub
+563,cofagrigus,Cofagrigus,cofagrigus,cofagrigus,Cofagrigus,GitHub,Echnatoll,GitHub,Tutankafer,GitHub,デスカーン,GitHub,Desukān,GitHub,Desukarn,GitHub
+564,tirtouga,Tirtouga,tirtouga,tirtouga,Tirtouga,GitHub,Galapaflos,GitHub,Carapagos,GitHub,プロトーガ,GitHub,Purotōga,GitHub,Protoga,GitHub
+565,carracosta,Carracosta,carracosta,carracosta,Carracosta,GitHub,Karippas,GitHub,Mégapagos,GitHub,アバゴーラ,GitHub,Abagōra,GitHub,Abagoura,GitHub
+566,archen,Archen,archen,archen,Archen,GitHub,Flapteryx,GitHub,Arkéapti,GitHub,アーケン,GitHub,Āken,GitHub,Archen,GitHub
+567,archeops,Archeops,archeops,archeops,Archeops,GitHub,Aeropteryx,GitHub,Aéroptéryx,GitHub,アーケオス,GitHub,Ākeosu,GitHub,Archeos,GitHub
+568,trubbish,Trubbish,trubbish,trubbish,Trubbish,GitHub,Unratütox,GitHub,Miamiasme,GitHub,ヤブクロン,GitHub,Yabukuron,GitHub,Yabukuron,GitHub
+569,garbodor,Garbodor,garbodor,garbodor,Garbodor,GitHub,Deponitox,GitHub,Miasmax,GitHub,ダストダス,GitHub,Dasutodasu,GitHub,Dustdas,GitHub
+570,zorua,Zorua,zorua,zorua,Zorua,GitHub,Zorua,GitHub,Zorua,GitHub,ゾロア,GitHub,Zoroa,GitHub,Zorua,GitHub
+571,zoroark,Zoroark,zoroark,zoroark,Zoroark,GitHub,Zoroark,GitHub,Zoroark,GitHub,ゾロアーク,GitHub,Zoroāku,GitHub,Zoroark,GitHub
+572,minccino,Minccino,minccino,minccino,Minccino,GitHub,Picochilla,GitHub,Chinchidou,GitHub,チラーミィ,GitHub,Chirāmī,GitHub,Chillarmy,GitHub
+573,cinccino,Cinccino,cinccino,cinccino,Cinccino,GitHub,Chillabell,GitHub,Pashmilla,GitHub,チラチーノ,GitHub,Chirachīno,GitHub,Chillaccino,GitHub
+574,gothita,Gothita,gothita,gothita,Gothita,GitHub,Mollimorba,GitHub,Scrutella,GitHub,ゴチム,GitHub,Gochimu,GitHub,Gothimu,GitHub
+575,gothorita,Gothorita,gothorita,gothorita,Gothorita,GitHub,Hypnomorba,GitHub,Mesmérella,GitHub,ゴチミル,GitHub,Gochimiru,GitHub,Gothimiru,GitHub
+576,gothitelle,Gothitelle,gothitelle,gothitelle,Gothitelle,GitHub,Morbitesse,GitHub,Sidérella,GitHub,ゴチルゼル,GitHub,Gochiruzeru,GitHub,Gothiruselle,GitHub
+577,solosis,Solosis,solosis,solosis,Solosis,GitHub,Monozyto,GitHub,Nucléos,GitHub,ユニラン,GitHub,Yuniran,GitHub,Uniran,GitHub
+578,duosion,Duosion,duosion,duosion,Duosion,GitHub,Mitodos,GitHub,Méios,GitHub,ダブラン,GitHub,Daburan,GitHub,Doublan,GitHub
+579,reuniclus,Reuniclus,reuniclus,reuniclus,Reuniclus,GitHub,Zytomega,GitHub,Symbios,GitHub,ランクルス,GitHub,Rankurusu,GitHub,Lanculus,GitHub
+580,ducklett,Ducklett,ducklett,ducklett,Ducklett,GitHub,Piccolente,GitHub,Couaneton,GitHub,コアルヒー,GitHub,Koaruhī,GitHub,Koaruhie,GitHub
+581,swanna,Swanna,swanna,swanna,Swanna,GitHub,Swaroness,GitHub,Lakmécygne,GitHub,スワンナ,GitHub,Suwanna,GitHub,Swanna,GitHub
+582,vanillite,Vanillite,vanillite,vanillite,Vanillite,GitHub,Gelatini,GitHub,Sorbébé,GitHub,バニプッチ,GitHub,Baniputchi,GitHub,Vanipeti,GitHub
+583,vanillish,Vanillish,vanillish,vanillish,Vanillish,GitHub,Gelatroppo,GitHub,Sorboul,GitHub,バニリッチ,GitHub,Baniritchi,GitHub,Vanirich,GitHub
+584,vanilluxe,Vanilluxe,vanilluxe,vanilluxe,Vanilluxe,GitHub,Gelatwino,GitHub,Sorbouboul,GitHub,バイバニラ,GitHub,Baibanira,GitHub,Baivanilla,GitHub
+585,deerling,Deerling,deerling,deerling,Deerling,GitHub,Sesokitz,GitHub,Vivaldaim,GitHub,シキジカ,GitHub,Shikijika,GitHub,Shikijika,GitHub
+586,sawsbuck,Sawsbuck,sawsbuck,sawsbuck,Sawsbuck,GitHub,Kronjuwild,GitHub,Haydaim,GitHub,メブキジカ,GitHub,Mebukijika,GitHub,Mebukijika,GitHub
+587,emolga,Emolga,emolga,emolga,Emolga,GitHub,Emolga,GitHub,Emolga,GitHub,エモンガ,GitHub,Emonga,GitHub,Emonga,GitHub
+588,karrablast,Karrablast,karrablast,karrablast,Karrablast,GitHub,Laukaps,GitHub,Carabing,GitHub,カブルモ,GitHub,Kaburumo,GitHub,Kaburumo,GitHub
+589,escavalier,Escavalier,escavalier,escavalier,Escavalier,GitHub,Cavalanzas,GitHub,Lançargot,GitHub,シュバルゴ,GitHub,Shubarugo,GitHub,Chevargo,GitHub
+590,foongus,Foongus,foongus,foongus,Foongus,GitHub,Tarnpignon,GitHub,Trompignon,GitHub,タマゲタケ,GitHub,Tamagetake,GitHub,Tamagetake,GitHub
+591,amoonguss,Amoonguss,amoonguss,amoonguss,Amoonguss,GitHub,Hutsassa,GitHub,Gaulet,GitHub,モロバレル,GitHub,Morobareru,GitHub,Morobareru,GitHub
+592,frillish,Frillish,frillish,frillish,Frillish,GitHub,Quabbel,GitHub,Viskuse,GitHub,プルリル,GitHub,Pururiru,GitHub,Pururill,GitHub
+593,jellicent,Jellicent,jellicent,jellicent,Jellicent,GitHub,Apoquallyp,GitHub,Moyade,GitHub,ブルンゲル,GitHub,Burungeru,GitHub,Burungel,GitHub
+594,alomomola,Alomomola,alomomola,alomomola,Alomomola,GitHub,Mamolida,GitHub,Mamanbo,GitHub,ママンボウ,GitHub,Mamanbō,GitHub,Mamanbou,GitHub
+595,joltik,Joltik,joltik,joltik,Joltik,GitHub,Wattzapf,GitHub,Statitik,GitHub,バチュル,GitHub,Bachuru,GitHub,Bachuru,GitHub
+596,galvantula,Galvantula,galvantula,galvantula,Galvantula,GitHub,Voltula,GitHub,Mygavolt,GitHub,デンチュラ,GitHub,Denchura,GitHub,Dentula,GitHub
+597,ferroseed,Ferroseed,ferroseed,ferroseed,Ferroseed,GitHub,Kastadur,GitHub,Grindur,GitHub,テッシード,GitHub,Tesshīdo,GitHub,Tesseed,GitHub
+598,ferrothorn,Ferrothorn,ferrothorn,ferrothorn,Ferrothorn,GitHub,Tentantel,GitHub,Noacier,GitHub,ナットレイ,GitHub,Nattorei,GitHub,Nutrey,GitHub
+599,klink,Klink,klink,klink,Klink,GitHub,Klikk,GitHub,Tic,GitHub,ギアル,GitHub,Giaru,GitHub,Giaru,GitHub
+600,klang,Klang,klang,klang,Klang,GitHub,Kliklak,GitHub,Clic,GitHub,ギギアル,GitHub,Gigiaru,GitHub,Gigiaru,GitHub
+601,klinklang,Klinklang,klinklang,klinklang,Klinklang,GitHub,Klikdiklak,GitHub,Cliticlic,GitHub,ギギギアル,GitHub,Gigigiaru,GitHub,Gigigiaru,GitHub
+602,tynamo,Tynamo,tynamo,tynamo,Tynamo,GitHub,Zapplardin,GitHub,Anchwatt,GitHub,シビシラス,GitHub,Shibishirasu,GitHub,Shibishirasu,GitHub
+603,eelektrik,Eelektrik,eelektrik,eelektrik,Eelektrik,GitHub,Zapplalek,GitHub,Lampéroie,GitHub,シビビール,GitHub,Shibibīru,GitHub,Shibibeel,GitHub
+604,eelektross,Eelektross,eelektross,eelektross,Eelektross,GitHub,Zapplarang,GitHub,Ohmassacre,GitHub,シビルドン,GitHub,Shibirudon,GitHub,Shibirudon,GitHub
+605,elgyem,Elgyem,elgyem,elgyem,Elgyem,GitHub,Pygraulon,GitHub,Lewsor,GitHub,リグレー,GitHub,Rigurē,GitHub,Ligray,GitHub
+606,beheeyem,Beheeyem,beheeyem,beheeyem,Beheeyem,GitHub,Megalon,GitHub,Neitram,GitHub,オーベム,GitHub,Ōbemu,GitHub,Ohbem,GitHub
+607,litwick,Litwick,litwick,litwick,Litwick,GitHub,Lichtel,GitHub,Funécire,GitHub,ヒトモシ,GitHub,Hitomoshi,GitHub,Hitomoshi,GitHub
+608,lampent,Lampent,lampent,lampent,Lampent,GitHub,Laternecto,GitHub,Mélancolux,GitHub,ランプラー,GitHub,Ranpurā,GitHub,Lampler,GitHub
+609,chandelure,Chandelure,chandelure,chandelure,Chandelure,GitHub,Skelabra,GitHub,Lugulabre,GitHub,シャンデラ,GitHub,Shandera,GitHub,Chandela,GitHub
+610,axew,Axew,axew,axew,Axew,GitHub,Milza,GitHub,Coupenotte,GitHub,キバゴ,GitHub,Kibago,GitHub,Kibago,GitHub
+611,fraxure,Fraxure,fraxure,fraxure,Fraxure,GitHub,Sharfax,GitHub,Incisache,GitHub,オノンド,GitHub,Onondo,GitHub,Onondo,GitHub
+612,haxorus,Haxorus,haxorus,haxorus,Haxorus,GitHub,Maxax,GitHub,Tranchodon,GitHub,オノノクス,GitHub,Ononokusu,GitHub,Ononokus,GitHub
+613,cubchoo,Cubchoo,cubchoo,cubchoo,Cubchoo,GitHub,Petznief,GitHub,Polarhume,GitHub,クマシュン,GitHub,Kumashun,GitHub,Kumasyun,GitHub
+614,beartic,Beartic,beartic,beartic,Beartic,GitHub,Siberio,GitHub,Polagriffe,GitHub,ツンベアー,GitHub,Tsunbeā,GitHub,Tunbear,GitHub
+615,cryogonal,Cryogonal,cryogonal,cryogonal,Cryogonal,GitHub,Frigometri,GitHub,Hexagel,GitHub,フリージオ,GitHub,Furījio,GitHub,Freegeo,GitHub
+616,shelmet,Shelmet,shelmet,shelmet,Shelmet,GitHub,Schnuthelm,GitHub,Escargaume,GitHub,チョボマキ,GitHub,Chobomaki,GitHub,Chobomaki,GitHub
+617,accelgor,Accelgor,accelgor,accelgor,Accelgor,GitHub,Hydragil,GitHub,Limaspeed,GitHub,アギルダー,GitHub,Agirudā,GitHub,Agilder,GitHub
+618,stunfisk,Stunfisk,stunfisk,stunfisk,Stunfisk,GitHub,Flunschlik,GitHub,Limonde,GitHub,マッギョ,GitHub,Maggyo,GitHub,Maggyo,GitHub
+619,mienfoo,Mienfoo,mienfoo,mienfoo,Mienfoo,GitHub,Lin-Fu,GitHub,Kungfouine,GitHub,コジョフー,GitHub,Kojofū,GitHub,Kojofu,GitHub
+620,mienshao,Mienshao,mienshao,mienshao,Mienshao,GitHub,Wie-Shu,GitHub,Shaofouine,GitHub,コジョンド,GitHub,Kojondo,GitHub,Kojondo,GitHub
+621,druddigon,Druddigon,druddigon,druddigon,Druddigon,GitHub,Shardrago,GitHub,Drakkarmin,GitHub,クリムガン,GitHub,Kurimugan,GitHub,Crimgan,GitHub
+622,golett,Golett,golett,golett,Golett,GitHub,Golbit,GitHub,Gringolem,GitHub,ゴビット,GitHub,Gobitto,GitHub,Gobit,GitHub
+623,golurk,Golurk,golurk,golurk,Golurk,GitHub,Golgantes,GitHub,Golemastoc,GitHub,ゴルーグ,GitHub,Gorūgu,GitHub,Goloog,GitHub
+624,pawniard,Pawniard,pawniard,pawniard,Pawniard,GitHub,Gladiantri,GitHub,Scalpion,GitHub,コマタナ,GitHub,Komatana,GitHub,Komatana,GitHub
+625,bisharp,Bisharp,bisharp,bisharp,Bisharp,GitHub,Caesurio,GitHub,Scalproie,GitHub,キリキザン,GitHub,Kirikizan,GitHub,Kirikizan,GitHub
+626,bouffalant,Bouffalant,bouffalant,bouffalant,Bouffalant,GitHub,Bisofank,GitHub,Frison,GitHub,バッフロン,GitHub,Baffuron,GitHub,Buffron,GitHub
+627,rufflet,Rufflet,rufflet,rufflet,Rufflet,GitHub,Geronimatz,GitHub,Furaiglon,GitHub,ワシボン,GitHub,Washibon,GitHub,Washibon,GitHub
+628,braviary,Braviary,braviary,braviary,Braviary,GitHub,Washakwil,GitHub,Gueriaigle,GitHub,ウォーグル,GitHub,Wōguru,GitHub,Warrgle,GitHub
+629,vullaby,Vullaby,vullaby,vullaby,Vullaby,GitHub,Skallyk,GitHub,Vostourno,GitHub,バルチャイ,GitHub,Baruchai,GitHub,Valchai,GitHub
+630,mandibuzz,Mandibuzz,mandibuzz,mandibuzz,Mandibuzz,GitHub,Grypheldis,GitHub,Vaututrice,GitHub,バルジーナ,GitHub,Barujīna,GitHub,Vulgina,GitHub
+631,heatmor,Heatmor,heatmor,heatmor,Heatmor,GitHub,Furnifraß,GitHub,Aflamanoir,GitHub,クイタラン,GitHub,Kuitaran,GitHub,Kuitaran,GitHub
+632,durant,Durant,durant,durant,Durant,GitHub,Fermicula,GitHub,Fermite,GitHub,アイアント,GitHub,Aianto,GitHub,Aiant,GitHub
+633,deino,Deino,deino,deino,Deino,GitHub,Kapuno,GitHub,Solochi,GitHub,モノズ,GitHub,Monozu,GitHub,Monozu,GitHub
+634,zweilous,Zweilous,zweilous,zweilous,Zweilous,GitHub,Duodino,GitHub,Diamat,GitHub,ジヘッド,GitHub,Jiheddo,GitHub,Dihead,GitHub
+635,hydreigon,Hydreigon,hydreigon,hydreigon,Hydreigon,GitHub,Trikephalo,GitHub,Trioxhydre,GitHub,サザンドラ,GitHub,Sazandora,GitHub,Sazandora,GitHub
+636,larvesta,Larvesta,larvesta,larvesta,Larvesta,GitHub,Ignivor,GitHub,Pyronille,GitHub,メラルバ,GitHub,Meraruba,GitHub,Merlarva,GitHub
+637,volcarona,Volcarona,volcarona,volcarona,Volcarona,GitHub,Ramoth,GitHub,Pyrax,GitHub,ウルガモス,GitHub,Urugamosu,GitHub,Ulgamoth,GitHub
+638,cobalion,Cobalion,cobalion,cobalion,Cobalion,GitHub,Kobalium,GitHub,Cobaltium,GitHub,コバルオン,GitHub,Kobaruon,GitHub,Cobalon,GitHub
+639,terrakion,Terrakion,terrakion,terrakion,Terrakion,GitHub,Terrakium,GitHub,Terrakium,GitHub,テラキオン,GitHub,Terakion,GitHub,Terrakion,GitHub
+640,virizion,Virizion,virizion,virizion,Virizion,GitHub,Viridium,GitHub,Viridium,GitHub,ビリジオン,GitHub,Birijion,GitHub,Virizion,GitHub
+641,tornadus,Tornadus,tornadus-incarnate,tornadus-incarnate,Tornadus,GitHub,Boreos,GitHub,Boréas,GitHub,トルネロス,GitHub,Torunerosu,GitHub,Tornelos,GitHub
+642,thundurus,Thundurus,thundurus-incarnate,thundurus-incarnate,Thundurus,GitHub,Voltolos,GitHub,Fulguris,GitHub,ボルトロス,GitHub,Borutorosu,GitHub,Voltolos,GitHub
+643,reshiram,Reshiram,reshiram,reshiram,Reshiram,GitHub,Reshiram,GitHub,Reshiram,GitHub,レシラム,GitHub,Reshiramu,GitHub,Reshiram,GitHub
+644,zekrom,Zekrom,zekrom,zekrom,Zekrom,GitHub,Zekrom,GitHub,Zekrom,GitHub,ゼクロム,GitHub,Zekuromu,GitHub,Zekrom,GitHub
+645,landorus,Landorus,landorus-incarnate,landorus-incarnate,Landorus,GitHub,Demeteros,GitHub,Démétéros,GitHub,ランドロス,GitHub,Randorosu,GitHub,Landlos,GitHub
+646,kyurem,Kyurem,kyurem,kyurem,Kyurem,GitHub,Kyurem,GitHub,Kyurem,GitHub,キュレム,GitHub,Kyuremu,GitHub,Kyurem,GitHub
+647,keldeo,Keldeo,keldeo-ordinary,keldeo-ordinary,Keldeo,GitHub,Keldeo,GitHub,Keldeo,GitHub,ケルディオ,GitHub,Kerudio,GitHub,Keldeo,GitHub
+648,meloetta,Meloetta,meloetta-aria,meloetta-aria,Meloetta,GitHub,Meloetta,GitHub,Meloetta,GitHub,メロエッタ,GitHub,Meroetta,GitHub,Meloetta,GitHub
+649,genesect,Genesect,genesect,genesect,Genesect,GitHub,Genesect,GitHub,Genesect,GitHub,ゲノセクト,GitHub,Genosekuto,GitHub,Genesect,GitHub
+650,chespin,Chespin,chespin,chespin,Chespin,GitHub,Igamaro,GitHub,Marisson,GitHub,ハリマロン,GitHub,Harimaron,GitHub,Harimaron,GitHub
+651,quilladin,Quilladin,quilladin,quilladin,Quilladin,GitHub,Igastarnish,GitHub,Boguérisse,GitHub,ハリボーグ,GitHub,Haribōgu,GitHub,Hariborg,GitHub
+652,chesnaught,Chesnaught,chesnaught,chesnaught,Chesnaught,GitHub,Brigaron,GitHub,Blindépique,GitHub,ブリガロン,GitHub,Burigaron,GitHub,Brigarron,GitHub
+653,fennekin,Fennekin,fennekin,fennekin,Fennekin,GitHub,Fynx,GitHub,Feunnec,GitHub,フォッコ,GitHub,Fokko,GitHub,Fokko,GitHub
+654,braixen,Braixen,braixen,braixen,Braixen,GitHub,Rutena,GitHub,Roussil,GitHub,テールナー,GitHub,Tērunā,GitHub,Tairenar,GitHub
+655,delphox,Delphox,delphox,delphox,Delphox,GitHub,Fennexis,GitHub,Goupelin,GitHub,マフォクシー,GitHub,Mafokushī,GitHub,Mahoxy,GitHub
+656,froakie,Froakie,froakie,froakie,Froakie,GitHub,Froxy,GitHub,Grenousse,GitHub,ケロマツ,GitHub,Keromatsu,GitHub,Keromatsu,GitHub
+657,frogadier,Frogadier,frogadier,frogadier,Frogadier,GitHub,Amphizel,GitHub,Croâporal,GitHub,ゲコガシラ,GitHub,Gekogashira,GitHub,Gekogashira,GitHub
+658,greninja,Greninja,greninja,greninja,Greninja,GitHub,Quajutsu,GitHub,Amphinobi,GitHub,ゲッコウガ,GitHub,Gekkōga,GitHub,Gekkouga,GitHub
+659,bunnelby,Bunnelby,bunnelby,bunnelby,Bunnelby,GitHub,Scoppel,GitHub,Sapereau,GitHub,ホルビー,GitHub,Horubī,GitHub,Horubee,GitHub
+660,diggersby,Diggersby,diggersby,diggersby,Diggersby,GitHub,Grebbit,GitHub,Excavarenne,GitHub,ホルード,GitHub,Horūdo,GitHub,Horudo,GitHub
+661,fletchling,Fletchling,fletchling,fletchling,Fletchling,GitHub,Dartiri,GitHub,Passerouge,GitHub,ヤヤコマ,GitHub,Yayakoma,GitHub,Yayakoma,GitHub
+662,fletchinder,Fletchinder,fletchinder,fletchinder,Fletchinder,GitHub,Dartignis,GitHub,Braisillon,GitHub,ヒノヤコマ,GitHub,Hinoyakoma,GitHub,Hinoyakoma,GitHub
+663,talonflame,Talonflame,talonflame,talonflame,Talonflame,GitHub,Fiaro,GitHub,Flambusard,GitHub,ファイアロー,GitHub,Faiarō,GitHub,Fiarrow,GitHub
+664,scatterbug,Scatterbug,scatterbug,scatterbug,Scatterbug,GitHub,Purmel,GitHub,Lépidonille,GitHub,コフキムシ,GitHub,Kofukimushi,GitHub,Kofukimushi,GitHub
+665,spewpa,Spewpa,spewpa,spewpa,Spewpa,GitHub,Puponcho,GitHub,Pérégrain,GitHub,コフーライ,GitHub,Kofūrai,GitHub,Kofuurai,GitHub
+666,vivillon,Vivillon,vivillon,vivillon,Vivillon,GitHub,Vivillon,GitHub,Prismillon,GitHub,ビビヨン,GitHub,Bibiyon,GitHub,Viviyon,GitHub
+667,litleo,Litleo,litleo,litleo,Litleo,GitHub,Leufeo,GitHub,Hélionceau,GitHub,シシコ,GitHub,Shishiko,GitHub,Shishiko,GitHub
+668,pyroar,Pyroar,pyroar,pyroar,Pyroar,GitHub,Pyroleo,GitHub,Némélios,GitHub,カエンジシ,GitHub,Kaenjishi,GitHub,Kaenjishi,GitHub
+669,flab-b,Flabébé,flabebe,flabebe,Flabébé,GitHub,Flabébé,GitHub,Flabébé,GitHub,フラベベ,GitHub,Furabebe,GitHub,Flabebe,GitHub
+670,floette,Floette,floette,floette,Floette,GitHub,Floette,GitHub,Floette,GitHub,フラエッテ,GitHub,Furaette,GitHub,Floette,GitHub
+671,florges,Florges,florges,florges,Florges,GitHub,Florges,GitHub,Florges,GitHub,フラージェス,GitHub,Furājesu,GitHub,Florges,GitHub
+672,skiddo,Skiddo,skiddo,skiddo,Skiddo,GitHub,Mähikel,GitHub,Cabriolaine,GitHub,メェークル,GitHub,Mēēkuru,GitHub,Meecle,GitHub
+673,gogoat,Gogoat,gogoat,gogoat,Gogoat,GitHub,Chevrumm,GitHub,Chevroum,GitHub,ゴーゴート,GitHub,Gōgōto,GitHub,Gogoat,GitHub
+674,pancham,Pancham,pancham,pancham,Pancham,GitHub,Pam-Pam,GitHub,Pandespiègle,GitHub,ヤンチャム,GitHub,Yanchamu,GitHub,Yancham,GitHub
+675,pangoro,Pangoro,pangoro,pangoro,Pangoro,GitHub,Pandagro,GitHub,Pandarbare,GitHub,ゴロンダ,GitHub,Goronda,GitHub,Goronda,GitHub
+676,furfrou,Furfrou,furfrou,furfrou,Furfrou,GitHub,Coiffwaff,GitHub,Couafarel,GitHub,トリミアン,GitHub,Torimian,GitHub,Trimmien,GitHub
+677,espurr,Espurr,espurr,espurr,Espurr,GitHub,Psiau,GitHub,Psystigri,GitHub,ニャスパー,GitHub,Nyasupā,GitHub,Nyasper,GitHub
+678,meowstic,Meowstic,meowstic-male,meowstic-male,Meowstic,GitHub,Psiaugon,GitHub,Mistigrix,GitHub,ニャオニクス,GitHub,Nyaonikusu,GitHub,Nyaonix,GitHub
+679,honedge,Honedge,honedge,honedge,Honedge,GitHub,Gramokles,GitHub,Monorpale,GitHub,ヒトツキ,GitHub,Hitotsuki,GitHub,Hitotsuki,GitHub
+680,doublade,Doublade,doublade,doublade,Doublade,GitHub,Duokles,GitHub,Dimoclès,GitHub,ニダンギル,GitHub,Nidangiru,GitHub,Nidangill,GitHub
+681,aegislash,Aegislash,aegislash-shield,aegislash-shield,Aegislash,GitHub,Durengard,GitHub,Exagide,GitHub,ギルガルド,GitHub,Girugarudo,GitHub,Gillgard,GitHub
+682,spritzee,Spritzee,spritzee,spritzee,Spritzee,GitHub,Parfi,GitHub,Fluvetin,GitHub,シュシュプ,GitHub,Shushupu,GitHub,Shushupu,GitHub
+683,aromatisse,Aromatisse,aromatisse,aromatisse,Aromatisse,GitHub,Parfinesse,GitHub,Cocotine,GitHub,フレフワン,GitHub,Furefuwan,GitHub,Frefuwan,GitHub
+684,swirlix,Swirlix,swirlix,swirlix,Swirlix,GitHub,Flauschling,GitHub,Sucroquin,GitHub,ペロッパフ,GitHub,Peroppafu,GitHub,Peroppafu,GitHub
+685,slurpuff,Slurpuff,slurpuff,slurpuff,Slurpuff,GitHub,Sabbaione,GitHub,Cupcanaille,GitHub,ペロリーム,GitHub,Perorīmu,GitHub,Peroream,GitHub
+686,inkay,Inkay,inkay,inkay,Inkay,GitHub,Iscalar,GitHub,Sepiatop,GitHub,マーイーカ,GitHub,Māīka,GitHub,Maaiika,GitHub
+687,malamar,Malamar,malamar,malamar,Malamar,GitHub,Calamanero,GitHub,Sepiatroce,GitHub,カラマネロ,GitHub,Karamanero,GitHub,Calamanero,GitHub
+688,binacle,Binacle,binacle,binacle,Binacle,GitHub,Bithora,GitHub,Opermine,GitHub,カメテテ,GitHub,Kametete,GitHub,Kametete,GitHub
+689,barbaracle,Barbaracle,barbaracle,barbaracle,Barbaracle,GitHub,Thanathora,GitHub,Golgopathe,GitHub,ガメノデス,GitHub,Gamenodesu,GitHub,Gamenodes,GitHub
+690,skrelp,Skrelp,skrelp,skrelp,Skrelp,GitHub,Algitt,GitHub,Venalgue,GitHub,クズモー,GitHub,Kuzumō,GitHub,Kuzumo,GitHub
+691,dragalge,Dragalge,dragalge,dragalge,Dragalge,GitHub,Tandrak,GitHub,Kravarech,GitHub,ドラミドロ,GitHub,Doramidoro,GitHub,Dramidoro,GitHub
+692,clauncher,Clauncher,clauncher,clauncher,Clauncher,GitHub,Scampisto,GitHub,Flingouste,GitHub,ウデッポウ,GitHub,Udeppō,GitHub,Udeppou,GitHub
+693,clawitzer,Clawitzer,clawitzer,clawitzer,Clawitzer,GitHub,Wummer,GitHub,Gamblast,GitHub,ブロスター,GitHub,Burosutā,GitHub,Bloster,GitHub
+694,helioptile,Helioptile,helioptile,helioptile,Helioptile,GitHub,Eguana,GitHub,Galvaran,GitHub,エリキテル,GitHub,Erikiteru,GitHub,Erikiteru,GitHub
+695,heliolisk,Heliolisk,heliolisk,heliolisk,Heliolisk,GitHub,Elezard,GitHub,Iguolta,GitHub,エレザード,GitHub,Erezādo,GitHub,Elezard,GitHub
+696,tyrunt,Tyrunt,tyrunt,tyrunt,Tyrunt,GitHub,Balgoras,GitHub,Ptyranidur,GitHub,チゴラス,GitHub,Chigorasu,GitHub,Chigoras,GitHub
+697,tyrantrum,Tyrantrum,tyrantrum,tyrantrum,Tyrantrum,GitHub,Monargoras,GitHub,Rexillius,GitHub,ガチゴラス,GitHub,Gachigorasu,GitHub,Gachigoras,GitHub
+698,amaura,Amaura,amaura,amaura,Amaura,GitHub,Amarino,GitHub,Amagara,GitHub,アマルス,GitHub,Amarusu,GitHub,Amarus,GitHub
+699,aurorus,Aurorus,aurorus,aurorus,Aurorus,GitHub,Amagarga,GitHub,Dragmara,GitHub,アマルルガ,GitHub,Amaruruga,GitHub,Amaruruga,GitHub
+700,sylveon,Sylveon,sylveon,sylveon,Sylveon,GitHub,Feelinara,GitHub,Nymphali,GitHub,ニンフィア,GitHub,Ninfia,GitHub,Nymphia,GitHub
+701,hawlucha,Hawlucha,hawlucha,hawlucha,Hawlucha,GitHub,Resladero,GitHub,Brutalibré,GitHub,ルチャブル,GitHub,Ruchaburu,GitHub,Luchabull,GitHub
+702,dedenne,Dedenne,dedenne,dedenne,Dedenne,GitHub,Dedenne,GitHub,Dedenne,GitHub,デデンネ,GitHub,Dedenne,GitHub,Dedenne,GitHub
+703,carbink,Carbink,carbink,carbink,Carbink,GitHub,Rocara,GitHub,Strassie,GitHub,メレシー,GitHub,Mereshī,GitHub,Melecie,GitHub
+704,goomy,Goomy,goomy,goomy,Goomy,GitHub,Viscora,GitHub,Mucuscule,GitHub,ヌメラ,GitHub,Numera,GitHub,Numera,GitHub
+705,sliggoo,Sliggoo,sliggoo,sliggoo,Sliggoo,GitHub,Viscargot,GitHub,Colimucus,GitHub,ヌメイル,GitHub,Numeiru,GitHub,Numeil,GitHub
+706,goodra,Goodra,goodra,goodra,Goodra,GitHub,Viscogon,GitHub,Muplodocus,GitHub,ヌメルゴン,GitHub,Numerugon,GitHub,Numelgon,GitHub
+707,klefki,Klefki,klefki,klefki,Klefki,GitHub,Clavion,GitHub,Trousselin,GitHub,クレッフィ,GitHub,Kureffi,GitHub,Cleffy,GitHub
+708,phantump,Phantump,phantump,phantump,Phantump,GitHub,Paragoni,GitHub,Brocélôme,GitHub,ボクレー,GitHub,Bokurē,GitHub,Bokurei,GitHub
+709,trevenant,Trevenant,trevenant,trevenant,Trevenant,GitHub,Trombork,GitHub,Desséliande,GitHub,オーロット,GitHub,Ōrotto,GitHub,Ohrot,GitHub
+710,pumpkaboo,Pumpkaboo,pumpkaboo-average,pumpkaboo-average,Pumpkaboo,GitHub,Irrbis,GitHub,Pitrouille,GitHub,バケッチャ,GitHub,Baketcha,GitHub,Bakeccha,GitHub
+711,gourgeist,Gourgeist,gourgeist-average,gourgeist-average,Gourgeist,GitHub,Pumpdjinn,GitHub,Banshitrouye,GitHub,パンプジン,GitHub,Panpujin,GitHub,Pumpjin,GitHub
+712,bergmite,Bergmite,bergmite,bergmite,Bergmite,GitHub,Arktip,GitHub,Grelaçon,GitHub,カチコール,GitHub,Kachikōru,GitHub,Kachikohru,GitHub
+713,avalugg,Avalugg,avalugg,avalugg,Avalugg,GitHub,Arktilas,GitHub,Séracrawl,GitHub,クレベース,GitHub,Kurebēsu,GitHub,Crebase,GitHub
+714,noibat,Noibat,noibat,noibat,Noibat,GitHub,eF-eM,GitHub,Sonistrelle,GitHub,オンバット,GitHub,Onbatto,GitHub,Onbat,GitHub
+715,noivern,Noivern,noivern,noivern,Noivern,GitHub,UHaFnir,GitHub,Bruyverne,GitHub,オンバーン,GitHub,Onbān,GitHub,Onvern,GitHub
+716,xerneas,Xerneas,xerneas,xerneas,Xerneas,GitHub,Xerneas,GitHub,Xerneas,GitHub,ゼルネアス,GitHub,Zeruneasu,GitHub,Xerneas,GitHub
+717,yveltal,Yveltal,yveltal,yveltal,Yveltal,GitHub,Yveltal,GitHub,Yveltal,GitHub,イベルタル,GitHub,Iberutaru,GitHub,Yveltal,GitHub
+718,zygarde,Zygarde,zygarde-50,zygarde-50,Zygarde,GitHub,Zygarde,GitHub,Zygarde,GitHub,ジガルデ,GitHub,Jigarude,GitHub,Zygarde,GitHub
+719,diancie,Diancie,diancie,diancie,Diancie,GitHub,Diancie,GitHub,Diancie,GitHub,ディアンシー,GitHub,Dianshī,GitHub,Diancie,GitHub
+720,hoopa,Hoopa,hoopa,hoopa,Hoopa,GitHub,Hoopa,GitHub,Hoopa,GitHub,フーパ,GitHub,Fūpa,GitHub,Hoopa,GitHub
+721,volcanion,Volcanion,volcanion,volcanion,Volcanion,GitHub,Volcanion,GitHub,Volcanion,GitHub,ボルケニオン,GitHub,Borukenion,GitHub,Volcanion,GitHub
+722,rowlet,Rowlet,rowlet,rowlet,Rowlet,GitHub,Bauz,GitHub,Brindibou,GitHub,モクロー,GitHub,Mokurō,GitHub,Mokuroh,GitHub
+723,dartrix,Dartrix,dartrix,dartrix,Dartrix,GitHub,Arboretoss,GitHub,Efflèche,GitHub,フクスロー,GitHub,Fukusurō,GitHub,Fukuthrow,GitHub
+724,decidueye,Decidueye,decidueye,decidueye,Decidueye,GitHub,Silvarro,GitHub,Archéduc,GitHub,ジュナイパー,GitHub,Junaipā,GitHub,Junaiper,GitHub
+725,litten,Litten,litten,litten,Litten,GitHub,Flamiau,GitHub,Flamiaou,GitHub,ニャビー,GitHub,Nyabī,GitHub,Nyabby,GitHub
+726,torracat,Torracat,torracat,torracat,Torracat,GitHub,Miezunder,GitHub,Matoufeu,GitHub,ニャヒート,GitHub,Nyahīto,GitHub,Nyaheat,GitHub
+727,incineroar,Incineroar,incineroar,incineroar,Incineroar,GitHub,Fuegro,GitHub,Félinferno,GitHub,ガオガエン,GitHub,Gaogaen,GitHub,Gaogaen,GitHub
+728,popplio,Popplio,popplio,popplio,Popplio,GitHub,Robball,GitHub,Otaquin,GitHub,アシマリ,GitHub,Ashimari,GitHub,Ashimari,GitHub
+729,brionne,Brionne,brionne,brionne,Brionne,GitHub,Marikeck,GitHub,Otarlette,GitHub,オシャマリ,GitHub,Oshamari,GitHub,Osyamari,GitHub
+730,primarina,Primarina,primarina,primarina,Primarina,GitHub,Primarene,GitHub,Oratoria,GitHub,アシレーヌ,GitHub,Ashirēnu,GitHub,Ashirene,GitHub
+731,pikipek,Pikipek,pikipek,pikipek,Pikipek,GitHub,Peppeck,GitHub,Picassaut,GitHub,ツツケラ,GitHub,Tsutsukera,GitHub,Tsutsukera,GitHub
+732,trumbeak,Trumbeak,trumbeak,trumbeak,Trumbeak,GitHub,Trompeck,GitHub,Piclairon,GitHub,ケララッパ,GitHub,Kerarappa,GitHub,Kerarappa,GitHub
+733,toucannon,Toucannon,toucannon,toucannon,Toucannon,GitHub,Tukanon,GitHub,Bazoucan,GitHub,ドデカバシ,GitHub,Dodekabashi,GitHub,Dodekabashi,GitHub
+734,yungoos,Yungoos,yungoos,yungoos,Yungoos,GitHub,Mangunior,GitHub,Manglouton,GitHub,ヤングース,GitHub,Yangūsu,GitHub,Youngoose,GitHub
+735,gumshoos,Gumshoos,gumshoos,gumshoos,Gumshoos,GitHub,Manguspektor,GitHub,Argouste,GitHub,デカグース,GitHub,Dekagūsu,GitHub,Dekagoose,GitHub
+736,grubbin,Grubbin,grubbin,grubbin,Grubbin,GitHub,Mabula,GitHub,Larvibule,GitHub,アゴジムシ,GitHub,Agojimushi,GitHub,Agojimushi,GitHub
+737,charjabug,Charjabug,charjabug,charjabug,Charjabug,GitHub,Akkup,GitHub,Chrysapile,GitHub,デンヂムシ,GitHub,Denjimushi,GitHub,Dendimushi,GitHub
+738,vikavolt,Vikavolt,vikavolt,vikavolt,Vikavolt,GitHub,Donarion,GitHub,Lucanon,GitHub,クワガノン,GitHub,Kuwaganon,GitHub,Kuwagannon,GitHub
+739,crabrawler,Crabrawler,crabrawler,crabrawler,Crabrawler,GitHub,Krabbox,GitHub,Crabagarre,GitHub,マケンカニ,GitHub,Makenkani,GitHub,Makenkani,GitHub
+740,crabominable,Crabominable,crabominable,crabominable,Crabominable,GitHub,Krawell,GitHub,Crabominable,GitHub,ケケンカニ,GitHub,Kekenkani,GitHub,Kekenkani,GitHub
+741,oricorio,Oricorio,oricorio-baile,oricorio-baile,Oricorio,GitHub,Choreogel,GitHub,Plumeline,GitHub,オドリドリ,GitHub,Odoridori,GitHub,Odoridori,GitHub
+742,cutiefly,Cutiefly,cutiefly,cutiefly,Cutiefly,GitHub,Wommel,GitHub,Bombydou,GitHub,アブリー,GitHub,Aburī,GitHub,Abuly,GitHub
+743,ribombee,Ribombee,ribombee,ribombee,Ribombee,GitHub,Bandelby,GitHub,Rubombelle,GitHub,アブリボン,GitHub,Aburibon,GitHub,Aburibbon,GitHub
+744,rockruff,Rockruff,rockruff,rockruff,Rockruff,GitHub,Wuffels,GitHub,Rocabot,GitHub,イワンコ,GitHub,Iwanko,GitHub,Iwanko,GitHub
+745,lycanroc,Lycanroc,lycanroc-midday,lycanroc-midday,Lycanroc,GitHub,Wolwerock,GitHub,Lougaroc,GitHub,ルガルガン,GitHub,Rugarugan,GitHub,Lugarugan,GitHub
+746,wishiwashi,Wishiwashi,wishiwashi-solo,wishiwashi-solo,Wishiwashi,GitHub,Lusardin,GitHub,Froussardine,GitHub,ヨワシ,GitHub,Yowashi,GitHub,Yowashi,GitHub
+747,mareanie,Mareanie,mareanie,mareanie,Mareanie,GitHub,Garstella,GitHub,Vorastérie,GitHub,ヒドイデ,GitHub,Hidoide,GitHub,Hidoide,GitHub
+748,toxapex,Toxapex,toxapex,toxapex,Toxapex,GitHub,Aggrostella,GitHub,Prédastérie,GitHub,ドヒドイデ,GitHub,Dohidoide,GitHub,Dohidoide,GitHub
+749,mudbray,Mudbray,mudbray,mudbray,Mudbray,GitHub,Pampuli,GitHub,Tiboudet,GitHub,ドロバンコ,GitHub,Dorobanko,GitHub,Dorobanko,GitHub
+750,mudsdale,Mudsdale,mudsdale,mudsdale,Mudsdale,GitHub,Pampross,GitHub,Bourrinos,GitHub,バンバドロ,GitHub,Banbadoro,GitHub,Banbadoro,GitHub
+751,dewpider,Dewpider,dewpider,dewpider,Dewpider,GitHub,Araqua,GitHub,Araqua,GitHub,シズクモ,GitHub,Shizukumo,GitHub,Shizukumo,GitHub
+752,araquanid,Araquanid,araquanid,araquanid,Araquanid,GitHub,Aranestro,GitHub,Tarenbulle,GitHub,オニシズクモ,GitHub,Onishizukumo,GitHub,Onishizukumo,GitHub
+753,fomantis,Fomantis,fomantis,fomantis,Fomantis,GitHub,Imantis,GitHub,Mimantis,GitHub,カリキリ,GitHub,Karikiri,GitHub,Karikiri,GitHub
+754,lurantis,Lurantis,lurantis,lurantis,Lurantis,GitHub,Mantidea,GitHub,Floramantis,GitHub,ラランテス,GitHub,Rarantesu,GitHub,Lalantes,GitHub
+755,morelull,Morelull,morelull,morelull,Morelull,GitHub,Bubungus,GitHub,Spododo,GitHub,ネマシュ,GitHub,Nemashu,GitHub,Nemasyu,GitHub
+756,shiinotic,Shiinotic,shiinotic,shiinotic,Shiinotic,GitHub,Lamellux,GitHub,Lampignon,GitHub,マシェード,GitHub,Mashēdo,GitHub,Mashade,GitHub
+757,salandit,Salandit,salandit,salandit,Salandit,GitHub,Molunk,GitHub,Tritox,GitHub,ヤトウモリ,GitHub,Yatōmori,GitHub,Yatoumori,GitHub
+758,salazzle,Salazzle,salazzle,salazzle,Salazzle,GitHub,Amfira,GitHub,Malamandre,GitHub,エンニュート,GitHub,Ennyūto,GitHub,Ennewt,GitHub
+759,stufful,Stufful,stufful,stufful,Stufful,GitHub,Velursi,GitHub,Nounourson,GitHub,ヌイコグマ,GitHub,Nuikoguma,GitHub,Nuikoguma,GitHub
+760,bewear,Bewear,bewear,bewear,Bewear,GitHub,Kosturso,GitHub,Chelours,GitHub,キテルグマ,GitHub,Kiteruguma,GitHub,Kiteruguma,GitHub
+761,bounsweet,Bounsweet,bounsweet,bounsweet,Bounsweet,GitHub,Frubberl,GitHub,Croquine,GitHub,アマカジ,GitHub,Amakaji,GitHub,Amakaji,GitHub
+762,steenee,Steenee,steenee,steenee,Steenee,GitHub,Frubaila,GitHub,Candine,GitHub,アママイコ,GitHub,Amamaiko,GitHub,Amamaiko,GitHub
+763,tsareena,Tsareena,tsareena,tsareena,Tsareena,GitHub,Fruyal,GitHub,Sucreine,GitHub,アマージョ,GitHub,Amājo,GitHub,Amajo,GitHub
+764,comfey,Comfey,comfey,comfey,Comfey,GitHub,Curelei,GitHub,Guérilande,GitHub,キュワワー,GitHub,Kyuwawā,GitHub,Cuwawa,GitHub
+765,oranguru,Oranguru,oranguru,oranguru,Oranguru,GitHub,Kommandutan,GitHub,Gouroutan,GitHub,ヤレユータン,GitHub,Yareyūtan,GitHub,Yareyuutan,GitHub
+766,passimian,Passimian,passimian,passimian,Passimian,GitHub,Quartermak,GitHub,Quartermac,GitHub,ナゲツケサル,GitHub,Nagetsukesaru,GitHub,Nagetukesaru,GitHub
+767,wimpod,Wimpod,wimpod,wimpod,Wimpod,GitHub,Reißlaus,GitHub,Sovkipou,GitHub,コソクムシ,GitHub,Kosokumushi,GitHub,Kosokumushi,GitHub
+768,golisopod,Golisopod,golisopod,golisopod,Golisopod,GitHub,Tectass,GitHub,Sarmuraï,GitHub,グソクムシャ,GitHub,Gusokumusha,GitHub,Gusokumusha,GitHub
+769,sandygast,Sandygast,sandygast,sandygast,Sandygast,GitHub,Sankabuh,GitHub,Bacabouh,GitHub,スナバァ,GitHub,Sunabā,GitHub,Sunaba,GitHub
+770,palossand,Palossand,palossand,palossand,Palossand,GitHub,Colossand,GitHub,Trépassable,GitHub,シロデスナ,GitHub,Shirodesuna,GitHub,Sirodethna,GitHub
+771,pyukumuku,Pyukumuku,pyukumuku,pyukumuku,Pyukumuku,GitHub,Gufa,GitHub,Concombaffe,GitHub,ナマコブシ,GitHub,Namakobushi,GitHub,Namakobushi,GitHub
+772,type-null,Type: Null,type-null,type-null,Type: Null,GitHub,Typ:Null,GitHub,Type:0,GitHub,タイプ：ヌル,GitHub,Taipu: Nuru,GitHub,Type: Null,GitHub
+773,silvally,Silvally,silvally,silvally,Silvally,GitHub,Amigento,GitHub,Silvallié,GitHub,シルヴァディ,GitHub,Shiruvadi,GitHub,Silvady,GitHub
+774,minior,Minior,minior-meteor,minior-red-meteor,Minior,GitHub,Meteno,GitHub,Météno,GitHub,メテノ,GitHub,Meteno,GitHub,Meteno,GitHub
+775,komala,Komala,komala,komala,Komala,GitHub,Koalelu,GitHub,Dodoala,GitHub,ネッコアラ,GitHub,Nekkoara,GitHub,Nekkoara,GitHub
+776,turtonator,Turtonator,turtonator,turtonator,Turtonator,GitHub,Tortunator,GitHub,Boumata,GitHub,バクガメス,GitHub,Bakugamesu,GitHub,Bakugames,GitHub
+777,togedemaru,Togedemaru,togedemaru,togedemaru,Togedemaru,GitHub,Togedemaru,GitHub,Togedemaru,GitHub,トゲデマル,GitHub,Togedemaru,GitHub,Togedemaru,GitHub
+778,mimikyu,Mimikyu,mimikyu-disguised,mimikyu-disguised,Mimikyu,GitHub,Mimigma,GitHub,Mimiqui,GitHub,ミミッキュ,GitHub,Mimikkyu,GitHub,Mimikkyu,GitHub
+779,bruxish,Bruxish,bruxish,bruxish,Bruxish,GitHub,Knirfish,GitHub,Denticrisse,GitHub,ハギギシリ,GitHub,Hagigishiri,GitHub,Hagigishiri,GitHub
+780,drampa,Drampa,drampa,drampa,Drampa,GitHub,Sen-Long,GitHub,Draïeul,GitHub,ジジーロン,GitHub,Jijīron,GitHub,Jijilong,GitHub
+781,dhelmise,Dhelmise,dhelmise,dhelmise,Dhelmise,GitHub,Moruda,GitHub,Sinistrail,GitHub,ダダリン,GitHub,Dadarin,GitHub,Dadarin,GitHub
+782,jangmo-o,Jangmo-o,jangmo-o,jangmo-o,Jangmo-o,GitHub,Miniras,GitHub,Bébécaille,GitHub,ジャラコ,GitHub,Jarako,GitHub,Jyarako,GitHub
+783,hakamo-o,Hakamo-o,hakamo-o,hakamo-o,Hakamo-o,GitHub,Mediras,GitHub,Écaïd,GitHub,ジャランゴ,GitHub,Jarango,GitHub,Jyarango,GitHub
+784,kommo-o,Kommo-o,kommo-o,kommo-o,Kommo-o,GitHub,Grandiras,GitHub,Ékaïser,GitHub,ジャラランガ,GitHub,Jararanga,GitHub,Jyararanga,GitHub
+785,tapu-koko,Tapu Koko,tapu-koko,tapu-koko,Tapu Koko,GitHub,Kapu-Riki,GitHub,Tokorico,GitHub,カプ・コケコ,GitHub,Kapu Kokeko,GitHub,Kapu-Kokeko,GitHub
+786,tapu-lele,Tapu Lele,tapu-lele,tapu-lele,Tapu Lele,GitHub,Kapu-Fala,GitHub,Tokopiyon,GitHub,カプ・テテフ,GitHub,Kapu Tetefu,GitHub,Kapu-Tetefu,GitHub
+787,tapu-bulu,Tapu Bulu,tapu-bulu,tapu-bulu,Tapu Bulu,GitHub,Kapu-Toro,GitHub,Tokotoro,GitHub,カプ・ブルル,GitHub,Kapu Bururu,GitHub,Kapu-Bulul,GitHub
+788,tapu-fini,Tapu Fini,tapu-fini,tapu-fini,Tapu Fini,GitHub,Kapu-Kime,GitHub,Tokopisco,GitHub,カプ・レヒレ,GitHub,Kapu Rehire,GitHub,Kapu-Rehire,GitHub
+789,cosmog,Cosmog,cosmog,cosmog,Cosmog,GitHub,Cosmog,GitHub,Cosmog,GitHub,コスモッグ,GitHub,Kosumoggu,GitHub,Cosmog,GitHub
+790,cosmoem,Cosmoem,cosmoem,cosmoem,Cosmoem,GitHub,Cosmovum,GitHub,Cosmovum,GitHub,コスモウム,GitHub,Kosumōmu,GitHub,Cosmovum,GitHub
+791,solgaleo,Solgaleo,solgaleo,solgaleo,Solgaleo,GitHub,Solgaleo,GitHub,Solgaleo,GitHub,ソルガレオ,GitHub,Sorugareo,GitHub,Solgaleo,GitHub
+792,lunala,Lunala,lunala,lunala,Lunala,GitHub,Lunala,GitHub,Lunala,GitHub,ルナアーラ,GitHub,Runāāra,GitHub,Lunala,GitHub
+793,nihilego,Nihilego,nihilego,nihilego,Nihilego,GitHub,Anego,GitHub,Zéroïd,GitHub,ウツロイド,GitHub,Utsuroido,GitHub,Uturoid,GitHub
+794,buzzwole,Buzzwole,buzzwole,buzzwole,Buzzwole,GitHub,Masskito,GitHub,Mouscoto,GitHub,マッシブーン,GitHub,Masshibūn,GitHub,Massivoon,GitHub
+795,pheromosa,Pheromosa,pheromosa,pheromosa,Pheromosa,GitHub,Schabelle,GitHub,Cancrelove,GitHub,フェローチェ,GitHub,Ferōche,GitHub,Pheroache,GitHub
+796,xurkitree,Xurkitree,xurkitree,xurkitree,Xurkitree,GitHub,Voltriant,GitHub,Câblifère,GitHub,デンジュモク,GitHub,Denjumoku,GitHub,Denjyumoku,GitHub
+797,celesteela,Celesteela,celesteela,celesteela,Celesteela,GitHub,Kaguron,GitHub,Bamboiselle,GitHub,テッカグヤ,GitHub,Tekkaguya,GitHub,Tekkaguya,GitHub
+798,kartana,Kartana,kartana,kartana,Kartana,GitHub,Katagami,GitHub,Katagami,GitHub,カミツルギ,GitHub,Kamitsurugi,GitHub,Kamiturugi,GitHub
+799,guzzlord,Guzzlord,guzzlord,guzzlord,Guzzlord,GitHub,Schlingking,GitHub,Engloutyran,GitHub,アクジキング,GitHub,Akujikingu,GitHub,Akuziking,GitHub
+800,necrozma,Necrozma,necrozma,necrozma,Necrozma,GitHub,Necrozma,GitHub,Necrozma,GitHub,ネクロズマ,GitHub,Nekurozuma,GitHub,Necrozma,GitHub
+801,magearna,Magearna,magearna,magearna,Magearna,GitHub,Magearna,GitHub,Magearna,GitHub,マギアナ,GitHub,Magiana,GitHub,Magearna,GitHub
+802,marshadow,Marshadow,marshadow,marshadow,Marshadow,GitHub,Marshadow,GitHub,Marshadow,GitHub,マーシャドー,GitHub,Māshadō,GitHub,Marshadow,GitHub
+803,poipole,Poipole,poipole,poipole,Poipole,GitHub,Venicro,GitHub,Vémini,GitHub,ベベノム,GitHub,Bebenomu,GitHub,Bevenom,GitHub
+804,naganadel,Naganadel,naganadel,naganadel,Naganadel,GitHub,Agoyon,GitHub,Mandrillon,GitHub,アーゴヨン,GitHub,Āgoyon,GitHub,Agoyon,GitHub
+805,stakataka,Stakataka,stakataka,stakataka,Stakataka,GitHub,Muramura,GitHub,Ama-Ama,GitHub,ツンデツンデ,GitHub,Tsundetsunde,GitHub,Tundetunde,GitHub
+806,blacephalon,Blacephalon,blacephalon,blacephalon,Blacephalon,GitHub,Kopplosio,GitHub,Pierroteknik,GitHub,ズガドーン,GitHub,Zugadōn,GitHub,Zugadoon,GitHub
+807,zeraora,Zeraora,zeraora,zeraora,Zeraora,GitHub,Zeraora,GitHub,Zeraora,GitHub,ゼラオラ,GitHub,Zeraora,GitHub,Zeraora,GitHub
+808,meltan,Meltan,meltan,meltan,Meltan,GitHub,Meltan,GitHub,Meltan,GitHub,メルタン,GitHub,Merutan,GitHub,Meltan,GitHub
+809,melmetal,Melmetal,melmetal,melmetal,Melmetal,GitHub,Melmetal,GitHub,Melmetal,GitHub,メルメタル,GitHub,Merumetaru,GitHub,Melmetal,GitHub
+810,grookey,Grookey,grookey,grookey,Grookey,GitHub,Chimpep,GitHub,Ouistempo,GitHub,サルノリ,GitHub,Sarunori,GitHub,,Missing from both base rows
+811,thwackey,Thwackey,thwackey,thwackey,Thwackey,GitHub,Chimstix,GitHub,Badabouin,GitHub,バチンキー,GitHub,Bachinkī,GitHub,,Missing from both base rows
+812,rillaboom,Rillaboom,rillaboom,rillaboom,Rillaboom,GitHub,Gortrom,GitHub,Gorythmic,GitHub,ゴリランダー,GitHub,Gorirandā,GitHub,,Missing from both base rows
+813,scorbunny,Scorbunny,scorbunny,scorbunny,Scorbunny,GitHub,Hopplo,GitHub,Flambino,GitHub,ヒバニー,GitHub,Hibanī,GitHub,,Missing from both base rows
+814,raboot,Raboot,raboot,raboot,Raboot,GitHub,Kickerlo,GitHub,Lapyro,GitHub,ラビフット,GitHub,Rabifutto,GitHub,,Missing from both base rows
+815,cinderace,Cinderace,cinderace,cinderace,Cinderace,GitHub,Liberlo,GitHub,Pyrobut,GitHub,エースバーン,GitHub,Ēsubān,GitHub,,Missing from both base rows
+816,sobble,Sobble,sobble,sobble,Sobble,GitHub,Memmeon,GitHub,Larméléon,GitHub,メッソン,GitHub,Messon,GitHub,,Missing from both base rows
+817,drizzile,Drizzile,drizzile,drizzile,Drizzile,GitHub,Phlegleon,GitHub,Arrozard,GitHub,ジメレオン,GitHub,Jimereon,GitHub,,Missing from both base rows
+818,inteleon,Inteleon,inteleon,inteleon,Inteleon,GitHub,Intelleon,GitHub,Lézargus,GitHub,インテレオン,GitHub,Intereon,GitHub,,Missing from both base rows
+819,skwovet,Skwovet,skwovet,skwovet,Skwovet,GitHub,Raffel,GitHub,Rongourmand,GitHub,ホシガリス,GitHub,Hoshigarisu,GitHub,,Missing from both base rows
+820,greedent,Greedent,greedent,greedent,Greedent,GitHub,Schlaraffel,GitHub,Rongrigou,GitHub,ヨクバリス,GitHub,Yokubarisu,GitHub,,Missing from both base rows
+821,rookidee,Rookidee,rookidee,rookidee,Rookidee,GitHub,Meikro,GitHub,Minisange,GitHub,ココガラ,GitHub,Kokogara,GitHub,,Missing from both base rows
+822,corvisquire,Corvisquire,corvisquire,corvisquire,Corvisquire,GitHub,Kranoviz,GitHub,Bleuseille,GitHub,アオガラス,GitHub,Aogarasu,GitHub,,Missing from both base rows
+823,corviknight,Corviknight,corviknight,corviknight,Corviknight,GitHub,Krarmor,GitHub,Corvaillus,GitHub,アーマーガア,GitHub,Āmāgā,GitHub,,Missing from both base rows
+824,blipbug,Blipbug,blipbug,blipbug,Blipbug,GitHub,Sensect,GitHub,Larvadar,GitHub,サッチムシ,GitHub,Satchimushi,GitHub,,Missing from both base rows
+825,dottler,Dottler,dottler,dottler,Dottler,GitHub,Keradar,GitHub,Coléodôme,GitHub,レドームシ,GitHub,Redōmushi,GitHub,,Missing from both base rows
+826,orbeetle,Orbeetle,orbeetle,orbeetle,Orbeetle,GitHub,Maritellit,GitHub,Astronelle,GitHub,イオルブ,GitHub,Iorubu,GitHub,,Missing from both base rows
+827,nickit,Nickit,nickit,nickit,Nickit,GitHub,Kleptifux,GitHub,Goupilou,GitHub,クスネ,GitHub,Kusune,GitHub,,Missing from both base rows
+828,thievul,Thievul,thievul,thievul,Thievul,GitHub,Gaunux,GitHub,Roublenard,GitHub,フォクスライ,GitHub,Fokusurai,GitHub,,Missing from both base rows
+829,gossifleur,Gossifleur,gossifleur,gossifleur,Gossifleur,GitHub,Cottini,GitHub,Tournicoton,GitHub,ヒメンカ,GitHub,Himenka,GitHub,,Missing from both base rows
+830,eldegoss,Eldegoss,eldegoss,eldegoss,Eldegoss,GitHub,Cottomi,GitHub,Blancoton,GitHub,ワタシラガ,GitHub,Watashiraga,GitHub,,Missing from both base rows
+831,wooloo,Wooloo,wooloo,wooloo,Wooloo,GitHub,Wolly,GitHub,Moumouton,GitHub,ウールー,GitHub,Ūrū,GitHub,,Missing from both base rows
+832,dubwool,Dubwool,dubwool,dubwool,Dubwool,GitHub,Zwollock,GitHub,Moumouflon,GitHub,バイウールー,GitHub,Baiūrū,GitHub,,Missing from both base rows
+833,chewtle,Chewtle,chewtle,chewtle,Chewtle,GitHub,Kamehaps,GitHub,Khélocrok,GitHub,カムカメ,GitHub,Kamukame,GitHub,,Missing from both base rows
+834,drednaw,Drednaw,drednaw,drednaw,Drednaw,GitHub,Kamalm,GitHub,Torgamord,GitHub,カジリガメ,GitHub,Kajirigame,GitHub,,Missing from both base rows
+835,yamper,Yamper,yamper,yamper,Yamper,GitHub,Voldi,GitHub,Voltoutou,GitHub,ワンパチ,GitHub,Wanpachi,GitHub,,Missing from both base rows
+836,boltund,Boltund,boltund,boltund,Boltund,GitHub,Bellektro,GitHub,Fulgudog,GitHub,パルスワン,GitHub,Parusuwan,GitHub,,Missing from both base rows
+837,rolycoly,Rolycoly,rolycoly,rolycoly,Rolycoly,GitHub,Klonkett,GitHub,Charbi,GitHub,タンドン,GitHub,Tandon,GitHub,,Missing from both base rows
+838,carkol,Carkol,carkol,carkol,Carkol,GitHub,Wagong,GitHub,Wagomine,GitHub,トロッゴン,GitHub,Toroggon,GitHub,,Missing from both base rows
+839,coalossal,Coalossal,coalossal,coalossal,Coalossal,GitHub,Montecarbo,GitHub,Monthracite,GitHub,セキタンザン,GitHub,Sekitanzan,GitHub,,Missing from both base rows
+840,applin,Applin,applin,applin,Applin,GitHub,Knapfel,GitHub,Verpom,GitHub,カジッチュ,GitHub,Kajitchu,GitHub,,Missing from both base rows
+841,flapple,Flapple,flapple,flapple,Flapple,GitHub,Drapfel,GitHub,Pomdrapi,GitHub,アップリュー,GitHub,Appuryū,GitHub,,Missing from both base rows
+842,appletun,Appletun,appletun,appletun,Appletun,GitHub,Schlapfel,GitHub,Dratatin,GitHub,タルップル,GitHub,Taruppuru,GitHub,,Missing from both base rows
+843,silicobra,Silicobra,silicobra,silicobra,Silicobra,GitHub,Salanga,GitHub,Dunaja,GitHub,スナヘビ,GitHub,Sunahebi,GitHub,,Missing from both base rows
+844,sandaconda,Sandaconda,sandaconda,sandaconda,Sandaconda,GitHub,Sanaconda,GitHub,Dunaconda,GitHub,サダイジャ,GitHub,Sadaija,GitHub,,Missing from both base rows
+845,cramorant,Cramorant,cramorant,cramorant,Cramorant,GitHub,Urgl,GitHub,Nigosier,GitHub,ウッウ,GitHub,Uu,GitHub,,Missing from both base rows
+846,arrokuda,Arrokuda,arrokuda,arrokuda,Arrokuda,GitHub,Pikuda,GitHub,Embrochet,GitHub,サシカマス,GitHub,Sashikamasu,GitHub,,Missing from both base rows
+847,barraskewda,Barraskewda,barraskewda,barraskewda,Barraskewda,GitHub,Barrakiefa,GitHub,Hastacuda,GitHub,カマスジョー,GitHub,Kamasujō,GitHub,,Missing from both base rows
+848,toxel,Toxel,toxel,toxel,Toxel,GitHub,Toxel,GitHub,Toxizap,GitHub,エレズン,GitHub,Erezun,GitHub,,Missing from both base rows
+849,toxtricity,Toxtricity,toxtricity-amped,toxtricity-amped,Toxtricity,GitHub,Riffex,GitHub,Salarsen,GitHub,ストリンダー,GitHub,Sutorindā,GitHub,,Missing from both base rows
+850,sizzlipede,Sizzlipede,sizzlipede,sizzlipede,Sizzlipede,GitHub,Thermopod,GitHub,Grillepattes,GitHub,ヤクデ,GitHub,Yakude,GitHub,,Missing from both base rows
+851,centiskorch,Centiskorch,centiskorch,centiskorch,Centiskorch,GitHub,Infernopod,GitHub,Scolocendre,GitHub,マルヤクデ,GitHub,Maruyakude,GitHub,,Missing from both base rows
+852,clobbopus,Clobbopus,clobbopus,clobbopus,Clobbopus,GitHub,Klopptopus,GitHub,Poulpaf,GitHub,タタッコ,GitHub,Tatakko,GitHub,,Missing from both base rows
+853,grapploct,Grapploct,grapploct,grapploct,Grapploct,GitHub,Kaocto,GitHub,Krakos,GitHub,オトスパス,GitHub,Otosupasu,GitHub,,Missing from both base rows
+854,sinistea,Sinistea,sinistea,sinistea,Sinistea,GitHub,Fatalitee,GitHub,Théffroi,GitHub,ヤバチャ,GitHub,Yabacha,GitHub,,Missing from both base rows
+855,polteageist,Polteageist,polteageist,polteageist,Polteageist,GitHub,Mortipot,GitHub,Polthégeist,GitHub,ポットデス,GitHub,Pottodesu,GitHub,,Missing from both base rows
+856,hatenna,Hatenna,hatenna,hatenna,Hatenna,GitHub,Brimova,GitHub,Bibichut,GitHub,ミブリム,GitHub,Miburimu,GitHub,,Missing from both base rows
+857,hattrem,Hattrem,hattrem,hattrem,Hattrem,GitHub,Brimano,GitHub,Chapotus,GitHub,テブリム,GitHub,Teburimu,GitHub,,Missing from both base rows
+858,hatterene,Hatterene,hatterene,hatterene,Hatterene,GitHub,Silembrim,GitHub,Sorcilence,GitHub,ブリムオン,GitHub,Burimuon,GitHub,,Missing from both base rows
+859,impidimp,Impidimp,impidimp,impidimp,Impidimp,GitHub,Bähmon,GitHub,Grimalin,GitHub,ベロバー,GitHub,Berobā,GitHub,,Missing from both base rows
+860,morgrem,Morgrem,morgrem,morgrem,Morgrem,GitHub,Pelzebub,GitHub,Fourbelin,GitHub,ギモー,GitHub,Gimō,GitHub,,Missing from both base rows
+861,grimmsnarl,Grimmsnarl,grimmsnarl,grimmsnarl,Grimmsnarl,GitHub,Olangaa,GitHub,Angoliath,GitHub,オーロンゲ,GitHub,Ōronge,GitHub,,Missing from both base rows
+862,obstagoon,Obstagoon,obstagoon,obstagoon,Obstagoon,GitHub,Barrikadax,GitHub,Ixon,GitHub,タチフサグマ,GitHub,Tachifusaguma,GitHub,,Missing from both base rows
+863,perrserker,Perrserker,perrserker,perrserker,Perrserker,GitHub,Mauzinger,GitHub,Berserkatt,GitHub,ニャイキング,GitHub,Nyaikingu,GitHub,,Missing from both base rows
+864,cursola,Cursola,cursola,cursola,Cursola,GitHub,Gorgasonn,GitHub,Corayôme,GitHub,サニゴーン,GitHub,Sanigōn,GitHub,,Missing from both base rows
+865,sirfetchd,Sirfetch'd,sirfetchd,sirfetchd,Sirfetch'd,GitHub,Lauchzelot,GitHub,Palarticho,GitHub,ネギガナイト,GitHub,Negiganaito,GitHub,,Missing from both base rows
+866,mr-rime,Mr. Rime,mr-rime,mr-rime,Mr. Rime,GitHub,Pantifrost,GitHub,M. Glaquette,GitHub,バリコオル,GitHub,Barikōru,GitHub,,Missing from both base rows
+867,runerigus,Runerigus,runerigus,runerigus,Runerigus,GitHub,Oghnatoll,GitHub,Tutétékri,GitHub,デスバーン,GitHub,Desubān,GitHub,,Missing from both base rows
+868,milcery,Milcery,milcery,milcery,Milcery,GitHub,Hokumil,GitHub,Crèmy,GitHub,マホミル,GitHub,Mahomiru,GitHub,,Missing from both base rows
+869,alcremie,Alcremie,alcremie-vanilla-cream-strawberry-sweet,alcremie,Alcremie,GitHub,Pokusan,GitHub,Charmilly,GitHub,マホイップ,GitHub,Mahoippu,GitHub,,Missing from both base rows
+870,falinks,Falinks,falinks,falinks,Falinks,GitHub,Legios,GitHub,Hexadron,GitHub,タイレーツ,GitHub,Tairētsu,GitHub,,Missing from both base rows
+871,pincurchin,Pincurchin,pincurchin,pincurchin,Pincurchin,GitHub,Britzigel,GitHub,Wattapik,GitHub,バチンウニ,GitHub,Bachin'Uni,GitHub,,Missing from both base rows
+872,snom,Snom,snom,snom,Snom,GitHub,Snomnom,GitHub,Frissonille,GitHub,ユキハミ,GitHub,Yukihami,GitHub,,Missing from both base rows
+873,frosmoth,Frosmoth,frosmoth,frosmoth,Frosmoth,GitHub,Mottineva,GitHub,Beldeneige,GitHub,モスノウ,GitHub,Mosunō,GitHub,,Missing from both base rows
+874,stonjourner,Stonjourner,stonjourner,stonjourner,Stonjourner,GitHub,Humanolith,GitHub,Dolman,GitHub,イシヘンジン,GitHub,Ishihenjin,GitHub,,Missing from both base rows
+875,eiscue,Eiscue,eiscue-ice,eiscue-ice,Eiscue,GitHub,Kubuin,GitHub,Bekaglaçon,GitHub,コオリッポ,GitHub,Kōrippo,GitHub,,Missing from both base rows
+876,indeedee,Indeedee,indeedee-male,indeedee-male,Indeedee,GitHub,Servol,GitHub,Wimessir,GitHub,イエッサン,GitHub,Iessan,GitHub,,Missing from both base rows
+877,morpeko,Morpeko,morpeko-full-belly,morpeko-full-belly,Morpeko,GitHub,Morpeko,GitHub,Morpeko,GitHub,モルペコ,GitHub,Morupeko,GitHub,,Missing from both base rows
+878,cufant,Cufant,cufant,cufant,Cufant,GitHub,Kupfanti,GitHub,Charibari,GitHub,ゾウドウ,GitHub,Zōdō,GitHub,,Missing from both base rows
+879,copperajah,Copperajah,copperajah,copperajah,Copperajah,GitHub,Patinaraja,GitHub,Pachyradjah,GitHub,ダイオウドウ,GitHub,Daiōdō,GitHub,,Missing from both base rows
+880,dracozolt,Dracozolt,dracozolt,dracozolt,Dracozolt,GitHub,Lectragon,GitHub,Galvagon,GitHub,パッチラゴン,GitHub,Patchiragon,GitHub,,Missing from both base rows
+881,arctozolt,Arctozolt,arctozolt,arctozolt,Arctozolt,GitHub,Lecryodon,GitHub,Galvagla,GitHub,パッチルドン,GitHub,Patchirudon,GitHub,,Missing from both base rows
+882,dracovish,Dracovish,dracovish,dracovish,Dracovish,GitHub,Pescragon,GitHub,Hydragon,GitHub,ウオノラゴン,GitHub,Uonoragon,GitHub,,Missing from both base rows
+883,arctovish,Arctovish,arctovish,arctovish,Arctovish,GitHub,Pescryodon,GitHub,Hydragla,GitHub,ウオチルドン,GitHub,Uochirudon,GitHub,,Missing from both base rows
+884,duraludon,Duraludon,duraludon,duraludon,Duraludon,GitHub,Duraludon,GitHub,Duralugon,GitHub,ジュラルドン,GitHub,Jurarudon,GitHub,,Missing from both base rows
+885,dreepy,Dreepy,dreepy,dreepy,Dreepy,GitHub,Grolldra,GitHub,Fantyrm,GitHub,ドラメシヤ,GitHub,Dorameshiya,GitHub,,Missing from both base rows
+886,drakloak,Drakloak,drakloak,drakloak,Drakloak,GitHub,Phandra,GitHub,Dispareptil,GitHub,ドロンチ,GitHub,Doronchi,GitHub,,Missing from both base rows
+887,dragapult,Dragapult,dragapult,dragapult,Dragapult,GitHub,Katapuldra,GitHub,Lanssorien,GitHub,ドラパルト,GitHub,Doraparuto,GitHub,,Missing from both base rows
+888,zacian,Zacian,zacian,zacian,Zacian,GitHub,Zacian,GitHub,Zacian,GitHub,ザシアン,GitHub,Zashian,GitHub,,Missing from both base rows
+889,zamazenta,Zamazenta,zamazenta,zamazenta,Zamazenta,GitHub,Zamazenta,GitHub,Zamazenta,GitHub,ザマゼンタ,GitHub,Zamazenta,GitHub,,Missing from both base rows
+890,eternatus,Eternatus,eternatus,eternatus,Eternatus,GitHub,Endynalos,GitHub,Éthernatos,GitHub,ムゲンダイナ,GitHub,Mugendaina,GitHub,,Missing from both base rows
+891,kubfu,Kubfu,kubfu,kubfu,Kubfu,GitHub,Dakuma,GitHub,Wushours,GitHub,ダクマ,GitHub,Dakuma,GitHub,,Missing from both base rows
+892,urshifu,Urshifu,urshifu-single-strike,urshifu-single-strike,Urshifu,GitHub,Wulaosu,GitHub,Shifours,GitHub,ウーラオス,GitHub,Ūraosu,GitHub,,Missing from both base rows
+893,zarude,Zarude,zarude,zarude,Zarude,GitHub,Zarude,GitHub,Zarude,GitHub,ザルード,GitHub,Zarūdo,GitHub,,Missing from both base rows
+894,regieleki,Regieleki,regieleki,regieleki,Regieleki,GitHub,Regieleki,GitHub,Regieleki,GitHub,レジエレキ,GitHub,Rejiereki,GitHub,,Missing from both base rows
+895,regidrago,Regidrago,regidrago,regidrago,Regidrago,GitHub,Regidrago,GitHub,Regidrago,GitHub,レジドラゴ,GitHub,Rejidorago,GitHub,,Missing from both base rows
+896,glastrier,Glastrier,glastrier,glastrier,Glastrier,GitHub,Polaross,GitHub,Blizzeval,GitHub,ブリザポス,GitHub,Burizaposu,GitHub,,Missing from both base rows
+897,spectrier,Spectrier,spectrier,spectrier,Spectrier,GitHub,Phantoross,GitHub,Spectreval,GitHub,レイスポス,GitHub,Reisuposu,GitHub,,Missing from both base rows
+898,calyrex,Calyrex,calyrex,calyrex,Calyrex,GitHub,Coronospa,GitHub,Sylveroy,GitHub,バドレックス,GitHub,Badorekkusu,GitHub,,Missing from both base rows
+899,wyrdeer,Wyrdeer,wyrdeer,wyrdeer,Wyrdeer,GitHub,Damythir,GitHub,Cerbyllin,GitHub,アヤシシ,GitHub,Ayashishi,GitHub,,Missing from both base rows
+900,kleavor,Kleavor,kleavor,kleavor,Kleavor,GitHub,Axantor,GitHub,Hachécateur,GitHub,バサギリ,GitHub,Basagiri,GitHub,,Missing from both base rows
+901,ursaluna,Ursaluna,ursaluna,ursaluna,Ursaluna,GitHub,Ursaluna,GitHub,Ursaking,GitHub,ガチグマ,GitHub,Gachiguma,GitHub,,Missing from both base rows
+902,basculegion,Basculegion,basculegion-male,basculegion-male,Basculegion,GitHub,Salmagnis,GitHub,Paragruel,GitHub,イダイトウ,GitHub,Idaitou,GitHub,,Missing from both base rows
+903,sneasler,Sneasler,sneasler,sneasler,Sneasler,GitHub,Snieboss,GitHub,Farfurex,GitHub,オオニューラ,GitHub,Oonyūra,GitHub,,Missing from both base rows
+904,overqwil,Overqwil,overqwil,overqwil,Overqwil,GitHub,Myriador,GitHub,Qwilpik,GitHub,ハリーマン,GitHub,Harīman,GitHub,,Missing from both base rows
+905,enamorus,Enamorus,enamorus-incarnate,enamorus-incarnate,Enamorus,GitHub,Cupidos,GitHub,Amovénus,GitHub,ラブトロス,GitHub,Rabutorosu,GitHub,,Missing from both base rows
+906,sprigatito,Sprigatito,sprigatito,sprigatito,Sprigatito,GitHub,Felori,GitHub,Poussacha,GitHub,ニャオハ,GitHub,,Missing from both base rows,Nyahoja,GitHub
+907,floragato,Floragato,floragato,floragato,Floragato,GitHub,Feliospa,GitHub,Matourgeon,GitHub,ニャローテ,GitHub,,Missing from both base rows,Nyarote,GitHub
+908,meowscarada,Meowscarada,meowscarada,meowscarada,Meowscarada,GitHub,Maskagato,GitHub,Miascarade,GitHub,マスカーニャ,GitHub,,Missing from both base rows,Masquernya,GitHub
+909,fuecoco,Fuecoco,fuecoco,fuecoco,Fuecoco,GitHub,Krokel,GitHub,Chochodile,GitHub,ホゲータ,GitHub,,Missing from both base rows,Hogator,GitHub
+910,crocalor,Crocalor,crocalor,crocalor,Crocalor,GitHub,Lokroko,GitHub,Crocogril,GitHub,アチゲータ,GitHub,,Missing from both base rows,Achigator,GitHub
+911,skeledirge,Skeledirge,skeledirge,skeledirge,Skeledirge,GitHub,Skelokrok,GitHub,Flâmigator,GitHub,ラウドボーン,GitHub,,Missing from both base rows,Loudbone,GitHub
+912,quaxly,Quaxly,quaxly,quaxly,Quaxly,GitHub,Kwaks,GitHub,Coiffeton,GitHub,クワッス,GitHub,,Missing from both base rows,Kuwassu,GitHub
+913,quaxwell,Quaxwell,quaxwell,quaxwell,Quaxwell,GitHub,Fuentente,GitHub,Canarbello,GitHub,ウェルカモ,GitHub,,Missing from both base rows,Welkamo,GitHub
+914,quaquaval,Quaquaval,quaquaval,quaquaval,Quaquaval,GitHub,Bailonda,GitHub,Palmaval,GitHub,ウェーニバル,GitHub,,Missing from both base rows,Wanival,GitHub
+915,lechonk,Lechonk,lechonk,lechonk,Lechonk,GitHub,Ferkuli,GitHub,Gourmelet,GitHub,グルトン,GitHub,,Missing from both base rows,Gourton,GitHub
+916,oinkologne,Oinkologne,oinkologne,oinkologne,Oinkologne,GitHub,Fragrunz,GitHub,Fragroin,GitHub,パフュートン,GitHub,,Missing from both base rows,Perfuton,GitHub
+917,tarountula,Tarountula,tarountula,tarountula,Tarountula,GitHub,Tarundel,GitHub,Tissenboule,GitHub,タマンチュラ,GitHub,,Missing from both base rows,Tamanchura,GitHub
+918,spidops,Spidops,spidops,spidops,Spidops,GitHub,Spinsidias,GitHub,Filentrappe,GitHub,ワナイダー,GitHub,,Missing from both base rows,Wanaidā,GitHub
+919,nymble,Nymble,nymble,nymble,Nymble,GitHub,Micrick,GitHub,Lilliterelle,GitHub,マメバッタ,GitHub,,Missing from both base rows,Mamebatta,GitHub
+920,lokix,Lokix,lokix,lokix,Lokix,GitHub,Lextremo,GitHub,Gambex,GitHub,エクスレッグ,GitHub,,Missing from both base rows,Exleg,GitHub
+921,pawmi,Pawmi,pawmi,pawmi,Pawmi,GitHub,Pamo,GitHub,Pohm,GitHub,パモ,GitHub,,Missing from both base rows,Pamo,GitHub
+922,pawmo,Pawmo,pawmo,pawmo,Pawmo,GitHub,Pamamo,GitHub,Pohmotte,GitHub,パモット,GitHub,,Missing from both base rows,Pamot,GitHub
+923,pawmot,Pawmot,pawmot,pawmot,Pawmot,GitHub,Pamomamo,GitHub,Pohmarmotte,GitHub,パーモット,GitHub,,Missing from both base rows,Parmot,GitHub
+924,tandemaus,Tandemaus,tandemaus,tandemaus,Tandemaus,GitHub,Zwieps,GitHub,Compagnol,GitHub,ワッカネズミ,GitHub,,Missing from both base rows,Wakkanezumi,GitHub
+925,maushold,Maushold,maushold,maushold,Maushold,GitHub,Famieps,GitHub,Famignol,GitHub,イッカネズミ,GitHub,,Missing from both base rows,Ikkanezumi,GitHub
+926,fidough,Fidough,fidough,fidough,Fidough,GitHub,Hefel,GitHub,Pâtachiot,GitHub,パピモッチ,GitHub,,Missing from both base rows,Papimocchi,GitHub
+927,dachsbun,Dachsbun,dachsbun,dachsbun,Dachsbun,GitHub,Backel,GitHub,Briochien,GitHub,バウッツェル,GitHub,,Missing from both base rows,Bowtzel,GitHub
+928,smoliv,Smoliv,smoliv,smoliv,Smoliv,GitHub,Olini,GitHub,Olivini,GitHub,ミニーブ,GitHub,,Missing from both base rows,Minību,GitHub
+929,dolliv,Dolliv,dolliv,dolliv,Dolliv,GitHub,Olivinio,GitHub,Olivado,GitHub,オリーニョ,GitHub,,Missing from both base rows,Orīnyo,GitHub
+930,arboliva,Arboliva,arboliva,arboliva,Arboliva,GitHub,Olithena,GitHub,Arboliva,GitHub,オリーヴァ,GitHub,,Missing from both base rows,Orīva,GitHub
+931,squawkabilly,Squawkabilly,squawkabilly,squawkabilly,Squawkabilly,GitHub,Krawalloro,GitHub,Tapatoès,GitHub,イキリンコ,GitHub,,Missing from both base rows,Ikirinko,GitHub
+932,nacli,Nacli,nacli,nacli,Nacli,GitHub,Geosali,GitHub,Selutin,GitHub,コジオ,GitHub,,Missing from both base rows,Kojio,GitHub
+933,naclstack,Naclstack,naclstack,naclstack,Naclstack,GitHub,Sedisal,GitHub,Amassel,GitHub,ジオヅム,GitHub,,Missing from both base rows,Jiozumu,GitHub
+934,garganacl,Garganacl,garganacl,garganacl,Garganacl,GitHub,Saltigant,GitHub,Gigansel,GitHub,キョジオーン,GitHub,,Missing from both base rows,Kyojiōn,GitHub
+935,charcadet,Charcadet,charcadet,charcadet,Charcadet,GitHub,Knarbon,GitHub,Charbambin,GitHub,カルボウ,GitHub,,Missing from both base rows,Carbou,GitHub
+936,armarouge,Armarouge,armarouge,armarouge,Armarouge,GitHub,Crimanzo,GitHub,Carmadura,GitHub,グレンアルマ,GitHub,,Missing from both base rows,Gurenarma,GitHub
+937,ceruledge,Ceruledge,ceruledge,ceruledge,Ceruledge,GitHub,Azugladis,GitHub,Malvalame,GitHub,ソウブレイズ,GitHub,,Missing from both base rows,Soublades,GitHub
+938,tadbulb,Tadbulb,tadbulb,tadbulb,Tadbulb,GitHub,Blipp,GitHub,Têtampoule,GitHub,ズピカ,GitHub,,Missing from both base rows,Zupika,GitHub
+939,bellibolt,Bellibolt,bellibolt,bellibolt,Bellibolt,GitHub,Wampitz,GitHub,Ampibidou,GitHub,ハラバリー,GitHub,,Missing from both base rows,Harabarī,GitHub
+940,wattrel,Wattrel,wattrel,wattrel,Wattrel,GitHub,Voltrel,GitHub,Zapétrel,GitHub,カイデン,GitHub,,Missing from both base rows,Kaiden,GitHub
+941,kilowattrel,Kilowattrel,kilowattrel,kilowattrel,Kilowattrel,GitHub,Voltrean,GitHub,Fulgulairo,GitHub,タイカイデン,GitHub,,Missing from both base rows,Taikaiden,GitHub
+942,maschiff,Maschiff,maschiff,maschiff,Maschiff,GitHub,Mobtiff,GitHub,Grondogue,GitHub,オラチフ,GitHub,,Missing from both base rows,Orachifu,GitHub
+943,mabosstiff,Mabosstiff,mabosstiff,mabosstiff,Mabosstiff,GitHub,Mastifioso,GitHub,Dogrino,GitHub,マフィティフ,GitHub,,Missing from both base rows,Mafitifu,GitHub
+944,shroodle,Shroodle,shroodle,shroodle,Shroodle,GitHub,Sproxi,GitHub,Gribouraigne,GitHub,シルシュルー,GitHub,,Missing from both base rows,Shirushurū,GitHub
+945,grafaiai,Grafaiai,grafaiai,grafaiai,Grafaiai,GitHub,Affiti,GitHub,Tag-Tag,GitHub,タギングル,GitHub,,Missing from both base rows,Taginguru,GitHub
+946,bramblin,Bramblin,bramblin,bramblin,Bramblin,GitHub,Weherba,GitHub,Virovent,GitHub,アノクサ,GitHub,,Missing from both base rows,Anokusa,GitHub
+947,brambleghast,Brambleghast,brambleghast,brambleghast,Brambleghast,GitHub,Horrerba,GitHub,Virevorreur,GitHub,アノホラグサ,GitHub,,Missing from both base rows,Anohoragusa,GitHub
+948,toedscool,Toedscool,toedscool,toedscool,Toedscool,GitHub,Tentagra,GitHub,Terracool,GitHub,ノノクラゲ,GitHub,,Missing from both base rows,Nonokurage,GitHub
+949,toedscruel,Toedscruel,toedscruel,toedscruel,Toedscruel,GitHub,Tenterra,GitHub,Terracruel,GitHub,リククラゲ,GitHub,,Missing from both base rows,Rikukurage,GitHub
+950,klawf,Klawf,klawf,klawf,Klawf,GitHub,Klibbe,GitHub,Craparoi,GitHub,ガケガニ,GitHub,,Missing from both base rows,Gakegani,GitHub
+951,capsakid,Capsakid,capsakid,capsakid,Capsakid,GitHub,Chilingel,GitHub,Pimito,GitHub,カプサイジ,GitHub,,Missing from both base rows,Kapusaiji,GitHub
+952,scovillain,Scovillain,scovillain,scovillain,Scovillain,GitHub,Halupenjo,GitHub,Scovilain,GitHub,スコヴィラン,GitHub,,Missing from both base rows,Sukoviran,GitHub
+953,rellor,Rellor,rellor,rellor,Rellor,GitHub,Relluk,GitHub,Léboulérou,GitHub,シガロコ,GitHub,,Missing from both base rows,Shigaroko,GitHub
+954,rabsca,Rabsca,rabsca,rabsca,Rabsca,GitHub,Skarabaks,GitHub,Bérasca,GitHub,ベラカス,GitHub,,Missing from both base rows,Berakasu,GitHub
+955,flittle,Flittle,flittle,flittle,Flittle,GitHub,Flattutu,GitHub,Flotillon,GitHub,ヒラヒナ,GitHub,,Missing from both base rows,Hirahina,GitHub
+956,espathra,Espathra,espathra,espathra,Espathra,GitHub,Psiopatra,GitHub,Cléopsytra,GitHub,クエスパトラ,GitHub,,Missing from both base rows,Kaesupatora,GitHub
+957,tinkatink,Tinkatink,tinkatink,tinkatink,Tinkatink,GitHub,Forgita,GitHub,Forgerette,GitHub,カヌチャン,GitHub,,Missing from both base rows,Kanuchan,GitHub
+958,tinkatuff,Tinkatuff,tinkatuff,tinkatuff,Tinkatuff,GitHub,Tafforgita,GitHub,Forgella,GitHub,ナカヌチャン,GitHub,,Missing from both base rows,Nakanuchan,GitHub
+959,tinkaton,Tinkaton,tinkaton,tinkaton,Tinkaton,GitHub,Granforgita,GitHub,Forgelina,GitHub,デカヌチャン,GitHub,,Missing from both base rows,Dekanuchan,GitHub
+960,wiglett,Wiglett,wiglett,wiglett,Wiglett,GitHub,Schligda,GitHub,Taupikeau,GitHub,ウミディグダ,GitHub,,Missing from both base rows,Umidigda,GitHub
+961,wugtrio,Wugtrio,wugtrio,wugtrio,Wugtrio,GitHub,Schligdri,GitHub,Triopikeau,GitHub,ウミトリオ,GitHub,,Missing from both base rows,Umitrio,GitHub
+962,bombirdier,Bombirdier,bombirdier,bombirdier,Bombirdier,GitHub,Adebom,GitHub,Lestombaile,GitHub,オトシドリ,GitHub,,Missing from both base rows,Otoshidori,GitHub
+963,finizen,Finizen,finizen,finizen,Finizen,GitHub,Normifin,GitHub,Dofin,GitHub,ナミイルカ,GitHub,,Missing from both base rows,Namiiruka,GitHub
+964,palafin,Palafin,palafin,palafin,Palafin,GitHub,Delfinator,GitHub,Superdofin,GitHub,イルカマン,GitHub,,Missing from both base rows,Irukaman,GitHub
+965,varoom,Varoom,varoom,varoom,Varoom,GitHub,Knattox,GitHub,Vrombi,GitHub,ブロロン,GitHub,,Missing from both base rows,Buroron,GitHub
+966,revavroom,Revavroom,revavroom,revavroom,Revavroom,GitHub,Knattatox,GitHub,Vrombotor,GitHub,ブロロローム,GitHub,,Missing from both base rows,Burororōmu,GitHub
+967,cyclizar,Cyclizar,cyclizar,cyclizar,Cyclizar,GitHub,Mopex,GitHub,Motorizard,GitHub,モトトカゲ,GitHub,,Missing from both base rows,Mototokage,GitHub
+968,orthworm,Orthworm,orthworm,orthworm,Orthworm,GitHub,Schlurm,GitHub,Ferdeter,GitHub,ミミズズ,GitHub,,Missing from both base rows,Mimizuzu,GitHub
+969,glimmet,Glimmet,glimmet,glimmet,Glimmet,GitHub,Lumispross,GitHub,Germéclat,GitHub,キラーメ,GitHub,,Missing from both base rows,Kirāme,GitHub
+970,glimmora,Glimmora,glimmora,glimmora,Glimmora,GitHub,Lumiflora,GitHub,Floréclat,GitHub,キラフロル,GitHub,,Missing from both base rows,Kirafuroru,GitHub
+971,greavard,Greavard,greavard,greavard,Greavard,GitHub,Gruff,GitHub,Toutombe,GitHub,ボチ,GitHub,,Missing from both base rows,Bochi,GitHub
+972,houndstone,Houndstone,houndstone,houndstone,Houndstone,GitHub,Friedwuff,GitHub,Tomberro,GitHub,ハカドッグ,GitHub,,Missing from both base rows,Hakadoggu,GitHub
+973,flamigo,Flamigo,flamigo,flamigo,Flamigo,GitHub,Flaminkno,GitHub,Flamenroule,GitHub,カラミンゴ,GitHub,,Missing from both base rows,Karamingo,GitHub
+974,cetoddle,Cetoddle,cetoddle,cetoddle,Cetoddle,GitHub,Flaniwal,GitHub,Piétacé,GitHub,アルクジラ,GitHub,,Missing from both base rows,Arukujira,GitHub
+975,cetitan,Cetitan,cetitan,cetitan,Cetitan,GitHub,Kolowal,GitHub,Balbalèze,GitHub,ハルクジラ,GitHub,,Missing from both base rows,Harukajira,GitHub
+976,veluza,Veluza,veluza,veluza,Veluza,GitHub,Agiluza,GitHub,Délestin,GitHub,ミガルーサ,GitHub,,Missing from both base rows,Migarūsa,GitHub
+977,dondozo,Dondozo,dondozo,dondozo,Dondozo,GitHub,Heerashai,GitHub,Oyacata,GitHub,ヘイラッシャ,GitHub,,Missing from both base rows,Heyrusher,GitHub
+978,tatsugiri,Tatsugiri,tatsugiri,tatsugiri,Tatsugiri,GitHub,Nigiragi,GitHub,Nigirigon,GitHub,シャリタツ,GitHub,,Missing from both base rows,Syaritatsu,GitHub
+979,annihilape,Annihilape,annihilape,annihilape,Annihilape,GitHub,Epitaff,GitHub,Courrousinge,GitHub,コノヨザル,GitHub,,Missing from both base rows,Konoyozaru,GitHub
+980,clodsire,Clodsire,clodsire,clodsire,Clodsire,GitHub,Suelord,GitHub,Terraiste,GitHub,ドオー,GitHub,,Missing from both base rows,Dooh,GitHub
+981,farigiraf,Farigiraf,farigiraf,farigiraf,Farigiraf,GitHub,Farigiraf,GitHub,Farigiraf,GitHub,リキキリン,GitHub,,Missing from both base rows,Rikikirn,GitHub
+982,dudunsparce,Dudunsparce,dudunsparce,dudunsparce,Dudunsparce,GitHub,Dummimisel,GitHub,Deusolourdo,GitHub,ノココッチ,GitHub,,Missing from both base rows,Nokokotchi,GitHub
+983,kingambit,Kingambit,kingambit,kingambit,Kingambit,GitHub,Gladimperio,GitHub,Scalpereur,GitHub,ドドゲザン,GitHub,,Missing from both base rows,Dodogezan,GitHub
+984,great-tusk,Great Tusk,great-tusk,great-tusk,Great Tusk,GitHub,Riesenzahn,GitHub,Fort-Ivoire,GitHub,イダイナキバ,GitHub,,Missing from both base rows,Idaina Kiba,GitHub
+985,scream-tail,Scream Tail,scream-tail,scream-tail,Scream Tail,GitHub,Brüllschweif,GitHub,Hurle-Queue,GitHub,サケブシッポ,GitHub,,Missing from both base rows,Sakebushippo,GitHub
+986,brute-bonnet,Brute Bonnet,brute-bonnet,brute-bonnet,Brute Bonnet,GitHub,Wutpilz,GitHub,Fongus-Furie,GitHub,アラブルタケ,GitHub,,Missing from both base rows,Araburutake,GitHub
+987,flutter-mane,Flutter Mane,flutter-mane,flutter-mane,Flutter Mane,GitHub,Flatterhaar,GitHub,Flotte-Mèche,GitHub,ハバタクカミ,GitHub,,Missing from both base rows,Habtakukami,GitHub
+988,slither-wing,Slither Wing,slither-wing,slither-wing,Slither Wing,GitHub,Kriechflügel,GitHub,Rampe-Ailes,GitHub,チヲハウハネ,GitHub,,Missing from both base rows,Chiohauhane,GitHub
+989,sandy-shocks,Sandy Shocks,sandy-shocks,sandy-shocks,Sandy Shocks,GitHub,Sandfell,GitHub,Pelage-Sablé,GitHub,スナノケガワ,GitHub,,Missing from both base rows,Sunanokegawa,GitHub
+990,iron-treads,Iron Treads,iron-treads,iron-treads,Iron Treads,GitHub,Eisenrad,GitHub,Roue-de-Fer,GitHub,テツノワダチ,GitHub,,Missing from both base rows,Tetsunowadachi,GitHub
+991,iron-bundle,Iron Bundle,iron-bundle,iron-bundle,Iron Bundle,GitHub,Eisenbündel,GitHub,Hotte-de-Fer,GitHub,テツノツツミ,GitHub,,Missing from both base rows,Tetsunotsutsumi,GitHub
+992,iron-hands,Iron Hands,iron-hands,iron-hands,Iron Hands,GitHub,Eisenhand,GitHub,Paume-de-Fer,GitHub,テツノカイナ,GitHub,,Missing from both base rows,Tetsunokaina,GitHub
+993,iron-jugulis,Iron Jugulis,iron-jugulis,iron-jugulis,Iron Jugulis,GitHub,Eisenhals,GitHub,Têtes-de-Fer,GitHub,テツノコウベ,GitHub,,Missing from both base rows,Tetsunokoube,GitHub
+994,iron-moth,Iron Moth,iron-moth,iron-moth,Iron Moth,GitHub,Eisenfalter,GitHub,Mite-de-Fer,GitHub,テツノドクガ,GitHub,,Missing from both base rows,Tetsunodokuga,GitHub
+995,iron-thorns,Iron Thorns,iron-thorns,iron-thorns,Iron Thorns,GitHub,Eisendorn,GitHub,Épine-de-Fer,GitHub,テツノイバラ,GitHub,,Missing from both base rows,Tetsunoibara,GitHub
+996,frigibax,Frigibax,frigibax,frigibax,Frigibax,GitHub,Frospino,GitHub,Frigodo,GitHub,セビエ,GitHub,,Missing from both base rows,Sebie,GitHub
+997,arctibax,Arctibax,arctibax,arctibax,Arctibax,GitHub,Cryospino,GitHub,Cryodo,GitHub,セゴール,GitHub,,Missing from both base rows,Segōru,GitHub
+998,baxcalibur,Baxcalibur,baxcalibur,baxcalibur,Baxcalibur,GitHub,Espinodon,GitHub,Glaivodo,GitHub,セグレイブ,GitHub,,Missing from both base rows,Seglaive,GitHub
+999,gimmighoul,Gimmighoul,gimmighoul,gimmighoul,Gimmighoul,GitHub,Gierspenst,GitHub,Mordudor,GitHub,コレクレー,GitHub,,Missing from both base rows,Collecurei,GitHub
+1000,gholdengo,Gholdengo,gholdengo,gholdengo,Gholdengo,GitHub,Monetigo,GitHub,Gromago,GitHub,サーフゴー,GitHub,,Missing from both base rows,Surfugo,GitHub
+1001,wo-chien,Wo-Chien,wo-chien,wo-chien,Wo-Chien,GitHub,Chongjian,GitHub,Chongjian,GitHub,チオンジェン,GitHub,,Missing from both base rows,Chionjen,GitHub
+1002,chien-pao,Chien-Pao,chien-pao,chien-pao,Chien-Pao,GitHub,Baojian,GitHub,Baojian,GitHub,パオジアン,GitHub,,Missing from both base rows,Paojian,GitHub
+1003,ting-lu,Ting-Lu,ting-lu,ting-lu,Ting-Lu,GitHub,Dinglu,GitHub,Dinglu,GitHub,ディンルー,GitHub,,Missing from both base rows,Dinlu,GitHub
+1004,chi-yu,Chi-Yu,chi-yu,chi-yu,Chi-Yu,GitHub,Yuyu,GitHub,Yuyu,GitHub,イーユイ,GitHub,,Missing from both base rows,Īyui,GitHub
+1005,roaring-moon,Roaring Moon,roaring-moon,roaring-moon,Roaring Moon,GitHub,Donnersichel,GitHub,Rugit-Lune,GitHub,トドロクツキ,GitHub,,Missing from both base rows,Todorokutsuki,GitHub
+1006,iron-valiant,Iron Valiant,iron-valiant,iron-valiant,Iron Valiant,GitHub,Eisenkrieger,GitHub,Garde-de-Fer,GitHub,テツノブジン,GitHub,,Missing from both base rows,Tetsunobujin,GitHub
+1007,koraidon,Koraidon,koraidon,koraidon,Koraidon,GitHub,Koraidon,GitHub,Koraidon,GitHub,コライドン,GitHub,,Missing from both base rows,Koraidon,GitHub
+1008,miraidon,Miraidon,miraidon,miraidon,Miraidon,GitHub,Miraidon,GitHub,Miraidon,GitHub,ミライドン,GitHub,,Missing from both base rows,Miraidon,GitHub
+1009,walking-wake,Walking Wake,walking-wake,walking-wake,Walking Wake,GitHub,Windewoge,GitHub,Serpente-Eau,GitHub,ウネルミナモ,GitHub,,Missing from both base rows,Uneruminamo,GitHub
+1010,iron-leaves,Iron Leaves,iron-leaves,iron-leaves,Iron Leaves,GitHub,Eisenblatt,GitHub,Vert-de-Fer,GitHub,テツノイサハ,GitHub,,Missing from both base rows,Tetsunoisaha,GitHub
+1011,dipplin,Dipplin,dipplin,,Dipplin,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1012,poltchageist,Poltchageist,poltchageist,,Poltchageist,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1013,sinistcha,Sinistcha,sinistcha,,Sinistcha,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1014,okidogi,Okidogi,okidogi,,Okidogi,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1015,munkidori,Munkidori,munkidori,,Munkidori,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1016,fezandipiti,Fezandipiti,fezandipiti,,Fezandipiti,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1017,ogerpon,Ogerpon,ogerpon,,Ogerpon,GitHub,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows,,Missing from both base rows
+1018,archaludon,Archaludon,archaludon,,Archaludon,GitHub,Briduradon,GitHub,Pondralugon,GitHub,ブリジュラス,GitHub,Briduras,GitHub,,Missing from both base rows
+1019,hydrapple,Hydrapple,hydrapple,,Hydrapple,GitHub,Hydrapfel,GitHub,Pomdorochi,GitHub,カミツオロチ,GitHub,Kamitsuorochi,GitHub,,Missing from both base rows
+1020,gouging-fire,Gouging Fire,gouging-fire,,Gouging Fire,GitHub,Keilflamme,GitHub,Feu-Perçant,GitHub,ウガツホムラ,GitHub,Ugatsuhomura,GitHub,,Missing from both base rows
+1021,raging-bolt,Raging Bolt,raging-bolt,,Raging Bolt,GitHub,Furienblitz,GitHub,Ire-Foudre,GitHub,タケルライコ,GitHub,Takeruraiko,GitHub,,Missing from both base rows
+1022,iron-boulder,Iron Boulder,iron-boulder,,Iron Boulder,GitHub,Eisenfels,GitHub,Roc-de-Fer,GitHub,テツノイワオ,GitHub,Tetsunoiwao,GitHub,,Missing from both base rows
+1023,iron-crown,Iron Crown,iron-crown,,Iron Crown,GitHub,Eisenhaupt,GitHub,Chef-de-Fer,GitHub,テツノカシラ,GitHub,Tetsunokashira,GitHub,,Missing from both base rows
+1024,terapagos,Terapagos,terapagos,,Terapagos,GitHub,Terapagos,GitHub,Terapagos,GitHub,テラパゴス,GitHub,Terapagos,GitHub,,Missing from both base rows
+1025,pecharunt,Pecharunt,pecharunt,,Pecharunt,GitHub,Infamomo,GitHub,Pêchaminus,GitHub,モモワロウ,GitHub,Momowarou,GitHub,,Missing from both base rows

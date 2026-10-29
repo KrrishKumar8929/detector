@@ -1,0 +1,5597 @@
+{
+  "10% zygarde": {
+    "catch_name": "10% zygarde",
+    "source": "folder_fallback",
+    "status": "needs_review"
+  },
+  "abomasnow": {
+    "catch_name": "abomasnow",
+    "source": "abomasnow",
+    "status": "matched"
+  },
+  "abra": {
+    "catch_name": "abra",
+    "source": "abra",
+    "status": "matched"
+  },
+  "absol": {
+    "catch_name": "absol",
+    "source": "absol",
+    "status": "matched"
+  },
+  "accelgor": {
+    "catch_name": "accelgor",
+    "source": "accelgor",
+    "status": "matched"
+  },
+  "aegislash": {
+    "catch_name": "exagide",
+    "source": "aegislash-shield",
+    "status": "matched"
+  },
+  "aerodactyl": {
+    "catch_name": "ptéra",
+    "source": "aerodactyl",
+    "status": "matched"
+  },
+  "aggron": {
+    "catch_name": "aggron",
+    "source": "aggron",
+    "status": "matched"
+  },
+  "aipom": {
+    "catch_name": "aipom",
+    "source": "aipom",
+    "status": "matched"
+  },
+  "alakazam": {
+    "catch_name": "simsala",
+    "source": "alakazam",
+    "status": "matched"
+  },
+  "alcremie": {
+    "catch_name": "pokusan",
+    "source": "alcremie-vanilla-cream-strawberry-sweet",
+    "status": "matched"
+  },
+  "alolan diglett": {
+    "catch_name": "alolan diglett",
+    "source": "diglett-alola",
+    "status": "matched"
+  },
+  "alolan dugtrio": {
+    "catch_name": "alolan dugtrio",
+    "source": "dugtrio-alola",
+    "status": "matched"
+  },
+  "alolan exeggutor": {
+    "catch_name": "alolan exeggutor",
+    "source": "exeggutor-alola",
+    "status": "matched"
+  },
+  "alolan geodude": {
+    "catch_name": "alolan geodude",
+    "source": "geodude-alola",
+    "status": "matched"
+  },
+  "alolan golem": {
+    "catch_name": "alolan golem",
+    "source": "golem-alola",
+    "status": "matched"
+  },
+  "alolan graveler": {
+    "catch_name": "alolan graveler",
+    "source": "graveler-alola",
+    "status": "matched"
+  },
+  "alolan grimer": {
+    "catch_name": "alolan grimer",
+    "source": "grimer-alola",
+    "status": "matched"
+  },
+  "alolan marowak": {
+    "catch_name": "alolan marowak",
+    "source": "marowak-alola",
+    "status": "matched"
+  },
+  "alolan meowth": {
+    "catch_name": "alolan meowth",
+    "source": "meowth-alola",
+    "status": "matched"
+  },
+  "alolan muk": {
+    "catch_name": "alolan muk",
+    "source": "muk-alola",
+    "status": "matched"
+  },
+  "alolan ninetales": {
+    "catch_name": "alolan ninetales",
+    "source": "ninetales-alola",
+    "status": "matched"
+  },
+  "alolan persian": {
+    "catch_name": "alolan persian",
+    "source": "persian-alola",
+    "status": "matched"
+  },
+  "alolan raichu": {
+    "catch_name": "alolan raichu",
+    "source": "raichu-alola",
+    "status": "matched"
+  },
+  "alolan raticate": {
+    "catch_name": "alolan raticate",
+    "source": "raticate-alola",
+    "status": "matched"
+  },
+  "alolan rattata": {
+    "catch_name": "alolan rattata",
+    "source": "rattata-alola",
+    "status": "matched"
+  },
+  "alolan sandshrew": {
+    "catch_name": "alolan sandshrew",
+    "source": "sandshrew-alola",
+    "status": "matched"
+  },
+  "alolan sandslash": {
+    "catch_name": "alolan sandslash",
+    "source": "sandslash-alola",
+    "status": "matched"
+  },
+  "alolan vulpix": {
+    "catch_name": "alolan vulpix",
+    "source": "vulpix-alola",
+    "status": "matched"
+  },
+  "alomomola": {
+    "catch_name": "mamanbo",
+    "source": "alomomola",
+    "status": "matched"
+  },
+  "altaria": {
+    "catch_name": "altaria",
+    "source": "altaria",
+    "status": "matched"
+  },
+  "amaura": {
+    "catch_name": "amaura",
+    "source": "amaura",
+    "status": "matched"
+  },
+  "ambipom": {
+    "catch_name": "ambipom",
+    "source": "ambipom",
+    "status": "matched"
+  },
+  "amoonguss": {
+    "catch_name": "gaulet",
+    "source": "amoonguss",
+    "status": "matched"
+  },
+  "amped toxtricity": {
+    "catch_name": "amped toxtricity",
+    "source": "toxtricity-amped",
+    "status": "matched"
+  },
+  "ampharos": {
+    "catch_name": "pharamp",
+    "source": "ampharos",
+    "status": "matched"
+  },
+  "annihilape": {
+    "catch_name": "epitaff",
+    "source": "annihilape",
+    "status": "matched"
+  },
+  "anorith": {
+    "catch_name": "anorith",
+    "source": "anorith",
+    "status": "matched"
+  },
+  "appletun": {
+    "catch_name": "appletun",
+    "source": "appletun",
+    "status": "matched"
+  },
+  "applin": {
+    "catch_name": "applin",
+    "source": "applin",
+    "status": "matched"
+  },
+  "aqua breed tauros": {
+    "catch_name": "aqua breed tauros",
+    "source": "tauros-paldea-aqua-breed",
+    "status": "matched"
+  },
+  "araquanid": {
+    "catch_name": "aranestro",
+    "source": "araquanid",
+    "status": "matched"
+  },
+  "arbok": {
+    "catch_name": "arbok",
+    "source": "arbok",
+    "status": "matched"
+  },
+  "arboliva": {
+    "catch_name": "arboliva",
+    "source": "arboliva",
+    "status": "matched"
+  },
+  "arcanine": {
+    "catch_name": "arkani",
+    "source": "arcanine",
+    "status": "matched"
+  },
+  "arceus": {
+    "catch_name": "arceus",
+    "source": "arceus",
+    "status": "matched"
+  },
+  "archaludon": {
+    "catch_name": "archaludon",
+    "source": "archaludon",
+    "status": "matched"
+  },
+  "archen": {
+    "catch_name": "archen",
+    "source": "archen",
+    "status": "matched"
+  },
+  "archeops": {
+    "catch_name": "archeops",
+    "source": "archeops",
+    "status": "matched"
+  },
+  "arctibax": {
+    "catch_name": "cryodo",
+    "source": "arctibax",
+    "status": "matched"
+  },
+  "arctovish": {
+    "catch_name": "hydragla",
+    "source": "arctovish",
+    "status": "matched"
+  },
+  "arctozolt": {
+    "catch_name": "galvagla",
+    "source": "arctozolt",
+    "status": "matched"
+  },
+  "ariados": {
+    "catch_name": "ariados",
+    "source": "ariados",
+    "status": "matched"
+  },
+  "armaldo": {
+    "catch_name": "armaldo",
+    "source": "armaldo",
+    "status": "matched"
+  },
+  "armarouge": {
+    "catch_name": "crimanzo",
+    "source": "armarouge",
+    "status": "matched"
+  },
+  "aromatisse": {
+    "catch_name": "cocotine",
+    "source": "aromatisse",
+    "status": "matched"
+  },
+  "aron": {
+    "catch_name": "aron",
+    "source": "aron",
+    "status": "matched"
+  },
+  "arrokuda": {
+    "catch_name": "pikuda",
+    "source": "arrokuda",
+    "status": "matched"
+  },
+  "attack deoxys": {
+    "catch_name": "attack deoxys",
+    "source": "deoxys-attack",
+    "status": "matched"
+  },
+  "audino": {
+    "catch_name": "audino",
+    "source": "audino",
+    "status": "matched"
+  },
+  "aurorus": {
+    "catch_name": "aurorus",
+    "source": "aurorus",
+    "status": "matched"
+  },
+  "avalugg": {
+    "catch_name": "avalugg",
+    "source": "avalugg",
+    "status": "matched"
+  },
+  "axew": {
+    "catch_name": "axew",
+    "source": "axew",
+    "status": "matched"
+  },
+  "azelf": {
+    "catch_name": "azelf",
+    "source": "azelf",
+    "status": "matched"
+  },
+  "azumarill": {
+    "catch_name": "azumarill",
+    "source": "azumarill",
+    "status": "matched"
+  },
+  "azurill": {
+    "catch_name": "azurill",
+    "source": "azurill",
+    "status": "matched"
+  },
+  "bagon": {
+    "catch_name": "bagon",
+    "source": "bagon",
+    "status": "matched"
+  },
+  "baltoy": {
+    "catch_name": "baltoy",
+    "source": "baltoy",
+    "status": "matched"
+  },
+  "banette": {
+    "catch_name": "banette",
+    "source": "banette",
+    "status": "matched"
+  },
+  "barbaracle": {
+    "catch_name": "barbaracle",
+    "source": "barbaracle",
+    "status": "matched"
+  },
+  "barboach": {
+    "catch_name": "barboach",
+    "source": "barboach",
+    "status": "matched"
+  },
+  "barraskewda": {
+    "catch_name": "hastacuda",
+    "source": "barraskewda",
+    "status": "matched"
+  },
+  "basculegion": {
+    "catch_name": "basculegion",
+    "source": "manual_approval",
+    "status": "manually_approved"
+  },
+  "basculin": {
+    "catch_name": "basculin",
+    "source": "basculin-red-striped",
+    "status": "matched"
+  },
+  "bastiodon": {
+    "catch_name": "bastiodon",
+    "source": "bastiodon",
+    "status": "matched"
+  },
+  "baxcalibur": {
+    "catch_name": "glaivodo",
+    "source": "baxcalibur",
+    "status": "matched"
+  },
+  "bayleef": {
+    "catch_name": "bayleef",
+    "source": "bayleef",
+    "status": "matched"
+  },
+  "beartic": {
+    "catch_name": "beartic",
+    "source": "beartic",
+    "status": "matched"
+  },
+  "beautifly": {
+    "catch_name": "beautifly",
+    "source": "beautifly",
+    "status": "matched"
+  },
+  "beedrill": {
+    "catch_name": "bibor",
+    "source": "beedrill",
+    "status": "matched"
+  },
+  "beheeyem": {
+    "catch_name": "megalon",
+    "source": "beheeyem",
+    "status": "matched"
+  },
+  "beldum": {
+    "catch_name": "beldum",
+    "source": "beldum",
+    "status": "matched"
+  },
+  "bellibolt": {
+    "catch_name": "wampitz",
+    "source": "bellibolt",
+    "status": "matched"
+  },
+  "bellossom": {
+    "catch_name": "blubella",
+    "source": "bellossom",
+    "status": "matched"
+  },
+  "bellsprout": {
+    "catch_name": "knofensa",
+    "source": "bellsprout",
+    "status": "matched"
+  },
+  "bergmite": {
+    "catch_name": "arktip",
+    "source": "bergmite",
+    "status": "matched"
+  },
+  "bewear": {
+    "catch_name": "bewear",
+    "source": "bewear",
+    "status": "matched"
+  },
+  "bibarel": {
+    "catch_name": "bibarel",
+    "source": "bibarel",
+    "status": "matched"
+  },
+  "bidoof": {
+    "catch_name": "bidiza",
+    "source": "bidoof",
+    "status": "matched"
+  },
+  "binacle": {
+    "catch_name": "binacle",
+    "source": "binacle",
+    "status": "matched"
+  },
+  "bisharp": {
+    "catch_name": "bisharp",
+    "source": "bisharp",
+    "status": "matched"
+  },
+  "blacephalon": {
+    "catch_name": "kopplosio",
+    "source": "blacephalon",
+    "status": "matched"
+  },
+  "blade aegislash": {
+    "catch_name": "blade aegislash",
+    "source": "aegislash-blade",
+    "status": "matched"
+  },
+  "blastoise": {
+    "catch_name": "turtok",
+    "source": "blastoise",
+    "status": "matched"
+  },
+  "blaze breed tauros": {
+    "catch_name": "blaze breed tauros",
+    "source": "tauros-paldea-blaze-breed",
+    "status": "matched"
+  },
+  "blaziken": {
+    "catch_name": "lohgock",
+    "source": "blaziken",
+    "status": "matched"
+  },
+  "blipbug": {
+    "catch_name": "blipbug",
+    "source": "blipbug",
+    "status": "matched"
+  },
+  "blissey": {
+    "catch_name": "blissey",
+    "source": "blissey",
+    "status": "matched"
+  },
+  "blitzle": {
+    "catch_name": "blitzle",
+    "source": "blitzle",
+    "status": "matched"
+  },
+  "bloodmoon ursaluna": {
+    "catch_name": "bloodmoon ursaluna",
+    "source": "ursaluna-bloodmoon",
+    "status": "matched"
+  },
+  "blue plumage squawkabilly": {
+    "catch_name": "blue plumage squawkabilly",
+    "source": "squawkabilly-blue-plumage",
+    "status": "matched"
+  },
+  "blue-striped basculin": {
+    "catch_name": "blue-striped basculin",
+    "source": "basculin-blue-striped",
+    "status": "matched"
+  },
+  "boldore": {
+    "catch_name": "boldore",
+    "source": "boldore",
+    "status": "matched"
+  },
+  "boltund": {
+    "catch_name": "boltund",
+    "source": "boltund",
+    "status": "matched"
+  },
+  "bombirdier": {
+    "catch_name": "adebom",
+    "source": "bombirdier",
+    "status": "matched"
+  },
+  "bonsly": {
+    "catch_name": "mobai",
+    "source": "bonsly",
+    "status": "matched"
+  },
+  "bouffalant": {
+    "catch_name": "frison",
+    "source": "bouffalant",
+    "status": "matched"
+  },
+  "bounsweet": {
+    "catch_name": "croquine",
+    "source": "bounsweet",
+    "status": "matched"
+  },
+  "braixen": {
+    "catch_name": "rutena",
+    "source": "braixen",
+    "status": "matched"
+  },
+  "brambleghast": {
+    "catch_name": "horrerba",
+    "source": "brambleghast",
+    "status": "matched"
+  },
+  "bramblin": {
+    "catch_name": "weherba",
+    "source": "bramblin",
+    "status": "matched"
+  },
+  "braviary": {
+    "catch_name": "braviary",
+    "source": "braviary",
+    "status": "matched"
+  },
+  "breloom": {
+    "catch_name": "kapilz",
+    "source": "breloom",
+    "status": "matched"
+  },
+  "brionne": {
+    "catch_name": "brionne",
+    "source": "brionne",
+    "status": "matched"
+  },
+  "bronzong": {
+    "catch_name": "bronzong",
+    "source": "bronzong",
+    "status": "matched"
+  },
+  "bronzor": {
+    "catch_name": "bronzel",
+    "source": "bronzor",
+    "status": "matched"
+  },
+  "bruxish": {
+    "catch_name": "bruxish",
+    "source": "bruxish",
+    "status": "matched"
+  },
+  "budew": {
+    "catch_name": "budew",
+    "source": "budew",
+    "status": "matched"
+  },
+  "buizel": {
+    "catch_name": "buizel",
+    "source": "buizel",
+    "status": "matched"
+  },
+  "bulbasaur": {
+    "catch_name": "bisasam",
+    "source": "bulbasaur",
+    "status": "matched"
+  },
+  "buneary": {
+    "catch_name": "buneary",
+    "source": "buneary",
+    "status": "matched"
+  },
+  "bunnelby": {
+    "catch_name": "scoppel",
+    "source": "bunnelby",
+    "status": "matched"
+  },
+  "burmy": {
+    "catch_name": "burmy",
+    "source": "burmy-plant",
+    "status": "matched"
+  },
+  "butterfree": {
+    "catch_name": "smettbo",
+    "source": "butterfree",
+    "status": "matched"
+  },
+  "cacnea": {
+    "catch_name": "tuska",
+    "source": "cacnea",
+    "status": "matched"
+  },
+  "cacturne": {
+    "catch_name": "cacturne",
+    "source": "cacturne",
+    "status": "matched"
+  },
+  "calyrex": {
+    "catch_name": "calyrex",
+    "source": "calyrex",
+    "status": "matched"
+  },
+  "camerupt": {
+    "catch_name": "camerupt",
+    "source": "camerupt",
+    "status": "matched"
+  },
+  "capsakid": {
+    "catch_name": "pimito",
+    "source": "capsakid",
+    "status": "matched"
+  },
+  "carbink": {
+    "catch_name": "rocara",
+    "source": "carbink",
+    "status": "matched"
+  },
+  "carkol": {
+    "catch_name": "carkol",
+    "source": "carkol",
+    "status": "matched"
+  },
+  "carnivine": {
+    "catch_name": "vortente",
+    "source": "carnivine",
+    "status": "matched"
+  },
+  "carracosta": {
+    "catch_name": "karippas",
+    "source": "carracosta",
+    "status": "matched"
+  },
+  "carvanha": {
+    "catch_name": "carvanha",
+    "source": "carvanha",
+    "status": "matched"
+  },
+  "cascoon": {
+    "catch_name": "cascoon",
+    "source": "cascoon",
+    "status": "matched"
+  },
+  "castform": {
+    "catch_name": "formeo",
+    "source": "castform",
+    "status": "matched"
+  },
+  "caterpie": {
+    "catch_name": "raupy",
+    "source": "caterpie",
+    "status": "matched"
+  },
+  "celebi": {
+    "catch_name": "celebi",
+    "source": "celebi",
+    "status": "matched"
+  },
+  "celesteela": {
+    "catch_name": "kaguron",
+    "source": "celesteela",
+    "status": "matched"
+  },
+  "centiskorch": {
+    "catch_name": "infernopod",
+    "source": "centiskorch",
+    "status": "matched"
+  },
+  "ceruledge": {
+    "catch_name": "azugladis",
+    "source": "ceruledge",
+    "status": "matched"
+  },
+  "cetitan": {
+    "catch_name": "cetitan",
+    "source": "cetitan",
+    "status": "matched"
+  },
+  "cetoddle": {
+    "catch_name": "piétacé",
+    "source": "cetoddle",
+    "status": "matched"
+  },
+  "chandelure": {
+    "catch_name": "skelabra",
+    "source": "chandelure",
+    "status": "matched"
+  },
+  "chansey": {
+    "catch_name": "chansey",
+    "source": "chansey",
+    "status": "matched"
+  },
+  "charcadet": {
+    "catch_name": "knarbon",
+    "source": "charcadet",
+    "status": "matched"
+  },
+  "charizard": {
+    "catch_name": "glurak",
+    "source": "charizard",
+    "status": "matched"
+  },
+  "charjabug": {
+    "catch_name": "akkup",
+    "source": "charjabug",
+    "status": "matched"
+  },
+  "charmander": {
+    "catch_name": "glumanda",
+    "source": "charmander",
+    "status": "matched"
+  },
+  "charmeleon": {
+    "catch_name": "glutexo",
+    "source": "charmeleon",
+    "status": "matched"
+  },
+  "chatot": {
+    "catch_name": "chatot",
+    "source": "chatot",
+    "status": "matched"
+  },
+  "cherrim": {
+    "catch_name": "kinoso",
+    "source": "cherrim",
+    "status": "matched"
+  },
+  "cherubi": {
+    "catch_name": "kikugi",
+    "source": "cherubi",
+    "status": "matched"
+  },
+  "chesnaught": {
+    "catch_name": "brigaron",
+    "source": "chesnaught",
+    "status": "matched"
+  },
+  "chespin": {
+    "catch_name": "chespin",
+    "source": "chespin",
+    "status": "matched"
+  },
+  "chewtle": {
+    "catch_name": "chewtle",
+    "source": "chewtle",
+    "status": "matched"
+  },
+  "chi-yu": {
+    "catch_name": "yuyu",
+    "source": "chi-yu",
+    "status": "matched"
+  },
+  "chien-pao": {
+    "catch_name": "baojian",
+    "source": "chien-pao",
+    "status": "matched"
+  },
+  "chikorita": {
+    "catch_name": "endivie",
+    "source": "chikorita",
+    "status": "matched"
+  },
+  "chimchar": {
+    "catch_name": "panflam",
+    "source": "chimchar",
+    "status": "matched"
+  },
+  "chimecho": {
+    "catch_name": "éoko",
+    "source": "chimecho",
+    "status": "matched"
+  },
+  "chinchou": {
+    "catch_name": "lampi",
+    "source": "chinchou",
+    "status": "matched"
+  },
+  "chingling": {
+    "catch_name": "korillon",
+    "source": "chingling",
+    "status": "matched"
+  },
+  "cinccino": {
+    "catch_name": "cinccino",
+    "source": "cinccino",
+    "status": "matched"
+  },
+  "cinderace": {
+    "catch_name": "liberlo",
+    "source": "cinderace",
+    "status": "matched"
+  },
+  "clamperl": {
+    "catch_name": "perlu",
+    "source": "clamperl",
+    "status": "matched"
+  },
+  "clauncher": {
+    "catch_name": "clauncher",
+    "source": "clauncher",
+    "status": "matched"
+  },
+  "clawitzer": {
+    "catch_name": "wummer",
+    "source": "clawitzer",
+    "status": "matched"
+  },
+  "claydol": {
+    "catch_name": "claydol",
+    "source": "claydol",
+    "status": "matched"
+  },
+  "clefable": {
+    "catch_name": "pixi",
+    "source": "clefable",
+    "status": "matched"
+  },
+  "clefairy": {
+    "catch_name": "piepi",
+    "source": "clefairy",
+    "status": "matched"
+  },
+  "cleffa": {
+    "catch_name": "pii",
+    "source": "cleffa",
+    "status": "matched"
+  },
+  "clobbopus": {
+    "catch_name": "poulpaf",
+    "source": "clobbopus",
+    "status": "matched"
+  },
+  "clodsire": {
+    "catch_name": "suelord",
+    "source": "clodsire",
+    "status": "matched"
+  },
+  "cloyster": {
+    "catch_name": "austos",
+    "source": "cloyster",
+    "status": "matched"
+  },
+  "coalossal": {
+    "catch_name": "coalossal",
+    "source": "coalossal",
+    "status": "matched"
+  },
+  "cobalion": {
+    "catch_name": "cobalion",
+    "source": "cobalion",
+    "status": "matched"
+  },
+  "cofagrigus": {
+    "catch_name": "echnatoll",
+    "source": "cofagrigus",
+    "status": "matched"
+  },
+  "combat breed tauros": {
+    "catch_name": "combat breed tauros",
+    "source": "tauros-paldea-combat-breed",
+    "status": "matched"
+  },
+  "combee": {
+    "catch_name": "combee",
+    "source": "combee",
+    "status": "matched"
+  },
+  "combusken": {
+    "catch_name": "galifeu",
+    "source": "combusken",
+    "status": "matched"
+  },
+  "comfey": {
+    "catch_name": "comfey",
+    "source": "comfey",
+    "status": "matched"
+  },
+  "complete zygarde": {
+    "catch_name": "complete zygarde",
+    "source": "zygarde-complete",
+    "status": "matched"
+  },
+  "conkeldurr": {
+    "catch_name": "bétochef",
+    "source": "conkeldurr",
+    "status": "matched"
+  },
+  "copperajah": {
+    "catch_name": "copperajah",
+    "source": "copperajah",
+    "status": "matched"
+  },
+  "cornerstone mask ogerpon": {
+    "catch_name": "cornerstone mask ogerpon",
+    "source": "ogerpon-cornerstone-mask",
+    "status": "matched"
+  },
+  "corphish": {
+    "catch_name": "corphish",
+    "source": "corphish",
+    "status": "matched"
+  },
+  "corsola": {
+    "catch_name": "corayon",
+    "source": "corsola",
+    "status": "matched"
+  },
+  "corviknight": {
+    "catch_name": "krarmor",
+    "source": "corviknight",
+    "status": "matched"
+  },
+  "corvisquire": {
+    "catch_name": "kranoviz",
+    "source": "corvisquire",
+    "status": "matched"
+  },
+  "cosmoem": {
+    "catch_name": "cosmoem",
+    "source": "cosmoem",
+    "status": "matched"
+  },
+  "cosmog": {
+    "catch_name": "cosmog",
+    "source": "cosmog",
+    "status": "matched"
+  },
+  "cottonee": {
+    "catch_name": "cottonee",
+    "source": "cottonee",
+    "status": "matched"
+  },
+  "crabominable": {
+    "catch_name": "krawell",
+    "source": "crabominable",
+    "status": "matched"
+  },
+  "crabrawler": {
+    "catch_name": "krabbox",
+    "source": "crabrawler",
+    "status": "matched"
+  },
+  "cracked ditto": {
+    "catch_name": "easter ditto",
+    "source": "ditto-easter",
+    "status": "matched"
+  },
+  "cradily": {
+    "catch_name": "wielie",
+    "source": "cradily",
+    "status": "matched"
+  },
+  "cramorant": {
+    "catch_name": "urgl",
+    "source": "cramorant",
+    "status": "matched"
+  },
+  "cranidos": {
+    "catch_name": "cranidos",
+    "source": "cranidos",
+    "status": "matched"
+  },
+  "crawdaunt": {
+    "catch_name": "colhomard",
+    "source": "crawdaunt",
+    "status": "matched"
+  },
+  "cresselia": {
+    "catch_name": "cresselia",
+    "source": "cresselia",
+    "status": "matched"
+  },
+  "croagunk": {
+    "catch_name": "croagunk",
+    "source": "croagunk",
+    "status": "matched"
+  },
+  "crobat": {
+    "catch_name": "crobat",
+    "source": "crobat",
+    "status": "matched"
+  },
+  "crocalor": {
+    "catch_name": "lokroko",
+    "source": "crocalor",
+    "status": "matched"
+  },
+  "croconaw": {
+    "catch_name": "croconaw",
+    "source": "croconaw",
+    "status": "matched"
+  },
+  "crustle": {
+    "catch_name": "crustle",
+    "source": "crustle",
+    "status": "matched"
+  },
+  "cryogonal": {
+    "catch_name": "hexagel",
+    "source": "cryogonal",
+    "status": "matched"
+  },
+  "cubchoo": {
+    "catch_name": "cubchoo",
+    "source": "cubchoo",
+    "status": "matched"
+  },
+  "cubone": {
+    "catch_name": "cubone",
+    "source": "cubone",
+    "status": "matched"
+  },
+  "cufant": {
+    "catch_name": "cufant",
+    "source": "cufant",
+    "status": "matched"
+  },
+  "cursola": {
+    "catch_name": "cursola",
+    "source": "cursola",
+    "status": "matched"
+  },
+  "cutiefly": {
+    "catch_name": "wommel",
+    "source": "cutiefly",
+    "status": "matched"
+  },
+  "cyclizar": {
+    "catch_name": "mopex",
+    "source": "cyclizar",
+    "status": "matched"
+  },
+  "cyndaquil": {
+    "catch_name": "feurigel",
+    "source": "cyndaquil",
+    "status": "matched"
+  },
+  "dachsbun": {
+    "catch_name": "backel",
+    "source": "dachsbun",
+    "status": "matched"
+  },
+  "dada zarude": {
+    "catch_name": "dada zarude",
+    "source": "zarude-dada",
+    "status": "matched"
+  },
+  "darkrai": {
+    "catch_name": "darkrai",
+    "source": "darkrai",
+    "status": "matched"
+  },
+  "darmanitan": {
+    "catch_name": "darumacho",
+    "source": "darmanitan-standard",
+    "status": "matched"
+  },
+  "dartrix": {
+    "catch_name": "dartrix",
+    "source": "dartrix",
+    "status": "matched"
+  },
+  "darumaka": {
+    "catch_name": "darumaka",
+    "source": "darumaka",
+    "status": "matched"
+  },
+  "decidueye": {
+    "catch_name": "archéduc",
+    "source": "decidueye",
+    "status": "matched"
+  },
+  "dedenne": {
+    "catch_name": "dedenne",
+    "source": "dedenne",
+    "status": "matched"
+  },
+  "deerling": {
+    "catch_name": "deerling",
+    "source": "deerling",
+    "status": "matched"
+  },
+  "defense deoxys": {
+    "catch_name": "defense deoxys",
+    "source": "deoxys-defense",
+    "status": "matched"
+  },
+  "deino": {
+    "catch_name": "deino",
+    "source": "deino",
+    "status": "matched"
+  },
+  "delcatty": {
+    "catch_name": "enekoro",
+    "source": "delcatty",
+    "status": "matched"
+  },
+  "delibird": {
+    "catch_name": "botogel",
+    "source": "delibird",
+    "status": "matched"
+  },
+  "delphox": {
+    "catch_name": "delphox",
+    "source": "delphox",
+    "status": "matched"
+  },
+  "deoxys": {
+    "catch_name": "deoxys",
+    "source": "deoxys-normal",
+    "status": "matched"
+  },
+  "dewgong": {
+    "catch_name": "jugong",
+    "source": "dewgong",
+    "status": "matched"
+  },
+  "dewott": {
+    "catch_name": "dewott",
+    "source": "dewott",
+    "status": "matched"
+  },
+  "dewpider": {
+    "catch_name": "araqua",
+    "source": "dewpider",
+    "status": "matched"
+  },
+  "dhelmise": {
+    "catch_name": "moruda",
+    "source": "dhelmise",
+    "status": "matched"
+  },
+  "dialga": {
+    "catch_name": "dialga",
+    "source": "dialga",
+    "status": "matched"
+  },
+  "diancie": {
+    "catch_name": "diancie",
+    "source": "diancie",
+    "status": "matched"
+  },
+  "diggersby": {
+    "catch_name": "grebbit",
+    "source": "diggersby",
+    "status": "matched"
+  },
+  "diglett": {
+    "catch_name": "digda",
+    "source": "diglett",
+    "status": "matched"
+  },
+  "dipplin": {
+    "catch_name": "dipplin",
+    "source": "dipplin",
+    "status": "matched"
+  },
+  "ditto": {
+    "catch_name": "ditto",
+    "source": "ditto",
+    "status": "matched"
+  },
+  "dodrio": {
+    "catch_name": "dodri",
+    "source": "dodrio",
+    "status": "matched"
+  },
+  "doduo": {
+    "catch_name": "dodu",
+    "source": "doduo",
+    "status": "matched"
+  },
+  "dolliv": {
+    "catch_name": "dolliv",
+    "source": "dolliv",
+    "status": "matched"
+  },
+  "dondozo": {
+    "catch_name": "dondozo",
+    "source": "dondozo",
+    "status": "matched"
+  },
+  "donphan": {
+    "catch_name": "donphan",
+    "source": "donphan",
+    "status": "matched"
+  },
+  "dottler": {
+    "catch_name": "dottler",
+    "source": "dottler",
+    "status": "matched"
+  },
+  "doublade": {
+    "catch_name": "duokles",
+    "source": "doublade",
+    "status": "matched"
+  },
+  "dracovish": {
+    "catch_name": "hydragon",
+    "source": "dracovish",
+    "status": "matched"
+  },
+  "dracozolt": {
+    "catch_name": "galvagon",
+    "source": "dracozolt",
+    "status": "matched"
+  },
+  "dragalge": {
+    "catch_name": "tandrak",
+    "source": "dragalge",
+    "status": "matched"
+  },
+  "dragapult": {
+    "catch_name": "dragapult",
+    "source": "dragapult",
+    "status": "matched"
+  },
+  "dragonair": {
+    "catch_name": "draco",
+    "source": "dragonair",
+    "status": "matched"
+  },
+  "dragonite": {
+    "catch_name": "dragoran",
+    "source": "dragonite",
+    "status": "matched"
+  },
+  "drakloak": {
+    "catch_name": "phandra",
+    "source": "drakloak",
+    "status": "matched"
+  },
+  "drampa": {
+    "catch_name": "drampa",
+    "source": "drampa",
+    "status": "matched"
+  },
+  "drapion": {
+    "catch_name": "drapion",
+    "source": "drapion",
+    "status": "matched"
+  },
+  "dratini": {
+    "catch_name": "dratini",
+    "source": "dratini",
+    "status": "matched"
+  },
+  "drednaw": {
+    "catch_name": "kamalm",
+    "source": "drednaw",
+    "status": "matched"
+  },
+  "dreepy": {
+    "catch_name": "dreepy",
+    "source": "dreepy",
+    "status": "matched"
+  },
+  "drifblim": {
+    "catch_name": "drifblim",
+    "source": "drifblim",
+    "status": "matched"
+  },
+  "drifloon": {
+    "catch_name": "baudrive",
+    "source": "drifloon",
+    "status": "matched"
+  },
+  "drilbur": {
+    "catch_name": "drilbur",
+    "source": "drilbur",
+    "status": "matched"
+  },
+  "drizzile": {
+    "catch_name": "arrozard",
+    "source": "drizzile",
+    "status": "matched"
+  },
+  "droopy tatsugiri": {
+    "catch_name": "droopy tatsugiri",
+    "source": "tatsugiri-droopy",
+    "status": "matched"
+  },
+  "drowzee": {
+    "catch_name": "drowzee",
+    "source": "drowzee",
+    "status": "matched"
+  },
+  "druddigon": {
+    "catch_name": "druddigon",
+    "source": "druddigon",
+    "status": "matched"
+  },
+  "dubwool": {
+    "catch_name": "dubwool",
+    "source": "dubwool",
+    "status": "matched"
+  },
+  "ducklett": {
+    "catch_name": "ducklett",
+    "source": "ducklett",
+    "status": "matched"
+  },
+  "dudunsparce": {
+    "catch_name": "dummimisel",
+    "source": "dudunsparce",
+    "status": "matched"
+  },
+  "dugtrio": {
+    "catch_name": "digdri",
+    "source": "dugtrio",
+    "status": "matched"
+  },
+  "dunsparce": {
+    "catch_name": "dummisel",
+    "source": "dunsparce",
+    "status": "matched"
+  },
+  "duosion": {
+    "catch_name": "méios",
+    "source": "duosion",
+    "status": "matched"
+  },
+  "duraludon": {
+    "catch_name": "duraludon",
+    "source": "duraludon",
+    "status": "matched"
+  },
+  "durant": {
+    "catch_name": "durant",
+    "source": "durant",
+    "status": "matched"
+  },
+  "dusclops": {
+    "catch_name": "dusclops",
+    "source": "dusclops",
+    "status": "matched"
+  },
+  "dusk lycanroc": {
+    "catch_name": "dusk lycanroc",
+    "source": "lycanroc-dusk",
+    "status": "matched"
+  },
+  "dusknoir": {
+    "catch_name": "dusknoir",
+    "source": "dusknoir",
+    "status": "matched"
+  },
+  "duskull": {
+    "catch_name": "duskull",
+    "source": "duskull",
+    "status": "matched"
+  },
+  "dustox": {
+    "catch_name": "pudox",
+    "source": "dustox",
+    "status": "matched"
+  },
+  "dwebble": {
+    "catch_name": "dwebble",
+    "source": "dwebble",
+    "status": "matched"
+  },
+  "easter bidoof": {
+    "catch_name": "easter bidoof",
+    "source": "bidoof-easter",
+    "status": "matched"
+  },
+  "eelektrik": {
+    "catch_name": "eelektrik",
+    "source": "eelektrik",
+    "status": "matched"
+  },
+  "eelektross": {
+    "catch_name": "eelektross",
+    "source": "eelektross",
+    "status": "matched"
+  },
+  "eevee": {
+    "catch_name": "eevee",
+    "source": "eevee",
+    "status": "matched"
+  },
+  "egg nest lapras": {
+    "catch_name": "easter lapras",
+    "source": "lapras-easter",
+    "status": "matched"
+  },
+  "eiscue": {
+    "catch_name": "eiscue",
+    "source": "eiscue-ice",
+    "status": "matched"
+  },
+  "ekans": {
+    "catch_name": "abo",
+    "source": "ekans",
+    "status": "matched"
+  },
+  "eldegoss": {
+    "catch_name": "cottomi",
+    "source": "eldegoss",
+    "status": "matched"
+  },
+  "electabuzz": {
+    "catch_name": "elektek",
+    "source": "electabuzz",
+    "status": "matched"
+  },
+  "electivire": {
+    "catch_name": "élekable",
+    "source": "electivire",
+    "status": "matched"
+  },
+  "electrike": {
+    "catch_name": "dynavolt",
+    "source": "electrike",
+    "status": "matched"
+  },
+  "electrode": {
+    "catch_name": "electrode",
+    "source": "electrode",
+    "status": "matched"
+  },
+  "elekid": {
+    "catch_name": "elekid",
+    "source": "elekid",
+    "status": "matched"
+  },
+  "elgyem": {
+    "catch_name": "elgyem",
+    "source": "elgyem",
+    "status": "matched"
+  },
+  "emboar": {
+    "catch_name": "emboar",
+    "source": "emboar",
+    "status": "matched"
+  },
+  "emolga": {
+    "catch_name": "emolga",
+    "source": "emolga",
+    "status": "matched"
+  },
+  "empoleon": {
+    "catch_name": "empoleon",
+    "source": "empoleon",
+    "status": "matched"
+  },
+  "enamorus": {
+    "catch_name": "cupidos",
+    "source": "enamorus-incarnate",
+    "status": "matched"
+  },
+  "entei": {
+    "catch_name": "entei",
+    "source": "entei",
+    "status": "matched"
+  },
+  "escavalier": {
+    "catch_name": "lançargot",
+    "source": "escavalier",
+    "status": "matched"
+  },
+  "espathra": {
+    "catch_name": "espathra",
+    "source": "espathra",
+    "status": "matched"
+  },
+  "espeon": {
+    "catch_name": "espeon",
+    "source": "espeon",
+    "status": "matched"
+  },
+  "espurr": {
+    "catch_name": "psiau",
+    "source": "espurr",
+    "status": "matched"
+  },
+  "excadrill": {
+    "catch_name": "stalobor",
+    "source": "excadrill",
+    "status": "matched"
+  },
+  "exeggcute": {
+    "catch_name": "owei",
+    "source": "exeggcute",
+    "status": "matched"
+  },
+  "exeggutor": {
+    "catch_name": "kokowei",
+    "source": "exeggutor",
+    "status": "matched"
+  },
+  "exploud": {
+    "catch_name": "exploud",
+    "source": "exploud",
+    "status": "matched"
+  },
+  "falinks": {
+    "catch_name": "legios",
+    "source": "falinks",
+    "status": "matched"
+  },
+  "family of three maushold": {
+    "catch_name": "family of three maushold",
+    "source": "maushold-family-of-three",
+    "status": "matched"
+  },
+  "fan rotom": {
+    "catch_name": "fan rotom",
+    "source": "rotom-fan",
+    "status": "matched"
+  },
+  "farfetch'd": {
+    "catch_name": "porenta",
+    "source": "farfetchd",
+    "status": "matched"
+  },
+  "farigiraf": {
+    "catch_name": "farigiraf",
+    "source": "farigiraf",
+    "status": "matched"
+  },
+  "fearow": {
+    "catch_name": "fearow",
+    "source": "fearow",
+    "status": "matched"
+  },
+  "feebas": {
+    "catch_name": "barpau",
+    "source": "feebas",
+    "status": "matched"
+  },
+  "fennekin": {
+    "catch_name": "fynx",
+    "source": "fennekin",
+    "status": "matched"
+  },
+  "feraligatr": {
+    "catch_name": "aligatueur",
+    "source": "feraligatr",
+    "status": "matched"
+  },
+  "ferroseed": {
+    "catch_name": "grindur",
+    "source": "ferroseed",
+    "status": "matched"
+  },
+  "ferrothorn": {
+    "catch_name": "noacier",
+    "source": "ferrothorn",
+    "status": "matched"
+  },
+  "fezandipiti": {
+    "catch_name": "fezandipiti",
+    "source": "fezandipiti",
+    "status": "matched"
+  },
+  "fidough": {
+    "catch_name": "hefel",
+    "source": "fidough",
+    "status": "matched"
+  },
+  "finizen": {
+    "catch_name": "dofin",
+    "source": "finizen",
+    "status": "matched"
+  },
+  "finneon": {
+    "catch_name": "écayon",
+    "source": "finneon",
+    "status": "matched"
+  },
+  "flaaffy": {
+    "catch_name": "waaty",
+    "source": "flaaffy",
+    "status": "matched"
+  },
+  "flabebe": {
+    "catch_name": "flabébé",
+    "source": "flabebe",
+    "status": "matched"
+  },
+  "flamigo": {
+    "catch_name": "flamigo",
+    "source": "flamigo",
+    "status": "matched"
+  },
+  "flapple": {
+    "catch_name": "drapfel",
+    "source": "flapple",
+    "status": "matched"
+  },
+  "flareon": {
+    "catch_name": "pyroli",
+    "source": "flareon",
+    "status": "matched"
+  },
+  "fletchinder": {
+    "catch_name": "dartignis",
+    "source": "fletchinder",
+    "status": "matched"
+  },
+  "fletchling": {
+    "catch_name": "dartiri",
+    "source": "fletchling",
+    "status": "matched"
+  },
+  "flittle": {
+    "catch_name": "flittle",
+    "source": "flittle",
+    "status": "matched"
+  },
+  "floatzel": {
+    "catch_name": "bojelin",
+    "source": "floatzel",
+    "status": "matched"
+  },
+  "floette": {
+    "catch_name": "floette",
+    "source": "floette",
+    "status": "matched"
+  },
+  "floragato": {
+    "catch_name": "feliospa",
+    "source": "floragato",
+    "status": "matched"
+  },
+  "florges": {
+    "catch_name": "florges",
+    "source": "florges",
+    "status": "matched"
+  },
+  "flygon": {
+    "catch_name": "flygon",
+    "source": "flygon",
+    "status": "matched"
+  },
+  "fomantis": {
+    "catch_name": "imantis",
+    "source": "fomantis",
+    "status": "matched"
+  },
+  "foongus": {
+    "catch_name": "foongus",
+    "source": "foongus",
+    "status": "matched"
+  },
+  "forretress": {
+    "catch_name": "foretress",
+    "source": "forretress",
+    "status": "matched"
+  },
+  "fraxure": {
+    "catch_name": "fraxure",
+    "source": "fraxure",
+    "status": "matched"
+  },
+  "frigibax": {
+    "catch_name": "frigodo",
+    "source": "frigibax",
+    "status": "matched"
+  },
+  "frillish": {
+    "catch_name": "quabbel",
+    "source": "frillish",
+    "status": "matched"
+  },
+  "froakie": {
+    "catch_name": "froxy",
+    "source": "froakie",
+    "status": "matched"
+  },
+  "frogadier": {
+    "catch_name": "amphizel",
+    "source": "frogadier",
+    "status": "matched"
+  },
+  "froslass": {
+    "catch_name": "froslass",
+    "source": "froslass",
+    "status": "matched"
+  },
+  "frosmoth": {
+    "catch_name": "frosmoth",
+    "source": "frosmoth",
+    "status": "matched"
+  },
+  "frost rotom": {
+    "catch_name": "frost rotom",
+    "source": "rotom-frost",
+    "status": "matched"
+  },
+  "fuecoco": {
+    "catch_name": "krokel",
+    "source": "fuecoco",
+    "status": "matched"
+  },
+  "furfrou": {
+    "catch_name": "furfrou",
+    "source": "furfrou",
+    "status": "matched"
+  },
+  "furret": {
+    "catch_name": "furret",
+    "source": "furret",
+    "status": "matched"
+  },
+  "gabite": {
+    "catch_name": "gabite",
+    "source": "gabite",
+    "status": "matched"
+  },
+  "galarian corsola": {
+    "catch_name": "galarian corsola",
+    "source": "corsola-galar",
+    "status": "matched"
+  },
+  "galarian darmanitan": {
+    "catch_name": "galarian darmanitan",
+    "source": "darmanitan-galar-standard",
+    "status": "matched"
+  },
+  "galarian darumaka": {
+    "catch_name": "galarian darumaka",
+    "source": "darumaka-galar",
+    "status": "matched"
+  },
+  "galarian farfetch'd": {
+    "catch_name": "galarian farfetch'd",
+    "source": "farfetchd-galar",
+    "status": "matched"
+  },
+  "galarian linoone": {
+    "catch_name": "galarian linoone",
+    "source": "linoone-galar",
+    "status": "matched"
+  },
+  "galarian meowth": {
+    "catch_name": "galarian meowth",
+    "source": "meowth-galar",
+    "status": "matched"
+  },
+  "galarian mr. mime": {
+    "catch_name": "galarian mr. mime",
+    "source": "mr-mime-galar",
+    "status": "matched"
+  },
+  "galarian ponyta": {
+    "catch_name": "galarian ponyta",
+    "source": "ponyta-galar",
+    "status": "matched"
+  },
+  "galarian rapidash": {
+    "catch_name": "galarian rapidash",
+    "source": "rapidash-galar",
+    "status": "matched"
+  },
+  "galarian slowbro": {
+    "catch_name": "galarian slowbro",
+    "source": "slowbro-galar",
+    "status": "matched"
+  },
+  "galarian slowking": {
+    "catch_name": "galarian slowking",
+    "source": "slowking-galar",
+    "status": "matched"
+  },
+  "galarian slowpoke": {
+    "catch_name": "galarian slowpoke",
+    "source": "slowpoke-galar",
+    "status": "matched"
+  },
+  "galarian stunfisk": {
+    "catch_name": "galarian stunfisk",
+    "source": "stunfisk-galar",
+    "status": "matched"
+  },
+  "galarian weezing": {
+    "catch_name": "galarian weezing",
+    "source": "weezing-galar",
+    "status": "matched"
+  },
+  "galarian yamask": {
+    "catch_name": "galarian yamask",
+    "source": "yamask-galar",
+    "status": "matched"
+  },
+  "galarian zapdos": {
+    "catch_name": "galarian zapdos",
+    "source": "zapdos-galar",
+    "status": "matched"
+  },
+  "galarian zen darmanitan": {
+    "catch_name": "galarian zen darmanitan",
+    "source": "darmanitan-galar-zen",
+    "status": "matched"
+  },
+  "galarian zigzagoon": {
+    "catch_name": "galarian zigzagoon",
+    "source": "zigzagoon-galar",
+    "status": "matched"
+  },
+  "gallade": {
+    "catch_name": "gallade",
+    "source": "gallade",
+    "status": "matched"
+  },
+  "galvantula": {
+    "catch_name": "voltula",
+    "source": "galvantula",
+    "status": "matched"
+  },
+  "garbodor": {
+    "catch_name": "miasmax",
+    "source": "garbodor",
+    "status": "matched"
+  },
+  "garchomp": {
+    "catch_name": "garchomp",
+    "source": "garchomp",
+    "status": "matched"
+  },
+  "gardevoir": {
+    "catch_name": "gardevoir",
+    "source": "gardevoir",
+    "status": "matched"
+  },
+  "garganacl": {
+    "catch_name": "gigansel",
+    "source": "garganacl",
+    "status": "matched"
+  },
+  "gastly": {
+    "catch_name": "gastly",
+    "source": "gastly",
+    "status": "matched"
+  },
+  "gastrodon": {
+    "catch_name": "tritosor",
+    "source": "gastrodon",
+    "status": "matched"
+  },
+  "genesect": {
+    "catch_name": "genesect",
+    "source": "genesect",
+    "status": "matched"
+  },
+  "gengar": {
+    "catch_name": "gengar",
+    "source": "gengar",
+    "status": "matched"
+  },
+  "geodude": {
+    "catch_name": "geodude",
+    "source": "geodude",
+    "status": "matched"
+  },
+  "gholdengo": {
+    "catch_name": "gromago",
+    "source": "gholdengo",
+    "status": "matched"
+  },
+  "gible": {
+    "catch_name": "gible",
+    "source": "gible",
+    "status": "matched"
+  },
+  "gigalith": {
+    "catch_name": "gigalith",
+    "source": "gigalith",
+    "status": "matched"
+  },
+  "gimmighoul": {
+    "catch_name": "mordudor",
+    "source": "gimmighoul",
+    "status": "matched"
+  },
+  "girafarig": {
+    "catch_name": "girafarig",
+    "source": "girafarig",
+    "status": "matched"
+  },
+  "giratina": {
+    "catch_name": "giratina",
+    "source": "giratina-altered",
+    "status": "matched"
+  },
+  "glaceon": {
+    "catch_name": "givrali",
+    "source": "glaceon",
+    "status": "matched"
+  },
+  "glalie": {
+    "catch_name": "glalie",
+    "source": "glalie",
+    "status": "matched"
+  },
+  "glameow": {
+    "catch_name": "chaglam",
+    "source": "glameow",
+    "status": "matched"
+  },
+  "glastrier": {
+    "catch_name": "polaross",
+    "source": "glastrier",
+    "status": "matched"
+  },
+  "gligar": {
+    "catch_name": "gligar",
+    "source": "gligar",
+    "status": "matched"
+  },
+  "glimmet": {
+    "catch_name": "glimmet",
+    "source": "glimmet",
+    "status": "matched"
+  },
+  "glimmora": {
+    "catch_name": "glimmora",
+    "source": "glimmora",
+    "status": "matched"
+  },
+  "gliscor": {
+    "catch_name": "gliscor",
+    "source": "gliscor",
+    "status": "matched"
+  },
+  "gloom": {
+    "catch_name": "gloom",
+    "source": "gloom",
+    "status": "matched"
+  },
+  "gogoat": {
+    "catch_name": "gogoat",
+    "source": "gogoat",
+    "status": "matched"
+  },
+  "golbat": {
+    "catch_name": "golbat",
+    "source": "golbat",
+    "status": "matched"
+  },
+  "goldeen": {
+    "catch_name": "goldeen",
+    "source": "goldeen",
+    "status": "matched"
+  },
+  "golduck": {
+    "catch_name": "entoron",
+    "source": "golduck",
+    "status": "matched"
+  },
+  "golem": {
+    "catch_name": "golem",
+    "source": "golem",
+    "status": "matched"
+  },
+  "golett": {
+    "catch_name": "golbit",
+    "source": "golett",
+    "status": "matched"
+  },
+  "golisopod": {
+    "catch_name": "tectass",
+    "source": "golisopod",
+    "status": "matched"
+  },
+  "golurk": {
+    "catch_name": "golurk",
+    "source": "golurk",
+    "status": "matched"
+  },
+  "goodra": {
+    "catch_name": "goodra",
+    "source": "goodra",
+    "status": "matched"
+  },
+  "goomy": {
+    "catch_name": "goomy",
+    "source": "goomy",
+    "status": "matched"
+  },
+  "gorebyss": {
+    "catch_name": "gorebyss",
+    "source": "gorebyss",
+    "status": "matched"
+  },
+  "gorging cramorant": {
+    "catch_name": "gorging cramorant",
+    "source": "cramorant-gorging",
+    "status": "matched"
+  },
+  "gossifleur": {
+    "catch_name": "cottini",
+    "source": "gossifleur",
+    "status": "matched"
+  },
+  "gothita": {
+    "catch_name": "gothita",
+    "source": "gothita",
+    "status": "matched"
+  },
+  "gothitelle": {
+    "catch_name": "sidérella",
+    "source": "gothitelle",
+    "status": "matched"
+  },
+  "gothorita": {
+    "catch_name": "gothorita",
+    "source": "gothorita",
+    "status": "matched"
+  },
+  "gouging fire": {
+    "catch_name": "keilflamme",
+    "source": "gouging-fire",
+    "status": "matched"
+  },
+  "gourgeist": {
+    "catch_name": "gourgeist",
+    "source": "gourgeist-average",
+    "status": "matched"
+  },
+  "grafaiai": {
+    "catch_name": "affiti",
+    "source": "grafaiai",
+    "status": "matched"
+  },
+  "granbull": {
+    "catch_name": "granbull",
+    "source": "granbull",
+    "status": "matched"
+  },
+  "grapploct": {
+    "catch_name": "kaocto",
+    "source": "grapploct",
+    "status": "matched"
+  },
+  "graveler": {
+    "catch_name": "georok",
+    "source": "graveler",
+    "status": "matched"
+  },
+  "great tusk": {
+    "catch_name": "great tusk",
+    "source": "great-tusk",
+    "status": "matched"
+  },
+  "greavard": {
+    "catch_name": "gruff",
+    "source": "greavard",
+    "status": "matched"
+  },
+  "greedent": {
+    "catch_name": "greedent",
+    "source": "greedent",
+    "status": "matched"
+  },
+  "greninja": {
+    "catch_name": "greninja",
+    "source": "greninja",
+    "status": "matched"
+  },
+  "grimer": {
+    "catch_name": "grimer",
+    "source": "grimer",
+    "status": "matched"
+  },
+  "grimmsnarl": {
+    "catch_name": "olangaa",
+    "source": "grimmsnarl",
+    "status": "matched"
+  },
+  "grookey": {
+    "catch_name": "chimpep",
+    "source": "grookey",
+    "status": "matched"
+  },
+  "grotle": {
+    "catch_name": "grotle",
+    "source": "grotle",
+    "status": "matched"
+  },
+  "groudon": {
+    "catch_name": "groudon",
+    "source": "groudon",
+    "status": "matched"
+  },
+  "grovyle": {
+    "catch_name": "massko",
+    "source": "grovyle",
+    "status": "matched"
+  },
+  "growlithe": {
+    "catch_name": "fukano",
+    "source": "growlithe",
+    "status": "matched"
+  },
+  "grubbin": {
+    "catch_name": "mabula",
+    "source": "grubbin",
+    "status": "matched"
+  },
+  "grumpig": {
+    "catch_name": "groink",
+    "source": "grumpig",
+    "status": "matched"
+  },
+  "gulpin": {
+    "catch_name": "gulpin",
+    "source": "gulpin",
+    "status": "matched"
+  },
+  "gulping cramorant": {
+    "catch_name": "gulping cramorant",
+    "source": "cramorant-gulping",
+    "status": "matched"
+  },
+  "gumshoos": {
+    "catch_name": "argouste",
+    "source": "gumshoos",
+    "status": "matched"
+  },
+  "gurdurr": {
+    "catch_name": "gurdurr",
+    "source": "gurdurr",
+    "status": "matched"
+  },
+  "guzzlord": {
+    "catch_name": "guzzlord",
+    "source": "guzzlord",
+    "status": "matched"
+  },
+  "gyarados": {
+    "catch_name": "garados",
+    "source": "gyarados",
+    "status": "matched"
+  },
+  "hakamo-o": {
+    "catch_name": "écaïd",
+    "source": "hakamo-o",
+    "status": "matched"
+  },
+  "hangry morpeko": {
+    "catch_name": "hangry morpeko",
+    "source": "morpeko-hangry",
+    "status": "matched"
+  },
+  "happiny": {
+    "catch_name": "happiny",
+    "source": "happiny",
+    "status": "matched"
+  },
+  "hariyama": {
+    "catch_name": "hariyama",
+    "source": "hariyama",
+    "status": "matched"
+  },
+  "hatenna": {
+    "catch_name": "brimova",
+    "source": "hatenna",
+    "status": "matched"
+  },
+  "hatterene": {
+    "catch_name": "hatterene",
+    "source": "hatterene",
+    "status": "matched"
+  },
+  "hattrem": {
+    "catch_name": "brimano",
+    "source": "hattrem",
+    "status": "matched"
+  },
+  "haunter": {
+    "catch_name": "alpollo",
+    "source": "haunter",
+    "status": "matched"
+  },
+  "hawlucha": {
+    "catch_name": "hawlucha",
+    "source": "hawlucha",
+    "status": "matched"
+  },
+  "haxorus": {
+    "catch_name": "maxax",
+    "source": "haxorus",
+    "status": "matched"
+  },
+  "hearthflame mask ogerpon": {
+    "catch_name": "hearthflame mask ogerpon",
+    "source": "ogerpon-hearthflame-mask",
+    "status": "matched"
+  },
+  "heat rotom": {
+    "catch_name": "heat rotom",
+    "source": "rotom-heat",
+    "status": "matched"
+  },
+  "heatmor": {
+    "catch_name": "heatmor",
+    "source": "heatmor",
+    "status": "matched"
+  },
+  "heatran": {
+    "catch_name": "heatran",
+    "source": "heatran",
+    "status": "matched"
+  },
+  "heliolisk": {
+    "catch_name": "elezard",
+    "source": "heliolisk",
+    "status": "matched"
+  },
+  "helioptile": {
+    "catch_name": "eguana",
+    "source": "helioptile",
+    "status": "matched"
+  },
+  "heracross": {
+    "catch_name": "scarhino",
+    "source": "heracross",
+    "status": "matched"
+  },
+  "herdier": {
+    "catch_name": "herdier",
+    "source": "herdier",
+    "status": "matched"
+  },
+  "hero palafin": {
+    "catch_name": "hero palafin",
+    "source": "palafin-hero",
+    "status": "matched"
+  },
+  "hippopotas": {
+    "catch_name": "hippopotas",
+    "source": "hippopotas",
+    "status": "matched"
+  },
+  "hippowdon": {
+    "catch_name": "hippowdon",
+    "source": "hippowdon",
+    "status": "matched"
+  },
+  "hisuian arcanine": {
+    "catch_name": "hisuian arcanine",
+    "source": "arcanine-hisui",
+    "status": "matched"
+  },
+  "hisuian avalugg": {
+    "catch_name": "hisuian avalugg",
+    "source": "avalugg-hisui",
+    "status": "matched"
+  },
+  "hisuian braviary": {
+    "catch_name": "hisuian braviary",
+    "source": "braviary-hisui",
+    "status": "matched"
+  },
+  "hisuian decidueye": {
+    "catch_name": "hisuian decidueye",
+    "source": "decidueye-hisui",
+    "status": "matched"
+  },
+  "hisuian electrode": {
+    "catch_name": "hisuian electrode",
+    "source": "electrode-hisui",
+    "status": "matched"
+  },
+  "hisuian goodra": {
+    "catch_name": "hisuian goodra",
+    "source": "goodra-hisui",
+    "status": "matched"
+  },
+  "hisuian growlithe": {
+    "catch_name": "hisuian growlithe",
+    "source": "growlithe-hisui",
+    "status": "matched"
+  },
+  "hisuian lilligant": {
+    "catch_name": "hisuian lilligant",
+    "source": "lilligant-hisui",
+    "status": "matched"
+  },
+  "hisuian qwilfish": {
+    "catch_name": "hisuian qwilfish",
+    "source": "qwilfish-hisui",
+    "status": "matched"
+  },
+  "hisuian samurott": {
+    "catch_name": "hisuian samurott",
+    "source": "samurott-hisui",
+    "status": "matched"
+  },
+  "hisuian sliggoo": {
+    "catch_name": "hisuian sliggoo",
+    "source": "sliggoo-hisui",
+    "status": "matched"
+  },
+  "hisuian sneasel": {
+    "catch_name": "hisuian sneasel",
+    "source": "sneasel-hisui",
+    "status": "matched"
+  },
+  "hisuian typhlosion": {
+    "catch_name": "hisuian typhlosion",
+    "source": "typhlosion-hisui",
+    "status": "matched"
+  },
+  "hisuian voltorb": {
+    "catch_name": "hisuian voltorb",
+    "source": "voltorb-hisui",
+    "status": "matched"
+  },
+  "hisuian zoroark": {
+    "catch_name": "hisuian zoroark",
+    "source": "zoroark-hisui",
+    "status": "matched"
+  },
+  "hisuian zorua": {
+    "catch_name": "hisuian zorua",
+    "source": "zorua-hisui",
+    "status": "matched"
+  },
+  "hitmonchan": {
+    "catch_name": "tygnon",
+    "source": "hitmonchan",
+    "status": "matched"
+  },
+  "hitmonlee": {
+    "catch_name": "kicklee",
+    "source": "hitmonlee",
+    "status": "matched"
+  },
+  "hitmontop": {
+    "catch_name": "kapoera",
+    "source": "hitmontop",
+    "status": "matched"
+  },
+  "ho-oh": {
+    "catch_name": "ho-oh",
+    "source": "ho-oh",
+    "status": "matched"
+  },
+  "honchkrow": {
+    "catch_name": "corboss",
+    "source": "honchkrow",
+    "status": "matched"
+  },
+  "honedge": {
+    "catch_name": "honedge",
+    "source": "honedge",
+    "status": "matched"
+  },
+  "hoopa": {
+    "catch_name": "hoopa",
+    "source": "hoopa",
+    "status": "matched"
+  },
+  "hoothoot": {
+    "catch_name": "hoothoot",
+    "source": "hoothoot",
+    "status": "matched"
+  },
+  "hoppip": {
+    "catch_name": "hoppip",
+    "source": "hoppip",
+    "status": "matched"
+  },
+  "horsea": {
+    "catch_name": "horsea",
+    "source": "horsea",
+    "status": "matched"
+  },
+  "houndoom": {
+    "catch_name": "houndoom",
+    "source": "houndoom",
+    "status": "matched"
+  },
+  "houndour": {
+    "catch_name": "malosse",
+    "source": "houndour",
+    "status": "matched"
+  },
+  "houndstone": {
+    "catch_name": "tomberro",
+    "source": "houndstone",
+    "status": "matched"
+  },
+  "huntail": {
+    "catch_name": "huntail",
+    "source": "huntail",
+    "status": "matched"
+  },
+  "hydrapple": {
+    "catch_name": "hydrapfel",
+    "source": "hydrapple",
+    "status": "matched"
+  },
+  "hydreigon": {
+    "catch_name": "hydreigon",
+    "source": "hydreigon",
+    "status": "matched"
+  },
+  "hypno": {
+    "catch_name": "hypno",
+    "source": "hypno",
+    "status": "matched"
+  },
+  "igglybuff": {
+    "catch_name": "igglybuff",
+    "source": "igglybuff",
+    "status": "matched"
+  },
+  "illumise": {
+    "catch_name": "illumise",
+    "source": "illumise",
+    "status": "matched"
+  },
+  "impidimp": {
+    "catch_name": "bähmon",
+    "source": "impidimp",
+    "status": "matched"
+  },
+  "incineroar": {
+    "catch_name": "fuegro",
+    "source": "incineroar",
+    "status": "matched"
+  },
+  "indeedee": {
+    "catch_name": "servol",
+    "source": "indeedee-male",
+    "status": "matched"
+  },
+  "infernape": {
+    "catch_name": "panferno",
+    "source": "infernape",
+    "status": "matched"
+  },
+  "inkay": {
+    "catch_name": "inkay",
+    "source": "inkay",
+    "status": "matched"
+  },
+  "inteleon": {
+    "catch_name": "inteleon",
+    "source": "inteleon",
+    "status": "matched"
+  },
+  "iron boulder": {
+    "catch_name": "eisenfels",
+    "source": "iron-boulder",
+    "status": "matched"
+  },
+  "iron bundle": {
+    "catch_name": "eisenbündel",
+    "source": "iron-bundle",
+    "status": "matched"
+  },
+  "iron crown": {
+    "catch_name": "eisenhaupt",
+    "source": "iron-crown",
+    "status": "matched"
+  },
+  "iron hands": {
+    "catch_name": "eisenhand",
+    "source": "iron-hands",
+    "status": "matched"
+  },
+  "iron jugulis": {
+    "catch_name": "eisenhals",
+    "source": "iron-jugulis",
+    "status": "matched"
+  },
+  "iron leaves": {
+    "catch_name": "eisenblatt",
+    "source": "iron-leaves",
+    "status": "matched"
+  },
+  "iron moth": {
+    "catch_name": "iron moth",
+    "source": "iron-moth",
+    "status": "matched"
+  },
+  "iron thorns": {
+    "catch_name": "eisendorn",
+    "source": "iron-thorns",
+    "status": "matched"
+  },
+  "iron valiant": {
+    "catch_name": "eisenkrieger",
+    "source": "iron-valiant",
+    "status": "matched"
+  },
+  "ivysaur": {
+    "catch_name": "ivysaur",
+    "source": "ivysaur",
+    "status": "matched"
+  },
+  "jangmo-o": {
+    "catch_name": "miniras",
+    "source": "jangmo-o",
+    "status": "matched"
+  },
+  "jellicent": {
+    "catch_name": "moyade",
+    "source": "jellicent",
+    "status": "matched"
+  },
+  "jigglypuff": {
+    "catch_name": "pummeluff",
+    "source": "jigglypuff",
+    "status": "matched"
+  },
+  "jirachi": {
+    "catch_name": "jirachi",
+    "source": "jirachi",
+    "status": "matched"
+  },
+  "jolteon": {
+    "catch_name": "blitza",
+    "source": "jolteon",
+    "status": "matched"
+  },
+  "joltik": {
+    "catch_name": "joltik",
+    "source": "joltik",
+    "status": "matched"
+  },
+  "jumpluff": {
+    "catch_name": "cotovol",
+    "source": "jumpluff",
+    "status": "matched"
+  },
+  "jynx": {
+    "catch_name": "jynx",
+    "source": "jynx",
+    "status": "matched"
+  },
+  "kabuto": {
+    "catch_name": "kabuto",
+    "source": "kabuto",
+    "status": "matched"
+  },
+  "kabutops": {
+    "catch_name": "kabutops",
+    "source": "kabutops",
+    "status": "matched"
+  },
+  "kadabra": {
+    "catch_name": "kadabra",
+    "source": "kadabra",
+    "status": "matched"
+  },
+  "kakuna": {
+    "catch_name": "kakuna",
+    "source": "kakuna",
+    "status": "matched"
+  },
+  "kangaskhan": {
+    "catch_name": "kangama",
+    "source": "kangaskhan",
+    "status": "matched"
+  },
+  "karrablast": {
+    "catch_name": "laukaps",
+    "source": "karrablast",
+    "status": "matched"
+  },
+  "kartana": {
+    "catch_name": "kartana",
+    "source": "kartana",
+    "status": "matched"
+  },
+  "kecleon": {
+    "catch_name": "kecleon",
+    "source": "kecleon",
+    "status": "matched"
+  },
+  "keldeo": {
+    "catch_name": "keldeo",
+    "source": "keldeo-ordinary",
+    "status": "matched"
+  },
+  "kilowattrel": {
+    "catch_name": "voltrean",
+    "source": "kilowattrel",
+    "status": "matched"
+  },
+  "kingambit": {
+    "catch_name": "kingambit",
+    "source": "kingambit",
+    "status": "matched"
+  },
+  "kingdra": {
+    "catch_name": "hyporoi",
+    "source": "kingdra",
+    "status": "matched"
+  },
+  "kingler": {
+    "catch_name": "kingler",
+    "source": "kingler",
+    "status": "matched"
+  },
+  "kirlia": {
+    "catch_name": "kirlia",
+    "source": "kirlia",
+    "status": "matched"
+  },
+  "klang": {
+    "catch_name": "clic",
+    "source": "klang",
+    "status": "matched"
+  },
+  "klawf": {
+    "catch_name": "klawf",
+    "source": "klawf",
+    "status": "matched"
+  },
+  "kleavor": {
+    "catch_name": "axantor",
+    "source": "kleavor",
+    "status": "matched"
+  },
+  "klefki": {
+    "catch_name": "klefki",
+    "source": "klefki",
+    "status": "matched"
+  },
+  "klink": {
+    "catch_name": "tic",
+    "source": "klink",
+    "status": "matched"
+  },
+  "klinklang": {
+    "catch_name": "cliticlic",
+    "source": "klinklang",
+    "status": "matched"
+  },
+  "koffing": {
+    "catch_name": "smogo",
+    "source": "koffing",
+    "status": "matched"
+  },
+  "komala": {
+    "catch_name": "komala",
+    "source": "komala",
+    "status": "matched"
+  },
+  "kommo-o": {
+    "catch_name": "kommo-o",
+    "source": "kommo-o",
+    "status": "matched"
+  },
+  "koraidon": {
+    "catch_name": "koraidon",
+    "source": "koraidon",
+    "status": "matched"
+  },
+  "krabby": {
+    "catch_name": "krabby",
+    "source": "krabby",
+    "status": "matched"
+  },
+  "kricketot": {
+    "catch_name": "crikzik",
+    "source": "kricketot",
+    "status": "matched"
+  },
+  "kricketune": {
+    "catch_name": "mélokrik",
+    "source": "kricketune",
+    "status": "matched"
+  },
+  "krokorok": {
+    "catch_name": "escroco",
+    "source": "krokorok",
+    "status": "matched"
+  },
+  "krookodile": {
+    "catch_name": "rabigator",
+    "source": "krookodile",
+    "status": "matched"
+  },
+  "kubfu": {
+    "catch_name": "kubfu",
+    "source": "kubfu",
+    "status": "matched"
+  },
+  "kyurem": {
+    "catch_name": "kyurem",
+    "source": "kyurem",
+    "status": "matched"
+  },
+  "lairon": {
+    "catch_name": "lairon",
+    "source": "lairon",
+    "status": "matched"
+  },
+  "lampent": {
+    "catch_name": "lampent",
+    "source": "lampent",
+    "status": "matched"
+  },
+  "landorus": {
+    "catch_name": "landorus",
+    "source": "landorus-incarnate",
+    "status": "matched"
+  },
+  "lanturn": {
+    "catch_name": "lanturn",
+    "source": "lanturn",
+    "status": "matched"
+  },
+  "lapras": {
+    "catch_name": "lapras",
+    "source": "lapras",
+    "status": "matched"
+  },
+  "larvesta": {
+    "catch_name": "ignivor",
+    "source": "larvesta",
+    "status": "matched"
+  },
+  "larvitar": {
+    "catch_name": "embrylex",
+    "source": "larvitar",
+    "status": "matched"
+  },
+  "latias": {
+    "catch_name": "latias",
+    "source": "latias",
+    "status": "matched"
+  },
+  "latios": {
+    "catch_name": "latios",
+    "source": "latios",
+    "status": "matched"
+  },
+  "leafeon": {
+    "catch_name": "leafeon",
+    "source": "leafeon",
+    "status": "matched"
+  },
+  "leavanny": {
+    "catch_name": "leavanny",
+    "source": "leavanny",
+    "status": "matched"
+  },
+  "lechonk": {
+    "catch_name": "ferkuli",
+    "source": "lechonk",
+    "status": "matched"
+  },
+  "ledian": {
+    "catch_name": "ledian",
+    "source": "ledian",
+    "status": "matched"
+  },
+  "ledyba": {
+    "catch_name": "coxy",
+    "source": "ledyba",
+    "status": "matched"
+  },
+  "lickilicky": {
+    "catch_name": "coudlangue",
+    "source": "lickilicky",
+    "status": "matched"
+  },
+  "lickitung": {
+    "catch_name": "schlurp",
+    "source": "lickitung",
+    "status": "matched"
+  },
+  "liepard": {
+    "catch_name": "liepard",
+    "source": "liepard",
+    "status": "matched"
+  },
+  "lileep": {
+    "catch_name": "lilia",
+    "source": "lileep",
+    "status": "matched"
+  },
+  "lilligant": {
+    "catch_name": "dressella",
+    "source": "lilligant",
+    "status": "matched"
+  },
+  "lillipup": {
+    "catch_name": "lillipup",
+    "source": "lillipup",
+    "status": "matched"
+  },
+  "linoone": {
+    "catch_name": "linéon",
+    "source": "linoone",
+    "status": "matched"
+  },
+  "litleo": {
+    "catch_name": "leufeo",
+    "source": "litleo",
+    "status": "matched"
+  },
+  "litten": {
+    "catch_name": "litten",
+    "source": "litten",
+    "status": "matched"
+  },
+  "litwick": {
+    "catch_name": "lichtel",
+    "source": "litwick",
+    "status": "matched"
+  },
+  "lokix": {
+    "catch_name": "lokix",
+    "source": "lokix",
+    "status": "matched"
+  },
+  "lombre": {
+    "catch_name": "lombre",
+    "source": "lombre",
+    "status": "matched"
+  },
+  "lopunny": {
+    "catch_name": "lockpin",
+    "source": "lopunny",
+    "status": "matched"
+  },
+  "lotad": {
+    "catch_name": "lotad",
+    "source": "lotad",
+    "status": "matched"
+  },
+  "loudred": {
+    "catch_name": "loudred",
+    "source": "loudred",
+    "status": "matched"
+  },
+  "low key toxtricity": {
+    "catch_name": "low key toxtricity",
+    "source": "toxtricity-low-key",
+    "status": "matched"
+  },
+  "lucario": {
+    "catch_name": "lucario",
+    "source": "lucario",
+    "status": "matched"
+  },
+  "ludicolo": {
+    "catch_name": "ludicolo",
+    "source": "ludicolo",
+    "status": "matched"
+  },
+  "lugia": {
+    "catch_name": "lugia",
+    "source": "lugia",
+    "status": "matched"
+  },
+  "lumineon": {
+    "catch_name": "lumineon",
+    "source": "lumineon",
+    "status": "matched"
+  },
+  "lunatone": {
+    "catch_name": "séléroc",
+    "source": "lunatone",
+    "status": "matched"
+  },
+  "lurantis": {
+    "catch_name": "lurantis",
+    "source": "lurantis",
+    "status": "matched"
+  },
+  "luvdisc": {
+    "catch_name": "lovdisc",
+    "source": "luvdisc",
+    "status": "matched"
+  },
+  "luxio": {
+    "catch_name": "luxio",
+    "source": "luxio",
+    "status": "matched"
+  },
+  "luxray": {
+    "catch_name": "luxray",
+    "source": "luxray",
+    "status": "matched"
+  },
+  "lycanroc": {
+    "catch_name": "lougaroc",
+    "source": "lycanroc-midday",
+    "status": "matched"
+  },
+  "mabosstiff": {
+    "catch_name": "dogrino",
+    "source": "mabosstiff",
+    "status": "matched"
+  },
+  "machamp": {
+    "catch_name": "machamp",
+    "source": "machamp",
+    "status": "matched"
+  },
+  "machoke": {
+    "catch_name": "machoke",
+    "source": "machoke",
+    "status": "matched"
+  },
+  "machop": {
+    "catch_name": "machoc",
+    "source": "machop",
+    "status": "matched"
+  },
+  "magby": {
+    "catch_name": "magby",
+    "source": "magby",
+    "status": "matched"
+  },
+  "magcargo": {
+    "catch_name": "magcargo",
+    "source": "magcargo",
+    "status": "matched"
+  },
+  "magearna": {
+    "catch_name": "magearna",
+    "source": "magearna",
+    "status": "matched"
+  },
+  "magikarp": {
+    "catch_name": "karpador",
+    "source": "magikarp",
+    "status": "matched"
+  },
+  "magmar": {
+    "catch_name": "magmar",
+    "source": "magmar",
+    "status": "matched"
+  },
+  "magmortar": {
+    "catch_name": "maganon",
+    "source": "magmortar",
+    "status": "matched"
+  },
+  "magnemite": {
+    "catch_name": "magnéti",
+    "source": "magnemite",
+    "status": "matched"
+  },
+  "magneton": {
+    "catch_name": "magneton",
+    "source": "magneton",
+    "status": "matched"
+  },
+  "magnezone": {
+    "catch_name": "magnezone",
+    "source": "magnezone",
+    "status": "matched"
+  },
+  "makuhita": {
+    "catch_name": "makuhita",
+    "source": "makuhita",
+    "status": "matched"
+  },
+  "malamar": {
+    "catch_name": "malamar",
+    "source": "malamar",
+    "status": "matched"
+  },
+  "mamoswine": {
+    "catch_name": "mamutel",
+    "source": "mamoswine",
+    "status": "matched"
+  },
+  "manaphy": {
+    "catch_name": "manaphy",
+    "source": "manaphy",
+    "status": "matched"
+  },
+  "mandibuzz": {
+    "catch_name": "mandibuzz",
+    "source": "mandibuzz",
+    "status": "matched"
+  },
+  "manectric": {
+    "catch_name": "voltenso",
+    "source": "manectric",
+    "status": "matched"
+  },
+  "mankey": {
+    "catch_name": "menki",
+    "source": "mankey",
+    "status": "matched"
+  },
+  "mantine": {
+    "catch_name": "mantax",
+    "source": "mantine",
+    "status": "matched"
+  },
+  "mantyke": {
+    "catch_name": "mantyke",
+    "source": "mantyke",
+    "status": "matched"
+  },
+  "maractus": {
+    "catch_name": "maractus",
+    "source": "maractus",
+    "status": "matched"
+  },
+  "mareanie": {
+    "catch_name": "mareanie",
+    "source": "mareanie",
+    "status": "matched"
+  },
+  "mareep": {
+    "catch_name": "mareep",
+    "source": "mareep",
+    "status": "matched"
+  },
+  "marill": {
+    "catch_name": "marill",
+    "source": "marill",
+    "status": "matched"
+  },
+  "marowak": {
+    "catch_name": "knogga",
+    "source": "marowak",
+    "status": "matched"
+  },
+  "marshadow": {
+    "catch_name": "marshadow",
+    "source": "marshadow",
+    "status": "matched"
+  },
+  "marshtomp": {
+    "catch_name": "flobio",
+    "source": "marshtomp",
+    "status": "matched"
+  },
+  "maschiff": {
+    "catch_name": "mobtiff",
+    "source": "maschiff",
+    "status": "matched"
+  },
+  "masquerain": {
+    "catch_name": "maskadra",
+    "source": "masquerain",
+    "status": "matched"
+  },
+  "maushold": {
+    "catch_name": "famieps",
+    "source": "maushold",
+    "status": "matched"
+  },
+  "mawile": {
+    "catch_name": "mawile",
+    "source": "mawile",
+    "status": "matched"
+  },
+  "medicham": {
+    "catch_name": "charmina",
+    "source": "medicham",
+    "status": "matched"
+  },
+  "meditite": {
+    "catch_name": "meditie",
+    "source": "meditite",
+    "status": "matched"
+  },
+  "meganium": {
+    "catch_name": "meganium",
+    "source": "meganium",
+    "status": "matched"
+  },
+  "melmetal": {
+    "catch_name": "melmetal",
+    "source": "melmetal",
+    "status": "matched"
+  },
+  "meloetta": {
+    "catch_name": "meloetta",
+    "source": "meloetta-aria",
+    "status": "matched"
+  },
+  "meltan": {
+    "catch_name": "meltan",
+    "source": "meltan",
+    "status": "matched"
+  },
+  "meowscarada": {
+    "catch_name": "maskagato",
+    "source": "meowscarada",
+    "status": "matched"
+  },
+  "meowstic": {
+    "catch_name": "meowstic",
+    "source": "meowstic-male",
+    "status": "matched"
+  },
+  "meowth": {
+    "catch_name": "mauzi",
+    "source": "meowth",
+    "status": "matched"
+  },
+  "mesprit": {
+    "catch_name": "mesprit",
+    "source": "mesprit",
+    "status": "matched"
+  },
+  "metagross": {
+    "catch_name": "metagross",
+    "source": "metagross",
+    "status": "matched"
+  },
+  "metang": {
+    "catch_name": "metang",
+    "source": "metang",
+    "status": "matched"
+  },
+  "metapod": {
+    "catch_name": "safcon",
+    "source": "metapod",
+    "status": "matched"
+  },
+  "mew": {
+    "catch_name": "mew",
+    "source": "mew",
+    "status": "matched"
+  },
+  "mewtwo": {
+    "catch_name": "mewtu",
+    "source": "mewtwo",
+    "status": "matched"
+  },
+  "midnight lycanroc": {
+    "catch_name": "midnight lycanroc",
+    "source": "lycanroc-midnight",
+    "status": "matched"
+  },
+  "mienfoo": {
+    "catch_name": "lin-fu",
+    "source": "mienfoo",
+    "status": "matched"
+  },
+  "mienshao": {
+    "catch_name": "wie-shu",
+    "source": "mienshao",
+    "status": "matched"
+  },
+  "mightyena": {
+    "catch_name": "grahyèna",
+    "source": "mightyena",
+    "status": "matched"
+  },
+  "milcery": {
+    "catch_name": "crèmy",
+    "source": "milcery",
+    "status": "matched"
+  },
+  "milotic": {
+    "catch_name": "milotic",
+    "source": "milotic",
+    "status": "matched"
+  },
+  "miltank": {
+    "catch_name": "miltank",
+    "source": "miltank",
+    "status": "matched"
+  },
+  "mimikyu": {
+    "catch_name": "mimigma",
+    "source": "mimikyu-disguised",
+    "status": "matched"
+  },
+  "minccino": {
+    "catch_name": "minccino",
+    "source": "minccino",
+    "status": "matched"
+  },
+  "minior": {
+    "catch_name": "meteno",
+    "source": "minior-meteor",
+    "status": "matched"
+  },
+  "minun": {
+    "catch_name": "minun",
+    "source": "minun",
+    "status": "matched"
+  },
+  "miraidon": {
+    "catch_name": "miraidon",
+    "source": "miraidon",
+    "status": "matched"
+  },
+  "misdreavus": {
+    "catch_name": "feuforêve",
+    "source": "misdreavus",
+    "status": "matched"
+  },
+  "mismagius": {
+    "catch_name": "magirêve",
+    "source": "mismagius",
+    "status": "matched"
+  },
+  "monferno": {
+    "catch_name": "panpyro",
+    "source": "monferno",
+    "status": "matched"
+  },
+  "morelull": {
+    "catch_name": "spododo",
+    "source": "morelull",
+    "status": "matched"
+  },
+  "morgrem": {
+    "catch_name": "morgrem",
+    "source": "morgrem",
+    "status": "matched"
+  },
+  "morpeko": {
+    "catch_name": "morpeko",
+    "source": "morpeko-full-belly",
+    "status": "matched"
+  },
+  "mosslax": {
+    "catch_name": "mosslax",
+    "source": "custom_folder",
+    "status": "custom"
+  },
+  "mothim": {
+    "catch_name": "mothim",
+    "source": "mothim",
+    "status": "matched"
+  },
+  "mow rotom": {
+    "catch_name": "mow rotom",
+    "source": "rotom-mow",
+    "status": "matched"
+  },
+  "mr. mime": {
+    "catch_name": "m. mime",
+    "source": "mr-mime",
+    "status": "matched"
+  },
+  "mr. rime": {
+    "catch_name": "mr. rime",
+    "source": "mr-rime",
+    "status": "matched"
+  },
+  "mudbray": {
+    "catch_name": "mudbray",
+    "source": "mudbray",
+    "status": "matched"
+  },
+  "mudkip": {
+    "catch_name": "gobou",
+    "source": "mudkip",
+    "status": "matched"
+  },
+  "mudsdale": {
+    "catch_name": "mudsdale",
+    "source": "mudsdale",
+    "status": "matched"
+  },
+  "muk": {
+    "catch_name": "muk",
+    "source": "muk",
+    "status": "matched"
+  },
+  "munchlax": {
+    "catch_name": "goinfrex",
+    "source": "munchlax",
+    "status": "matched"
+  },
+  "munkidori": {
+    "catch_name": "munkidori",
+    "source": "munkidori",
+    "status": "matched"
+  },
+  "munna": {
+    "catch_name": "munna",
+    "source": "munna",
+    "status": "matched"
+  },
+  "murkrow": {
+    "catch_name": "kramurx",
+    "source": "murkrow",
+    "status": "matched"
+  },
+  "musharna": {
+    "catch_name": "mushana",
+    "source": "musharna",
+    "status": "matched"
+  },
+  "nacli": {
+    "catch_name": "nacli",
+    "source": "nacli",
+    "status": "matched"
+  },
+  "naclstack": {
+    "catch_name": "amassel",
+    "source": "naclstack",
+    "status": "matched"
+  },
+  "natu": {
+    "catch_name": "natu",
+    "source": "natu",
+    "status": "matched"
+  },
+  "necrozma": {
+    "catch_name": "necrozma",
+    "source": "necrozma",
+    "status": "matched"
+  },
+  "nickit": {
+    "catch_name": "nickit",
+    "source": "nickit",
+    "status": "matched"
+  },
+  "nidoking": {
+    "catch_name": "nidoking",
+    "source": "nidoking",
+    "status": "matched"
+  },
+  "nidoqueen": {
+    "catch_name": "nidoqueen",
+    "source": "nidoqueen",
+    "status": "matched"
+  },
+  "nidoranf": {
+    "catch_name": "nidoran",
+    "source": "nidoran-f",
+    "status": "matched"
+  },
+  "nidoranm": {
+    "catch_name": "nidoran",
+    "source": "nidoran-m",
+    "status": "matched"
+  },
+  "nidorina": {
+    "catch_name": "nidorina",
+    "source": "nidorina",
+    "status": "matched"
+  },
+  "nidorino": {
+    "catch_name": "nidorino",
+    "source": "nidorino",
+    "status": "matched"
+  },
+  "nihilego": {
+    "catch_name": "anego",
+    "source": "nihilego",
+    "status": "matched"
+  },
+  "nincada": {
+    "catch_name": "nincada",
+    "source": "nincada",
+    "status": "matched"
+  },
+  "ninetales": {
+    "catch_name": "feunard",
+    "source": "ninetales",
+    "status": "matched"
+  },
+  "ninjask": {
+    "catch_name": "ninjask",
+    "source": "ninjask",
+    "status": "matched"
+  },
+  "noctowl": {
+    "catch_name": "noctuh",
+    "source": "noctowl",
+    "status": "matched"
+  },
+  "noibat": {
+    "catch_name": "ef-em",
+    "source": "noibat",
+    "status": "matched"
+  },
+  "noice face eiscue": {
+    "catch_name": "noice face eiscue",
+    "source": "eiscue-noice",
+    "status": "matched"
+  },
+  "noivern": {
+    "catch_name": "noivern",
+    "source": "noivern",
+    "status": "matched"
+  },
+  "nosepass": {
+    "catch_name": "nasgnet",
+    "source": "nosepass",
+    "status": "matched"
+  },
+  "numel": {
+    "catch_name": "numel",
+    "source": "numel",
+    "status": "matched"
+  },
+  "nuzleaf": {
+    "catch_name": "blanas",
+    "source": "nuzleaf",
+    "status": "matched"
+  },
+  "nymble": {
+    "catch_name": "nymble",
+    "source": "nymble",
+    "status": "matched"
+  },
+  "obstagoon": {
+    "catch_name": "ixon",
+    "source": "obstagoon",
+    "status": "matched"
+  },
+  "octillery": {
+    "catch_name": "octillery",
+    "source": "octillery",
+    "status": "matched"
+  },
+  "oddish": {
+    "catch_name": "oddish",
+    "source": "oddish",
+    "status": "matched"
+  },
+  "ogerpon": {
+    "catch_name": "ogerpon",
+    "source": "ogerpon",
+    "status": "matched"
+  },
+  "oinkologne": {
+    "catch_name": "oinkologne",
+    "source": "manual_approval",
+    "status": "manually_approved"
+  },
+  "okidogi": {
+    "catch_name": "okidogi",
+    "source": "okidogi",
+    "status": "matched"
+  },
+  "omanyte": {
+    "catch_name": "amonita",
+    "source": "omanyte",
+    "status": "matched"
+  },
+  "omastar": {
+    "catch_name": "amoroso",
+    "source": "omastar",
+    "status": "matched"
+  },
+  "onix": {
+    "catch_name": "onix",
+    "source": "onix",
+    "status": "matched"
+  },
+  "oranguru": {
+    "catch_name": "oranguru",
+    "source": "oranguru",
+    "status": "matched"
+  },
+  "orbeetle": {
+    "catch_name": "orbeetle",
+    "source": "orbeetle",
+    "status": "matched"
+  },
+  "oricorio": {
+    "catch_name": "oricorio",
+    "source": "oricorio-baile",
+    "status": "matched"
+  },
+  "orthworm": {
+    "catch_name": "schlurm",
+    "source": "orthworm",
+    "status": "matched"
+  },
+  "oshawott": {
+    "catch_name": "ottaro",
+    "source": "oshawott",
+    "status": "matched"
+  },
+  "overqwil": {
+    "catch_name": "qwilpik",
+    "source": "overqwil",
+    "status": "matched"
+  },
+  "pa'u oricorio": {
+    "catch_name": "pa'u oricorio",
+    "source": "oricorio-pau",
+    "status": "matched"
+  },
+  "pachirisu": {
+    "catch_name": "pachirisu",
+    "source": "pachirisu",
+    "status": "matched"
+  },
+  "palafin": {
+    "catch_name": "palafin",
+    "source": "palafin",
+    "status": "matched"
+  },
+  "paldean wooper": {
+    "catch_name": "paldean wooper",
+    "source": "wooper-paldea",
+    "status": "matched"
+  },
+  "palkia": {
+    "catch_name": "palkia",
+    "source": "palkia",
+    "status": "matched"
+  },
+  "palossand": {
+    "catch_name": "colossand",
+    "source": "palossand",
+    "status": "matched"
+  },
+  "palpitoad": {
+    "catch_name": "mebrana",
+    "source": "palpitoad",
+    "status": "matched"
+  },
+  "pancham": {
+    "catch_name": "pam-pam",
+    "source": "pancham",
+    "status": "matched"
+  },
+  "pangoro": {
+    "catch_name": "pangoro",
+    "source": "pangoro",
+    "status": "matched"
+  },
+  "panpour": {
+    "catch_name": "panpour",
+    "source": "panpour",
+    "status": "matched"
+  },
+  "pansage": {
+    "catch_name": "pansage",
+    "source": "pansage",
+    "status": "matched"
+  },
+  "pansear": {
+    "catch_name": "pansear",
+    "source": "pansear",
+    "status": "matched"
+  },
+  "paras": {
+    "catch_name": "paras",
+    "source": "paras",
+    "status": "matched"
+  },
+  "parasect": {
+    "catch_name": "parasek",
+    "source": "parasect",
+    "status": "matched"
+  },
+  "partner eevee": {
+    "catch_name": "partner eevee",
+    "source": "eevee-starter",
+    "status": "matched"
+  },
+  "partner pikachu": {
+    "catch_name": "partner pikachu",
+    "source": "pikachu-starter",
+    "status": "matched"
+  },
+  "passimian": {
+    "catch_name": "passimian",
+    "source": "passimian",
+    "status": "matched"
+  },
+  "patrat": {
+    "catch_name": "patrat",
+    "source": "patrat",
+    "status": "matched"
+  },
+  "pawmi": {
+    "catch_name": "pamo",
+    "source": "pawmi",
+    "status": "matched"
+  },
+  "pawmo": {
+    "catch_name": "pawmo",
+    "source": "pawmo",
+    "status": "matched"
+  },
+  "pawmot": {
+    "catch_name": "pawmot",
+    "source": "pawmot",
+    "status": "matched"
+  },
+  "pawniard": {
+    "catch_name": "pawniard",
+    "source": "pawniard",
+    "status": "matched"
+  },
+  "pecharunt": {
+    "catch_name": "infamomo",
+    "source": "pecharunt",
+    "status": "matched"
+  },
+  "pelipper": {
+    "catch_name": "bekipan",
+    "source": "pelipper",
+    "status": "matched"
+  },
+  "perrserker": {
+    "catch_name": "mauzinger",
+    "source": "perrserker",
+    "status": "matched"
+  },
+  "persian": {
+    "catch_name": "persian",
+    "source": "persian",
+    "status": "matched"
+  },
+  "petilil": {
+    "catch_name": "petilil",
+    "source": "petilil",
+    "status": "matched"
+  },
+  "phanpy": {
+    "catch_name": "phanpy",
+    "source": "phanpy",
+    "status": "matched"
+  },
+  "phantump": {
+    "catch_name": "paragoni",
+    "source": "phantump",
+    "status": "matched"
+  },
+  "pheromosa": {
+    "catch_name": "pheromosa",
+    "source": "pheromosa",
+    "status": "matched"
+  },
+  "phione": {
+    "catch_name": "phione",
+    "source": "phione",
+    "status": "matched"
+  },
+  "pichu": {
+    "catch_name": "pichu",
+    "source": "pichu",
+    "status": "matched"
+  },
+  "pidgeot": {
+    "catch_name": "pidgeot",
+    "source": "pidgeot",
+    "status": "matched"
+  },
+  "pidgeotto": {
+    "catch_name": "tauboga",
+    "source": "pidgeotto",
+    "status": "matched"
+  },
+  "pidgey": {
+    "catch_name": "pidgey",
+    "source": "pidgey",
+    "status": "matched"
+  },
+  "pidove": {
+    "catch_name": "pidove",
+    "source": "pidove",
+    "status": "matched"
+  },
+  "pignite": {
+    "catch_name": "pignite",
+    "source": "pignite",
+    "status": "matched"
+  },
+  "pikachu": {
+    "catch_name": "pikachu",
+    "source": "pikachu",
+    "status": "matched"
+  },
+  "pikipek": {
+    "catch_name": "peppeck",
+    "source": "pikipek",
+    "status": "matched"
+  },
+  "piloswine": {
+    "catch_name": "keifel",
+    "source": "piloswine",
+    "status": "matched"
+  },
+  "pincurchin": {
+    "catch_name": "wattapik",
+    "source": "pincurchin",
+    "status": "matched"
+  },
+  "pineco": {
+    "catch_name": "pineco",
+    "source": "pineco",
+    "status": "matched"
+  },
+  "pinsir": {
+    "catch_name": "pinsir",
+    "source": "pinsir",
+    "status": "matched"
+  },
+  "piplup": {
+    "catch_name": "piplup",
+    "source": "piplup",
+    "status": "matched"
+  },
+  "pirouette meloetta": {
+    "catch_name": "pirouette meloetta",
+    "source": "meloetta-pirouette",
+    "status": "matched"
+  },
+  "plusle": {
+    "catch_name": "plusle",
+    "source": "plusle",
+    "status": "matched"
+  },
+  "poipole": {
+    "catch_name": "vémini",
+    "source": "poipole",
+    "status": "matched"
+  },
+  "politoed": {
+    "catch_name": "quaxo",
+    "source": "politoed",
+    "status": "matched"
+  },
+  "poliwag": {
+    "catch_name": "poliwag",
+    "source": "poliwag",
+    "status": "matched"
+  },
+  "poliwhirl": {
+    "catch_name": "têtarte",
+    "source": "poliwhirl",
+    "status": "matched"
+  },
+  "poliwrath": {
+    "catch_name": "quappo",
+    "source": "poliwrath",
+    "status": "matched"
+  },
+  "poltchageist": {
+    "catch_name": "poltchageist",
+    "source": "poltchageist",
+    "status": "matched"
+  },
+  "polteageist": {
+    "catch_name": "mortipot",
+    "source": "polteageist",
+    "status": "matched"
+  },
+  "pom-pom oricorio": {
+    "catch_name": "pom-pom oricorio",
+    "source": "oricorio-pom-pom",
+    "status": "matched"
+  },
+  "ponyta": {
+    "catch_name": "ponita",
+    "source": "ponyta",
+    "status": "matched"
+  },
+  "poochyena": {
+    "catch_name": "fiffyen",
+    "source": "poochyena",
+    "status": "matched"
+  },
+  "popplio": {
+    "catch_name": "otaquin",
+    "source": "popplio",
+    "status": "matched"
+  },
+  "porygon": {
+    "catch_name": "porygon",
+    "source": "porygon",
+    "status": "matched"
+  },
+  "porygon-z": {
+    "catch_name": "porygon-z",
+    "source": "porygon-z",
+    "status": "matched"
+  },
+  "porygon2": {
+    "catch_name": "porygon2",
+    "source": "porygon2",
+    "status": "matched"
+  },
+  "primarina": {
+    "catch_name": "oratoria",
+    "source": "primarina",
+    "status": "matched"
+  },
+  "primeape": {
+    "catch_name": "rasaff",
+    "source": "primeape",
+    "status": "matched"
+  },
+  "prinplup": {
+    "catch_name": "pliprin",
+    "source": "prinplup",
+    "status": "matched"
+  },
+  "probopass": {
+    "catch_name": "probopass",
+    "source": "probopass",
+    "status": "matched"
+  },
+  "psyduck": {
+    "catch_name": "enton",
+    "source": "psyduck",
+    "status": "matched"
+  },
+  "pumpkaboo": {
+    "catch_name": "irrbis",
+    "source": "pumpkaboo-average",
+    "status": "matched"
+  },
+  "pupitar": {
+    "catch_name": "pupitar",
+    "source": "pupitar",
+    "status": "matched"
+  },
+  "purrloin": {
+    "catch_name": "felilou",
+    "source": "purrloin",
+    "status": "matched"
+  },
+  "purugly": {
+    "catch_name": "purugly",
+    "source": "purugly",
+    "status": "matched"
+  },
+  "pyroar": {
+    "catch_name": "pyroar",
+    "source": "pyroar",
+    "status": "matched"
+  },
+  "pyukumuku": {
+    "catch_name": "gufa",
+    "source": "pyukumuku",
+    "status": "matched"
+  },
+  "quagsire": {
+    "catch_name": "morlord",
+    "source": "quagsire",
+    "status": "matched"
+  },
+  "quaquaval": {
+    "catch_name": "bailonda",
+    "source": "quaquaval",
+    "status": "matched"
+  },
+  "quaxly": {
+    "catch_name": "kwaks",
+    "source": "quaxly",
+    "status": "matched"
+  },
+  "quaxwell": {
+    "catch_name": "quaxwell",
+    "source": "quaxwell",
+    "status": "matched"
+  },
+  "quilava": {
+    "catch_name": "quilava",
+    "source": "quilava",
+    "status": "matched"
+  },
+  "quilladin": {
+    "catch_name": "quilladin",
+    "source": "quilladin",
+    "status": "matched"
+  },
+  "qwilfish": {
+    "catch_name": "qwilfish",
+    "source": "qwilfish",
+    "status": "matched"
+  },
+  "raboot": {
+    "catch_name": "lapyro",
+    "source": "raboot",
+    "status": "matched"
+  },
+  "rabsca": {
+    "catch_name": "rabsca",
+    "source": "rabsca",
+    "status": "matched"
+  },
+  "raging bolt": {
+    "catch_name": "ire-foudre",
+    "source": "raging-bolt",
+    "status": "matched"
+  },
+  "raichu": {
+    "catch_name": "raichu",
+    "source": "raichu",
+    "status": "matched"
+  },
+  "raikou": {
+    "catch_name": "raikou",
+    "source": "raikou",
+    "status": "matched"
+  },
+  "rainy castform": {
+    "catch_name": "rainy castform",
+    "source": "castform-rainy",
+    "status": "matched"
+  },
+  "ralts": {
+    "catch_name": "ralts",
+    "source": "ralts",
+    "status": "matched"
+  },
+  "rampardos": {
+    "catch_name": "charkos",
+    "source": "rampardos",
+    "status": "matched"
+  },
+  "rapid strike urshifu": {
+    "catch_name": "rapid strike urshifu",
+    "source": "urshifu-rapid-strike",
+    "status": "matched"
+  },
+  "rapidash": {
+    "catch_name": "galopa",
+    "source": "rapidash",
+    "status": "matched"
+  },
+  "raticate": {
+    "catch_name": "raticate",
+    "source": "raticate",
+    "status": "matched"
+  },
+  "rattata": {
+    "catch_name": "rattata",
+    "source": "rattata",
+    "status": "matched"
+  },
+  "regice": {
+    "catch_name": "regice",
+    "source": "regice",
+    "status": "matched"
+  },
+  "regidrago": {
+    "catch_name": "regidrago",
+    "source": "regidrago",
+    "status": "matched"
+  },
+  "regieleki": {
+    "catch_name": "regieleki",
+    "source": "regieleki",
+    "status": "matched"
+  },
+  "regirock": {
+    "catch_name": "regirock",
+    "source": "regirock",
+    "status": "matched"
+  },
+  "registeel": {
+    "catch_name": "registeel",
+    "source": "registeel",
+    "status": "matched"
+  },
+  "relicanth": {
+    "catch_name": "relicanth",
+    "source": "relicanth",
+    "status": "matched"
+  },
+  "rellor": {
+    "catch_name": "rellor",
+    "source": "rellor",
+    "status": "matched"
+  },
+  "remoraid": {
+    "catch_name": "remoraid",
+    "source": "remoraid",
+    "status": "matched"
+  },
+  "reshiram": {
+    "catch_name": "reshiram",
+    "source": "reshiram",
+    "status": "matched"
+  },
+  "reuniclus": {
+    "catch_name": "symbios",
+    "source": "reuniclus",
+    "status": "matched"
+  },
+  "revavroom": {
+    "catch_name": "knattatox",
+    "source": "revavroom",
+    "status": "matched"
+  },
+  "rhydon": {
+    "catch_name": "rhydon",
+    "source": "rhydon",
+    "status": "matched"
+  },
+  "rhyhorn": {
+    "catch_name": "rihorn",
+    "source": "rhyhorn",
+    "status": "matched"
+  },
+  "rhyperior": {
+    "catch_name": "rhinastoc",
+    "source": "rhyperior",
+    "status": "matched"
+  },
+  "ribombee": {
+    "catch_name": "bandelby",
+    "source": "ribombee",
+    "status": "matched"
+  },
+  "rillaboom": {
+    "catch_name": "gortrom",
+    "source": "rillaboom",
+    "status": "matched"
+  },
+  "riolu": {
+    "catch_name": "riolu",
+    "source": "riolu",
+    "status": "matched"
+  },
+  "roaming gimmighoul": {
+    "catch_name": "roaming gimmighoul",
+    "source": "gimmighoul-roaming",
+    "status": "matched"
+  },
+  "roaring moon": {
+    "catch_name": "rugit-lune",
+    "source": "roaring-moon",
+    "status": "matched"
+  },
+  "rockruff": {
+    "catch_name": "rocabot",
+    "source": "rockruff",
+    "status": "matched"
+  },
+  "roggenrola": {
+    "catch_name": "kiesling",
+    "source": "roggenrola",
+    "status": "matched"
+  },
+  "rolycoly": {
+    "catch_name": "charbi",
+    "source": "rolycoly",
+    "status": "matched"
+  },
+  "rookidee": {
+    "catch_name": "meikro",
+    "source": "rookidee",
+    "status": "matched"
+  },
+  "roselia": {
+    "catch_name": "roselia",
+    "source": "roselia",
+    "status": "matched"
+  },
+  "roserade": {
+    "catch_name": "roserade",
+    "source": "roserade",
+    "status": "matched"
+  },
+  "rotom": {
+    "catch_name": "rotom",
+    "source": "rotom",
+    "status": "matched"
+  },
+  "rowlet": {
+    "catch_name": "bauz",
+    "source": "rowlet",
+    "status": "matched"
+  },
+  "rufflet": {
+    "catch_name": "rufflet",
+    "source": "rufflet",
+    "status": "matched"
+  },
+  "runerigus": {
+    "catch_name": "oghnatoll",
+    "source": "runerigus",
+    "status": "matched"
+  },
+  "sableye": {
+    "catch_name": "sableye",
+    "source": "sableye",
+    "status": "matched"
+  },
+  "salamence": {
+    "catch_name": "drattak",
+    "source": "salamence",
+    "status": "matched"
+  },
+  "salandit": {
+    "catch_name": "molunk",
+    "source": "salandit",
+    "status": "matched"
+  },
+  "salazzle": {
+    "catch_name": "amfira",
+    "source": "salazzle",
+    "status": "matched"
+  },
+  "samurott": {
+    "catch_name": "admurai",
+    "source": "samurott",
+    "status": "matched"
+  },
+  "sandaconda": {
+    "catch_name": "dunaconda",
+    "source": "sandaconda",
+    "status": "matched"
+  },
+  "sandile": {
+    "catch_name": "ganovil",
+    "source": "sandile",
+    "status": "matched"
+  },
+  "sandshrew": {
+    "catch_name": "sandan",
+    "source": "sandshrew",
+    "status": "matched"
+  },
+  "sandslash": {
+    "catch_name": "sandamer",
+    "source": "sandslash",
+    "status": "matched"
+  },
+  "sandy shocks": {
+    "catch_name": "sandfell",
+    "source": "sandy-shocks",
+    "status": "matched"
+  },
+  "sandy wormadam": {
+    "catch_name": "sandy wormadam",
+    "source": "wormadam-sandy",
+    "status": "matched"
+  },
+  "sandygast": {
+    "catch_name": "bacabouh",
+    "source": "sandygast",
+    "status": "matched"
+  },
+  "sawk": {
+    "catch_name": "sawk",
+    "source": "sawk",
+    "status": "matched"
+  },
+  "sawsbuck": {
+    "catch_name": "haydaim",
+    "source": "sawsbuck",
+    "status": "matched"
+  },
+  "scatterbug": {
+    "catch_name": "purmel",
+    "source": "scatterbug",
+    "status": "matched"
+  },
+  "sceptile": {
+    "catch_name": "jungko",
+    "source": "sceptile",
+    "status": "matched"
+  },
+  "school wishiwashi": {
+    "catch_name": "school wishiwashi",
+    "source": "wishiwashi-school",
+    "status": "matched"
+  },
+  "scizor": {
+    "catch_name": "scizor",
+    "source": "scizor",
+    "status": "matched"
+  },
+  "scolipede": {
+    "catch_name": "brutapode",
+    "source": "scolipede",
+    "status": "matched"
+  },
+  "scorbunny": {
+    "catch_name": "hopplo",
+    "source": "scorbunny",
+    "status": "matched"
+  },
+  "scovillain": {
+    "catch_name": "halupenjo",
+    "source": "scovillain",
+    "status": "matched"
+  },
+  "scrafty": {
+    "catch_name": "irokex",
+    "source": "scrafty",
+    "status": "matched"
+  },
+  "scraggy": {
+    "catch_name": "scraggy",
+    "source": "scraggy",
+    "status": "matched"
+  },
+  "scream tail": {
+    "catch_name": "hurle-queue",
+    "source": "scream-tail",
+    "status": "matched"
+  },
+  "scyther": {
+    "catch_name": "scyther",
+    "source": "scyther",
+    "status": "matched"
+  },
+  "seadra": {
+    "catch_name": "seadra",
+    "source": "seadra",
+    "status": "matched"
+  },
+  "seaking": {
+    "catch_name": "golking",
+    "source": "seaking",
+    "status": "matched"
+  },
+  "sealeo": {
+    "catch_name": "sealeo",
+    "source": "sealeo",
+    "status": "matched"
+  },
+  "seedot": {
+    "catch_name": "seedot",
+    "source": "seedot",
+    "status": "matched"
+  },
+  "seel": {
+    "catch_name": "seel",
+    "source": "seel",
+    "status": "matched"
+  },
+  "seismitoad": {
+    "catch_name": "branawarz",
+    "source": "seismitoad",
+    "status": "matched"
+  },
+  "sensu oricorio": {
+    "catch_name": "sensu oricorio",
+    "source": "oricorio-sensu",
+    "status": "matched"
+  },
+  "sentret": {
+    "catch_name": "wiesor",
+    "source": "sentret",
+    "status": "matched"
+  },
+  "serperior": {
+    "catch_name": "majaspic",
+    "source": "serperior",
+    "status": "matched"
+  },
+  "servine": {
+    "catch_name": "efoserp",
+    "source": "servine",
+    "status": "matched"
+  },
+  "seviper": {
+    "catch_name": "seviper",
+    "source": "seviper",
+    "status": "matched"
+  },
+  "sewaddle": {
+    "catch_name": "sewaddle",
+    "source": "sewaddle",
+    "status": "matched"
+  },
+  "sharpedo": {
+    "catch_name": "tohaido",
+    "source": "sharpedo",
+    "status": "matched"
+  },
+  "shaymin": {
+    "catch_name": "shaymin",
+    "source": "shaymin-land",
+    "status": "matched"
+  },
+  "shedinja": {
+    "catch_name": "munja",
+    "source": "shedinja",
+    "status": "matched"
+  },
+  "shelgon": {
+    "catch_name": "shelgon",
+    "source": "shelgon",
+    "status": "matched"
+  },
+  "shellder": {
+    "catch_name": "kokiyas",
+    "source": "shellder",
+    "status": "matched"
+  },
+  "shellos": {
+    "catch_name": "sancoki",
+    "source": "shellos",
+    "status": "matched"
+  },
+  "shelmet": {
+    "catch_name": "shelmet",
+    "source": "shelmet",
+    "status": "matched"
+  },
+  "shieldon": {
+    "catch_name": "shieldon",
+    "source": "shieldon",
+    "status": "matched"
+  },
+  "shiftry": {
+    "catch_name": "shiftry",
+    "source": "shiftry",
+    "status": "matched"
+  },
+  "shiinotic": {
+    "catch_name": "lamellux",
+    "source": "shiinotic",
+    "status": "matched"
+  },
+  "shinx": {
+    "catch_name": "lixy",
+    "source": "shinx",
+    "status": "matched"
+  },
+  "shroodle": {
+    "catch_name": "sproxi",
+    "source": "shroodle",
+    "status": "matched"
+  },
+  "shroomish": {
+    "catch_name": "knilz",
+    "source": "shroomish",
+    "status": "matched"
+  },
+  "shuckle": {
+    "catch_name": "shuckle",
+    "source": "shuckle",
+    "status": "matched"
+  },
+  "shuppet": {
+    "catch_name": "shuppet",
+    "source": "shuppet",
+    "status": "matched"
+  },
+  "sigilyph": {
+    "catch_name": "cryptéro",
+    "source": "sigilyph",
+    "status": "matched"
+  },
+  "silcoon": {
+    "catch_name": "armulys",
+    "source": "silcoon",
+    "status": "matched"
+  },
+  "silicobra": {
+    "catch_name": "dunaja",
+    "source": "silicobra",
+    "status": "matched"
+  },
+  "silvally": {
+    "catch_name": "amigento",
+    "source": "silvally",
+    "status": "matched"
+  },
+  "simipour": {
+    "catch_name": "simipour",
+    "source": "simipour",
+    "status": "matched"
+  },
+  "simisage": {
+    "catch_name": "simisage",
+    "source": "simisage",
+    "status": "matched"
+  },
+  "simisear": {
+    "catch_name": "simisear",
+    "source": "simisear",
+    "status": "matched"
+  },
+  "sinistcha": {
+    "catch_name": "sinistcha",
+    "source": "sinistcha",
+    "status": "matched"
+  },
+  "sinistea": {
+    "catch_name": "sinistea",
+    "source": "sinistea",
+    "status": "matched"
+  },
+  "sizzlipede": {
+    "catch_name": "thermopod",
+    "source": "sizzlipede",
+    "status": "matched"
+  },
+  "skarmory": {
+    "catch_name": "airmure",
+    "source": "skarmory",
+    "status": "matched"
+  },
+  "skeledirge": {
+    "catch_name": "skelokrok",
+    "source": "skeledirge",
+    "status": "matched"
+  },
+  "skiddo": {
+    "catch_name": "skiddo",
+    "source": "skiddo",
+    "status": "matched"
+  },
+  "skiploom": {
+    "catch_name": "floravol",
+    "source": "skiploom",
+    "status": "matched"
+  },
+  "skitty": {
+    "catch_name": "eneco",
+    "source": "skitty",
+    "status": "matched"
+  },
+  "skorupi": {
+    "catch_name": "rapion",
+    "source": "skorupi",
+    "status": "matched"
+  },
+  "skrelp": {
+    "catch_name": "algitt",
+    "source": "skrelp",
+    "status": "matched"
+  },
+  "skuntank": {
+    "catch_name": "skuntank",
+    "source": "skuntank",
+    "status": "matched"
+  },
+  "skwovet": {
+    "catch_name": "raffel",
+    "source": "skwovet",
+    "status": "matched"
+  },
+  "slaking": {
+    "catch_name": "slaking",
+    "source": "slaking",
+    "status": "matched"
+  },
+  "slakoth": {
+    "catch_name": "bummelz",
+    "source": "slakoth",
+    "status": "matched"
+  },
+  "sliggoo": {
+    "catch_name": "sliggoo",
+    "source": "sliggoo",
+    "status": "matched"
+  },
+  "slither wing": {
+    "catch_name": "rampe-ailes",
+    "source": "slither-wing",
+    "status": "matched"
+  },
+  "slowbro": {
+    "catch_name": "lahmus",
+    "source": "slowbro",
+    "status": "matched"
+  },
+  "slowking": {
+    "catch_name": "roigada",
+    "source": "slowking",
+    "status": "matched"
+  },
+  "slowpoke": {
+    "catch_name": "flegmon",
+    "source": "slowpoke",
+    "status": "matched"
+  },
+  "slugma": {
+    "catch_name": "slugma",
+    "source": "slugma",
+    "status": "matched"
+  },
+  "slurpuff": {
+    "catch_name": "slurpuff",
+    "source": "slurpuff",
+    "status": "matched"
+  },
+  "smeargle": {
+    "catch_name": "smeargle",
+    "source": "smeargle",
+    "status": "matched"
+  },
+  "smoliv": {
+    "catch_name": "olini",
+    "source": "smoliv",
+    "status": "matched"
+  },
+  "smoochum": {
+    "catch_name": "kussilla",
+    "source": "smoochum",
+    "status": "matched"
+  },
+  "sneasel": {
+    "catch_name": "sneasel",
+    "source": "sneasel",
+    "status": "matched"
+  },
+  "sneasler": {
+    "catch_name": "farfurex",
+    "source": "sneasler",
+    "status": "matched"
+  },
+  "snivy": {
+    "catch_name": "snivy",
+    "source": "snivy",
+    "status": "matched"
+  },
+  "snom": {
+    "catch_name": "snom",
+    "source": "snom",
+    "status": "matched"
+  },
+  "snorlax": {
+    "catch_name": "relaxo",
+    "source": "snorlax",
+    "status": "matched"
+  },
+  "snorunt": {
+    "catch_name": "snorunt",
+    "source": "snorunt",
+    "status": "matched"
+  },
+  "snover": {
+    "catch_name": "blizzi",
+    "source": "snover",
+    "status": "matched"
+  },
+  "snowy castform": {
+    "catch_name": "snowy castform",
+    "source": "castform-snowy",
+    "status": "matched"
+  },
+  "snubbull": {
+    "catch_name": "snubbull",
+    "source": "snubbull",
+    "status": "matched"
+  },
+  "sobble": {
+    "catch_name": "sobble",
+    "source": "sobble",
+    "status": "matched"
+  },
+  "solgaleo": {
+    "catch_name": "solgaleo",
+    "source": "solgaleo",
+    "status": "matched"
+  },
+  "solosis": {
+    "catch_name": "nucléos",
+    "source": "solosis",
+    "status": "matched"
+  },
+  "solrock": {
+    "catch_name": "solaroc",
+    "source": "solrock",
+    "status": "matched"
+  },
+  "spearow": {
+    "catch_name": "habitak",
+    "source": "spearow",
+    "status": "matched"
+  },
+  "speed deoxys": {
+    "catch_name": "speed deoxys",
+    "source": "deoxys-speed",
+    "status": "matched"
+  },
+  "spewpa": {
+    "catch_name": "spewpa",
+    "source": "spewpa",
+    "status": "matched"
+  },
+  "spheal": {
+    "catch_name": "obalie",
+    "source": "spheal",
+    "status": "matched"
+  },
+  "spidops": {
+    "catch_name": "spidops",
+    "source": "spidops",
+    "status": "matched"
+  },
+  "spinarak": {
+    "catch_name": "mimigal",
+    "source": "spinarak",
+    "status": "matched"
+  },
+  "spinda": {
+    "catch_name": "pandir",
+    "source": "spinda",
+    "status": "matched"
+  },
+  "spiritomb": {
+    "catch_name": "kryppuk",
+    "source": "spiritomb",
+    "status": "matched"
+  },
+  "spoink": {
+    "catch_name": "spoink",
+    "source": "spoink",
+    "status": "matched"
+  },
+  "sprigatito": {
+    "catch_name": "felori",
+    "source": "sprigatito",
+    "status": "matched"
+  },
+  "spritzee": {
+    "catch_name": "parfi",
+    "source": "spritzee",
+    "status": "matched"
+  },
+  "squawkabilly": {
+    "catch_name": "tapatoès",
+    "source": "squawkabilly",
+    "status": "matched"
+  },
+  "squirtle": {
+    "catch_name": "schiggy",
+    "source": "squirtle",
+    "status": "matched"
+  },
+  "stakataka": {
+    "catch_name": "ama-ama",
+    "source": "stakataka",
+    "status": "matched"
+  },
+  "stantler": {
+    "catch_name": "stantler",
+    "source": "stantler",
+    "status": "matched"
+  },
+  "staraptor": {
+    "catch_name": "staraptor",
+    "source": "staraptor",
+    "status": "matched"
+  },
+  "staravia": {
+    "catch_name": "staravia",
+    "source": "staravia",
+    "status": "matched"
+  },
+  "starly": {
+    "catch_name": "starly",
+    "source": "starly",
+    "status": "matched"
+  },
+  "starmie": {
+    "catch_name": "starmie",
+    "source": "starmie",
+    "status": "matched"
+  },
+  "staryu": {
+    "catch_name": "stari",
+    "source": "staryu",
+    "status": "matched"
+  },
+  "steelix": {
+    "catch_name": "stahlos",
+    "source": "steelix",
+    "status": "matched"
+  },
+  "steenee": {
+    "catch_name": "candine",
+    "source": "steenee",
+    "status": "matched"
+  },
+  "stonjourner": {
+    "catch_name": "dolman",
+    "source": "stonjourner",
+    "status": "matched"
+  },
+  "stoutland": {
+    "catch_name": "bissbark",
+    "source": "stoutland",
+    "status": "matched"
+  },
+  "stretchy tatsugiri": {
+    "catch_name": "stretchy tatsugiri",
+    "source": "tatsugiri-stretchy",
+    "status": "matched"
+  },
+  "stufful": {
+    "catch_name": "stufful",
+    "source": "stufful",
+    "status": "matched"
+  },
+  "stunfisk": {
+    "catch_name": "limonde",
+    "source": "stunfisk",
+    "status": "matched"
+  },
+  "stunky": {
+    "catch_name": "stunky",
+    "source": "stunky",
+    "status": "matched"
+  },
+  "sudowoodo": {
+    "catch_name": "mogelbaum",
+    "source": "sudowoodo",
+    "status": "matched"
+  },
+  "sunflora": {
+    "catch_name": "sunflora",
+    "source": "sunflora",
+    "status": "matched"
+  },
+  "sunkern": {
+    "catch_name": "sunkern",
+    "source": "sunkern",
+    "status": "matched"
+  },
+  "sunny castform": {
+    "catch_name": "sunny castform",
+    "source": "castform-sunny",
+    "status": "matched"
+  },
+  "surskit": {
+    "catch_name": "arakdo",
+    "source": "surskit",
+    "status": "matched"
+  },
+  "swablu": {
+    "catch_name": "wablu",
+    "source": "swablu",
+    "status": "matched"
+  },
+  "swadloon": {
+    "catch_name": "folikon",
+    "source": "swadloon",
+    "status": "matched"
+  },
+  "swalot": {
+    "catch_name": "swalot",
+    "source": "swalot",
+    "status": "matched"
+  },
+  "swampert": {
+    "catch_name": "sumpex",
+    "source": "swampert",
+    "status": "matched"
+  },
+  "swanna": {
+    "catch_name": "swanna",
+    "source": "swanna",
+    "status": "matched"
+  },
+  "swellow": {
+    "catch_name": "swellow",
+    "source": "swellow",
+    "status": "matched"
+  },
+  "swinub": {
+    "catch_name": "swinub",
+    "source": "swinub",
+    "status": "matched"
+  },
+  "swirlix": {
+    "catch_name": "swirlix",
+    "source": "swirlix",
+    "status": "matched"
+  },
+  "swoobat": {
+    "catch_name": "swoobat",
+    "source": "swoobat",
+    "status": "matched"
+  },
+  "sylveon": {
+    "catch_name": "sylveon",
+    "source": "sylveon",
+    "status": "matched"
+  },
+  "tadbulb": {
+    "catch_name": "blipp",
+    "source": "tadbulb",
+    "status": "matched"
+  },
+  "taillow": {
+    "catch_name": "taillow",
+    "source": "taillow",
+    "status": "matched"
+  },
+  "talonflame": {
+    "catch_name": "fiaro",
+    "source": "talonflame",
+    "status": "matched"
+  },
+  "tandemaus": {
+    "catch_name": "zwieps",
+    "source": "tandemaus",
+    "status": "matched"
+  },
+  "tangela": {
+    "catch_name": "tangela",
+    "source": "tangela",
+    "status": "matched"
+  },
+  "tangrowth": {
+    "catch_name": "bouldeneu",
+    "source": "tangrowth",
+    "status": "matched"
+  },
+  "tapu bulu": {
+    "catch_name": "tokotoro",
+    "source": "tapu-bulu",
+    "status": "matched"
+  },
+  "tapu fini": {
+    "catch_name": "kapu-kime",
+    "source": "tapu-fini",
+    "status": "matched"
+  },
+  "tapu koko": {
+    "catch_name": "tokorico",
+    "source": "tapu-koko",
+    "status": "matched"
+  },
+  "tapu lele": {
+    "catch_name": "kapu-fala",
+    "source": "tapu-lele",
+    "status": "matched"
+  },
+  "tarountula": {
+    "catch_name": "tarundel",
+    "source": "tarountula",
+    "status": "matched"
+  },
+  "tatsugiri": {
+    "catch_name": "nigiragi",
+    "source": "tatsugiri",
+    "status": "matched"
+  },
+  "tauros": {
+    "catch_name": "tauros",
+    "source": "tauros",
+    "status": "matched"
+  },
+  "teddiursa": {
+    "catch_name": "teddiursa",
+    "source": "teddiursa",
+    "status": "matched"
+  },
+  "tentacool": {
+    "catch_name": "tentacha",
+    "source": "tentacool",
+    "status": "matched"
+  },
+  "tentacruel": {
+    "catch_name": "tentoxa",
+    "source": "tentacruel",
+    "status": "matched"
+  },
+  "tepig": {
+    "catch_name": "tepig",
+    "source": "tepig",
+    "status": "matched"
+  },
+  "terapagos": {
+    "catch_name": "terapagos",
+    "source": "terapagos",
+    "status": "matched"
+  },
+  "terastal terapagos": {
+    "catch_name": "terastal terapagos",
+    "source": "terapagos-terastal",
+    "status": "matched"
+  },
+  "terrakion": {
+    "catch_name": "terrakion",
+    "source": "terrakion",
+    "status": "matched"
+  },
+  "thievul": {
+    "catch_name": "gaunux",
+    "source": "thievul",
+    "status": "matched"
+  },
+  "three-segment dudunsparce": {
+    "catch_name": "three-segment dudunsparce",
+    "source": "dudunsparce-three-segment",
+    "status": "matched"
+  },
+  "throh": {
+    "catch_name": "throh",
+    "source": "throh",
+    "status": "matched"
+  },
+  "thundurus": {
+    "catch_name": "fulguris",
+    "source": "thundurus-incarnate",
+    "status": "matched"
+  },
+  "thwackey": {
+    "catch_name": "chimstix",
+    "source": "thwackey",
+    "status": "matched"
+  },
+  "timburr": {
+    "catch_name": "timburr",
+    "source": "timburr",
+    "status": "matched"
+  },
+  "ting-lu": {
+    "catch_name": "dinglu",
+    "source": "ting-lu",
+    "status": "matched"
+  },
+  "tinkatink": {
+    "catch_name": "forgita",
+    "source": "tinkatink",
+    "status": "matched"
+  },
+  "tinkaton": {
+    "catch_name": "tinkaton",
+    "source": "tinkaton",
+    "status": "matched"
+  },
+  "tinkatuff": {
+    "catch_name": "forgella",
+    "source": "tinkatuff",
+    "status": "matched"
+  },
+  "tirtouga": {
+    "catch_name": "tirtouga",
+    "source": "tirtouga",
+    "status": "matched"
+  },
+  "toedscool": {
+    "catch_name": "tentagra",
+    "source": "toedscool",
+    "status": "matched"
+  },
+  "toedscruel": {
+    "catch_name": "tenterra",
+    "source": "toedscruel",
+    "status": "matched"
+  },
+  "togedemaru": {
+    "catch_name": "togedemaru",
+    "source": "togedemaru",
+    "status": "matched"
+  },
+  "togekiss": {
+    "catch_name": "togekiss",
+    "source": "togekiss",
+    "status": "matched"
+  },
+  "togepi": {
+    "catch_name": "togepi",
+    "source": "togepi",
+    "status": "matched"
+  },
+  "togetic": {
+    "catch_name": "togetic",
+    "source": "togetic",
+    "status": "matched"
+  },
+  "torchic": {
+    "catch_name": "flemmli",
+    "source": "torchic",
+    "status": "matched"
+  },
+  "torkoal": {
+    "catch_name": "qurtel",
+    "source": "torkoal",
+    "status": "matched"
+  },
+  "tornadus": {
+    "catch_name": "boreos",
+    "source": "tornadus-incarnate",
+    "status": "matched"
+  },
+  "torracat": {
+    "catch_name": "matoufeu",
+    "source": "torracat",
+    "status": "matched"
+  },
+  "torterra": {
+    "catch_name": "torterra",
+    "source": "torterra",
+    "status": "matched"
+  },
+  "totodile": {
+    "catch_name": "kaiminus",
+    "source": "totodile",
+    "status": "matched"
+  },
+  "toucannon": {
+    "catch_name": "tukanon",
+    "source": "toucannon",
+    "status": "matched"
+  },
+  "toxapex": {
+    "catch_name": "toxapex",
+    "source": "toxapex",
+    "status": "matched"
+  },
+  "toxel": {
+    "catch_name": "toxel",
+    "source": "toxel",
+    "status": "matched"
+  },
+  "toxicroak": {
+    "catch_name": "coatox",
+    "source": "toxicroak",
+    "status": "matched"
+  },
+  "tranquill": {
+    "catch_name": "navitaub",
+    "source": "tranquill",
+    "status": "matched"
+  },
+  "trapinch": {
+    "catch_name": "kraknoix",
+    "source": "trapinch",
+    "status": "matched"
+  },
+  "trash wormadam": {
+    "catch_name": "trash wormadam",
+    "source": "wormadam-trash",
+    "status": "matched"
+  },
+  "treecko": {
+    "catch_name": "arcko",
+    "source": "treecko",
+    "status": "matched"
+  },
+  "trevenant": {
+    "catch_name": "trombork",
+    "source": "trevenant",
+    "status": "matched"
+  },
+  "tropius": {
+    "catch_name": "tropius",
+    "source": "tropius",
+    "status": "matched"
+  },
+  "trubbish": {
+    "catch_name": "trubbish",
+    "source": "trubbish",
+    "status": "matched"
+  },
+  "trumbeak": {
+    "catch_name": "trompeck",
+    "source": "trumbeak",
+    "status": "matched"
+  },
+  "tsareena": {
+    "catch_name": "fruyal",
+    "source": "tsareena",
+    "status": "matched"
+  },
+  "turtonator": {
+    "catch_name": "boumata",
+    "source": "turtonator",
+    "status": "matched"
+  },
+  "turtwig": {
+    "catch_name": "chelast",
+    "source": "turtwig",
+    "status": "matched"
+  },
+  "tympole": {
+    "catch_name": "tympole",
+    "source": "tympole",
+    "status": "matched"
+  },
+  "tynamo": {
+    "catch_name": "tynamo",
+    "source": "tynamo",
+    "status": "matched"
+  },
+  "typhlosion": {
+    "catch_name": "tornupto",
+    "source": "typhlosion",
+    "status": "matched"
+  },
+  "tyranitar": {
+    "catch_name": "despotar",
+    "source": "tyranitar",
+    "status": "matched"
+  },
+  "tyrantrum": {
+    "catch_name": "rexillius",
+    "source": "tyrantrum",
+    "status": "matched"
+  },
+  "tyrogue": {
+    "catch_name": "rabauz",
+    "source": "tyrogue",
+    "status": "matched"
+  },
+  "tyrunt": {
+    "catch_name": "tyrunt",
+    "source": "tyrunt",
+    "status": "matched"
+  },
+  "umbreon": {
+    "catch_name": "noctali",
+    "source": "umbreon",
+    "status": "matched"
+  },
+  "unfezant": {
+    "catch_name": "fasasnob",
+    "source": "unfezant",
+    "status": "matched"
+  },
+  "unown": {
+    "catch_name": "unown",
+    "source": "unown",
+    "status": "matched"
+  },
+  "ursaluna": {
+    "catch_name": "ursaking",
+    "source": "ursaluna",
+    "status": "matched"
+  },
+  "ursaring": {
+    "catch_name": "ursaring",
+    "source": "ursaring",
+    "status": "matched"
+  },
+  "urshifu": {
+    "catch_name": "urshifu",
+    "source": "urshifu-single-strike",
+    "status": "matched"
+  },
+  "uxie": {
+    "catch_name": "uxie",
+    "source": "uxie",
+    "status": "matched"
+  },
+  "vanillish": {
+    "catch_name": "sorboul",
+    "source": "vanillish",
+    "status": "matched"
+  },
+  "vanillite": {
+    "catch_name": "sorbébé",
+    "source": "vanillite",
+    "status": "matched"
+  },
+  "vanilluxe": {
+    "catch_name": "gelatwino",
+    "source": "vanilluxe",
+    "status": "matched"
+  },
+  "vaporeon": {
+    "catch_name": "aquali",
+    "source": "vaporeon",
+    "status": "matched"
+  },
+  "varoom": {
+    "catch_name": "varoom",
+    "source": "varoom",
+    "status": "matched"
+  },
+  "veluza": {
+    "catch_name": "veluza",
+    "source": "veluza",
+    "status": "matched"
+  },
+  "venipede": {
+    "catch_name": "toxiped",
+    "source": "venipede",
+    "status": "matched"
+  },
+  "venomoth": {
+    "catch_name": "omot",
+    "source": "venomoth",
+    "status": "matched"
+  },
+  "venonat": {
+    "catch_name": "bluzuk",
+    "source": "venonat",
+    "status": "matched"
+  },
+  "venusaur": {
+    "catch_name": "bisaflor",
+    "source": "venusaur",
+    "status": "matched"
+  },
+  "vespiquen": {
+    "catch_name": "apireine",
+    "source": "vespiquen",
+    "status": "matched"
+  },
+  "vibrava": {
+    "catch_name": "vibrava",
+    "source": "vibrava",
+    "status": "matched"
+  },
+  "victini": {
+    "catch_name": "victini",
+    "source": "victini",
+    "status": "matched"
+  },
+  "victreebel": {
+    "catch_name": "empiflor",
+    "source": "victreebel",
+    "status": "matched"
+  },
+  "vigoroth": {
+    "catch_name": "muntier",
+    "source": "vigoroth",
+    "status": "matched"
+  },
+  "vikavolt": {
+    "catch_name": "lucanon",
+    "source": "vikavolt",
+    "status": "matched"
+  },
+  "vileplume": {
+    "catch_name": "giflor",
+    "source": "vileplume",
+    "status": "matched"
+  },
+  "virizion": {
+    "catch_name": "viridium",
+    "source": "virizion",
+    "status": "matched"
+  },
+  "vivillon": {
+    "catch_name": "vivillon",
+    "source": "vivillon",
+    "status": "matched"
+  },
+  "volbeat": {
+    "catch_name": "muciole",
+    "source": "volbeat",
+    "status": "matched"
+  },
+  "volcanion": {
+    "catch_name": "volcanion",
+    "source": "volcanion",
+    "status": "matched"
+  },
+  "volcarona": {
+    "catch_name": "pyrax",
+    "source": "volcarona",
+    "status": "matched"
+  },
+  "voltorb": {
+    "catch_name": "voltorb",
+    "source": "voltorb",
+    "status": "matched"
+  },
+  "vullaby": {
+    "catch_name": "skallyk",
+    "source": "vullaby",
+    "status": "matched"
+  },
+  "vulpix": {
+    "catch_name": "goupix",
+    "source": "vulpix",
+    "status": "matched"
+  },
+  "wailmer": {
+    "catch_name": "wailmer",
+    "source": "wailmer",
+    "status": "matched"
+  },
+  "wailord": {
+    "catch_name": "wailord",
+    "source": "wailord",
+    "status": "matched"
+  },
+  "walking wake": {
+    "catch_name": "windewoge",
+    "source": "walking-wake",
+    "status": "matched"
+  },
+  "walrein": {
+    "catch_name": "walrein",
+    "source": "walrein",
+    "status": "matched"
+  },
+  "wartortle": {
+    "catch_name": "schillok",
+    "source": "wartortle",
+    "status": "matched"
+  },
+  "wash rotom": {
+    "catch_name": "wash rotom",
+    "source": "rotom-wash",
+    "status": "matched"
+  },
+  "watchog": {
+    "catch_name": "miradar",
+    "source": "watchog",
+    "status": "matched"
+  },
+  "wattrel": {
+    "catch_name": "voltrel",
+    "source": "wattrel",
+    "status": "matched"
+  },
+  "weavile": {
+    "catch_name": "dimoret",
+    "source": "weavile",
+    "status": "matched"
+  },
+  "weedle": {
+    "catch_name": "weedle",
+    "source": "weedle",
+    "status": "matched"
+  },
+  "weepinbell": {
+    "catch_name": "boustiflor",
+    "source": "weepinbell",
+    "status": "matched"
+  },
+  "weezing": {
+    "catch_name": "smogmog",
+    "source": "weezing",
+    "status": "matched"
+  },
+  "wellspring mask ogerpon": {
+    "catch_name": "wellspring mask ogerpon",
+    "source": "ogerpon-wellspring-mask",
+    "status": "matched"
+  },
+  "whimsicott": {
+    "catch_name": "elfun",
+    "source": "whimsicott",
+    "status": "matched"
+  },
+  "whirlipede": {
+    "catch_name": "rollum",
+    "source": "whirlipede",
+    "status": "matched"
+  },
+  "whiscash": {
+    "catch_name": "welsar",
+    "source": "whiscash",
+    "status": "matched"
+  },
+  "whismur": {
+    "catch_name": "flurmel",
+    "source": "whismur",
+    "status": "matched"
+  },
+  "white plumage squawkabilly": {
+    "catch_name": "white plumage squawkabilly",
+    "source": "squawkabilly-white-plumage",
+    "status": "matched"
+  },
+  "white-striped basculin": {
+    "catch_name": "white-striped basculin",
+    "source": "basculin-white-striped",
+    "status": "matched"
+  },
+  "wigglytuff": {
+    "catch_name": "grodoudou",
+    "source": "wigglytuff",
+    "status": "matched"
+  },
+  "wiglett": {
+    "catch_name": "wiglett",
+    "source": "wiglett",
+    "status": "matched"
+  },
+  "wimpod": {
+    "catch_name": "wimpod",
+    "source": "wimpod",
+    "status": "matched"
+  },
+  "wingull": {
+    "catch_name": "goélise",
+    "source": "wingull",
+    "status": "matched"
+  },
+  "wishiwashi": {
+    "catch_name": "lusardin",
+    "source": "wishiwashi-solo",
+    "status": "matched"
+  },
+  "wo-chien": {
+    "catch_name": "wo-chien",
+    "source": "wo-chien",
+    "status": "matched"
+  },
+  "wobbuffet": {
+    "catch_name": "qulbutoké",
+    "source": "wobbuffet",
+    "status": "matched"
+  },
+  "woobat": {
+    "catch_name": "woobat",
+    "source": "woobat",
+    "status": "matched"
+  },
+  "wooloo": {
+    "catch_name": "wolly",
+    "source": "wooloo",
+    "status": "matched"
+  },
+  "wooper": {
+    "catch_name": "felino",
+    "source": "wooper",
+    "status": "matched"
+  },
+  "wormadam": {
+    "catch_name": "wormadam",
+    "source": "wormadam-plant",
+    "status": "matched"
+  },
+  "wugtrio": {
+    "catch_name": "wugtrio",
+    "source": "wugtrio",
+    "status": "matched"
+  },
+  "wurmple": {
+    "catch_name": "waumpel",
+    "source": "wurmple",
+    "status": "matched"
+  },
+  "wynaut": {
+    "catch_name": "isso",
+    "source": "wynaut",
+    "status": "matched"
+  },
+  "wyrdeer": {
+    "catch_name": "wyrdeer",
+    "source": "wyrdeer",
+    "status": "matched"
+  },
+  "xatu": {
+    "catch_name": "xatu",
+    "source": "xatu",
+    "status": "matched"
+  },
+  "xurkitree": {
+    "catch_name": "câblifère",
+    "source": "xurkitree",
+    "status": "matched"
+  },
+  "yamask": {
+    "catch_name": "yamask",
+    "source": "yamask",
+    "status": "matched"
+  },
+  "yamper": {
+    "catch_name": "voldi",
+    "source": "yamper",
+    "status": "matched"
+  },
+  "yanma": {
+    "catch_name": "yanma",
+    "source": "yanma",
+    "status": "matched"
+  },
+  "yanmega": {
+    "catch_name": "yanmega",
+    "source": "yanmega",
+    "status": "matched"
+  },
+  "yellow plumage squawkabilly": {
+    "catch_name": "yellow plumage squawkabilly",
+    "source": "squawkabilly-yellow-plumage",
+    "status": "matched"
+  },
+  "yungoos": {
+    "catch_name": "yungoos",
+    "source": "yungoos",
+    "status": "matched"
+  },
+  "yveltal": {
+    "catch_name": "yveltal",
+    "source": "yveltal",
+    "status": "matched"
+  },
+  "zacian": {
+    "catch_name": "zacian",
+    "source": "zacian",
+    "status": "matched"
+  },
+  "zamazenta": {
+    "catch_name": "zamazenta",
+    "source": "zamazenta",
+    "status": "matched"
+  },
+  "zangoose": {
+    "catch_name": "sengo",
+    "source": "zangoose",
+    "status": "matched"
+  },
+  "zapdos": {
+    "catch_name": "zapdos",
+    "source": "zapdos",
+    "status": "matched"
+  },
+  "zarude": {
+    "catch_name": "zarude",
+    "source": "zarude",
+    "status": "matched"
+  },
+  "zebstrika": {
+    "catch_name": "zebritz",
+    "source": "zebstrika",
+    "status": "matched"
+  },
+  "zekrom": {
+    "catch_name": "zekrom",
+    "source": "zekrom",
+    "status": "matched"
+  },
+  "zen darmanitan": {
+    "catch_name": "zen darmanitan",
+    "source": "darmanitan-zen",
+    "status": "matched"
+  },
+  "zenith marshadow": {
+    "catch_name": "zenith marshadow",
+    "source": "marshadow-zenith",
+    "status": "matched"
+  },
+  "zeraora": {
+    "catch_name": "zeraora",
+    "source": "zeraora",
+    "status": "matched"
+  },
+  "zigzagoon": {
+    "catch_name": "zigzachs",
+    "source": "zigzagoon",
+    "status": "matched"
+  },
+  "zoroark": {
+    "catch_name": "zoroark",
+    "source": "zoroark",
+    "status": "matched"
+  },
+  "zorua": {
+    "catch_name": "zorua",
+    "source": "zorua",
+    "status": "matched"
+  },
+  "zubat": {
+    "catch_name": "zubat",
+    "source": "zubat",
+    "status": "matched"
+  },
+  "zweilous": {
+    "catch_name": "diamat",
+    "source": "zweilous",
+    "status": "matched"
+  },
+  "zygarde": {
+    "catch_name": "zygarde",
+    "source": "zygarde-50",
+    "status": "matched"
+  },
+  "zygarde cell": {
+    "catch_name": "zygarde cell",
+    "source": "zygarde-cell",
+    "status": "matched"
+  },
+  "zygarde core": {
+    "catch_name": "zygarde core",
+    "source": "zygarde-core",
+    "status": "matched"
+  }
+}

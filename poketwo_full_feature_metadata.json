@@ -1,0 +1,6710 @@
+{
+  "10% zygarde": {
+    "pokemon_id": 718,
+    "canonical_name": "Zygarde 50",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "abomasnow": {
+    "pokemon_id": 460,
+    "canonical_name": "Abomasnow",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "abra": {
+    "pokemon_id": 63,
+    "canonical_name": "Abra",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "absol": {
+    "pokemon_id": 359,
+    "canonical_name": "Absol",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "accelgor": {
+    "pokemon_id": 617,
+    "canonical_name": "Accelgor",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "aegislash": {
+    "pokemon_id": 681,
+    "canonical_name": "Aegislash Shield",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "aerodactyl": {
+    "pokemon_id": 142,
+    "canonical_name": "Aerodactyl",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "aggron": {
+    "pokemon_id": 306,
+    "canonical_name": "Aggron",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "aipom": {
+    "pokemon_id": 190,
+    "canonical_name": "Aipom",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "alakazam": {
+    "pokemon_id": 65,
+    "canonical_name": "Alakazam",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "alcremie": {
+    "pokemon_id": 869,
+    "canonical_name": "Alcremie",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "alolan diglett": {
+    "pokemon_id": 50,
+    "canonical_name": "Diglett",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "alolan dugtrio": {
+    "pokemon_id": 51,
+    "canonical_name": "Dugtrio",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "alolan exeggutor": {
+    "pokemon_id": 103,
+    "canonical_name": "Exeggutor",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "alolan geodude": {
+    "pokemon_id": 74,
+    "canonical_name": "Geodude",
+    "reference_images": 7,
+    "test_images": 1
+  },
+  "alolan golem": {
+    "pokemon_id": 76,
+    "canonical_name": "Golem",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "alolan graveler": {
+    "pokemon_id": 75,
+    "canonical_name": "Graveler",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "alolan grimer": {
+    "pokemon_id": 88,
+    "canonical_name": "Grimer",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "alolan marowak": {
+    "pokemon_id": 105,
+    "canonical_name": "Marowak",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "alolan meowth": {
+    "pokemon_id": 52,
+    "canonical_name": "Meowth",
+    "reference_images": 9,
+    "test_images": 1
+  },
+  "alolan muk": {
+    "pokemon_id": 89,
+    "canonical_name": "Muk",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "alolan ninetales": {
+    "pokemon_id": 38,
+    "canonical_name": "Ninetales",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "alolan persian": {
+    "pokemon_id": 53,
+    "canonical_name": "Persian",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "alolan raichu": {
+    "pokemon_id": 26,
+    "canonical_name": "Raichu",
+    "reference_images": 8,
+    "test_images": 1
+  },
+  "alolan raticate": {
+    "pokemon_id": 20,
+    "canonical_name": "Raticate",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "alolan rattata": {
+    "pokemon_id": 19,
+    "canonical_name": "Rattata",
+    "reference_images": 9,
+    "test_images": 2
+  },
+  "alolan sandshrew": {
+    "pokemon_id": 27,
+    "canonical_name": "Sandshrew",
+    "reference_images": 14,
+    "test_images": 2
+  },
+  "alolan sandslash": {
+    "pokemon_id": 28,
+    "canonical_name": "Sandslash",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "alolan vulpix": {
+    "pokemon_id": 37,
+    "canonical_name": "Vulpix",
+    "reference_images": 10,
+    "test_images": 2
+  },
+  "alomomola": {
+    "pokemon_id": 594,
+    "canonical_name": "Alomomola",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "altaria": {
+    "pokemon_id": 334,
+    "canonical_name": "Altaria",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "amaura": {
+    "pokemon_id": 698,
+    "canonical_name": "Amaura",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "ambipom": {
+    "pokemon_id": 424,
+    "canonical_name": "Ambipom",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "amoonguss": {
+    "pokemon_id": 591,
+    "canonical_name": "Amoonguss",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "amped toxtricity": {
+    "pokemon_id": 849,
+    "canonical_name": "Toxtricity Amped",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "ampharos": {
+    "pokemon_id": 181,
+    "canonical_name": "Ampharos",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "annihilape": {
+    "pokemon_id": 979,
+    "canonical_name": "Annihilape",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "anorith": {
+    "pokemon_id": 347,
+    "canonical_name": "Anorith",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "appletun": {
+    "pokemon_id": 842,
+    "canonical_name": "Appletun",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "applin": {
+    "pokemon_id": 840,
+    "canonical_name": "Applin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "aqua breed tauros": {
+    "pokemon_id": 128,
+    "canonical_name": "Tauros",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "araquanid": {
+    "pokemon_id": 752,
+    "canonical_name": "Araquanid",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "arbok": {
+    "pokemon_id": 24,
+    "canonical_name": "Arbok",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "arboliva": {
+    "pokemon_id": 930,
+    "canonical_name": "Arboliva",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "arcanine": {
+    "pokemon_id": 59,
+    "canonical_name": "Arcanine",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "arceus": {
+    "pokemon_id": 493,
+    "canonical_name": "Arceus",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "archaludon": {
+    "pokemon_id": 1018,
+    "canonical_name": "Archaludon",
+    "reference_images": 7,
+    "test_images": 1
+  },
+  "archen": {
+    "pokemon_id": 566,
+    "canonical_name": "Archen",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "archeops": {
+    "pokemon_id": 567,
+    "canonical_name": "Archeops",
+    "reference_images": 39,
+    "test_images": 5
+  },
+  "arctibax": {
+    "pokemon_id": 997,
+    "canonical_name": "Arctibax",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "arctovish": {
+    "pokemon_id": 883,
+    "canonical_name": "Arctovish",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "arctozolt": {
+    "pokemon_id": 881,
+    "canonical_name": "Arctozolt",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "ariados": {
+    "pokemon_id": 168,
+    "canonical_name": "Ariados",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "armaldo": {
+    "pokemon_id": 348,
+    "canonical_name": "Armaldo",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "armarouge": {
+    "pokemon_id": 936,
+    "canonical_name": "Armarouge",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "aromatisse": {
+    "pokemon_id": 683,
+    "canonical_name": "Aromatisse",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "aron": {
+    "pokemon_id": 304,
+    "canonical_name": "Aron",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "arrokuda": {
+    "pokemon_id": 846,
+    "canonical_name": "Arrokuda",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "attack deoxys": {
+    "pokemon_id": 386,
+    "canonical_name": "Deoxys Normal",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "audino": {
+    "pokemon_id": 531,
+    "canonical_name": "Audino",
+    "reference_images": 39,
+    "test_images": 5
+  },
+  "aurorus": {
+    "pokemon_id": 699,
+    "canonical_name": "Aurorus",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "avalugg": {
+    "pokemon_id": 713,
+    "canonical_name": "Avalugg",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "axew": {
+    "pokemon_id": 610,
+    "canonical_name": "Axew",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "azelf": {
+    "pokemon_id": 482,
+    "canonical_name": "Azelf",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "azumarill": {
+    "pokemon_id": 184,
+    "canonical_name": "Azumarill",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "azurill": {
+    "pokemon_id": 298,
+    "canonical_name": "Azurill",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "bagon": {
+    "pokemon_id": 371,
+    "canonical_name": "Bagon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "baltoy": {
+    "pokemon_id": 343,
+    "canonical_name": "Baltoy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "banette": {
+    "pokemon_id": 354,
+    "canonical_name": "Banette",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "barbaracle": {
+    "pokemon_id": 689,
+    "canonical_name": "Barbaracle",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "barboach": {
+    "pokemon_id": 339,
+    "canonical_name": "Barboach",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "barraskewda": {
+    "pokemon_id": 847,
+    "canonical_name": "Barraskewda",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "basculegion": {
+    "pokemon_id": 902,
+    "canonical_name": "Basculegion Male",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "basculin": {
+    "pokemon_id": 550,
+    "canonical_name": "Basculin Red Striped",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "bastiodon": {
+    "pokemon_id": 411,
+    "canonical_name": "Bastiodon",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "baxcalibur": {
+    "pokemon_id": 998,
+    "canonical_name": "Baxcalibur",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "bayleef": {
+    "pokemon_id": 153,
+    "canonical_name": "Bayleef",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "beartic": {
+    "pokemon_id": 614,
+    "canonical_name": "Beartic",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "beautifly": {
+    "pokemon_id": 267,
+    "canonical_name": "Beautifly",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "beedrill": {
+    "pokemon_id": 15,
+    "canonical_name": "Beedrill",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "beheeyem": {
+    "pokemon_id": 606,
+    "canonical_name": "Beheeyem",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "beldum": {
+    "pokemon_id": 374,
+    "canonical_name": "Beldum",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bellibolt": {
+    "pokemon_id": 939,
+    "canonical_name": "Bellibolt",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bellossom": {
+    "pokemon_id": 182,
+    "canonical_name": "Bellossom",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "bellsprout": {
+    "pokemon_id": 69,
+    "canonical_name": "Bellsprout",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bergmite": {
+    "pokemon_id": 712,
+    "canonical_name": "Bergmite",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bewear": {
+    "pokemon_id": 760,
+    "canonical_name": "Bewear",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "bibarel": {
+    "pokemon_id": 400,
+    "canonical_name": "Bibarel",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "bidoof": {
+    "pokemon_id": 399,
+    "canonical_name": "Bidoof",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "binacle": {
+    "pokemon_id": 688,
+    "canonical_name": "Binacle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bisharp": {
+    "pokemon_id": 625,
+    "canonical_name": "Bisharp",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "blacephalon": {
+    "pokemon_id": 806,
+    "canonical_name": "Blacephalon",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "blade aegislash": {
+    "pokemon_id": 681,
+    "canonical_name": "Aegislash Shield",
+    "reference_images": 9,
+    "test_images": 1
+  },
+  "blastoise": {
+    "pokemon_id": 9,
+    "canonical_name": "Blastoise",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "blaze breed tauros": {
+    "pokemon_id": 128,
+    "canonical_name": "Tauros",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "blaziken": {
+    "pokemon_id": 257,
+    "canonical_name": "Blaziken",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "blipbug": {
+    "pokemon_id": 824,
+    "canonical_name": "Blipbug",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "blissey": {
+    "pokemon_id": 242,
+    "canonical_name": "Blissey",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "blitzle": {
+    "pokemon_id": 522,
+    "canonical_name": "Blitzle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bloodmoon ursaluna": {
+    "pokemon_id": 901,
+    "canonical_name": "Ursaluna",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "blue plumage squawkabilly": {
+    "pokemon_id": 931,
+    "canonical_name": "Squawkabilly Green Plumage",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "blue-striped basculin": {
+    "pokemon_id": 550,
+    "canonical_name": "Basculin Red Striped",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "boldore": {
+    "pokemon_id": 525,
+    "canonical_name": "Boldore",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "boltund": {
+    "pokemon_id": 836,
+    "canonical_name": "Boltund",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "bombirdier": {
+    "pokemon_id": 962,
+    "canonical_name": "Bombirdier",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bonsly": {
+    "pokemon_id": 438,
+    "canonical_name": "Bonsly",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "bouffalant": {
+    "pokemon_id": 626,
+    "canonical_name": "Bouffalant",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "bounsweet": {
+    "pokemon_id": 761,
+    "canonical_name": "Bounsweet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "braixen": {
+    "pokemon_id": 654,
+    "canonical_name": "Braixen",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "brambleghast": {
+    "pokemon_id": 947,
+    "canonical_name": "Brambleghast",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bramblin": {
+    "pokemon_id": 946,
+    "canonical_name": "Bramblin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "braviary": {
+    "pokemon_id": 628,
+    "canonical_name": "Braviary",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "breloom": {
+    "pokemon_id": 286,
+    "canonical_name": "Breloom",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "brionne": {
+    "pokemon_id": 729,
+    "canonical_name": "Brionne",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bronzong": {
+    "pokemon_id": 437,
+    "canonical_name": "Bronzong",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "bronzor": {
+    "pokemon_id": 436,
+    "canonical_name": "Bronzor",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bruxish": {
+    "pokemon_id": 779,
+    "canonical_name": "Bruxish",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "budew": {
+    "pokemon_id": 406,
+    "canonical_name": "Budew",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "buizel": {
+    "pokemon_id": 418,
+    "canonical_name": "Buizel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bulbasaur": {
+    "pokemon_id": 1,
+    "canonical_name": "Bulbasaur",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "buneary": {
+    "pokemon_id": 427,
+    "canonical_name": "Buneary",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "bunnelby": {
+    "pokemon_id": 659,
+    "canonical_name": "Bunnelby",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "burmy": {
+    "pokemon_id": 412,
+    "canonical_name": "Burmy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "butterfree": {
+    "pokemon_id": 12,
+    "canonical_name": "Butterfree",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "cacnea": {
+    "pokemon_id": 331,
+    "canonical_name": "Cacnea",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cacturne": {
+    "pokemon_id": 332,
+    "canonical_name": "Cacturne",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "calyrex": {
+    "pokemon_id": 898,
+    "canonical_name": "Calyrex",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "camerupt": {
+    "pokemon_id": 323,
+    "canonical_name": "Camerupt",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "capsakid": {
+    "pokemon_id": 951,
+    "canonical_name": "Capsakid",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "carbink": {
+    "pokemon_id": 703,
+    "canonical_name": "Carbink",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "carkol": {
+    "pokemon_id": 838,
+    "canonical_name": "Carkol",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "carnivine": {
+    "pokemon_id": 455,
+    "canonical_name": "Carnivine",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "carracosta": {
+    "pokemon_id": 565,
+    "canonical_name": "Carracosta",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "carvanha": {
+    "pokemon_id": 318,
+    "canonical_name": "Carvanha",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cascoon": {
+    "pokemon_id": 268,
+    "canonical_name": "Cascoon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "castform": {
+    "pokemon_id": 351,
+    "canonical_name": "Castform",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "caterpie": {
+    "pokemon_id": 10,
+    "canonical_name": "Caterpie",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "celebi": {
+    "pokemon_id": 251,
+    "canonical_name": "Celebi",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "celesteela": {
+    "pokemon_id": 797,
+    "canonical_name": "Celesteela",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "centiskorch": {
+    "pokemon_id": 851,
+    "canonical_name": "Centiskorch",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "ceruledge": {
+    "pokemon_id": 937,
+    "canonical_name": "Ceruledge",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cetitan": {
+    "pokemon_id": 975,
+    "canonical_name": "Cetitan",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cetoddle": {
+    "pokemon_id": 974,
+    "canonical_name": "Cetoddle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "chandelure": {
+    "pokemon_id": 609,
+    "canonical_name": "Chandelure",
+    "reference_images": 38,
+    "test_images": 5
+  },
+  "chansey": {
+    "pokemon_id": 113,
+    "canonical_name": "Chansey",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "charcadet": {
+    "pokemon_id": 935,
+    "canonical_name": "Charcadet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "charizard": {
+    "pokemon_id": 6,
+    "canonical_name": "Charizard",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "charjabug": {
+    "pokemon_id": 737,
+    "canonical_name": "Charjabug",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "charmander": {
+    "pokemon_id": 4,
+    "canonical_name": "Charmander",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "charmeleon": {
+    "pokemon_id": 5,
+    "canonical_name": "Charmeleon",
+    "reference_images": 61,
+    "test_images": 7
+  },
+  "chatot": {
+    "pokemon_id": 441,
+    "canonical_name": "Chatot",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "cherrim": {
+    "pokemon_id": 421,
+    "canonical_name": "Cherrim",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "cherubi": {
+    "pokemon_id": 420,
+    "canonical_name": "Cherubi",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "chesnaught": {
+    "pokemon_id": 652,
+    "canonical_name": "Chesnaught",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "chespin": {
+    "pokemon_id": 650,
+    "canonical_name": "Chespin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "chewtle": {
+    "pokemon_id": 833,
+    "canonical_name": "Chewtle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "chi-yu": {
+    "pokemon_id": 1004,
+    "canonical_name": "Chi Yu",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "chien-pao": {
+    "pokemon_id": 1002,
+    "canonical_name": "Chien Pao",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "chikorita": {
+    "pokemon_id": 152,
+    "canonical_name": "Chikorita",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "chimchar": {
+    "pokemon_id": 390,
+    "canonical_name": "Chimchar",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "chimecho": {
+    "pokemon_id": 358,
+    "canonical_name": "Chimecho",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "chinchou": {
+    "pokemon_id": 170,
+    "canonical_name": "Chinchou",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "chingling": {
+    "pokemon_id": 433,
+    "canonical_name": "Chingling",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "cinccino": {
+    "pokemon_id": 573,
+    "canonical_name": "Cinccino",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "cinderace": {
+    "pokemon_id": 815,
+    "canonical_name": "Cinderace",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "clamperl": {
+    "pokemon_id": 366,
+    "canonical_name": "Clamperl",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "clauncher": {
+    "pokemon_id": 692,
+    "canonical_name": "Clauncher",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "clawitzer": {
+    "pokemon_id": 693,
+    "canonical_name": "Clawitzer",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "claydol": {
+    "pokemon_id": 344,
+    "canonical_name": "Claydol",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "clefable": {
+    "pokemon_id": 36,
+    "canonical_name": "Clefable",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "clefairy": {
+    "pokemon_id": 35,
+    "canonical_name": "Clefairy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cleffa": {
+    "pokemon_id": 173,
+    "canonical_name": "Cleffa",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "clobbopus": {
+    "pokemon_id": 852,
+    "canonical_name": "Clobbopus",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "clodsire": {
+    "pokemon_id": 980,
+    "canonical_name": "Clodsire",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cloyster": {
+    "pokemon_id": 91,
+    "canonical_name": "Cloyster",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "coalossal": {
+    "pokemon_id": 839,
+    "canonical_name": "Coalossal",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "cobalion": {
+    "pokemon_id": 638,
+    "canonical_name": "Cobalion",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "cofagrigus": {
+    "pokemon_id": 563,
+    "canonical_name": "Cofagrigus",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "combat breed tauros": {
+    "pokemon_id": 128,
+    "canonical_name": "Tauros",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "combee": {
+    "pokemon_id": 415,
+    "canonical_name": "Combee",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "combusken": {
+    "pokemon_id": 256,
+    "canonical_name": "Combusken",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "comfey": {
+    "pokemon_id": 764,
+    "canonical_name": "Comfey",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "complete zygarde": {
+    "pokemon_id": 718,
+    "canonical_name": "Zygarde 50",
+    "reference_images": 54,
+    "test_images": 7
+  },
+  "conkeldurr": {
+    "pokemon_id": 534,
+    "canonical_name": "Conkeldurr",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "copperajah": {
+    "pokemon_id": 879,
+    "canonical_name": "Copperajah",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "cornerstone mask ogerpon": {
+    "pokemon_id": 1017,
+    "canonical_name": "Ogerpon",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "corphish": {
+    "pokemon_id": 341,
+    "canonical_name": "Corphish",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "corsola": {
+    "pokemon_id": 222,
+    "canonical_name": "Corsola",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "corviknight": {
+    "pokemon_id": 823,
+    "canonical_name": "Corviknight",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "corvisquire": {
+    "pokemon_id": 822,
+    "canonical_name": "Corvisquire",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cosmoem": {
+    "pokemon_id": 790,
+    "canonical_name": "Cosmoem",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "cosmog": {
+    "pokemon_id": 789,
+    "canonical_name": "Cosmog",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "cottonee": {
+    "pokemon_id": 546,
+    "canonical_name": "Cottonee",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "crabominable": {
+    "pokemon_id": 740,
+    "canonical_name": "Crabominable",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "crabrawler": {
+    "pokemon_id": 739,
+    "canonical_name": "Crabrawler",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cracked ditto": {
+    "pokemon_id": 132,
+    "canonical_name": "Ditto",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "cradily": {
+    "pokemon_id": 346,
+    "canonical_name": "Cradily",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "cramorant": {
+    "pokemon_id": 845,
+    "canonical_name": "Cramorant",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "cranidos": {
+    "pokemon_id": 408,
+    "canonical_name": "Cranidos",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "crawdaunt": {
+    "pokemon_id": 342,
+    "canonical_name": "Crawdaunt",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "cresselia": {
+    "pokemon_id": 488,
+    "canonical_name": "Cresselia",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "croagunk": {
+    "pokemon_id": 453,
+    "canonical_name": "Croagunk",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "crobat": {
+    "pokemon_id": 169,
+    "canonical_name": "Crobat",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "crocalor": {
+    "pokemon_id": 910,
+    "canonical_name": "Crocalor",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "croconaw": {
+    "pokemon_id": 159,
+    "canonical_name": "Croconaw",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "crustle": {
+    "pokemon_id": 558,
+    "canonical_name": "Crustle",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "cryogonal": {
+    "pokemon_id": 615,
+    "canonical_name": "Cryogonal",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "cubchoo": {
+    "pokemon_id": 613,
+    "canonical_name": "Cubchoo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cubone": {
+    "pokemon_id": 104,
+    "canonical_name": "Cubone",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cufant": {
+    "pokemon_id": 878,
+    "canonical_name": "Cufant",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cursola": {
+    "pokemon_id": 864,
+    "canonical_name": "Cursola",
+    "reference_images": 8,
+    "test_images": 1
+  },
+  "cutiefly": {
+    "pokemon_id": 742,
+    "canonical_name": "Cutiefly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cyclizar": {
+    "pokemon_id": 967,
+    "canonical_name": "Cyclizar",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "cyndaquil": {
+    "pokemon_id": 155,
+    "canonical_name": "Cyndaquil",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dachsbun": {
+    "pokemon_id": 927,
+    "canonical_name": "Dachsbun",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dada zarude": {
+    "pokemon_id": 893,
+    "canonical_name": "Zarude",
+    "reference_images": 8,
+    "test_images": 1
+  },
+  "darkrai": {
+    "pokemon_id": 491,
+    "canonical_name": "Darkrai",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "darmanitan": {
+    "pokemon_id": 555,
+    "canonical_name": "Darmanitan Standard",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "dartrix": {
+    "pokemon_id": 723,
+    "canonical_name": "Dartrix",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "darumaka": {
+    "pokemon_id": 554,
+    "canonical_name": "Darumaka",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "decidueye": {
+    "pokemon_id": 724,
+    "canonical_name": "Decidueye",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "dedenne": {
+    "pokemon_id": 702,
+    "canonical_name": "Dedenne",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "deerling": {
+    "pokemon_id": 585,
+    "canonical_name": "Deerling",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "defense deoxys": {
+    "pokemon_id": 386,
+    "canonical_name": "Deoxys Normal",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "deino": {
+    "pokemon_id": 633,
+    "canonical_name": "Deino",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "delcatty": {
+    "pokemon_id": 301,
+    "canonical_name": "Delcatty",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "delibird": {
+    "pokemon_id": 225,
+    "canonical_name": "Delibird",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "delphox": {
+    "pokemon_id": 655,
+    "canonical_name": "Delphox",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "deoxys": {
+    "pokemon_id": 386,
+    "canonical_name": "Deoxys Normal",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "dewgong": {
+    "pokemon_id": 87,
+    "canonical_name": "Dewgong",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "dewott": {
+    "pokemon_id": 502,
+    "canonical_name": "Dewott",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dewpider": {
+    "pokemon_id": 751,
+    "canonical_name": "Dewpider",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dhelmise": {
+    "pokemon_id": 781,
+    "canonical_name": "Dhelmise",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "dialga": {
+    "pokemon_id": 483,
+    "canonical_name": "Dialga",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "diancie": {
+    "pokemon_id": 719,
+    "canonical_name": "Diancie",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "diggersby": {
+    "pokemon_id": 660,
+    "canonical_name": "Diggersby",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "diglett": {
+    "pokemon_id": 50,
+    "canonical_name": "Diglett",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dipplin": {
+    "pokemon_id": 1011,
+    "canonical_name": "Dipplin",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "ditto": {
+    "pokemon_id": 132,
+    "canonical_name": "Ditto",
+    "reference_images": 40,
+    "test_images": 5
+  },
+  "dodrio": {
+    "pokemon_id": 85,
+    "canonical_name": "Dodrio",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "doduo": {
+    "pokemon_id": 84,
+    "canonical_name": "Doduo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dolliv": {
+    "pokemon_id": 929,
+    "canonical_name": "Dolliv",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dondozo": {
+    "pokemon_id": 977,
+    "canonical_name": "Dondozo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "donphan": {
+    "pokemon_id": 232,
+    "canonical_name": "Donphan",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "dottler": {
+    "pokemon_id": 825,
+    "canonical_name": "Dottler",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "doublade": {
+    "pokemon_id": 680,
+    "canonical_name": "Doublade",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dracovish": {
+    "pokemon_id": 882,
+    "canonical_name": "Dracovish",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "dracozolt": {
+    "pokemon_id": 880,
+    "canonical_name": "Dracozolt",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "dragalge": {
+    "pokemon_id": 691,
+    "canonical_name": "Dragalge",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "dragapult": {
+    "pokemon_id": 887,
+    "canonical_name": "Dragapult",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "dragonair": {
+    "pokemon_id": 148,
+    "canonical_name": "Dragonair",
+    "reference_images": 72,
+    "test_images": 9
+  },
+  "dragonite": {
+    "pokemon_id": 149,
+    "canonical_name": "Dragonite",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "drakloak": {
+    "pokemon_id": 886,
+    "canonical_name": "Drakloak",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "drampa": {
+    "pokemon_id": 780,
+    "canonical_name": "Drampa",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "drapion": {
+    "pokemon_id": 452,
+    "canonical_name": "Drapion",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "dratini": {
+    "pokemon_id": 147,
+    "canonical_name": "Dratini",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "drednaw": {
+    "pokemon_id": 834,
+    "canonical_name": "Drednaw",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "dreepy": {
+    "pokemon_id": 885,
+    "canonical_name": "Dreepy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "drifblim": {
+    "pokemon_id": 426,
+    "canonical_name": "Drifblim",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "drifloon": {
+    "pokemon_id": 425,
+    "canonical_name": "Drifloon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "drilbur": {
+    "pokemon_id": 529,
+    "canonical_name": "Drilbur",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "drizzile": {
+    "pokemon_id": 817,
+    "canonical_name": "Drizzile",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "droopy tatsugiri": {
+    "pokemon_id": 978,
+    "canonical_name": "Tatsugiri Curly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "drowzee": {
+    "pokemon_id": 96,
+    "canonical_name": "Drowzee",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "druddigon": {
+    "pokemon_id": 621,
+    "canonical_name": "Druddigon",
+    "reference_images": 18,
+    "test_images": 2
+  },
+  "dubwool": {
+    "pokemon_id": 832,
+    "canonical_name": "Dubwool",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "ducklett": {
+    "pokemon_id": 580,
+    "canonical_name": "Ducklett",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dudunsparce": {
+    "pokemon_id": 982,
+    "canonical_name": "Dudunsparce Two Segment",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dugtrio": {
+    "pokemon_id": 51,
+    "canonical_name": "Dugtrio",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "dunsparce": {
+    "pokemon_id": 206,
+    "canonical_name": "Dunsparce",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "duosion": {
+    "pokemon_id": 578,
+    "canonical_name": "Duosion",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "duraludon": {
+    "pokemon_id": 884,
+    "canonical_name": "Duraludon",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "durant": {
+    "pokemon_id": 632,
+    "canonical_name": "Durant",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "dusclops": {
+    "pokemon_id": 356,
+    "canonical_name": "Dusclops",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dusk lycanroc": {
+    "pokemon_id": 745,
+    "canonical_name": "Lycanroc Midday",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "dusknoir": {
+    "pokemon_id": 477,
+    "canonical_name": "Dusknoir",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "duskull": {
+    "pokemon_id": 355,
+    "canonical_name": "Duskull",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "dustox": {
+    "pokemon_id": 269,
+    "canonical_name": "Dustox",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "dwebble": {
+    "pokemon_id": 557,
+    "canonical_name": "Dwebble",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "easter bidoof": {
+    "pokemon_id": 399,
+    "canonical_name": "Bidoof",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "eelektrik": {
+    "pokemon_id": 603,
+    "canonical_name": "Eelektrik",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "eelektross": {
+    "pokemon_id": 604,
+    "canonical_name": "Eelektross",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "eevee": {
+    "pokemon_id": 133,
+    "canonical_name": "Eevee",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "egg nest lapras": {
+    "pokemon_id": 131,
+    "canonical_name": "Lapras",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "eiscue": {
+    "pokemon_id": 875,
+    "canonical_name": "Eiscue Ice",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "ekans": {
+    "pokemon_id": 23,
+    "canonical_name": "Ekans",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "eldegoss": {
+    "pokemon_id": 830,
+    "canonical_name": "Eldegoss",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "electabuzz": {
+    "pokemon_id": 125,
+    "canonical_name": "Electabuzz",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "electivire": {
+    "pokemon_id": 466,
+    "canonical_name": "Electivire",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "electrike": {
+    "pokemon_id": 309,
+    "canonical_name": "Electrike",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "electrode": {
+    "pokemon_id": 101,
+    "canonical_name": "Electrode",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "elekid": {
+    "pokemon_id": 239,
+    "canonical_name": "Elekid",
+    "reference_images": 18,
+    "test_images": 3
+  },
+  "elgyem": {
+    "pokemon_id": 605,
+    "canonical_name": "Elgyem",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "emboar": {
+    "pokemon_id": 500,
+    "canonical_name": "Emboar",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "emolga": {
+    "pokemon_id": 587,
+    "canonical_name": "Emolga",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "empoleon": {
+    "pokemon_id": 395,
+    "canonical_name": "Empoleon",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "enamorus": {
+    "pokemon_id": 905,
+    "canonical_name": "Enamorus Incarnate",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "entei": {
+    "pokemon_id": 244,
+    "canonical_name": "Entei",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "escavalier": {
+    "pokemon_id": 589,
+    "canonical_name": "Escavalier",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "espathra": {
+    "pokemon_id": 956,
+    "canonical_name": "Espathra",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "espeon": {
+    "pokemon_id": 196,
+    "canonical_name": "Espeon",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "espurr": {
+    "pokemon_id": 677,
+    "canonical_name": "Espurr",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "excadrill": {
+    "pokemon_id": 530,
+    "canonical_name": "Excadrill",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "exeggcute": {
+    "pokemon_id": 102,
+    "canonical_name": "Exeggcute",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "exeggutor": {
+    "pokemon_id": 103,
+    "canonical_name": "Exeggutor",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "exploud": {
+    "pokemon_id": 295,
+    "canonical_name": "Exploud",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "falinks": {
+    "pokemon_id": 870,
+    "canonical_name": "Falinks",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "family of three maushold": {
+    "pokemon_id": 925,
+    "canonical_name": "Maushold Family Of Four",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "fan rotom": {
+    "pokemon_id": 479,
+    "canonical_name": "Rotom",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "farfetch'd": {
+    "pokemon_id": 83,
+    "canonical_name": "Farfetchd",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "farigiraf": {
+    "pokemon_id": 981,
+    "canonical_name": "Farigiraf",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "fearow": {
+    "pokemon_id": 22,
+    "canonical_name": "Fearow",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "feebas": {
+    "pokemon_id": 349,
+    "canonical_name": "Feebas",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "fennekin": {
+    "pokemon_id": 653,
+    "canonical_name": "Fennekin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "feraligatr": {
+    "pokemon_id": 160,
+    "canonical_name": "Feraligatr",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "ferroseed": {
+    "pokemon_id": 597,
+    "canonical_name": "Ferroseed",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "ferrothorn": {
+    "pokemon_id": 598,
+    "canonical_name": "Ferrothorn",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "fezandipiti": {
+    "pokemon_id": 1016,
+    "canonical_name": "Fezandipiti",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "fidough": {
+    "pokemon_id": 926,
+    "canonical_name": "Fidough",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "finizen": {
+    "pokemon_id": 963,
+    "canonical_name": "Finizen",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "finneon": {
+    "pokemon_id": 456,
+    "canonical_name": "Finneon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "flaaffy": {
+    "pokemon_id": 180,
+    "canonical_name": "Flaaffy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "flabebe": {
+    "pokemon_id": 669,
+    "canonical_name": "Flabebe",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "flamigo": {
+    "pokemon_id": 973,
+    "canonical_name": "Flamigo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "flapple": {
+    "pokemon_id": 841,
+    "canonical_name": "Flapple",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "flareon": {
+    "pokemon_id": 136,
+    "canonical_name": "Flareon",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "fletchinder": {
+    "pokemon_id": 662,
+    "canonical_name": "Fletchinder",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "fletchling": {
+    "pokemon_id": 661,
+    "canonical_name": "Fletchling",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "flittle": {
+    "pokemon_id": 955,
+    "canonical_name": "Flittle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "floatzel": {
+    "pokemon_id": 419,
+    "canonical_name": "Floatzel",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "floette": {
+    "pokemon_id": 670,
+    "canonical_name": "Floette",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "floragato": {
+    "pokemon_id": 907,
+    "canonical_name": "Floragato",
+    "reference_images": 78,
+    "test_images": 9
+  },
+  "florges": {
+    "pokemon_id": 671,
+    "canonical_name": "Florges",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "flygon": {
+    "pokemon_id": 330,
+    "canonical_name": "Flygon",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "fomantis": {
+    "pokemon_id": 753,
+    "canonical_name": "Fomantis",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "foongus": {
+    "pokemon_id": 590,
+    "canonical_name": "Foongus",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "forretress": {
+    "pokemon_id": 205,
+    "canonical_name": "Forretress",
+    "reference_images": 39,
+    "test_images": 5
+  },
+  "fraxure": {
+    "pokemon_id": 611,
+    "canonical_name": "Fraxure",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "frigibax": {
+    "pokemon_id": 996,
+    "canonical_name": "Frigibax",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "frillish": {
+    "pokemon_id": 592,
+    "canonical_name": "Frillish Male",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "froakie": {
+    "pokemon_id": 656,
+    "canonical_name": "Froakie",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "frogadier": {
+    "pokemon_id": 657,
+    "canonical_name": "Frogadier",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "froslass": {
+    "pokemon_id": 478,
+    "canonical_name": "Froslass",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "frosmoth": {
+    "pokemon_id": 873,
+    "canonical_name": "Frosmoth",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "frost rotom": {
+    "pokemon_id": 479,
+    "canonical_name": "Rotom",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "fuecoco": {
+    "pokemon_id": 909,
+    "canonical_name": "Fuecoco",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "furfrou": {
+    "pokemon_id": 676,
+    "canonical_name": "Furfrou",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "furret": {
+    "pokemon_id": 162,
+    "canonical_name": "Furret",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "gabite": {
+    "pokemon_id": 444,
+    "canonical_name": "Gabite",
+    "reference_images": 80,
+    "test_images": 9
+  },
+  "galarian corsola": {
+    "pokemon_id": 222,
+    "canonical_name": "Corsola",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "galarian darmanitan": {
+    "pokemon_id": 555,
+    "canonical_name": "Darmanitan Standard",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "galarian darumaka": {
+    "pokemon_id": 554,
+    "canonical_name": "Darumaka",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "galarian farfetch'd": {
+    "pokemon_id": 83,
+    "canonical_name": "Farfetchd",
+    "reference_images": 9,
+    "test_images": 1
+  },
+  "galarian linoone": {
+    "pokemon_id": 264,
+    "canonical_name": "Linoone",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "galarian meowth": {
+    "pokemon_id": 52,
+    "canonical_name": "Meowth",
+    "reference_images": 7,
+    "test_images": 1
+  },
+  "galarian mr. mime": {
+    "pokemon_id": 122,
+    "canonical_name": "Mr Mime",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "galarian ponyta": {
+    "pokemon_id": 77,
+    "canonical_name": "Ponyta",
+    "reference_images": 11,
+    "test_images": 2
+  },
+  "galarian rapidash": {
+    "pokemon_id": 78,
+    "canonical_name": "Rapidash",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "galarian slowbro": {
+    "pokemon_id": 80,
+    "canonical_name": "Slowbro",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "galarian slowking": {
+    "pokemon_id": 199,
+    "canonical_name": "Slowking",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "galarian slowpoke": {
+    "pokemon_id": 79,
+    "canonical_name": "Slowpoke",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "galarian stunfisk": {
+    "pokemon_id": 618,
+    "canonical_name": "Stunfisk",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "galarian weezing": {
+    "pokemon_id": 110,
+    "canonical_name": "Weezing",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "galarian yamask": {
+    "pokemon_id": 562,
+    "canonical_name": "Yamask",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "galarian zapdos": {
+    "pokemon_id": 145,
+    "canonical_name": "Zapdos",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "galarian zen darmanitan": {
+    "pokemon_id": 555,
+    "canonical_name": "Darmanitan Standard",
+    "reference_images": 10,
+    "test_images": 2
+  },
+  "galarian zigzagoon": {
+    "pokemon_id": 263,
+    "canonical_name": "Zigzagoon",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "gallade": {
+    "pokemon_id": 475,
+    "canonical_name": "Gallade",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "galvantula": {
+    "pokemon_id": 596,
+    "canonical_name": "Galvantula",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "garbodor": {
+    "pokemon_id": 569,
+    "canonical_name": "Garbodor",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "garchomp": {
+    "pokemon_id": 445,
+    "canonical_name": "Garchomp",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "gardevoir": {
+    "pokemon_id": 282,
+    "canonical_name": "Gardevoir",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "garganacl": {
+    "pokemon_id": 934,
+    "canonical_name": "Garganacl",
+    "reference_images": 41,
+    "test_images": 5
+  },
+  "gastly": {
+    "pokemon_id": 92,
+    "canonical_name": "Gastly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gastrodon": {
+    "pokemon_id": 423,
+    "canonical_name": "Gastrodon",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "genesect": {
+    "pokemon_id": 649,
+    "canonical_name": "Genesect",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "gengar": {
+    "pokemon_id": 94,
+    "canonical_name": "Gengar",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "geodude": {
+    "pokemon_id": 74,
+    "canonical_name": "Geodude",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gholdengo": {
+    "pokemon_id": 1000,
+    "canonical_name": "Gholdengo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gible": {
+    "pokemon_id": 443,
+    "canonical_name": "Gible",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gigalith": {
+    "pokemon_id": 526,
+    "canonical_name": "Gigalith",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "gimmighoul": {
+    "pokemon_id": 999,
+    "canonical_name": "Gimmighoul",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "girafarig": {
+    "pokemon_id": 203,
+    "canonical_name": "Girafarig",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "giratina": {
+    "pokemon_id": 487,
+    "canonical_name": "Giratina Altered",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "glaceon": {
+    "pokemon_id": 471,
+    "canonical_name": "Glaceon",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "glalie": {
+    "pokemon_id": 362,
+    "canonical_name": "Glalie",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "glameow": {
+    "pokemon_id": 431,
+    "canonical_name": "Glameow",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "glastrier": {
+    "pokemon_id": 896,
+    "canonical_name": "Glastrier",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "gligar": {
+    "pokemon_id": 207,
+    "canonical_name": "Gligar",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "glimmet": {
+    "pokemon_id": 969,
+    "canonical_name": "Glimmet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "glimmora": {
+    "pokemon_id": 970,
+    "canonical_name": "Glimmora",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gliscor": {
+    "pokemon_id": 472,
+    "canonical_name": "Gliscor",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "gloom": {
+    "pokemon_id": 44,
+    "canonical_name": "Gloom",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gogoat": {
+    "pokemon_id": 673,
+    "canonical_name": "Gogoat",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "golbat": {
+    "pokemon_id": 42,
+    "canonical_name": "Golbat",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "goldeen": {
+    "pokemon_id": 118,
+    "canonical_name": "Goldeen",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "golduck": {
+    "pokemon_id": 55,
+    "canonical_name": "Golduck",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "golem": {
+    "pokemon_id": 76,
+    "canonical_name": "Golem",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "golett": {
+    "pokemon_id": 622,
+    "canonical_name": "Golett",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "golisopod": {
+    "pokemon_id": 768,
+    "canonical_name": "Golisopod",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "golurk": {
+    "pokemon_id": 623,
+    "canonical_name": "Golurk",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "goodra": {
+    "pokemon_id": 706,
+    "canonical_name": "Goodra",
+    "reference_images": 18,
+    "test_images": 2
+  },
+  "goomy": {
+    "pokemon_id": 704,
+    "canonical_name": "Goomy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gorebyss": {
+    "pokemon_id": 368,
+    "canonical_name": "Gorebyss",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "gorging cramorant": {
+    "pokemon_id": 845,
+    "canonical_name": "Cramorant",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "gossifleur": {
+    "pokemon_id": 829,
+    "canonical_name": "Gossifleur",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gothita": {
+    "pokemon_id": 574,
+    "canonical_name": "Gothita",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gothitelle": {
+    "pokemon_id": 576,
+    "canonical_name": "Gothitelle",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "gothorita": {
+    "pokemon_id": 575,
+    "canonical_name": "Gothorita",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gouging fire": {
+    "pokemon_id": 1020,
+    "canonical_name": "Gouging Fire",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "gourgeist": {
+    "pokemon_id": 711,
+    "canonical_name": "Gourgeist Average",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "grafaiai": {
+    "pokemon_id": 945,
+    "canonical_name": "Grafaiai",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "granbull": {
+    "pokemon_id": 210,
+    "canonical_name": "Granbull",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "grapploct": {
+    "pokemon_id": 853,
+    "canonical_name": "Grapploct",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "graveler": {
+    "pokemon_id": 75,
+    "canonical_name": "Graveler",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "great tusk": {
+    "pokemon_id": 984,
+    "canonical_name": "Great Tusk",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "greavard": {
+    "pokemon_id": 971,
+    "canonical_name": "Greavard",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "greedent": {
+    "pokemon_id": 820,
+    "canonical_name": "Greedent",
+    "reference_images": 41,
+    "test_images": 5
+  },
+  "greninja": {
+    "pokemon_id": 658,
+    "canonical_name": "Greninja",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "grimer": {
+    "pokemon_id": 88,
+    "canonical_name": "Grimer",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "grimmsnarl": {
+    "pokemon_id": 861,
+    "canonical_name": "Grimmsnarl",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "grookey": {
+    "pokemon_id": 810,
+    "canonical_name": "Grookey",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "grotle": {
+    "pokemon_id": 388,
+    "canonical_name": "Grotle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "groudon": {
+    "pokemon_id": 383,
+    "canonical_name": "Groudon",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "grovyle": {
+    "pokemon_id": 253,
+    "canonical_name": "Grovyle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "growlithe": {
+    "pokemon_id": 58,
+    "canonical_name": "Growlithe",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "grubbin": {
+    "pokemon_id": 736,
+    "canonical_name": "Grubbin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "grumpig": {
+    "pokemon_id": 326,
+    "canonical_name": "Grumpig",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "gulpin": {
+    "pokemon_id": 316,
+    "canonical_name": "Gulpin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "gulping cramorant": {
+    "pokemon_id": 845,
+    "canonical_name": "Cramorant",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "gumshoos": {
+    "pokemon_id": 735,
+    "canonical_name": "Gumshoos",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "gurdurr": {
+    "pokemon_id": 533,
+    "canonical_name": "Gurdurr",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "guzzlord": {
+    "pokemon_id": 799,
+    "canonical_name": "Guzzlord",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "gyarados": {
+    "pokemon_id": 130,
+    "canonical_name": "Gyarados",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "hakamo-o": {
+    "pokemon_id": 783,
+    "canonical_name": "Hakamo O",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "hangry morpeko": {
+    "pokemon_id": 877,
+    "canonical_name": "Morpeko Full Belly",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "happiny": {
+    "pokemon_id": 440,
+    "canonical_name": "Happiny",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "hariyama": {
+    "pokemon_id": 297,
+    "canonical_name": "Hariyama",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "hatenna": {
+    "pokemon_id": 856,
+    "canonical_name": "Hatenna",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "hatterene": {
+    "pokemon_id": 858,
+    "canonical_name": "Hatterene",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "hattrem": {
+    "pokemon_id": 857,
+    "canonical_name": "Hattrem",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "haunter": {
+    "pokemon_id": 93,
+    "canonical_name": "Haunter",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "hawlucha": {
+    "pokemon_id": 701,
+    "canonical_name": "Hawlucha",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "haxorus": {
+    "pokemon_id": 612,
+    "canonical_name": "Haxorus",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "hearthflame mask ogerpon": {
+    "pokemon_id": 1017,
+    "canonical_name": "Ogerpon",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "heat rotom": {
+    "pokemon_id": 479,
+    "canonical_name": "Rotom",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "heatmor": {
+    "pokemon_id": 631,
+    "canonical_name": "Heatmor",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "heatran": {
+    "pokemon_id": 485,
+    "canonical_name": "Heatran",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "heliolisk": {
+    "pokemon_id": 695,
+    "canonical_name": "Heliolisk",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "helioptile": {
+    "pokemon_id": 694,
+    "canonical_name": "Helioptile",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "heracross": {
+    "pokemon_id": 214,
+    "canonical_name": "Heracross",
+    "reference_images": 18,
+    "test_images": 3
+  },
+  "herdier": {
+    "pokemon_id": 507,
+    "canonical_name": "Herdier",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "hero palafin": {
+    "pokemon_id": 964,
+    "canonical_name": "Palafin Zero",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "hippopotas": {
+    "pokemon_id": 449,
+    "canonical_name": "Hippopotas",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "hippowdon": {
+    "pokemon_id": 450,
+    "canonical_name": "Hippowdon",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "hisuian arcanine": {
+    "pokemon_id": 59,
+    "canonical_name": "Arcanine",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "hisuian avalugg": {
+    "pokemon_id": 713,
+    "canonical_name": "Avalugg",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "hisuian braviary": {
+    "pokemon_id": 628,
+    "canonical_name": "Braviary",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "hisuian decidueye": {
+    "pokemon_id": 724,
+    "canonical_name": "Decidueye",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "hisuian electrode": {
+    "pokemon_id": 101,
+    "canonical_name": "Electrode",
+    "reference_images": 7,
+    "test_images": 1
+  },
+  "hisuian goodra": {
+    "pokemon_id": 706,
+    "canonical_name": "Goodra",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "hisuian growlithe": {
+    "pokemon_id": 58,
+    "canonical_name": "Growlithe",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "hisuian lilligant": {
+    "pokemon_id": 549,
+    "canonical_name": "Lilligant",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "hisuian qwilfish": {
+    "pokemon_id": 211,
+    "canonical_name": "Qwilfish",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "hisuian samurott": {
+    "pokemon_id": 503,
+    "canonical_name": "Samurott",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "hisuian sliggoo": {
+    "pokemon_id": 705,
+    "canonical_name": "Sliggoo",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "hisuian sneasel": {
+    "pokemon_id": 215,
+    "canonical_name": "Sneasel",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "hisuian typhlosion": {
+    "pokemon_id": 157,
+    "canonical_name": "Typhlosion",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "hisuian voltorb": {
+    "pokemon_id": 100,
+    "canonical_name": "Voltorb",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "hisuian zoroark": {
+    "pokemon_id": 571,
+    "canonical_name": "Zoroark",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "hisuian zorua": {
+    "pokemon_id": 570,
+    "canonical_name": "Zorua",
+    "reference_images": 9,
+    "test_images": 1
+  },
+  "hitmonchan": {
+    "pokemon_id": 107,
+    "canonical_name": "Hitmonchan",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "hitmonlee": {
+    "pokemon_id": 106,
+    "canonical_name": "Hitmonlee",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "hitmontop": {
+    "pokemon_id": 237,
+    "canonical_name": "Hitmontop",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "ho-oh": {
+    "pokemon_id": 250,
+    "canonical_name": "Ho Oh",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "honchkrow": {
+    "pokemon_id": 430,
+    "canonical_name": "Honchkrow",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "honedge": {
+    "pokemon_id": 679,
+    "canonical_name": "Honedge",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "hoopa": {
+    "pokemon_id": 720,
+    "canonical_name": "Hoopa",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "hoothoot": {
+    "pokemon_id": 163,
+    "canonical_name": "Hoothoot",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "hoppip": {
+    "pokemon_id": 187,
+    "canonical_name": "Hoppip",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "horsea": {
+    "pokemon_id": 116,
+    "canonical_name": "Horsea",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "houndoom": {
+    "pokemon_id": 229,
+    "canonical_name": "Houndoom",
+    "reference_images": 18,
+    "test_images": 3
+  },
+  "houndour": {
+    "pokemon_id": 228,
+    "canonical_name": "Houndour",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "houndstone": {
+    "pokemon_id": 972,
+    "canonical_name": "Houndstone",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "huntail": {
+    "pokemon_id": 367,
+    "canonical_name": "Huntail",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "hydrapple": {
+    "pokemon_id": 1019,
+    "canonical_name": "Hydrapple",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "hydreigon": {
+    "pokemon_id": 635,
+    "canonical_name": "Hydreigon",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "hypno": {
+    "pokemon_id": 97,
+    "canonical_name": "Hypno",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "igglybuff": {
+    "pokemon_id": 174,
+    "canonical_name": "Igglybuff",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "illumise": {
+    "pokemon_id": 314,
+    "canonical_name": "Illumise",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "impidimp": {
+    "pokemon_id": 859,
+    "canonical_name": "Impidimp",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "incineroar": {
+    "pokemon_id": 727,
+    "canonical_name": "Incineroar",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "indeedee": {
+    "pokemon_id": 876,
+    "canonical_name": "Indeedee Male",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "infernape": {
+    "pokemon_id": 392,
+    "canonical_name": "Infernape",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "inkay": {
+    "pokemon_id": 686,
+    "canonical_name": "Inkay",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "inteleon": {
+    "pokemon_id": 818,
+    "canonical_name": "Inteleon",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "iron boulder": {
+    "pokemon_id": 1022,
+    "canonical_name": "Iron Boulder",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "iron bundle": {
+    "pokemon_id": 991,
+    "canonical_name": "Iron Bundle",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "iron crown": {
+    "pokemon_id": 1023,
+    "canonical_name": "Iron Crown",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "iron hands": {
+    "pokemon_id": 992,
+    "canonical_name": "Iron Hands",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "iron jugulis": {
+    "pokemon_id": 993,
+    "canonical_name": "Iron Jugulis",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "iron leaves": {
+    "pokemon_id": 1010,
+    "canonical_name": "Iron Leaves",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "iron moth": {
+    "pokemon_id": 994,
+    "canonical_name": "Iron Moth",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "iron thorns": {
+    "pokemon_id": 995,
+    "canonical_name": "Iron Thorns",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "iron valiant": {
+    "pokemon_id": 1006,
+    "canonical_name": "Iron Valiant",
+    "reference_images": 8,
+    "test_images": 1
+  },
+  "ivysaur": {
+    "pokemon_id": 2,
+    "canonical_name": "Ivysaur",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "jangmo-o": {
+    "pokemon_id": 782,
+    "canonical_name": "Jangmo O",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "jellicent": {
+    "pokemon_id": 593,
+    "canonical_name": "Jellicent Male",
+    "reference_images": 42,
+    "test_images": 5
+  },
+  "jigglypuff": {
+    "pokemon_id": 39,
+    "canonical_name": "Jigglypuff",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "jirachi": {
+    "pokemon_id": 385,
+    "canonical_name": "Jirachi",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "jolteon": {
+    "pokemon_id": 135,
+    "canonical_name": "Jolteon",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "joltik": {
+    "pokemon_id": 595,
+    "canonical_name": "Joltik",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "jumpluff": {
+    "pokemon_id": 189,
+    "canonical_name": "Jumpluff",
+    "reference_images": 18,
+    "test_images": 3
+  },
+  "jynx": {
+    "pokemon_id": 124,
+    "canonical_name": "Jynx",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "kabuto": {
+    "pokemon_id": 140,
+    "canonical_name": "Kabuto",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kabutops": {
+    "pokemon_id": 141,
+    "canonical_name": "Kabutops",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "kadabra": {
+    "pokemon_id": 64,
+    "canonical_name": "Kadabra",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kakuna": {
+    "pokemon_id": 14,
+    "canonical_name": "Kakuna",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kangaskhan": {
+    "pokemon_id": 115,
+    "canonical_name": "Kangaskhan",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "karrablast": {
+    "pokemon_id": 588,
+    "canonical_name": "Karrablast",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kartana": {
+    "pokemon_id": 798,
+    "canonical_name": "Kartana",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "kecleon": {
+    "pokemon_id": 352,
+    "canonical_name": "Kecleon",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "keldeo": {
+    "pokemon_id": 647,
+    "canonical_name": "Keldeo Ordinary",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "kilowattrel": {
+    "pokemon_id": 941,
+    "canonical_name": "Kilowattrel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kingambit": {
+    "pokemon_id": 983,
+    "canonical_name": "Kingambit",
+    "reference_images": 38,
+    "test_images": 5
+  },
+  "kingdra": {
+    "pokemon_id": 230,
+    "canonical_name": "Kingdra",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "kingler": {
+    "pokemon_id": 99,
+    "canonical_name": "Kingler",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "kirlia": {
+    "pokemon_id": 281,
+    "canonical_name": "Kirlia",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "klang": {
+    "pokemon_id": 600,
+    "canonical_name": "Klang",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "klawf": {
+    "pokemon_id": 950,
+    "canonical_name": "Klawf",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kleavor": {
+    "pokemon_id": 900,
+    "canonical_name": "Kleavor",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "klefki": {
+    "pokemon_id": 707,
+    "canonical_name": "Klefki",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "klink": {
+    "pokemon_id": 599,
+    "canonical_name": "Klink",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "klinklang": {
+    "pokemon_id": 601,
+    "canonical_name": "Klinklang",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "koffing": {
+    "pokemon_id": 109,
+    "canonical_name": "Koffing",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "komala": {
+    "pokemon_id": 775,
+    "canonical_name": "Komala",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "kommo-o": {
+    "pokemon_id": 784,
+    "canonical_name": "Kommo O",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "koraidon": {
+    "pokemon_id": 1007,
+    "canonical_name": "Koraidon",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "krabby": {
+    "pokemon_id": 98,
+    "canonical_name": "Krabby",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kricketot": {
+    "pokemon_id": 401,
+    "canonical_name": "Kricketot",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "kricketune": {
+    "pokemon_id": 402,
+    "canonical_name": "Kricketune",
+    "reference_images": 39,
+    "test_images": 5
+  },
+  "krokorok": {
+    "pokemon_id": 552,
+    "canonical_name": "Krokorok",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "krookodile": {
+    "pokemon_id": 553,
+    "canonical_name": "Krookodile",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "kubfu": {
+    "pokemon_id": 891,
+    "canonical_name": "Kubfu",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "kyurem": {
+    "pokemon_id": 646,
+    "canonical_name": "Kyurem",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "lairon": {
+    "pokemon_id": 305,
+    "canonical_name": "Lairon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "lampent": {
+    "pokemon_id": 608,
+    "canonical_name": "Lampent",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "landorus": {
+    "pokemon_id": 645,
+    "canonical_name": "Landorus Incarnate",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "lanturn": {
+    "pokemon_id": 171,
+    "canonical_name": "Lanturn",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "lapras": {
+    "pokemon_id": 131,
+    "canonical_name": "Lapras",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "larvesta": {
+    "pokemon_id": 636,
+    "canonical_name": "Larvesta",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "larvitar": {
+    "pokemon_id": 246,
+    "canonical_name": "Larvitar",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "latias": {
+    "pokemon_id": 380,
+    "canonical_name": "Latias",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "latios": {
+    "pokemon_id": 381,
+    "canonical_name": "Latios",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "leafeon": {
+    "pokemon_id": 470,
+    "canonical_name": "Leafeon",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "leavanny": {
+    "pokemon_id": 542,
+    "canonical_name": "Leavanny",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "lechonk": {
+    "pokemon_id": 915,
+    "canonical_name": "Lechonk",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "ledian": {
+    "pokemon_id": 166,
+    "canonical_name": "Ledian",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "ledyba": {
+    "pokemon_id": 165,
+    "canonical_name": "Ledyba",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "lickilicky": {
+    "pokemon_id": 463,
+    "canonical_name": "Lickilicky",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "lickitung": {
+    "pokemon_id": 108,
+    "canonical_name": "Lickitung",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "liepard": {
+    "pokemon_id": 510,
+    "canonical_name": "Liepard",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "lileep": {
+    "pokemon_id": 345,
+    "canonical_name": "Lileep",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "lilligant": {
+    "pokemon_id": 549,
+    "canonical_name": "Lilligant",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "lillipup": {
+    "pokemon_id": 506,
+    "canonical_name": "Lillipup",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "linoone": {
+    "pokemon_id": 264,
+    "canonical_name": "Linoone",
+    "reference_images": 40,
+    "test_images": 5
+  },
+  "litleo": {
+    "pokemon_id": 667,
+    "canonical_name": "Litleo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "litten": {
+    "pokemon_id": 725,
+    "canonical_name": "Litten",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "litwick": {
+    "pokemon_id": 607,
+    "canonical_name": "Litwick",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "lokix": {
+    "pokemon_id": 920,
+    "canonical_name": "Lokix",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "lombre": {
+    "pokemon_id": 271,
+    "canonical_name": "Lombre",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "lopunny": {
+    "pokemon_id": 428,
+    "canonical_name": "Lopunny",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "lotad": {
+    "pokemon_id": 270,
+    "canonical_name": "Lotad",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "loudred": {
+    "pokemon_id": 294,
+    "canonical_name": "Loudred",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "low key toxtricity": {
+    "pokemon_id": 849,
+    "canonical_name": "Toxtricity Amped",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "lucario": {
+    "pokemon_id": 448,
+    "canonical_name": "Lucario",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "ludicolo": {
+    "pokemon_id": 272,
+    "canonical_name": "Ludicolo",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "lugia": {
+    "pokemon_id": 249,
+    "canonical_name": "Lugia",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "lumineon": {
+    "pokemon_id": 457,
+    "canonical_name": "Lumineon",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "lunatone": {
+    "pokemon_id": 337,
+    "canonical_name": "Lunatone",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "lurantis": {
+    "pokemon_id": 754,
+    "canonical_name": "Lurantis",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "luvdisc": {
+    "pokemon_id": 370,
+    "canonical_name": "Luvdisc",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "luxio": {
+    "pokemon_id": 404,
+    "canonical_name": "Luxio",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "luxray": {
+    "pokemon_id": 405,
+    "canonical_name": "Luxray",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "lycanroc": {
+    "pokemon_id": 745,
+    "canonical_name": "Lycanroc Midday",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "mabosstiff": {
+    "pokemon_id": 943,
+    "canonical_name": "Mabosstiff",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "machamp": {
+    "pokemon_id": 68,
+    "canonical_name": "Machamp",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "machoke": {
+    "pokemon_id": 67,
+    "canonical_name": "Machoke",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "machop": {
+    "pokemon_id": 66,
+    "canonical_name": "Machop",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "magby": {
+    "pokemon_id": 240,
+    "canonical_name": "Magby",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "magcargo": {
+    "pokemon_id": 219,
+    "canonical_name": "Magcargo",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "magearna": {
+    "pokemon_id": 801,
+    "canonical_name": "Magearna",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "magikarp": {
+    "pokemon_id": 129,
+    "canonical_name": "Magikarp",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "magmar": {
+    "pokemon_id": 126,
+    "canonical_name": "Magmar",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "magmortar": {
+    "pokemon_id": 467,
+    "canonical_name": "Magmortar",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "magnemite": {
+    "pokemon_id": 81,
+    "canonical_name": "Magnemite",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "magneton": {
+    "pokemon_id": 82,
+    "canonical_name": "Magneton",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "magnezone": {
+    "pokemon_id": 462,
+    "canonical_name": "Magnezone",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "makuhita": {
+    "pokemon_id": 296,
+    "canonical_name": "Makuhita",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "malamar": {
+    "pokemon_id": 687,
+    "canonical_name": "Malamar",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "mamoswine": {
+    "pokemon_id": 473,
+    "canonical_name": "Mamoswine",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "manaphy": {
+    "pokemon_id": 490,
+    "canonical_name": "Manaphy",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "mandibuzz": {
+    "pokemon_id": 630,
+    "canonical_name": "Mandibuzz",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "manectric": {
+    "pokemon_id": 310,
+    "canonical_name": "Manectric",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "mankey": {
+    "pokemon_id": 56,
+    "canonical_name": "Mankey",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mantine": {
+    "pokemon_id": 226,
+    "canonical_name": "Mantine",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "mantyke": {
+    "pokemon_id": 458,
+    "canonical_name": "Mantyke",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "maractus": {
+    "pokemon_id": 556,
+    "canonical_name": "Maractus",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "mareanie": {
+    "pokemon_id": 747,
+    "canonical_name": "Mareanie",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mareep": {
+    "pokemon_id": 179,
+    "canonical_name": "Mareep",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "marill": {
+    "pokemon_id": 183,
+    "canonical_name": "Marill",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "marowak": {
+    "pokemon_id": 105,
+    "canonical_name": "Marowak",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "marshadow": {
+    "pokemon_id": 802,
+    "canonical_name": "Marshadow",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "marshtomp": {
+    "pokemon_id": 259,
+    "canonical_name": "Marshtomp",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "maschiff": {
+    "pokemon_id": 942,
+    "canonical_name": "Maschiff",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "masquerain": {
+    "pokemon_id": 284,
+    "canonical_name": "Masquerain",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "maushold": {
+    "pokemon_id": 925,
+    "canonical_name": "Maushold Family Of Four",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mawile": {
+    "pokemon_id": 303,
+    "canonical_name": "Mawile",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "medicham": {
+    "pokemon_id": 308,
+    "canonical_name": "Medicham",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "meditite": {
+    "pokemon_id": 307,
+    "canonical_name": "Meditite",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "meganium": {
+    "pokemon_id": 154,
+    "canonical_name": "Meganium",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "melmetal": {
+    "pokemon_id": 809,
+    "canonical_name": "Melmetal",
+    "reference_images": 8,
+    "test_images": 1
+  },
+  "meloetta": {
+    "pokemon_id": 648,
+    "canonical_name": "Meloetta Aria",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "meltan": {
+    "pokemon_id": 808,
+    "canonical_name": "Meltan",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "meowscarada": {
+    "pokemon_id": 908,
+    "canonical_name": "Meowscarada",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "meowstic": {
+    "pokemon_id": 678,
+    "canonical_name": "Meowstic Male",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "meowth": {
+    "pokemon_id": 52,
+    "canonical_name": "Meowth",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mesprit": {
+    "pokemon_id": 481,
+    "canonical_name": "Mesprit",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "metagross": {
+    "pokemon_id": 376,
+    "canonical_name": "Metagross",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "metang": {
+    "pokemon_id": 375,
+    "canonical_name": "Metang",
+    "reference_images": 70,
+    "test_images": 8
+  },
+  "metapod": {
+    "pokemon_id": 11,
+    "canonical_name": "Metapod",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mew": {
+    "pokemon_id": 151,
+    "canonical_name": "Mew",
+    "reference_images": 51,
+    "test_images": 6
+  },
+  "mewtwo": {
+    "pokemon_id": 150,
+    "canonical_name": "Mewtwo",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "midnight lycanroc": {
+    "pokemon_id": 745,
+    "canonical_name": "Lycanroc Midday",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "mienfoo": {
+    "pokemon_id": 619,
+    "canonical_name": "Mienfoo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mienshao": {
+    "pokemon_id": 620,
+    "canonical_name": "Mienshao",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "mightyena": {
+    "pokemon_id": 262,
+    "canonical_name": "Mightyena",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "milcery": {
+    "pokemon_id": 868,
+    "canonical_name": "Milcery",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "milotic": {
+    "pokemon_id": 350,
+    "canonical_name": "Milotic",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "miltank": {
+    "pokemon_id": 241,
+    "canonical_name": "Miltank",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "mimikyu": {
+    "pokemon_id": 778,
+    "canonical_name": "Mimikyu Disguised",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "minccino": {
+    "pokemon_id": 572,
+    "canonical_name": "Minccino",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "minior": {
+    "pokemon_id": 774,
+    "canonical_name": "Minior Red Meteor",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "minun": {
+    "pokemon_id": 312,
+    "canonical_name": "Minun",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "miraidon": {
+    "pokemon_id": 1008,
+    "canonical_name": "Miraidon",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "misdreavus": {
+    "pokemon_id": 200,
+    "canonical_name": "Misdreavus",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mismagius": {
+    "pokemon_id": 429,
+    "canonical_name": "Mismagius",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "monferno": {
+    "pokemon_id": 391,
+    "canonical_name": "Monferno",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "morelull": {
+    "pokemon_id": 755,
+    "canonical_name": "Morelull",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "morgrem": {
+    "pokemon_id": 860,
+    "canonical_name": "Morgrem",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "morpeko": {
+    "pokemon_id": 877,
+    "canonical_name": "Morpeko Full Belly",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "mothim": {
+    "pokemon_id": 414,
+    "canonical_name": "Mothim",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "mow rotom": {
+    "pokemon_id": 479,
+    "canonical_name": "Rotom",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "mr. mime": {
+    "pokemon_id": 122,
+    "canonical_name": "Mr Mime",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "mr. rime": {
+    "pokemon_id": 866,
+    "canonical_name": "Mr Rime",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "mudbray": {
+    "pokemon_id": 749,
+    "canonical_name": "Mudbray",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mudkip": {
+    "pokemon_id": 258,
+    "canonical_name": "Mudkip",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "mudsdale": {
+    "pokemon_id": 750,
+    "canonical_name": "Mudsdale",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "muk": {
+    "pokemon_id": 89,
+    "canonical_name": "Muk",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "munchlax": {
+    "pokemon_id": 446,
+    "canonical_name": "Munchlax",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "munkidori": {
+    "pokemon_id": 1015,
+    "canonical_name": "Munkidori",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "munna": {
+    "pokemon_id": 517,
+    "canonical_name": "Munna",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "murkrow": {
+    "pokemon_id": 198,
+    "canonical_name": "Murkrow",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "musharna": {
+    "pokemon_id": 518,
+    "canonical_name": "Musharna",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "nacli": {
+    "pokemon_id": 932,
+    "canonical_name": "Nacli",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "naclstack": {
+    "pokemon_id": 933,
+    "canonical_name": "Naclstack",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "natu": {
+    "pokemon_id": 177,
+    "canonical_name": "Natu",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "necrozma": {
+    "pokemon_id": 800,
+    "canonical_name": "Necrozma",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "nickit": {
+    "pokemon_id": 827,
+    "canonical_name": "Nickit",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "nidoking": {
+    "pokemon_id": 34,
+    "canonical_name": "Nidoking",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "nidoqueen": {
+    "pokemon_id": 31,
+    "canonical_name": "Nidoqueen",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "nidoranf": {
+    "pokemon_id": 29,
+    "canonical_name": "Nidoran F",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "nidoranm": {
+    "pokemon_id": 32,
+    "canonical_name": "Nidoran M",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "nidorina": {
+    "pokemon_id": 30,
+    "canonical_name": "Nidorina",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "nidorino": {
+    "pokemon_id": 33,
+    "canonical_name": "Nidorino",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "nihilego": {
+    "pokemon_id": 793,
+    "canonical_name": "Nihilego",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "nincada": {
+    "pokemon_id": 290,
+    "canonical_name": "Nincada",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "ninetales": {
+    "pokemon_id": 38,
+    "canonical_name": "Ninetales",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "ninjask": {
+    "pokemon_id": 291,
+    "canonical_name": "Ninjask",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "noctowl": {
+    "pokemon_id": 164,
+    "canonical_name": "Noctowl",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "noibat": {
+    "pokemon_id": 714,
+    "canonical_name": "Noibat",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "noice face eiscue": {
+    "pokemon_id": 875,
+    "canonical_name": "Eiscue Ice",
+    "reference_images": 7,
+    "test_images": 1
+  },
+  "noivern": {
+    "pokemon_id": 715,
+    "canonical_name": "Noivern",
+    "reference_images": 17,
+    "test_images": 2
+  },
+  "nosepass": {
+    "pokemon_id": 299,
+    "canonical_name": "Nosepass",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "numel": {
+    "pokemon_id": 322,
+    "canonical_name": "Numel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "nuzleaf": {
+    "pokemon_id": 274,
+    "canonical_name": "Nuzleaf",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "nymble": {
+    "pokemon_id": 919,
+    "canonical_name": "Nymble",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "obstagoon": {
+    "pokemon_id": 862,
+    "canonical_name": "Obstagoon",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "octillery": {
+    "pokemon_id": 224,
+    "canonical_name": "Octillery",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "oddish": {
+    "pokemon_id": 43,
+    "canonical_name": "Oddish",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "ogerpon": {
+    "pokemon_id": 1017,
+    "canonical_name": "Ogerpon",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "oinkologne": {
+    "pokemon_id": 916,
+    "canonical_name": "Oinkologne Male",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "okidogi": {
+    "pokemon_id": 1014,
+    "canonical_name": "Okidogi",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "omanyte": {
+    "pokemon_id": 138,
+    "canonical_name": "Omanyte",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "omastar": {
+    "pokemon_id": 139,
+    "canonical_name": "Omastar",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "onix": {
+    "pokemon_id": 95,
+    "canonical_name": "Onix",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "oranguru": {
+    "pokemon_id": 765,
+    "canonical_name": "Oranguru",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "orbeetle": {
+    "pokemon_id": 826,
+    "canonical_name": "Orbeetle",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "oricorio": {
+    "pokemon_id": 741,
+    "canonical_name": "Oricorio Baile",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "orthworm": {
+    "pokemon_id": 968,
+    "canonical_name": "Orthworm",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "oshawott": {
+    "pokemon_id": 501,
+    "canonical_name": "Oshawott",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "overqwil": {
+    "pokemon_id": 904,
+    "canonical_name": "Overqwil",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "pa'u oricorio": {
+    "pokemon_id": 741,
+    "canonical_name": "Oricorio Baile",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "pachirisu": {
+    "pokemon_id": 417,
+    "canonical_name": "Pachirisu",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "palafin": {
+    "pokemon_id": 964,
+    "canonical_name": "Palafin Zero",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "paldean wooper": {
+    "pokemon_id": 194,
+    "canonical_name": "Wooper",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "palkia": {
+    "pokemon_id": 484,
+    "canonical_name": "Palkia",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "palossand": {
+    "pokemon_id": 770,
+    "canonical_name": "Palossand",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "palpitoad": {
+    "pokemon_id": 536,
+    "canonical_name": "Palpitoad",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pancham": {
+    "pokemon_id": 674,
+    "canonical_name": "Pancham",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pangoro": {
+    "pokemon_id": 675,
+    "canonical_name": "Pangoro",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "panpour": {
+    "pokemon_id": 515,
+    "canonical_name": "Panpour",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pansage": {
+    "pokemon_id": 511,
+    "canonical_name": "Pansage",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pansear": {
+    "pokemon_id": 513,
+    "canonical_name": "Pansear",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "paras": {
+    "pokemon_id": 46,
+    "canonical_name": "Paras",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "parasect": {
+    "pokemon_id": 47,
+    "canonical_name": "Parasect",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "partner eevee": {
+    "pokemon_id": 133,
+    "canonical_name": "Eevee",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "partner pikachu": {
+    "pokemon_id": 25,
+    "canonical_name": "Pikachu",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "passimian": {
+    "pokemon_id": 766,
+    "canonical_name": "Passimian",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "patrat": {
+    "pokemon_id": 504,
+    "canonical_name": "Patrat",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pawmi": {
+    "pokemon_id": 921,
+    "canonical_name": "Pawmi",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pawmo": {
+    "pokemon_id": 922,
+    "canonical_name": "Pawmo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pawmot": {
+    "pokemon_id": 923,
+    "canonical_name": "Pawmot",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "pawniard": {
+    "pokemon_id": 624,
+    "canonical_name": "Pawniard",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pecharunt": {
+    "pokemon_id": 1025,
+    "canonical_name": "Pecharunt",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "pelipper": {
+    "pokemon_id": 279,
+    "canonical_name": "Pelipper",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "perrserker": {
+    "pokemon_id": 863,
+    "canonical_name": "Perrserker",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "persian": {
+    "pokemon_id": 53,
+    "canonical_name": "Persian",
+    "reference_images": 43,
+    "test_images": 5
+  },
+  "petilil": {
+    "pokemon_id": 548,
+    "canonical_name": "Petilil",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "phanpy": {
+    "pokemon_id": 231,
+    "canonical_name": "Phanpy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "phantump": {
+    "pokemon_id": 708,
+    "canonical_name": "Phantump",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pheromosa": {
+    "pokemon_id": 795,
+    "canonical_name": "Pheromosa",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "phione": {
+    "pokemon_id": 489,
+    "canonical_name": "Phione",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "pichu": {
+    "pokemon_id": 172,
+    "canonical_name": "Pichu",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "pidgeot": {
+    "pokemon_id": 18,
+    "canonical_name": "Pidgeot",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "pidgeotto": {
+    "pokemon_id": 17,
+    "canonical_name": "Pidgeotto",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pidgey": {
+    "pokemon_id": 16,
+    "canonical_name": "Pidgey",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pidove": {
+    "pokemon_id": 519,
+    "canonical_name": "Pidove",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pignite": {
+    "pokemon_id": 499,
+    "canonical_name": "Pignite",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pikachu": {
+    "pokemon_id": 25,
+    "canonical_name": "Pikachu",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pikipek": {
+    "pokemon_id": 731,
+    "canonical_name": "Pikipek",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "piloswine": {
+    "pokemon_id": 221,
+    "canonical_name": "Piloswine",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pincurchin": {
+    "pokemon_id": 871,
+    "canonical_name": "Pincurchin",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "pineco": {
+    "pokemon_id": 204,
+    "canonical_name": "Pineco",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pinsir": {
+    "pokemon_id": 127,
+    "canonical_name": "Pinsir",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "piplup": {
+    "pokemon_id": 393,
+    "canonical_name": "Piplup",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pirouette meloetta": {
+    "pokemon_id": 648,
+    "canonical_name": "Meloetta Aria",
+    "reference_images": 9,
+    "test_images": 1
+  },
+  "plusle": {
+    "pokemon_id": 311,
+    "canonical_name": "Plusle",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "poipole": {
+    "pokemon_id": 803,
+    "canonical_name": "Poipole",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "politoed": {
+    "pokemon_id": 186,
+    "canonical_name": "Politoed",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "poliwag": {
+    "pokemon_id": 60,
+    "canonical_name": "Poliwag",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "poliwhirl": {
+    "pokemon_id": 61,
+    "canonical_name": "Poliwhirl",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "poliwrath": {
+    "pokemon_id": 62,
+    "canonical_name": "Poliwrath",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "poltchageist": {
+    "pokemon_id": 1012,
+    "canonical_name": "Poltchageist",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "polteageist": {
+    "pokemon_id": 855,
+    "canonical_name": "Polteageist",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "pom-pom oricorio": {
+    "pokemon_id": 741,
+    "canonical_name": "Oricorio Baile",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "ponyta": {
+    "pokemon_id": 77,
+    "canonical_name": "Ponyta",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "poochyena": {
+    "pokemon_id": 261,
+    "canonical_name": "Poochyena",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "popplio": {
+    "pokemon_id": 728,
+    "canonical_name": "Popplio",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "porygon": {
+    "pokemon_id": 137,
+    "canonical_name": "Porygon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "porygon-z": {
+    "pokemon_id": 474,
+    "canonical_name": "Porygon Z",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "porygon2": {
+    "pokemon_id": 233,
+    "canonical_name": "Porygon2",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "primarina": {
+    "pokemon_id": 730,
+    "canonical_name": "Primarina",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "primeape": {
+    "pokemon_id": 57,
+    "canonical_name": "Primeape",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "prinplup": {
+    "pokemon_id": 394,
+    "canonical_name": "Prinplup",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "probopass": {
+    "pokemon_id": 476,
+    "canonical_name": "Probopass",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "psyduck": {
+    "pokemon_id": 54,
+    "canonical_name": "Psyduck",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pumpkaboo": {
+    "pokemon_id": 710,
+    "canonical_name": "Pumpkaboo Average",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "pupitar": {
+    "pokemon_id": 247,
+    "canonical_name": "Pupitar",
+    "reference_images": 73,
+    "test_images": 9
+  },
+  "purrloin": {
+    "pokemon_id": 509,
+    "canonical_name": "Purrloin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "purugly": {
+    "pokemon_id": 432,
+    "canonical_name": "Purugly",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "pyroar": {
+    "pokemon_id": 668,
+    "canonical_name": "Pyroar Male",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "pyukumuku": {
+    "pokemon_id": 771,
+    "canonical_name": "Pyukumuku",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "quagsire": {
+    "pokemon_id": 195,
+    "canonical_name": "Quagsire",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "quaquaval": {
+    "pokemon_id": 914,
+    "canonical_name": "Quaquaval",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "quaxly": {
+    "pokemon_id": 912,
+    "canonical_name": "Quaxly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "quaxwell": {
+    "pokemon_id": 913,
+    "canonical_name": "Quaxwell",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "quilava": {
+    "pokemon_id": 156,
+    "canonical_name": "Quilava",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "quilladin": {
+    "pokemon_id": 651,
+    "canonical_name": "Quilladin",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "qwilfish": {
+    "pokemon_id": 211,
+    "canonical_name": "Qwilfish",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "raboot": {
+    "pokemon_id": 814,
+    "canonical_name": "Raboot",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rabsca": {
+    "pokemon_id": 954,
+    "canonical_name": "Rabsca",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "raging bolt": {
+    "pokemon_id": 1021,
+    "canonical_name": "Raging Bolt",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "raichu": {
+    "pokemon_id": 26,
+    "canonical_name": "Raichu",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "raikou": {
+    "pokemon_id": 243,
+    "canonical_name": "Raikou",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "rainy castform": {
+    "pokemon_id": 351,
+    "canonical_name": "Castform",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "ralts": {
+    "pokemon_id": 280,
+    "canonical_name": "Ralts",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rampardos": {
+    "pokemon_id": 409,
+    "canonical_name": "Rampardos",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "rapid strike urshifu": {
+    "pokemon_id": 892,
+    "canonical_name": "Urshifu Single Strike",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "rapidash": {
+    "pokemon_id": 78,
+    "canonical_name": "Rapidash",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "raticate": {
+    "pokemon_id": 20,
+    "canonical_name": "Raticate",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rattata": {
+    "pokemon_id": 19,
+    "canonical_name": "Rattata",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "regice": {
+    "pokemon_id": 378,
+    "canonical_name": "Regice",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "regidrago": {
+    "pokemon_id": 895,
+    "canonical_name": "Regidrago",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "regieleki": {
+    "pokemon_id": 894,
+    "canonical_name": "Regieleki",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "regirock": {
+    "pokemon_id": 377,
+    "canonical_name": "Regirock",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "registeel": {
+    "pokemon_id": 379,
+    "canonical_name": "Registeel",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "relicanth": {
+    "pokemon_id": 369,
+    "canonical_name": "Relicanth",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "rellor": {
+    "pokemon_id": 953,
+    "canonical_name": "Rellor",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "remoraid": {
+    "pokemon_id": 223,
+    "canonical_name": "Remoraid",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "reshiram": {
+    "pokemon_id": 643,
+    "canonical_name": "Reshiram",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "reuniclus": {
+    "pokemon_id": 579,
+    "canonical_name": "Reuniclus",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "revavroom": {
+    "pokemon_id": 966,
+    "canonical_name": "Revavroom",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rhydon": {
+    "pokemon_id": 112,
+    "canonical_name": "Rhydon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rhyhorn": {
+    "pokemon_id": 111,
+    "canonical_name": "Rhyhorn",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rhyperior": {
+    "pokemon_id": 464,
+    "canonical_name": "Rhyperior",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "ribombee": {
+    "pokemon_id": 743,
+    "canonical_name": "Ribombee",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "rillaboom": {
+    "pokemon_id": 812,
+    "canonical_name": "Rillaboom",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "riolu": {
+    "pokemon_id": 447,
+    "canonical_name": "Riolu",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "roaming gimmighoul": {
+    "pokemon_id": 999,
+    "canonical_name": "Gimmighoul",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "roaring moon": {
+    "pokemon_id": 1005,
+    "canonical_name": "Roaring Moon",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "rockruff": {
+    "pokemon_id": 744,
+    "canonical_name": "Rockruff",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "roggenrola": {
+    "pokemon_id": 524,
+    "canonical_name": "Roggenrola",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rolycoly": {
+    "pokemon_id": 837,
+    "canonical_name": "Rolycoly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rookidee": {
+    "pokemon_id": 821,
+    "canonical_name": "Rookidee",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "roselia": {
+    "pokemon_id": 315,
+    "canonical_name": "Roselia",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "roserade": {
+    "pokemon_id": 407,
+    "canonical_name": "Roserade",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "rotom": {
+    "pokemon_id": 479,
+    "canonical_name": "Rotom",
+    "reference_images": 9,
+    "test_images": 2
+  },
+  "rowlet": {
+    "pokemon_id": 722,
+    "canonical_name": "Rowlet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "rufflet": {
+    "pokemon_id": 627,
+    "canonical_name": "Rufflet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "runerigus": {
+    "pokemon_id": 867,
+    "canonical_name": "Runerigus",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "sableye": {
+    "pokemon_id": 302,
+    "canonical_name": "Sableye",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "salamence": {
+    "pokemon_id": 373,
+    "canonical_name": "Salamence",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "salandit": {
+    "pokemon_id": 757,
+    "canonical_name": "Salandit",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "salazzle": {
+    "pokemon_id": 758,
+    "canonical_name": "Salazzle",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "samurott": {
+    "pokemon_id": 503,
+    "canonical_name": "Samurott",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "sandaconda": {
+    "pokemon_id": 844,
+    "canonical_name": "Sandaconda",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "sandile": {
+    "pokemon_id": 551,
+    "canonical_name": "Sandile",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sandshrew": {
+    "pokemon_id": 27,
+    "canonical_name": "Sandshrew",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sandslash": {
+    "pokemon_id": 28,
+    "canonical_name": "Sandslash",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "sandy shocks": {
+    "pokemon_id": 989,
+    "canonical_name": "Sandy Shocks",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "sandy wormadam": {
+    "pokemon_id": 413,
+    "canonical_name": "Wormadam Plant",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "sandygast": {
+    "pokemon_id": 769,
+    "canonical_name": "Sandygast",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sawk": {
+    "pokemon_id": 539,
+    "canonical_name": "Sawk",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "sawsbuck": {
+    "pokemon_id": 586,
+    "canonical_name": "Sawsbuck",
+    "reference_images": 18,
+    "test_images": 3
+  },
+  "scatterbug": {
+    "pokemon_id": 664,
+    "canonical_name": "Scatterbug",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sceptile": {
+    "pokemon_id": 254,
+    "canonical_name": "Sceptile",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "school wishiwashi": {
+    "pokemon_id": 746,
+    "canonical_name": "Wishiwashi Solo",
+    "reference_images": 10,
+    "test_images": 2
+  },
+  "scizor": {
+    "pokemon_id": 212,
+    "canonical_name": "Scizor",
+    "reference_images": 38,
+    "test_images": 5
+  },
+  "scolipede": {
+    "pokemon_id": 545,
+    "canonical_name": "Scolipede",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "scorbunny": {
+    "pokemon_id": 813,
+    "canonical_name": "Scorbunny",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "scovillain": {
+    "pokemon_id": 952,
+    "canonical_name": "Scovillain",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "scrafty": {
+    "pokemon_id": 560,
+    "canonical_name": "Scrafty",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "scraggy": {
+    "pokemon_id": 559,
+    "canonical_name": "Scraggy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "scream tail": {
+    "pokemon_id": 985,
+    "canonical_name": "Scream Tail",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "scyther": {
+    "pokemon_id": 123,
+    "canonical_name": "Scyther",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "seadra": {
+    "pokemon_id": 117,
+    "canonical_name": "Seadra",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "seaking": {
+    "pokemon_id": 119,
+    "canonical_name": "Seaking",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "sealeo": {
+    "pokemon_id": 364,
+    "canonical_name": "Sealeo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "seedot": {
+    "pokemon_id": 273,
+    "canonical_name": "Seedot",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "seel": {
+    "pokemon_id": 86,
+    "canonical_name": "Seel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "seismitoad": {
+    "pokemon_id": 537,
+    "canonical_name": "Seismitoad",
+    "reference_images": 40,
+    "test_images": 5
+  },
+  "sensu oricorio": {
+    "pokemon_id": 741,
+    "canonical_name": "Oricorio Baile",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "sentret": {
+    "pokemon_id": 161,
+    "canonical_name": "Sentret",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "serperior": {
+    "pokemon_id": 497,
+    "canonical_name": "Serperior",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "servine": {
+    "pokemon_id": 496,
+    "canonical_name": "Servine",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "seviper": {
+    "pokemon_id": 336,
+    "canonical_name": "Seviper",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "sewaddle": {
+    "pokemon_id": 540,
+    "canonical_name": "Sewaddle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sharpedo": {
+    "pokemon_id": 319,
+    "canonical_name": "Sharpedo",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "shaymin": {
+    "pokemon_id": 492,
+    "canonical_name": "Shaymin Land",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "shedinja": {
+    "pokemon_id": 292,
+    "canonical_name": "Shedinja",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "shelgon": {
+    "pokemon_id": 372,
+    "canonical_name": "Shelgon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shellder": {
+    "pokemon_id": 90,
+    "canonical_name": "Shellder",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shellos": {
+    "pokemon_id": 422,
+    "canonical_name": "Shellos",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shelmet": {
+    "pokemon_id": 616,
+    "canonical_name": "Shelmet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shieldon": {
+    "pokemon_id": 410,
+    "canonical_name": "Shieldon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shiftry": {
+    "pokemon_id": 275,
+    "canonical_name": "Shiftry",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "shiinotic": {
+    "pokemon_id": 756,
+    "canonical_name": "Shiinotic",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "shinx": {
+    "pokemon_id": 403,
+    "canonical_name": "Shinx",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shroodle": {
+    "pokemon_id": 944,
+    "canonical_name": "Shroodle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shroomish": {
+    "pokemon_id": 285,
+    "canonical_name": "Shroomish",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "shuckle": {
+    "pokemon_id": 213,
+    "canonical_name": "Shuckle",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "shuppet": {
+    "pokemon_id": 353,
+    "canonical_name": "Shuppet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sigilyph": {
+    "pokemon_id": 561,
+    "canonical_name": "Sigilyph",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "silcoon": {
+    "pokemon_id": 266,
+    "canonical_name": "Silcoon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "silicobra": {
+    "pokemon_id": 843,
+    "canonical_name": "Silicobra",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "silvally": {
+    "pokemon_id": 773,
+    "canonical_name": "Silvally",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "simipour": {
+    "pokemon_id": 516,
+    "canonical_name": "Simipour",
+    "reference_images": 20,
+    "test_images": 3
+  },
+  "simisage": {
+    "pokemon_id": 512,
+    "canonical_name": "Simisage",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "simisear": {
+    "pokemon_id": 514,
+    "canonical_name": "Simisear",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "sinistcha": {
+    "pokemon_id": 1013,
+    "canonical_name": "Sinistcha",
+    "reference_images": 5,
+    "test_images": 1
+  },
+  "sinistea": {
+    "pokemon_id": 854,
+    "canonical_name": "Sinistea",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sizzlipede": {
+    "pokemon_id": 850,
+    "canonical_name": "Sizzlipede",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "skarmory": {
+    "pokemon_id": 227,
+    "canonical_name": "Skarmory",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "skeledirge": {
+    "pokemon_id": 911,
+    "canonical_name": "Skeledirge",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "skiddo": {
+    "pokemon_id": 672,
+    "canonical_name": "Skiddo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "skiploom": {
+    "pokemon_id": 188,
+    "canonical_name": "Skiploom",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "skitty": {
+    "pokemon_id": 300,
+    "canonical_name": "Skitty",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "skorupi": {
+    "pokemon_id": 451,
+    "canonical_name": "Skorupi",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "skrelp": {
+    "pokemon_id": 690,
+    "canonical_name": "Skrelp",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "skuntank": {
+    "pokemon_id": 435,
+    "canonical_name": "Skuntank",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "skwovet": {
+    "pokemon_id": 819,
+    "canonical_name": "Skwovet",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "slaking": {
+    "pokemon_id": 289,
+    "canonical_name": "Slaking",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "slakoth": {
+    "pokemon_id": 287,
+    "canonical_name": "Slakoth",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sliggoo": {
+    "pokemon_id": 705,
+    "canonical_name": "Sliggoo",
+    "reference_images": 67,
+    "test_images": 8
+  },
+  "slither wing": {
+    "pokemon_id": 988,
+    "canonical_name": "Slither Wing",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "slowbro": {
+    "pokemon_id": 80,
+    "canonical_name": "Slowbro",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "slowking": {
+    "pokemon_id": 199,
+    "canonical_name": "Slowking",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "slowpoke": {
+    "pokemon_id": 79,
+    "canonical_name": "Slowpoke",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "slugma": {
+    "pokemon_id": 218,
+    "canonical_name": "Slugma",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "slurpuff": {
+    "pokemon_id": 685,
+    "canonical_name": "Slurpuff",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "smeargle": {
+    "pokemon_id": 235,
+    "canonical_name": "Smeargle",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "smoliv": {
+    "pokemon_id": 928,
+    "canonical_name": "Smoliv",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "smoochum": {
+    "pokemon_id": 238,
+    "canonical_name": "Smoochum",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "sneasel": {
+    "pokemon_id": 215,
+    "canonical_name": "Sneasel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sneasler": {
+    "pokemon_id": 903,
+    "canonical_name": "Sneasler",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "snivy": {
+    "pokemon_id": 495,
+    "canonical_name": "Snivy",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "snom": {
+    "pokemon_id": 872,
+    "canonical_name": "Snom",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "snorlax": {
+    "pokemon_id": 143,
+    "canonical_name": "Snorlax",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "snorunt": {
+    "pokemon_id": 361,
+    "canonical_name": "Snorunt",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "snover": {
+    "pokemon_id": 459,
+    "canonical_name": "Snover",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "snowy castform": {
+    "pokemon_id": 351,
+    "canonical_name": "Castform",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "snubbull": {
+    "pokemon_id": 209,
+    "canonical_name": "Snubbull",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sobble": {
+    "pokemon_id": 816,
+    "canonical_name": "Sobble",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "solgaleo": {
+    "pokemon_id": 791,
+    "canonical_name": "Solgaleo",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "solosis": {
+    "pokemon_id": 577,
+    "canonical_name": "Solosis",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "solrock": {
+    "pokemon_id": 338,
+    "canonical_name": "Solrock",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "spearow": {
+    "pokemon_id": 21,
+    "canonical_name": "Spearow",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "speed deoxys": {
+    "pokemon_id": 386,
+    "canonical_name": "Deoxys Normal",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "spewpa": {
+    "pokemon_id": 665,
+    "canonical_name": "Spewpa",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "spheal": {
+    "pokemon_id": 363,
+    "canonical_name": "Spheal",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "spidops": {
+    "pokemon_id": 918,
+    "canonical_name": "Spidops",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "spinarak": {
+    "pokemon_id": 167,
+    "canonical_name": "Spinarak",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "spinda": {
+    "pokemon_id": 327,
+    "canonical_name": "Spinda",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "spiritomb": {
+    "pokemon_id": 442,
+    "canonical_name": "Spiritomb",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "spoink": {
+    "pokemon_id": 325,
+    "canonical_name": "Spoink",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sprigatito": {
+    "pokemon_id": 906,
+    "canonical_name": "Sprigatito",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "spritzee": {
+    "pokemon_id": 682,
+    "canonical_name": "Spritzee",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "squawkabilly": {
+    "pokemon_id": 931,
+    "canonical_name": "Squawkabilly Green Plumage",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "squirtle": {
+    "pokemon_id": 7,
+    "canonical_name": "Squirtle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "stakataka": {
+    "pokemon_id": 805,
+    "canonical_name": "Stakataka",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "stantler": {
+    "pokemon_id": 234,
+    "canonical_name": "Stantler",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "staraptor": {
+    "pokemon_id": 398,
+    "canonical_name": "Staraptor",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "staravia": {
+    "pokemon_id": 397,
+    "canonical_name": "Staravia",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "starly": {
+    "pokemon_id": 396,
+    "canonical_name": "Starly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "starmie": {
+    "pokemon_id": 121,
+    "canonical_name": "Starmie",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "staryu": {
+    "pokemon_id": 120,
+    "canonical_name": "Staryu",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "steelix": {
+    "pokemon_id": 208,
+    "canonical_name": "Steelix",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "steenee": {
+    "pokemon_id": 762,
+    "canonical_name": "Steenee",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "stonjourner": {
+    "pokemon_id": 874,
+    "canonical_name": "Stonjourner",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "stoutland": {
+    "pokemon_id": 508,
+    "canonical_name": "Stoutland",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "stretchy tatsugiri": {
+    "pokemon_id": 978,
+    "canonical_name": "Tatsugiri Curly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "stufful": {
+    "pokemon_id": 759,
+    "canonical_name": "Stufful",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "stunfisk": {
+    "pokemon_id": 618,
+    "canonical_name": "Stunfisk",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "stunky": {
+    "pokemon_id": 434,
+    "canonical_name": "Stunky",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sudowoodo": {
+    "pokemon_id": 185,
+    "canonical_name": "Sudowoodo",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "sunflora": {
+    "pokemon_id": 192,
+    "canonical_name": "Sunflora",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "sunkern": {
+    "pokemon_id": 191,
+    "canonical_name": "Sunkern",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "sunny castform": {
+    "pokemon_id": 351,
+    "canonical_name": "Castform",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "surskit": {
+    "pokemon_id": 283,
+    "canonical_name": "Surskit",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "swablu": {
+    "pokemon_id": 333,
+    "canonical_name": "Swablu",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "swadloon": {
+    "pokemon_id": 541,
+    "canonical_name": "Swadloon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "swalot": {
+    "pokemon_id": 317,
+    "canonical_name": "Swalot",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "swampert": {
+    "pokemon_id": 260,
+    "canonical_name": "Swampert",
+    "reference_images": 40,
+    "test_images": 5
+  },
+  "swanna": {
+    "pokemon_id": 581,
+    "canonical_name": "Swanna",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "swellow": {
+    "pokemon_id": 277,
+    "canonical_name": "Swellow",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "swinub": {
+    "pokemon_id": 220,
+    "canonical_name": "Swinub",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "swirlix": {
+    "pokemon_id": 684,
+    "canonical_name": "Swirlix",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "swoobat": {
+    "pokemon_id": 528,
+    "canonical_name": "Swoobat",
+    "reference_images": 33,
+    "test_images": 4
+  },
+  "sylveon": {
+    "pokemon_id": 700,
+    "canonical_name": "Sylveon",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "tadbulb": {
+    "pokemon_id": 938,
+    "canonical_name": "Tadbulb",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "taillow": {
+    "pokemon_id": 276,
+    "canonical_name": "Taillow",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "talonflame": {
+    "pokemon_id": 663,
+    "canonical_name": "Talonflame",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "tandemaus": {
+    "pokemon_id": 924,
+    "canonical_name": "Tandemaus",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tangela": {
+    "pokemon_id": 114,
+    "canonical_name": "Tangela",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tangrowth": {
+    "pokemon_id": 465,
+    "canonical_name": "Tangrowth",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "tapu bulu": {
+    "pokemon_id": 787,
+    "canonical_name": "Tapu Bulu",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "tapu fini": {
+    "pokemon_id": 788,
+    "canonical_name": "Tapu Fini",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "tapu koko": {
+    "pokemon_id": 785,
+    "canonical_name": "Tapu Koko",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "tapu lele": {
+    "pokemon_id": 786,
+    "canonical_name": "Tapu Lele",
+    "reference_images": 4,
+    "test_images": 1
+  },
+  "tarountula": {
+    "pokemon_id": 917,
+    "canonical_name": "Tarountula",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tatsugiri": {
+    "pokemon_id": 978,
+    "canonical_name": "Tatsugiri Curly",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tauros": {
+    "pokemon_id": 128,
+    "canonical_name": "Tauros",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "teddiursa": {
+    "pokemon_id": 216,
+    "canonical_name": "Teddiursa",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tentacool": {
+    "pokemon_id": 72,
+    "canonical_name": "Tentacool",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tentacruel": {
+    "pokemon_id": 73,
+    "canonical_name": "Tentacruel",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "tepig": {
+    "pokemon_id": 498,
+    "canonical_name": "Tepig",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "terapagos": {
+    "pokemon_id": 1024,
+    "canonical_name": "Terapagos",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "terastal terapagos": {
+    "pokemon_id": 1024,
+    "canonical_name": "Terapagos",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "terrakion": {
+    "pokemon_id": 639,
+    "canonical_name": "Terrakion",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "thievul": {
+    "pokemon_id": 828,
+    "canonical_name": "Thievul",
+    "reference_images": 25,
+    "test_images": 3
+  },
+  "three-segment dudunsparce": {
+    "pokemon_id": 982,
+    "canonical_name": "Dudunsparce Two Segment",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "throh": {
+    "pokemon_id": 538,
+    "canonical_name": "Throh",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "thundurus": {
+    "pokemon_id": 642,
+    "canonical_name": "Thundurus Incarnate",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "thwackey": {
+    "pokemon_id": 811,
+    "canonical_name": "Thwackey",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "timburr": {
+    "pokemon_id": 532,
+    "canonical_name": "Timburr",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "ting-lu": {
+    "pokemon_id": 1003,
+    "canonical_name": "Ting Lu",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "tinkatink": {
+    "pokemon_id": 957,
+    "canonical_name": "Tinkatink",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tinkaton": {
+    "pokemon_id": 959,
+    "canonical_name": "Tinkaton",
+    "reference_images": 32,
+    "test_images": 4
+  },
+  "tinkatuff": {
+    "pokemon_id": 958,
+    "canonical_name": "Tinkatuff",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tirtouga": {
+    "pokemon_id": 564,
+    "canonical_name": "Tirtouga",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "toedscool": {
+    "pokemon_id": 948,
+    "canonical_name": "Toedscool",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "toedscruel": {
+    "pokemon_id": 949,
+    "canonical_name": "Toedscruel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "togedemaru": {
+    "pokemon_id": 777,
+    "canonical_name": "Togedemaru",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "togekiss": {
+    "pokemon_id": 468,
+    "canonical_name": "Togekiss",
+    "reference_images": 24,
+    "test_images": 3
+  },
+  "togepi": {
+    "pokemon_id": 175,
+    "canonical_name": "Togepi",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "togetic": {
+    "pokemon_id": 176,
+    "canonical_name": "Togetic",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "torchic": {
+    "pokemon_id": 255,
+    "canonical_name": "Torchic",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "torkoal": {
+    "pokemon_id": 324,
+    "canonical_name": "Torkoal",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "tornadus": {
+    "pokemon_id": 641,
+    "canonical_name": "Tornadus Incarnate",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "torracat": {
+    "pokemon_id": 726,
+    "canonical_name": "Torracat",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "torterra": {
+    "pokemon_id": 389,
+    "canonical_name": "Torterra",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "totodile": {
+    "pokemon_id": 158,
+    "canonical_name": "Totodile",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "toucannon": {
+    "pokemon_id": 733,
+    "canonical_name": "Toucannon",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "toxapex": {
+    "pokemon_id": 748,
+    "canonical_name": "Toxapex",
+    "reference_images": 40,
+    "test_images": 5
+  },
+  "toxel": {
+    "pokemon_id": 848,
+    "canonical_name": "Toxel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "toxicroak": {
+    "pokemon_id": 454,
+    "canonical_name": "Toxicroak",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "tranquill": {
+    "pokemon_id": 520,
+    "canonical_name": "Tranquill",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "trapinch": {
+    "pokemon_id": 328,
+    "canonical_name": "Trapinch",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "trash wormadam": {
+    "pokemon_id": 413,
+    "canonical_name": "Wormadam Plant",
+    "reference_images": 19,
+    "test_images": 3
+  },
+  "treecko": {
+    "pokemon_id": 252,
+    "canonical_name": "Treecko",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "trevenant": {
+    "pokemon_id": 709,
+    "canonical_name": "Trevenant",
+    "reference_images": 41,
+    "test_images": 5
+  },
+  "tropius": {
+    "pokemon_id": 357,
+    "canonical_name": "Tropius",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "trubbish": {
+    "pokemon_id": 568,
+    "canonical_name": "Trubbish",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "trumbeak": {
+    "pokemon_id": 732,
+    "canonical_name": "Trumbeak",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tsareena": {
+    "pokemon_id": 763,
+    "canonical_name": "Tsareena",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "turtonator": {
+    "pokemon_id": 776,
+    "canonical_name": "Turtonator",
+    "reference_images": 27,
+    "test_images": 4
+  },
+  "turtwig": {
+    "pokemon_id": 387,
+    "canonical_name": "Turtwig",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tympole": {
+    "pokemon_id": 535,
+    "canonical_name": "Tympole",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tynamo": {
+    "pokemon_id": 602,
+    "canonical_name": "Tynamo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "typhlosion": {
+    "pokemon_id": 157,
+    "canonical_name": "Typhlosion",
+    "reference_images": 21,
+    "test_images": 3
+  },
+  "tyranitar": {
+    "pokemon_id": 248,
+    "canonical_name": "Tyranitar",
+    "reference_images": 13,
+    "test_images": 2
+  },
+  "tyrantrum": {
+    "pokemon_id": 697,
+    "canonical_name": "Tyrantrum",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "tyrogue": {
+    "pokemon_id": 236,
+    "canonical_name": "Tyrogue",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "tyrunt": {
+    "pokemon_id": 696,
+    "canonical_name": "Tyrunt",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "umbreon": {
+    "pokemon_id": 197,
+    "canonical_name": "Umbreon",
+    "reference_images": 30,
+    "test_images": 4
+  },
+  "unfezant": {
+    "pokemon_id": 521,
+    "canonical_name": "Unfezant",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "unown": {
+    "pokemon_id": 201,
+    "canonical_name": "Unown",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "ursaluna": {
+    "pokemon_id": 901,
+    "canonical_name": "Ursaluna",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "ursaring": {
+    "pokemon_id": 217,
+    "canonical_name": "Ursaring",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "urshifu": {
+    "pokemon_id": 892,
+    "canonical_name": "Urshifu Single Strike",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "uxie": {
+    "pokemon_id": 480,
+    "canonical_name": "Uxie",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "vanillish": {
+    "pokemon_id": 583,
+    "canonical_name": "Vanillish",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "vanillite": {
+    "pokemon_id": 582,
+    "canonical_name": "Vanillite",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "vanilluxe": {
+    "pokemon_id": 584,
+    "canonical_name": "Vanilluxe",
+    "reference_images": 41,
+    "test_images": 5
+  },
+  "vaporeon": {
+    "pokemon_id": 134,
+    "canonical_name": "Vaporeon",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "varoom": {
+    "pokemon_id": 965,
+    "canonical_name": "Varoom",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "veluza": {
+    "pokemon_id": 976,
+    "canonical_name": "Veluza",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "venipede": {
+    "pokemon_id": 543,
+    "canonical_name": "Venipede",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "venomoth": {
+    "pokemon_id": 49,
+    "canonical_name": "Venomoth",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "venonat": {
+    "pokemon_id": 48,
+    "canonical_name": "Venonat",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "venusaur": {
+    "pokemon_id": 3,
+    "canonical_name": "Venusaur",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "vespiquen": {
+    "pokemon_id": 416,
+    "canonical_name": "Vespiquen",
+    "reference_images": 38,
+    "test_images": 5
+  },
+  "vibrava": {
+    "pokemon_id": 329,
+    "canonical_name": "Vibrava",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "victini": {
+    "pokemon_id": 494,
+    "canonical_name": "Victini",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "victreebel": {
+    "pokemon_id": 71,
+    "canonical_name": "Victreebel",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "vigoroth": {
+    "pokemon_id": 288,
+    "canonical_name": "Vigoroth",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "vikavolt": {
+    "pokemon_id": 738,
+    "canonical_name": "Vikavolt",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "vileplume": {
+    "pokemon_id": 45,
+    "canonical_name": "Vileplume",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "virizion": {
+    "pokemon_id": 640,
+    "canonical_name": "Virizion",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "vivillon": {
+    "pokemon_id": 666,
+    "canonical_name": "Vivillon",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "volbeat": {
+    "pokemon_id": 313,
+    "canonical_name": "Volbeat",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "volcanion": {
+    "pokemon_id": 721,
+    "canonical_name": "Volcanion",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "volcarona": {
+    "pokemon_id": 637,
+    "canonical_name": "Volcarona",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "voltorb": {
+    "pokemon_id": 100,
+    "canonical_name": "Voltorb",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "vullaby": {
+    "pokemon_id": 629,
+    "canonical_name": "Vullaby",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "vulpix": {
+    "pokemon_id": 37,
+    "canonical_name": "Vulpix",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wailmer": {
+    "pokemon_id": 320,
+    "canonical_name": "Wailmer",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wailord": {
+    "pokemon_id": 321,
+    "canonical_name": "Wailord",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "walking wake": {
+    "pokemon_id": 1009,
+    "canonical_name": "Walking Wake",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "walrein": {
+    "pokemon_id": 365,
+    "canonical_name": "Walrein",
+    "reference_images": 35,
+    "test_images": 4
+  },
+  "wartortle": {
+    "pokemon_id": 8,
+    "canonical_name": "Wartortle",
+    "reference_images": 72,
+    "test_images": 8
+  },
+  "wash rotom": {
+    "pokemon_id": 479,
+    "canonical_name": "Rotom",
+    "reference_images": 7,
+    "test_images": 1
+  },
+  "watchog": {
+    "pokemon_id": 505,
+    "canonical_name": "Watchog",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "wattrel": {
+    "pokemon_id": 940,
+    "canonical_name": "Wattrel",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "weavile": {
+    "pokemon_id": 461,
+    "canonical_name": "Weavile",
+    "reference_images": 34,
+    "test_images": 4
+  },
+  "weedle": {
+    "pokemon_id": 13,
+    "canonical_name": "Weedle",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "weepinbell": {
+    "pokemon_id": 70,
+    "canonical_name": "Weepinbell",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "weezing": {
+    "pokemon_id": 110,
+    "canonical_name": "Weezing",
+    "reference_images": 37,
+    "test_images": 5
+  },
+  "wellspring mask ogerpon": {
+    "pokemon_id": 1017,
+    "canonical_name": "Ogerpon",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "whimsicott": {
+    "pokemon_id": 547,
+    "canonical_name": "Whimsicott",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "whirlipede": {
+    "pokemon_id": 544,
+    "canonical_name": "Whirlipede",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "whiscash": {
+    "pokemon_id": 340,
+    "canonical_name": "Whiscash",
+    "reference_images": 36,
+    "test_images": 5
+  },
+  "whismur": {
+    "pokemon_id": 293,
+    "canonical_name": "Whismur",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "white plumage squawkabilly": {
+    "pokemon_id": 931,
+    "canonical_name": "Squawkabilly Green Plumage",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "white-striped basculin": {
+    "pokemon_id": 550,
+    "canonical_name": "Basculin Red Striped",
+    "reference_images": 22,
+    "test_images": 3
+  },
+  "wigglytuff": {
+    "pokemon_id": 40,
+    "canonical_name": "Wigglytuff",
+    "reference_images": 27,
+    "test_images": 3
+  },
+  "wiglett": {
+    "pokemon_id": 960,
+    "canonical_name": "Wiglett",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wimpod": {
+    "pokemon_id": 767,
+    "canonical_name": "Wimpod",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wingull": {
+    "pokemon_id": 278,
+    "canonical_name": "Wingull",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wishiwashi": {
+    "pokemon_id": 746,
+    "canonical_name": "Wishiwashi Solo",
+    "reference_images": 26,
+    "test_images": 3
+  },
+  "wo-chien": {
+    "pokemon_id": 1001,
+    "canonical_name": "Wo Chien",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "wobbuffet": {
+    "pokemon_id": 202,
+    "canonical_name": "Wobbuffet",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "woobat": {
+    "pokemon_id": 527,
+    "canonical_name": "Woobat",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wooloo": {
+    "pokemon_id": 831,
+    "canonical_name": "Wooloo",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wooper": {
+    "pokemon_id": 194,
+    "canonical_name": "Wooper",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wormadam": {
+    "pokemon_id": 413,
+    "canonical_name": "Wormadam Plant",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "wugtrio": {
+    "pokemon_id": 961,
+    "canonical_name": "Wugtrio",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wurmple": {
+    "pokemon_id": 265,
+    "canonical_name": "Wurmple",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "wynaut": {
+    "pokemon_id": 360,
+    "canonical_name": "Wynaut",
+    "reference_images": 29,
+    "test_images": 4
+  },
+  "wyrdeer": {
+    "pokemon_id": 899,
+    "canonical_name": "Wyrdeer",
+    "reference_images": 36,
+    "test_images": 4
+  },
+  "xatu": {
+    "pokemon_id": 178,
+    "canonical_name": "Xatu",
+    "reference_images": 28,
+    "test_images": 4
+  },
+  "xurkitree": {
+    "pokemon_id": 796,
+    "canonical_name": "Xurkitree",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "yamask": {
+    "pokemon_id": 562,
+    "canonical_name": "Yamask",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "yamper": {
+    "pokemon_id": 835,
+    "canonical_name": "Yamper",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "yanma": {
+    "pokemon_id": 193,
+    "canonical_name": "Yanma",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "yanmega": {
+    "pokemon_id": 469,
+    "canonical_name": "Yanmega",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "yellow plumage squawkabilly": {
+    "pokemon_id": 931,
+    "canonical_name": "Squawkabilly Green Plumage",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "yungoos": {
+    "pokemon_id": 734,
+    "canonical_name": "Yungoos",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "yveltal": {
+    "pokemon_id": 717,
+    "canonical_name": "Yveltal",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "zacian": {
+    "pokemon_id": 888,
+    "canonical_name": "Zacian",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "zamazenta": {
+    "pokemon_id": 889,
+    "canonical_name": "Zamazenta",
+    "reference_images": 1,
+    "test_images": 1
+  },
+  "zangoose": {
+    "pokemon_id": 335,
+    "canonical_name": "Zangoose",
+    "reference_images": 31,
+    "test_images": 4
+  },
+  "zapdos": {
+    "pokemon_id": 145,
+    "canonical_name": "Zapdos",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "zarude": {
+    "pokemon_id": 893,
+    "canonical_name": "Zarude",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "zebstrika": {
+    "pokemon_id": 523,
+    "canonical_name": "Zebstrika",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "zekrom": {
+    "pokemon_id": 644,
+    "canonical_name": "Zekrom",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "zen darmanitan": {
+    "pokemon_id": 555,
+    "canonical_name": "Darmanitan Standard",
+    "reference_images": 6,
+    "test_images": 1
+  },
+  "zenith marshadow": {
+    "pokemon_id": 802,
+    "canonical_name": "Marshadow",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "zeraora": {
+    "pokemon_id": 807,
+    "canonical_name": "Zeraora",
+    "reference_images": 3,
+    "test_images": 1
+  },
+  "zigzagoon": {
+    "pokemon_id": 263,
+    "canonical_name": "Zigzagoon",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "zoroark": {
+    "pokemon_id": 571,
+    "canonical_name": "Zoroark",
+    "reference_images": 23,
+    "test_images": 3
+  },
+  "zorua": {
+    "pokemon_id": 570,
+    "canonical_name": "Zorua",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "zubat": {
+    "pokemon_id": 41,
+    "canonical_name": "Zubat",
+    "reference_images": 81,
+    "test_images": 9
+  },
+  "zweilous": {
+    "pokemon_id": 634,
+    "canonical_name": "Zweilous",
+    "reference_images": 78,
+    "test_images": 9
+  },
+  "zygarde": {
+    "pokemon_id": 718,
+    "canonical_name": "Zygarde 50",
+    "reference_images": 0,
+    "test_images": 1
+  },
+  "zygarde cell": {
+    "pokemon_id": 718,
+    "canonical_name": "Zygarde 50",
+    "reference_images": 2,
+    "test_images": 1
+  },
+  "zygarde core": {
+    "pokemon_id": 718,
+    "canonical_name": "Zygarde 50",
+    "reference_images": 2,
+    "test_images": 1
+  }
+}

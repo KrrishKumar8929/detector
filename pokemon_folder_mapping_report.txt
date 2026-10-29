@@ -1,0 +1,1118 @@
+MATCH	10% zygarde	718	Zygarde 50	alias
+MATCH	abomasnow	460	Abomasnow	exact
+MATCH	abra	63	Abra	exact
+MATCH	absol	359	Absol	exact
+MATCH	accelgor	617	Accelgor	exact
+MATCH	aegislash	681	Aegislash Shield	alias
+MATCH	aerodactyl	142	Aerodactyl	exact
+MATCH	aggron	306	Aggron	exact
+MATCH	aipom	190	Aipom	exact
+MATCH	alakazam	65	Alakazam	exact
+MATCH	alcremie	869	Alcremie	exact
+MATCH	alolan diglett	50	Diglett	alias
+MATCH	alolan dugtrio	51	Dugtrio	alias
+MATCH	alolan exeggutor	103	Exeggutor	alias
+MATCH	alolan geodude	74	Geodude	alias
+MATCH	alolan golem	76	Golem	alias
+MATCH	alolan graveler	75	Graveler	alias
+MATCH	alolan grimer	88	Grimer	alias
+MATCH	alolan marowak	105	Marowak	alias
+MATCH	alolan meowth	52	Meowth	alias
+MATCH	alolan muk	89	Muk	alias
+MATCH	alolan ninetales	38	Ninetales	alias
+MATCH	alolan persian	53	Persian	alias
+MATCH	alolan raichu	26	Raichu	alias
+MATCH	alolan raticate	20	Raticate	alias
+MATCH	alolan rattata	19	Rattata	alias
+MATCH	alolan sandshrew	27	Sandshrew	alias
+MATCH	alolan sandslash	28	Sandslash	alias
+MATCH	alolan vulpix	37	Vulpix	alias
+MATCH	alomomola	594	Alomomola	exact
+MATCH	altaria	334	Altaria	exact
+MATCH	amaura	698	Amaura	exact
+MATCH	ambipom	424	Ambipom	exact
+MATCH	amoonguss	591	Amoonguss	exact
+MATCH	amped toxtricity	849	Toxtricity Amped	alias
+MATCH	ampharos	181	Ampharos	exact
+MATCH	annihilape	979	Annihilape	exact
+MATCH	anorith	347	Anorith	exact
+MATCH	appletun	842	Appletun	exact
+MATCH	applin	840	Applin	exact
+MATCH	aqua breed tauros	128	Tauros	alias
+MATCH	araquanid	752	Araquanid	exact
+MATCH	arbok	24	Arbok	exact
+MATCH	arboliva	930	Arboliva	exact
+MATCH	arcanine	59	Arcanine	exact
+MATCH	arceus	493	Arceus	exact
+MATCH	archaludon	1018	Archaludon	exact
+MATCH	archen	566	Archen	exact
+MATCH	archeops	567	Archeops	exact
+MATCH	arctibax	997	Arctibax	exact
+MATCH	arctovish	883	Arctovish	exact
+MATCH	arctozolt	881	Arctozolt	exact
+MATCH	ariados	168	Ariados	exact
+MATCH	armaldo	348	Armaldo	exact
+MATCH	armarouge	936	Armarouge	exact
+MATCH	aromatisse	683	Aromatisse	exact
+MATCH	aron	304	Aron	exact
+MATCH	arrokuda	846	Arrokuda	exact
+MATCH	attack deoxys	386	Deoxys Normal	alias
+MATCH	audino	531	Audino	exact
+MATCH	aurorus	699	Aurorus	exact
+MATCH	avalugg	713	Avalugg	exact
+MATCH	axew	610	Axew	exact
+MATCH	azelf	482	Azelf	exact
+MATCH	azumarill	184	Azumarill	exact
+MATCH	azurill	298	Azurill	exact
+MATCH	bagon	371	Bagon	exact
+MATCH	baltoy	343	Baltoy	exact
+MATCH	banette	354	Banette	exact
+MATCH	barbaracle	689	Barbaracle	exact
+MATCH	barboach	339	Barboach	exact
+MATCH	barraskewda	847	Barraskewda	exact
+MATCH	basculegion	902	Basculegion Male	prefix
+MATCH	basculin	550	Basculin Red Striped	alias
+MATCH	bastiodon	411	Bastiodon	exact
+MATCH	baxcalibur	998	Baxcalibur	exact
+MATCH	bayleef	153	Bayleef	exact
+MATCH	beartic	614	Beartic	exact
+MATCH	beautifly	267	Beautifly	exact
+MATCH	beedrill	15	Beedrill	exact
+MATCH	beheeyem	606	Beheeyem	exact
+MATCH	beldum	374	Beldum	exact
+MATCH	bellibolt	939	Bellibolt	exact
+MATCH	bellossom	182	Bellossom	exact
+MATCH	bellsprout	69	Bellsprout	exact
+MATCH	bergmite	712	Bergmite	exact
+MATCH	bewear	760	Bewear	exact
+MATCH	bibarel	400	Bibarel	exact
+MATCH	bidoof	399	Bidoof	exact
+MATCH	binacle	688	Binacle	exact
+MATCH	bisharp	625	Bisharp	exact
+MATCH	blacephalon	806	Blacephalon	exact
+MATCH	blade aegislash	681	Aegislash Shield	alias
+MATCH	blastoise	9	Blastoise	exact
+MATCH	blaze breed tauros	128	Tauros	alias
+MATCH	blaziken	257	Blaziken	exact
+MATCH	blipbug	824	Blipbug	exact
+MATCH	blissey	242	Blissey	exact
+MATCH	blitzle	522	Blitzle	exact
+MATCH	bloodmoon ursaluna	901	Ursaluna	alias
+MATCH	blue plumage squawkabilly	931	Squawkabilly Green Plumage	alias
+MATCH	blue-striped basculin	550	Basculin Red Striped	alias
+MATCH	boldore	525	Boldore	exact
+MATCH	boltund	836	Boltund	exact
+MATCH	bombirdier	962	Bombirdier	exact
+MATCH	bonsly	438	Bonsly	exact
+MATCH	bouffalant	626	Bouffalant	exact
+MATCH	bounsweet	761	Bounsweet	exact
+MATCH	braixen	654	Braixen	exact
+MATCH	brambleghast	947	Brambleghast	exact
+MATCH	bramblin	946	Bramblin	exact
+MATCH	braviary	628	Braviary	exact
+MATCH	breloom	286	Breloom	exact
+MATCH	brionne	729	Brionne	exact
+MATCH	bronzong	437	Bronzong	exact
+MATCH	bronzor	436	Bronzor	exact
+MATCH	bruxish	779	Bruxish	exact
+MATCH	budew	406	Budew	exact
+MATCH	buizel	418	Buizel	exact
+MATCH	bulbasaur	1	Bulbasaur	exact
+MATCH	buneary	427	Buneary	exact
+MATCH	bunnelby	659	Bunnelby	exact
+MATCH	burmy	412	Burmy	exact
+MATCH	butterfree	12	Butterfree	exact
+MATCH	cacnea	331	Cacnea	exact
+MATCH	cacturne	332	Cacturne	exact
+MATCH	calyrex	898	Calyrex	exact
+MATCH	camerupt	323	Camerupt	exact
+MATCH	capsakid	951	Capsakid	exact
+MATCH	carbink	703	Carbink	exact
+MATCH	carkol	838	Carkol	exact
+MATCH	carnivine	455	Carnivine	exact
+MATCH	carracosta	565	Carracosta	exact
+MATCH	carvanha	318	Carvanha	exact
+MATCH	cascoon	268	Cascoon	exact
+MATCH	castform	351	Castform	exact
+MATCH	caterpie	10	Caterpie	exact
+MATCH	celebi	251	Celebi	exact
+MATCH	celesteela	797	Celesteela	exact
+MATCH	centiskorch	851	Centiskorch	exact
+MATCH	ceruledge	937	Ceruledge	exact
+MATCH	cetitan	975	Cetitan	exact
+MATCH	cetoddle	974	Cetoddle	exact
+MATCH	chandelure	609	Chandelure	exact
+MATCH	chansey	113	Chansey	exact
+MATCH	charcadet	935	Charcadet	exact
+MATCH	charizard	6	Charizard	exact
+MATCH	charjabug	737	Charjabug	exact
+MATCH	charmander	4	Charmander	exact
+MATCH	charmeleon	5	Charmeleon	exact
+MATCH	chatot	441	Chatot	exact
+MATCH	cherrim	421	Cherrim	exact
+MATCH	cherubi	420	Cherubi	exact
+MATCH	chesnaught	652	Chesnaught	exact
+MATCH	chespin	650	Chespin	exact
+MATCH	chewtle	833	Chewtle	exact
+MATCH	chi-yu	1004	Chi Yu	exact
+MATCH	chien-pao	1002	Chien Pao	exact
+MATCH	chikorita	152	Chikorita	exact
+MATCH	chimchar	390	Chimchar	exact
+MATCH	chimecho	358	Chimecho	exact
+MATCH	chinchou	170	Chinchou	exact
+MATCH	chingling	433	Chingling	exact
+MATCH	cinccino	573	Cinccino	exact
+MATCH	cinderace	815	Cinderace	exact
+MATCH	clamperl	366	Clamperl	exact
+MATCH	clauncher	692	Clauncher	exact
+MATCH	clawitzer	693	Clawitzer	exact
+MATCH	claydol	344	Claydol	exact
+MATCH	clefable	36	Clefable	exact
+MATCH	clefairy	35	Clefairy	exact
+MATCH	cleffa	173	Cleffa	exact
+MATCH	clobbopus	852	Clobbopus	exact
+MATCH	clodsire	980	Clodsire	exact
+MATCH	cloyster	91	Cloyster	exact
+MATCH	coalossal	839	Coalossal	exact
+MATCH	cobalion	638	Cobalion	exact
+MATCH	cofagrigus	563	Cofagrigus	exact
+MATCH	combat breed tauros	128	Tauros	alias
+MATCH	combee	415	Combee	exact
+MATCH	combusken	256	Combusken	exact
+MATCH	comfey	764	Comfey	exact
+MATCH	complete zygarde	718	Zygarde 50	alias
+MATCH	conkeldurr	534	Conkeldurr	exact
+MATCH	copperajah	879	Copperajah	exact
+MATCH	cornerstone mask ogerpon	1017	Ogerpon	alias
+MATCH	corphish	341	Corphish	exact
+MATCH	corsola	222	Corsola	exact
+MATCH	corviknight	823	Corviknight	exact
+MATCH	corvisquire	822	Corvisquire	exact
+MATCH	cosmoem	790	Cosmoem	exact
+MATCH	cosmog	789	Cosmog	exact
+MATCH	cottonee	546	Cottonee	exact
+MATCH	crabominable	740	Crabominable	exact
+MATCH	crabrawler	739	Crabrawler	exact
+MATCH	cracked ditto	132	Ditto	alias
+MATCH	cradily	346	Cradily	exact
+MATCH	cramorant	845	Cramorant	exact
+MATCH	cranidos	408	Cranidos	exact
+MATCH	crawdaunt	342	Crawdaunt	exact
+MATCH	cresselia	488	Cresselia	exact
+MATCH	croagunk	453	Croagunk	exact
+MATCH	crobat	169	Crobat	exact
+MATCH	crocalor	910	Crocalor	exact
+MATCH	croconaw	159	Croconaw	exact
+MATCH	crustle	558	Crustle	exact
+MATCH	cryogonal	615	Cryogonal	exact
+MATCH	cubchoo	613	Cubchoo	exact
+MATCH	cubone	104	Cubone	exact
+MATCH	cufant	878	Cufant	exact
+MATCH	cursola	864	Cursola	exact
+MATCH	cutiefly	742	Cutiefly	exact
+MATCH	cyclizar	967	Cyclizar	exact
+MATCH	cyndaquil	155	Cyndaquil	exact
+MATCH	dachsbun	927	Dachsbun	exact
+MATCH	dada zarude	893	Zarude	alias
+MATCH	darkrai	491	Darkrai	exact
+MATCH	darmanitan	555	Darmanitan Standard	alias
+MATCH	dartrix	723	Dartrix	exact
+MATCH	darumaka	554	Darumaka	exact
+MATCH	decidueye	724	Decidueye	exact
+MATCH	dedenne	702	Dedenne	exact
+MATCH	deerling	585	Deerling	exact
+MATCH	defense deoxys	386	Deoxys Normal	alias
+MATCH	deino	633	Deino	exact
+MATCH	delcatty	301	Delcatty	exact
+MATCH	delibird	225	Delibird	exact
+MATCH	delphox	655	Delphox	exact
+MATCH	deoxys	386	Deoxys Normal	alias
+MATCH	dewgong	87	Dewgong	exact
+MATCH	dewott	502	Dewott	exact
+MATCH	dewpider	751	Dewpider	exact
+MATCH	dhelmise	781	Dhelmise	exact
+MATCH	dialga	483	Dialga	exact
+MATCH	diancie	719	Diancie	exact
+MATCH	diggersby	660	Diggersby	exact
+MATCH	diglett	50	Diglett	exact
+MATCH	dipplin	1011	Dipplin	exact
+MATCH	ditto	132	Ditto	exact
+MATCH	dodrio	85	Dodrio	exact
+MATCH	doduo	84	Doduo	exact
+MATCH	dolliv	929	Dolliv	exact
+MATCH	dondozo	977	Dondozo	exact
+MATCH	donphan	232	Donphan	exact
+MATCH	dottler	825	Dottler	exact
+MATCH	doublade	680	Doublade	exact
+MATCH	dracovish	882	Dracovish	exact
+MATCH	dracozolt	880	Dracozolt	exact
+MATCH	dragalge	691	Dragalge	exact
+MATCH	dragapult	887	Dragapult	exact
+MATCH	dragonair	148	Dragonair	exact
+MATCH	dragonite	149	Dragonite	exact
+MATCH	drakloak	886	Drakloak	exact
+MATCH	drampa	780	Drampa	exact
+MATCH	drapion	452	Drapion	exact
+MATCH	dratini	147	Dratini	exact
+MATCH	drednaw	834	Drednaw	exact
+MATCH	dreepy	885	Dreepy	exact
+MATCH	drifblim	426	Drifblim	exact
+MATCH	drifloon	425	Drifloon	exact
+MATCH	drilbur	529	Drilbur	exact
+MATCH	drizzile	817	Drizzile	exact
+MATCH	droopy tatsugiri	978	Tatsugiri Curly	alias
+MATCH	drowzee	96	Drowzee	exact
+MATCH	druddigon	621	Druddigon	exact
+MATCH	dubwool	832	Dubwool	exact
+MATCH	ducklett	580	Ducklett	exact
+MATCH	dudunsparce	982	Dudunsparce Two Segment	prefix
+MATCH	dugtrio	51	Dugtrio	exact
+MATCH	dunsparce	206	Dunsparce	exact
+MATCH	duosion	578	Duosion	exact
+MATCH	duraludon	884	Duraludon	exact
+MATCH	durant	632	Durant	exact
+MATCH	dusclops	356	Dusclops	exact
+MATCH	dusk lycanroc	745	Lycanroc Midday	alias
+MATCH	dusknoir	477	Dusknoir	exact
+MATCH	duskull	355	Duskull	exact
+MATCH	dustox	269	Dustox	exact
+MATCH	dwebble	557	Dwebble	exact
+MATCH	easter bidoof	399	Bidoof	alias
+MATCH	eelektrik	603	Eelektrik	exact
+MATCH	eelektross	604	Eelektross	exact
+MATCH	eevee	133	Eevee	exact
+MATCH	egg nest lapras	131	Lapras	alias
+MATCH	eiscue	875	Eiscue Ice	prefix
+MATCH	ekans	23	Ekans	exact
+MATCH	eldegoss	830	Eldegoss	exact
+MATCH	electabuzz	125	Electabuzz	exact
+MATCH	electivire	466	Electivire	exact
+MATCH	electrike	309	Electrike	exact
+MATCH	electrode	101	Electrode	exact
+MATCH	elekid	239	Elekid	exact
+MATCH	elgyem	605	Elgyem	exact
+MATCH	emboar	500	Emboar	exact
+MATCH	emolga	587	Emolga	exact
+MATCH	empoleon	395	Empoleon	exact
+MATCH	enamorus	905	Enamorus Incarnate	prefix
+MATCH	entei	244	Entei	exact
+MATCH	escavalier	589	Escavalier	exact
+MATCH	espathra	956	Espathra	exact
+MATCH	espeon	196	Espeon	exact
+MATCH	espurr	677	Espurr	exact
+MATCH	excadrill	530	Excadrill	exact
+MATCH	exeggcute	102	Exeggcute	exact
+MATCH	exeggutor	103	Exeggutor	exact
+MATCH	exploud	295	Exploud	exact
+MATCH	falinks	870	Falinks	exact
+MATCH	family of three maushold	925	Maushold Family Of Four	alias
+MATCH	fan rotom	479	Rotom	alias
+MATCH	farfetch'd	83	Farfetchd	alias
+MATCH	farigiraf	981	Farigiraf	exact
+MATCH	fearow	22	Fearow	exact
+MATCH	feebas	349	Feebas	exact
+MATCH	fennekin	653	Fennekin	exact
+MATCH	feraligatr	160	Feraligatr	exact
+MATCH	ferroseed	597	Ferroseed	exact
+MATCH	ferrothorn	598	Ferrothorn	exact
+MATCH	fezandipiti	1016	Fezandipiti	exact
+MATCH	fidough	926	Fidough	exact
+MATCH	finizen	963	Finizen	exact
+MATCH	finneon	456	Finneon	exact
+MATCH	flaaffy	180	Flaaffy	exact
+MATCH	flabebe	669	Flabebe	exact
+MATCH	flamigo	973	Flamigo	exact
+MATCH	flapple	841	Flapple	exact
+MATCH	flareon	136	Flareon	exact
+MATCH	fletchinder	662	Fletchinder	exact
+MATCH	fletchling	661	Fletchling	exact
+MATCH	flittle	955	Flittle	exact
+MATCH	floatzel	419	Floatzel	exact
+MATCH	floette	670	Floette	exact
+MATCH	floragato	907	Floragato	exact
+MATCH	florges	671	Florges	exact
+MATCH	flygon	330	Flygon	exact
+MATCH	fomantis	753	Fomantis	exact
+MATCH	foongus	590	Foongus	exact
+MATCH	forretress	205	Forretress	exact
+MATCH	fraxure	611	Fraxure	exact
+MATCH	frigibax	996	Frigibax	exact
+MATCH	frillish	592	Frillish Male	prefix
+MATCH	froakie	656	Froakie	exact
+MATCH	frogadier	657	Frogadier	exact
+MATCH	froslass	478	Froslass	exact
+MATCH	frosmoth	873	Frosmoth	exact
+MATCH	frost rotom	479	Rotom	alias
+MATCH	fuecoco	909	Fuecoco	exact
+MATCH	furfrou	676	Furfrou	exact
+MATCH	furret	162	Furret	exact
+MATCH	gabite	444	Gabite	exact
+MATCH	galarian corsola	222	Corsola	alias
+MATCH	galarian darmanitan	555	Darmanitan Standard	alias
+MATCH	galarian darumaka	554	Darumaka	alias
+MATCH	galarian farfetch'd	83	Farfetchd	alias
+MATCH	galarian linoone	264	Linoone	alias
+MATCH	galarian meowth	52	Meowth	alias
+MATCH	galarian mr. mime	122	Mr Mime	alias
+MATCH	galarian ponyta	77	Ponyta	alias
+MATCH	galarian rapidash	78	Rapidash	alias
+MATCH	galarian slowbro	80	Slowbro	alias
+MATCH	galarian slowking	199	Slowking	alias
+MATCH	galarian slowpoke	79	Slowpoke	alias
+MATCH	galarian stunfisk	618	Stunfisk	alias
+MATCH	galarian weezing	110	Weezing	alias
+MATCH	galarian yamask	562	Yamask	alias
+MATCH	galarian zapdos	145	Zapdos	alias
+MATCH	galarian zen darmanitan	555	Darmanitan Standard	alias
+MATCH	galarian zigzagoon	263	Zigzagoon	alias
+MATCH	gallade	475	Gallade	exact
+MATCH	galvantula	596	Galvantula	exact
+MATCH	garbodor	569	Garbodor	exact
+MATCH	garchomp	445	Garchomp	exact
+MATCH	gardevoir	282	Gardevoir	exact
+MATCH	garganacl	934	Garganacl	exact
+MATCH	gastly	92	Gastly	exact
+MATCH	gastrodon	423	Gastrodon	exact
+MATCH	genesect	649	Genesect	exact
+MATCH	gengar	94	Gengar	exact
+MATCH	geodude	74	Geodude	exact
+MATCH	gholdengo	1000	Gholdengo	exact
+MATCH	gible	443	Gible	exact
+MATCH	gigalith	526	Gigalith	exact
+MATCH	gimmighoul	999	Gimmighoul	exact
+MATCH	girafarig	203	Girafarig	exact
+MATCH	giratina	487	Giratina Altered	alias
+MATCH	glaceon	471	Glaceon	exact
+MATCH	glalie	362	Glalie	exact
+MATCH	glameow	431	Glameow	exact
+MATCH	glastrier	896	Glastrier	exact
+MATCH	gligar	207	Gligar	exact
+MATCH	glimmet	969	Glimmet	exact
+MATCH	glimmora	970	Glimmora	exact
+MATCH	gliscor	472	Gliscor	exact
+MATCH	gloom	44	Gloom	exact
+MATCH	gogoat	673	Gogoat	exact
+MATCH	golbat	42	Golbat	exact
+MATCH	goldeen	118	Goldeen	exact
+MATCH	golduck	55	Golduck	exact
+MATCH	golem	76	Golem	exact
+MATCH	golett	622	Golett	exact
+MATCH	golisopod	768	Golisopod	exact
+MATCH	golurk	623	Golurk	exact
+MATCH	goodra	706	Goodra	exact
+MATCH	goomy	704	Goomy	exact
+MATCH	gorebyss	368	Gorebyss	exact
+MATCH	gorging cramorant	845	Cramorant	alias
+MATCH	gossifleur	829	Gossifleur	exact
+MATCH	gothita	574	Gothita	exact
+MATCH	gothitelle	576	Gothitelle	exact
+MATCH	gothorita	575	Gothorita	exact
+MATCH	gouging fire	1020	Gouging Fire	exact
+MATCH	gourgeist	711	Gourgeist Average	prefix
+MATCH	grafaiai	945	Grafaiai	exact
+MATCH	granbull	210	Granbull	exact
+MATCH	grapploct	853	Grapploct	exact
+MATCH	graveler	75	Graveler	exact
+MATCH	great tusk	984	Great Tusk	exact
+MATCH	greavard	971	Greavard	exact
+MATCH	greedent	820	Greedent	exact
+MATCH	greninja	658	Greninja	exact
+MATCH	grimer	88	Grimer	exact
+MATCH	grimmsnarl	861	Grimmsnarl	exact
+MATCH	grookey	810	Grookey	exact
+MATCH	grotle	388	Grotle	exact
+MATCH	groudon	383	Groudon	exact
+MATCH	grovyle	253	Grovyle	exact
+MATCH	growlithe	58	Growlithe	exact
+MATCH	grubbin	736	Grubbin	exact
+MATCH	grumpig	326	Grumpig	exact
+MATCH	gulpin	316	Gulpin	exact
+MATCH	gulping cramorant	845	Cramorant	alias
+MATCH	gumshoos	735	Gumshoos	exact
+MATCH	gurdurr	533	Gurdurr	exact
+MATCH	guzzlord	799	Guzzlord	exact
+MATCH	gyarados	130	Gyarados	exact
+MATCH	hakamo-o	783	Hakamo O	exact
+MATCH	hangry morpeko	877	Morpeko Full Belly	alias
+MATCH	happiny	440	Happiny	exact
+MATCH	hariyama	297	Hariyama	exact
+MATCH	hatenna	856	Hatenna	exact
+MATCH	hatterene	858	Hatterene	exact
+MATCH	hattrem	857	Hattrem	exact
+MATCH	haunter	93	Haunter	exact
+MATCH	hawlucha	701	Hawlucha	exact
+MATCH	haxorus	612	Haxorus	exact
+MATCH	hearthflame mask ogerpon	1017	Ogerpon	alias
+MATCH	heat rotom	479	Rotom	alias
+MATCH	heatmor	631	Heatmor	exact
+MATCH	heatran	485	Heatran	exact
+MATCH	heliolisk	695	Heliolisk	exact
+MATCH	helioptile	694	Helioptile	exact
+MATCH	heracross	214	Heracross	exact
+MATCH	herdier	507	Herdier	exact
+MATCH	hero palafin	964	Palafin Zero	alias
+MATCH	hippopotas	449	Hippopotas	exact
+MATCH	hippowdon	450	Hippowdon	exact
+MATCH	hisuian arcanine	59	Arcanine	alias
+MATCH	hisuian avalugg	713	Avalugg	alias
+MATCH	hisuian braviary	628	Braviary	alias
+MATCH	hisuian decidueye	724	Decidueye	alias
+MATCH	hisuian electrode	101	Electrode	alias
+MATCH	hisuian goodra	706	Goodra	alias
+MATCH	hisuian growlithe	58	Growlithe	alias
+MATCH	hisuian lilligant	549	Lilligant	alias
+MATCH	hisuian qwilfish	211	Qwilfish	alias
+MATCH	hisuian samurott	503	Samurott	alias
+MATCH	hisuian sliggoo	705	Sliggoo	alias
+MATCH	hisuian sneasel	215	Sneasel	alias
+MATCH	hisuian typhlosion	157	Typhlosion	alias
+MATCH	hisuian voltorb	100	Voltorb	alias
+MATCH	hisuian zoroark	571	Zoroark	alias
+MATCH	hisuian zorua	570	Zorua	alias
+MATCH	hitmonchan	107	Hitmonchan	exact
+MATCH	hitmonlee	106	Hitmonlee	exact
+MATCH	hitmontop	237	Hitmontop	exact
+MATCH	ho-oh	250	Ho Oh	exact
+MATCH	honchkrow	430	Honchkrow	exact
+MATCH	honedge	679	Honedge	exact
+MATCH	hoopa	720	Hoopa	exact
+MATCH	hoothoot	163	Hoothoot	exact
+MATCH	hoppip	187	Hoppip	exact
+MATCH	horsea	116	Horsea	exact
+MATCH	houndoom	229	Houndoom	exact
+MATCH	houndour	228	Houndour	exact
+MATCH	houndstone	972	Houndstone	exact
+MATCH	huntail	367	Huntail	exact
+MATCH	hydrapple	1019	Hydrapple	exact
+MATCH	hydreigon	635	Hydreigon	exact
+MATCH	hypno	97	Hypno	exact
+MATCH	igglybuff	174	Igglybuff	exact
+MATCH	illumise	314	Illumise	exact
+MATCH	impidimp	859	Impidimp	exact
+MATCH	incineroar	727	Incineroar	exact
+MATCH	indeedee	876	Indeedee Male	prefix
+MATCH	infernape	392	Infernape	exact
+MATCH	inkay	686	Inkay	exact
+MATCH	inteleon	818	Inteleon	exact
+MATCH	iron boulder	1022	Iron Boulder	exact
+MATCH	iron bundle	991	Iron Bundle	exact
+MATCH	iron crown	1023	Iron Crown	exact
+MATCH	iron hands	992	Iron Hands	exact
+MATCH	iron jugulis	993	Iron Jugulis	exact
+MATCH	iron leaves	1010	Iron Leaves	exact
+MATCH	iron moth	994	Iron Moth	exact
+MATCH	iron thorns	995	Iron Thorns	exact
+MATCH	iron valiant	1006	Iron Valiant	exact
+MATCH	ivysaur	2	Ivysaur	exact
+MATCH	jangmo-o	782	Jangmo O	exact
+MATCH	jellicent	593	Jellicent Male	prefix
+MATCH	jigglypuff	39	Jigglypuff	exact
+MATCH	jirachi	385	Jirachi	exact
+MATCH	jolteon	135	Jolteon	exact
+MATCH	joltik	595	Joltik	exact
+MATCH	jumpluff	189	Jumpluff	exact
+MATCH	jynx	124	Jynx	exact
+MATCH	kabuto	140	Kabuto	exact
+MATCH	kabutops	141	Kabutops	exact
+MATCH	kadabra	64	Kadabra	exact
+MATCH	kakuna	14	Kakuna	exact
+MATCH	kangaskhan	115	Kangaskhan	exact
+MATCH	karrablast	588	Karrablast	exact
+MATCH	kartana	798	Kartana	exact
+MATCH	kecleon	352	Kecleon	exact
+MATCH	keldeo	647	Keldeo Ordinary	prefix
+MATCH	kilowattrel	941	Kilowattrel	exact
+MATCH	kingambit	983	Kingambit	exact
+MATCH	kingdra	230	Kingdra	exact
+MATCH	kingler	99	Kingler	exact
+MATCH	kirlia	281	Kirlia	exact
+MATCH	klang	600	Klang	exact
+MATCH	klawf	950	Klawf	exact
+MATCH	kleavor	900	Kleavor	exact
+MATCH	klefki	707	Klefki	exact
+MATCH	klink	599	Klink	exact
+MATCH	klinklang	601	Klinklang	exact
+MATCH	koffing	109	Koffing	exact
+MATCH	komala	775	Komala	exact
+MATCH	kommo-o	784	Kommo O	exact
+MATCH	koraidon	1007	Koraidon	exact
+MATCH	krabby	98	Krabby	exact
+MATCH	kricketot	401	Kricketot	exact
+MATCH	kricketune	402	Kricketune	exact
+MATCH	krokorok	552	Krokorok	exact
+MATCH	krookodile	553	Krookodile	exact
+MATCH	kubfu	891	Kubfu	exact
+MATCH	kyurem	646	Kyurem	exact
+MATCH	lairon	305	Lairon	exact
+MATCH	lampent	608	Lampent	exact
+MATCH	landorus	645	Landorus Incarnate	prefix
+MATCH	lanturn	171	Lanturn	exact
+MATCH	lapras	131	Lapras	exact
+MATCH	larvesta	636	Larvesta	exact
+MATCH	larvitar	246	Larvitar	exact
+MATCH	latias	380	Latias	exact
+MATCH	latios	381	Latios	exact
+MATCH	leafeon	470	Leafeon	exact
+MATCH	leavanny	542	Leavanny	exact
+MATCH	lechonk	915	Lechonk	exact
+MATCH	ledian	166	Ledian	exact
+MATCH	ledyba	165	Ledyba	exact
+MATCH	lickilicky	463	Lickilicky	exact
+MATCH	lickitung	108	Lickitung	exact
+MATCH	liepard	510	Liepard	exact
+MATCH	lileep	345	Lileep	exact
+MATCH	lilligant	549	Lilligant	exact
+MATCH	lillipup	506	Lillipup	exact
+MATCH	linoone	264	Linoone	exact
+MATCH	litleo	667	Litleo	exact
+MATCH	litten	725	Litten	exact
+MATCH	litwick	607	Litwick	exact
+MATCH	lokix	920	Lokix	exact
+MATCH	lombre	271	Lombre	exact
+MATCH	lopunny	428	Lopunny	exact
+MATCH	lotad	270	Lotad	exact
+MATCH	loudred	294	Loudred	exact
+MATCH	low key toxtricity	849	Toxtricity Amped	alias
+MATCH	lucario	448	Lucario	exact
+MATCH	ludicolo	272	Ludicolo	exact
+MATCH	lugia	249	Lugia	exact
+MATCH	lumineon	457	Lumineon	exact
+MATCH	lunatone	337	Lunatone	exact
+MATCH	lurantis	754	Lurantis	exact
+MATCH	luvdisc	370	Luvdisc	exact
+MATCH	luxio	404	Luxio	exact
+MATCH	luxray	405	Luxray	exact
+MATCH	lycanroc	745	Lycanroc Midday	prefix
+MATCH	mabosstiff	943	Mabosstiff	exact
+MATCH	machamp	68	Machamp	exact
+MATCH	machoke	67	Machoke	exact
+MATCH	machop	66	Machop	exact
+MATCH	magby	240	Magby	exact
+MATCH	magcargo	219	Magcargo	exact
+MATCH	magearna	801	Magearna	exact
+MATCH	magikarp	129	Magikarp	exact
+MATCH	magmar	126	Magmar	exact
+MATCH	magmortar	467	Magmortar	exact
+MATCH	magnemite	81	Magnemite	exact
+MATCH	magneton	82	Magneton	exact
+MATCH	magnezone	462	Magnezone	exact
+MATCH	makuhita	296	Makuhita	exact
+MATCH	malamar	687	Malamar	exact
+MATCH	mamoswine	473	Mamoswine	exact
+MATCH	manaphy	490	Manaphy	exact
+MATCH	mandibuzz	630	Mandibuzz	exact
+MATCH	manectric	310	Manectric	exact
+MATCH	mankey	56	Mankey	exact
+MATCH	mantine	226	Mantine	exact
+MATCH	mantyke	458	Mantyke	exact
+MATCH	maractus	556	Maractus	exact
+MATCH	mareanie	747	Mareanie	exact
+MATCH	mareep	179	Mareep	exact
+MATCH	marill	183	Marill	exact
+MATCH	marowak	105	Marowak	exact
+MATCH	marshadow	802	Marshadow	exact
+MATCH	marshtomp	259	Marshtomp	exact
+MATCH	maschiff	942	Maschiff	exact
+MATCH	masquerain	284	Masquerain	exact
+MATCH	maushold	925	Maushold Family Of Four	prefix
+MATCH	mawile	303	Mawile	exact
+MATCH	medicham	308	Medicham	exact
+MATCH	meditite	307	Meditite	exact
+MATCH	meganium	154	Meganium	exact
+MATCH	melmetal	809	Melmetal	exact
+MATCH	meloetta	648	Meloetta Aria	prefix
+MATCH	meltan	808	Meltan	exact
+MATCH	meowscarada	908	Meowscarada	exact
+MATCH	meowstic	678	Meowstic Male	alias
+MATCH	meowth	52	Meowth	exact
+MATCH	mesprit	481	Mesprit	exact
+MATCH	metagross	376	Metagross	exact
+MATCH	metang	375	Metang	exact
+MATCH	metapod	11	Metapod	exact
+MATCH	mew	151	Mew	exact
+MATCH	mewtwo	150	Mewtwo	exact
+MATCH	midnight lycanroc	745	Lycanroc Midday	alias
+MATCH	mienfoo	619	Mienfoo	exact
+MATCH	mienshao	620	Mienshao	exact
+MATCH	mightyena	262	Mightyena	exact
+MATCH	milcery	868	Milcery	exact
+MATCH	milotic	350	Milotic	exact
+MATCH	miltank	241	Miltank	exact
+MATCH	mimikyu	778	Mimikyu Disguised	prefix
+MATCH	minccino	572	Minccino	exact
+MATCH	minior	774	Minior Red Meteor	alias
+MATCH	minun	312	Minun	exact
+MATCH	miraidon	1008	Miraidon	exact
+MATCH	misdreavus	200	Misdreavus	exact
+MATCH	mismagius	429	Mismagius	exact
+MATCH	monferno	391	Monferno	exact
+MATCH	morelull	755	Morelull	exact
+MATCH	morgrem	860	Morgrem	exact
+MATCH	morpeko	877	Morpeko Full Belly	prefix
+MATCH	mothim	414	Mothim	exact
+MATCH	mow rotom	479	Rotom	alias
+MATCH	mr. mime	122	Mr Mime	exact
+MATCH	mr. rime	866	Mr Rime	exact
+MATCH	mudbray	749	Mudbray	exact
+MATCH	mudkip	258	Mudkip	exact
+MATCH	mudsdale	750	Mudsdale	exact
+MATCH	muk	89	Muk	exact
+MATCH	munchlax	446	Munchlax	exact
+MATCH	munkidori	1015	Munkidori	exact
+MATCH	munna	517	Munna	exact
+MATCH	murkrow	198	Murkrow	exact
+MATCH	musharna	518	Musharna	exact
+MATCH	nacli	932	Nacli	exact
+MATCH	naclstack	933	Naclstack	exact
+MATCH	natu	177	Natu	exact
+MATCH	necrozma	800	Necrozma	exact
+MATCH	nickit	827	Nickit	exact
+MATCH	nidoking	34	Nidoking	exact
+MATCH	nidoqueen	31	Nidoqueen	exact
+MATCH	nidoranf	29	Nidoran F	exact
+MATCH	nidoranm	32	Nidoran M	exact
+MATCH	nidorina	30	Nidorina	exact
+MATCH	nidorino	33	Nidorino	exact
+MATCH	nihilego	793	Nihilego	exact
+MATCH	nincada	290	Nincada	exact
+MATCH	ninetales	38	Ninetales	exact
+MATCH	ninjask	291	Ninjask	exact
+MATCH	noctowl	164	Noctowl	exact
+MATCH	noibat	714	Noibat	exact
+MATCH	noice face eiscue	875	Eiscue Ice	alias
+MATCH	noivern	715	Noivern	exact
+MATCH	nosepass	299	Nosepass	exact
+MATCH	numel	322	Numel	exact
+MATCH	nuzleaf	274	Nuzleaf	exact
+MATCH	nymble	919	Nymble	exact
+MATCH	obstagoon	862	Obstagoon	exact
+MATCH	octillery	224	Octillery	exact
+MATCH	oddish	43	Oddish	exact
+MATCH	ogerpon	1017	Ogerpon	exact
+MATCH	oinkologne	916	Oinkologne Male	prefix
+MATCH	okidogi	1014	Okidogi	exact
+MATCH	omanyte	138	Omanyte	exact
+MATCH	omastar	139	Omastar	exact
+MATCH	onix	95	Onix	exact
+MATCH	oranguru	765	Oranguru	exact
+MATCH	orbeetle	826	Orbeetle	exact
+MATCH	oricorio	741	Oricorio Baile	prefix
+MATCH	orthworm	968	Orthworm	exact
+MATCH	oshawott	501	Oshawott	exact
+MATCH	overqwil	904	Overqwil	exact
+MATCH	pa'u oricorio	741	Oricorio Baile	alias
+MATCH	pachirisu	417	Pachirisu	exact
+MATCH	palafin	964	Palafin Zero	prefix
+MATCH	paldean wooper	194	Wooper	alias
+MATCH	palkia	484	Palkia	exact
+MATCH	palossand	770	Palossand	exact
+MATCH	palpitoad	536	Palpitoad	exact
+MATCH	pancham	674	Pancham	exact
+MATCH	pangoro	675	Pangoro	exact
+MATCH	panpour	515	Panpour	exact
+MATCH	pansage	511	Pansage	exact
+MATCH	pansear	513	Pansear	exact
+MATCH	paras	46	Paras	exact
+MATCH	parasect	47	Parasect	exact
+MATCH	partner eevee	133	Eevee	alias
+MATCH	partner pikachu	25	Pikachu	alias
+MATCH	passimian	766	Passimian	exact
+MATCH	patrat	504	Patrat	exact
+MATCH	pawmi	921	Pawmi	exact
+MATCH	pawmo	922	Pawmo	exact
+MATCH	pawmot	923	Pawmot	exact
+MATCH	pawniard	624	Pawniard	exact
+MATCH	pecharunt	1025	Pecharunt	exact
+MATCH	pelipper	279	Pelipper	exact
+MATCH	perrserker	863	Perrserker	exact
+MATCH	persian	53	Persian	exact
+MATCH	petilil	548	Petilil	exact
+MATCH	phanpy	231	Phanpy	exact
+MATCH	phantump	708	Phantump	exact
+MATCH	pheromosa	795	Pheromosa	exact
+MATCH	phione	489	Phione	exact
+MATCH	pichu	172	Pichu	exact
+MATCH	pidgeot	18	Pidgeot	exact
+MATCH	pidgeotto	17	Pidgeotto	exact
+MATCH	pidgey	16	Pidgey	exact
+MATCH	pidove	519	Pidove	exact
+MATCH	pignite	499	Pignite	exact
+MATCH	pikachu	25	Pikachu	exact
+MATCH	pikipek	731	Pikipek	exact
+MATCH	piloswine	221	Piloswine	exact
+MATCH	pincurchin	871	Pincurchin	exact
+MATCH	pineco	204	Pineco	exact
+MATCH	pinsir	127	Pinsir	exact
+MATCH	piplup	393	Piplup	exact
+MATCH	pirouette meloetta	648	Meloetta Aria	alias
+MATCH	plusle	311	Plusle	exact
+MATCH	poipole	803	Poipole	exact
+MATCH	politoed	186	Politoed	exact
+MATCH	poliwag	60	Poliwag	exact
+MATCH	poliwhirl	61	Poliwhirl	exact
+MATCH	poliwrath	62	Poliwrath	exact
+MATCH	poltchageist	1012	Poltchageist	exact
+MATCH	polteageist	855	Polteageist	exact
+MATCH	pom-pom oricorio	741	Oricorio Baile	alias
+MATCH	ponyta	77	Ponyta	exact
+MATCH	poochyena	261	Poochyena	exact
+MATCH	popplio	728	Popplio	exact
+MATCH	porygon	137	Porygon	exact
+MATCH	porygon-z	474	Porygon Z	exact
+MATCH	porygon2	233	Porygon2	exact
+MATCH	primarina	730	Primarina	exact
+MATCH	primeape	57	Primeape	exact
+MATCH	prinplup	394	Prinplup	exact
+MATCH	probopass	476	Probopass	exact
+MATCH	psyduck	54	Psyduck	exact
+MATCH	pumpkaboo	710	Pumpkaboo Average	prefix
+MATCH	pupitar	247	Pupitar	exact
+MATCH	purrloin	509	Purrloin	exact
+MATCH	purugly	432	Purugly	exact
+MATCH	pyroar	668	Pyroar Male	prefix
+MATCH	pyukumuku	771	Pyukumuku	exact
+MATCH	quagsire	195	Quagsire	exact
+MATCH	quaquaval	914	Quaquaval	exact
+MATCH	quaxly	912	Quaxly	exact
+MATCH	quaxwell	913	Quaxwell	exact
+MATCH	quilava	156	Quilava	exact
+MATCH	quilladin	651	Quilladin	exact
+MATCH	qwilfish	211	Qwilfish	exact
+MATCH	raboot	814	Raboot	exact
+MATCH	rabsca	954	Rabsca	exact
+MATCH	raging bolt	1021	Raging Bolt	exact
+MATCH	raichu	26	Raichu	exact
+MATCH	raikou	243	Raikou	exact
+MATCH	rainy castform	351	Castform	alias
+MATCH	ralts	280	Ralts	exact
+MATCH	rampardos	409	Rampardos	exact
+MATCH	rapid strike urshifu	892	Urshifu Single Strike	alias
+MATCH	rapidash	78	Rapidash	exact
+MATCH	raticate	20	Raticate	exact
+MATCH	rattata	19	Rattata	exact
+MATCH	regice	378	Regice	exact
+MATCH	regidrago	895	Regidrago	exact
+MATCH	regieleki	894	Regieleki	exact
+MATCH	regirock	377	Regirock	exact
+MATCH	registeel	379	Registeel	exact
+MATCH	relicanth	369	Relicanth	exact
+MATCH	rellor	953	Rellor	exact
+MATCH	remoraid	223	Remoraid	exact
+MATCH	reshiram	643	Reshiram	exact
+MATCH	reuniclus	579	Reuniclus	exact
+MATCH	revavroom	966	Revavroom	exact
+MATCH	rhydon	112	Rhydon	exact
+MATCH	rhyhorn	111	Rhyhorn	exact
+MATCH	rhyperior	464	Rhyperior	exact
+MATCH	ribombee	743	Ribombee	exact
+MATCH	rillaboom	812	Rillaboom	exact
+MATCH	riolu	447	Riolu	exact
+MATCH	roaming gimmighoul	999	Gimmighoul	alias
+MATCH	roaring moon	1005	Roaring Moon	exact
+MATCH	rockruff	744	Rockruff	exact
+MATCH	roggenrola	524	Roggenrola	exact
+MATCH	rolycoly	837	Rolycoly	exact
+MATCH	rookidee	821	Rookidee	exact
+MATCH	roselia	315	Roselia	exact
+MATCH	roserade	407	Roserade	exact
+MATCH	rotom	479	Rotom	exact
+MATCH	rowlet	722	Rowlet	exact
+MATCH	rufflet	627	Rufflet	exact
+MATCH	runerigus	867	Runerigus	exact
+MATCH	sableye	302	Sableye	exact
+MATCH	salamence	373	Salamence	exact
+MATCH	salandit	757	Salandit	exact
+MATCH	salazzle	758	Salazzle	exact
+MATCH	samurott	503	Samurott	exact
+MATCH	sandaconda	844	Sandaconda	exact
+MATCH	sandile	551	Sandile	exact
+MATCH	sandshrew	27	Sandshrew	exact
+MATCH	sandslash	28	Sandslash	exact
+MATCH	sandy shocks	989	Sandy Shocks	exact
+MATCH	sandy wormadam	413	Wormadam Plant	alias
+MATCH	sandygast	769	Sandygast	exact
+MATCH	sawk	539	Sawk	exact
+MATCH	sawsbuck	586	Sawsbuck	exact
+MATCH	scatterbug	664	Scatterbug	exact
+MATCH	sceptile	254	Sceptile	exact
+MATCH	school wishiwashi	746	Wishiwashi Solo	alias
+MATCH	scizor	212	Scizor	exact
+MATCH	scolipede	545	Scolipede	exact
+MATCH	scorbunny	813	Scorbunny	exact
+MATCH	scovillain	952	Scovillain	exact
+MATCH	scrafty	560	Scrafty	exact
+MATCH	scraggy	559	Scraggy	exact
+MATCH	scream tail	985	Scream Tail	exact
+MATCH	scyther	123	Scyther	exact
+MATCH	seadra	117	Seadra	exact
+MATCH	seaking	119	Seaking	exact
+MATCH	sealeo	364	Sealeo	exact
+MATCH	seedot	273	Seedot	exact
+MATCH	seel	86	Seel	exact
+MATCH	seismitoad	537	Seismitoad	exact
+MATCH	sensu oricorio	741	Oricorio Baile	alias
+MATCH	sentret	161	Sentret	exact
+MATCH	serperior	497	Serperior	exact
+MATCH	servine	496	Servine	exact
+MATCH	seviper	336	Seviper	exact
+MATCH	sewaddle	540	Sewaddle	exact
+MATCH	sharpedo	319	Sharpedo	exact
+MATCH	shaymin	492	Shaymin Land	prefix
+MATCH	shedinja	292	Shedinja	exact
+MATCH	shelgon	372	Shelgon	exact
+MATCH	shellder	90	Shellder	exact
+MATCH	shellos	422	Shellos	exact
+MATCH	shelmet	616	Shelmet	exact
+MATCH	shieldon	410	Shieldon	exact
+MATCH	shiftry	275	Shiftry	exact
+MATCH	shiinotic	756	Shiinotic	exact
+MATCH	shinx	403	Shinx	exact
+MATCH	shroodle	944	Shroodle	exact
+MATCH	shroomish	285	Shroomish	exact
+MATCH	shuckle	213	Shuckle	exact
+MATCH	shuppet	353	Shuppet	exact
+MATCH	sigilyph	561	Sigilyph	exact
+MATCH	silcoon	266	Silcoon	exact
+MATCH	silicobra	843	Silicobra	exact
+MATCH	silvally	773	Silvally	exact
+MATCH	simipour	516	Simipour	exact
+MATCH	simisage	512	Simisage	exact
+MATCH	simisear	514	Simisear	exact
+MATCH	sinistcha	1013	Sinistcha	exact
+MATCH	sinistea	854	Sinistea	exact
+MATCH	sizzlipede	850	Sizzlipede	exact
+MATCH	skarmory	227	Skarmory	exact
+MATCH	skeledirge	911	Skeledirge	exact
+MATCH	skiddo	672	Skiddo	exact
+MATCH	skiploom	188	Skiploom	exact
+MATCH	skitty	300	Skitty	exact
+MATCH	skorupi	451	Skorupi	exact
+MATCH	skrelp	690	Skrelp	exact
+MATCH	skuntank	435	Skuntank	exact
+MATCH	skwovet	819	Skwovet	exact
+MATCH	slaking	289	Slaking	exact
+MATCH	slakoth	287	Slakoth	exact
+MATCH	sliggoo	705	Sliggoo	exact
+MATCH	slither wing	988	Slither Wing	exact
+MATCH	slowbro	80	Slowbro	exact
+MATCH	slowking	199	Slowking	exact
+MATCH	slowpoke	79	Slowpoke	exact
+MATCH	slugma	218	Slugma	exact
+MATCH	slurpuff	685	Slurpuff	exact
+MATCH	smeargle	235	Smeargle	exact
+MATCH	smoliv	928	Smoliv	exact
+MATCH	smoochum	238	Smoochum	exact
+MATCH	sneasel	215	Sneasel	exact
+MATCH	sneasler	903	Sneasler	exact
+MATCH	snivy	495	Snivy	exact
+MATCH	snom	872	Snom	exact
+MATCH	snorlax	143	Snorlax	exact
+MATCH	snorunt	361	Snorunt	exact
+MATCH	snover	459	Snover	exact
+MATCH	snowy castform	351	Castform	alias
+MATCH	snubbull	209	Snubbull	exact
+MATCH	sobble	816	Sobble	exact
+MATCH	solgaleo	791	Solgaleo	exact
+MATCH	solosis	577	Solosis	exact
+MATCH	solrock	338	Solrock	exact
+MATCH	spearow	21	Spearow	exact
+MATCH	speed deoxys	386	Deoxys Normal	alias
+MATCH	spewpa	665	Spewpa	exact
+MATCH	spheal	363	Spheal	exact
+MATCH	spidops	918	Spidops	exact
+MATCH	spinarak	167	Spinarak	exact
+MATCH	spinda	327	Spinda	exact
+MATCH	spiritomb	442	Spiritomb	exact
+MATCH	spoink	325	Spoink	exact
+MATCH	sprigatito	906	Sprigatito	exact
+MATCH	spritzee	682	Spritzee	exact
+MATCH	squawkabilly	931	Squawkabilly Green Plumage	prefix
+MATCH	squirtle	7	Squirtle	exact
+MATCH	stakataka	805	Stakataka	exact
+MATCH	stantler	234	Stantler	exact
+MATCH	staraptor	398	Staraptor	exact
+MATCH	staravia	397	Staravia	exact
+MATCH	starly	396	Starly	exact
+MATCH	starmie	121	Starmie	exact
+MATCH	staryu	120	Staryu	exact
+MATCH	steelix	208	Steelix	exact
+MATCH	steenee	762	Steenee	exact
+MATCH	stonjourner	874	Stonjourner	exact
+MATCH	stoutland	508	Stoutland	exact
+MATCH	stretchy tatsugiri	978	Tatsugiri Curly	alias
+MATCH	stufful	759	Stufful	exact
+MATCH	stunfisk	618	Stunfisk	exact
+MATCH	stunky	434	Stunky	exact
+MATCH	sudowoodo	185	Sudowoodo	exact
+MATCH	sunflora	192	Sunflora	exact
+MATCH	sunkern	191	Sunkern	exact
+MATCH	sunny castform	351	Castform	alias
+MATCH	surskit	283	Surskit	exact
+MATCH	swablu	333	Swablu	exact
+MATCH	swadloon	541	Swadloon	exact
+MATCH	swalot	317	Swalot	exact
+MATCH	swampert	260	Swampert	exact
+MATCH	swanna	581	Swanna	exact
+MATCH	swellow	277	Swellow	exact
+MATCH	swinub	220	Swinub	exact
+MATCH	swirlix	684	Swirlix	exact
+MATCH	swoobat	528	Swoobat	exact
+MATCH	sylveon	700	Sylveon	exact
+MATCH	tadbulb	938	Tadbulb	exact
+MATCH	taillow	276	Taillow	exact
+MATCH	talonflame	663	Talonflame	exact
+MATCH	tandemaus	924	Tandemaus	exact
+MATCH	tangela	114	Tangela	exact
+MATCH	tangrowth	465	Tangrowth	exact
+MATCH	tapu bulu	787	Tapu Bulu	exact
+MATCH	tapu fini	788	Tapu Fini	exact
+MATCH	tapu koko	785	Tapu Koko	exact
+MATCH	tapu lele	786	Tapu Lele	exact
+MATCH	tarountula	917	Tarountula	exact
+MATCH	tatsugiri	978	Tatsugiri Curly	prefix
+MATCH	tauros	128	Tauros	exact
+MATCH	teddiursa	216	Teddiursa	exact
+MATCH	tentacool	72	Tentacool	exact
+MATCH	tentacruel	73	Tentacruel	exact
+MATCH	tepig	498	Tepig	exact
+MATCH	terapagos	1024	Terapagos	exact
+MATCH	terastal terapagos	1024	Terapagos	alias
+MATCH	terrakion	639	Terrakion	exact
+MATCH	thievul	828	Thievul	exact
+MATCH	three-segment dudunsparce	982	Dudunsparce Two Segment	alias
+MATCH	throh	538	Throh	exact
+MATCH	thundurus	642	Thundurus Incarnate	prefix
+MATCH	thwackey	811	Thwackey	exact
+MATCH	timburr	532	Timburr	exact
+MATCH	ting-lu	1003	Ting Lu	exact
+MATCH	tinkatink	957	Tinkatink	exact
+MATCH	tinkaton	959	Tinkaton	exact
+MATCH	tinkatuff	958	Tinkatuff	exact
+MATCH	tirtouga	564	Tirtouga	exact
+MATCH	toedscool	948	Toedscool	exact
+MATCH	toedscruel	949	Toedscruel	exact
+MATCH	togedemaru	777	Togedemaru	exact
+MATCH	togekiss	468	Togekiss	exact
+MATCH	togepi	175	Togepi	exact
+MATCH	togetic	176	Togetic	exact
+MATCH	torchic	255	Torchic	exact
+MATCH	torkoal	324	Torkoal	exact
+MATCH	tornadus	641	Tornadus Incarnate	prefix
+MATCH	torracat	726	Torracat	exact
+MATCH	torterra	389	Torterra	exact
+MATCH	totodile	158	Totodile	exact
+MATCH	toucannon	733	Toucannon	exact
+MATCH	toxapex	748	Toxapex	exact
+MATCH	toxel	848	Toxel	exact
+MATCH	toxicroak	454	Toxicroak	exact
+MATCH	tranquill	520	Tranquill	exact
+MATCH	trapinch	328	Trapinch	exact
+MATCH	trash wormadam	413	Wormadam Plant	alias
+MATCH	treecko	252	Treecko	exact
+MATCH	trevenant	709	Trevenant	exact
+MATCH	tropius	357	Tropius	exact
+MATCH	trubbish	568	Trubbish	exact
+MATCH	trumbeak	732	Trumbeak	exact
+MATCH	tsareena	763	Tsareena	exact
+MATCH	turtonator	776	Turtonator	exact
+MATCH	turtwig	387	Turtwig	exact
+MATCH	tympole	535	Tympole	exact
+MATCH	tynamo	602	Tynamo	exact
+MATCH	typhlosion	157	Typhlosion	exact
+MATCH	tyranitar	248	Tyranitar	exact
+MATCH	tyrantrum	697	Tyrantrum	exact
+MATCH	tyrogue	236	Tyrogue	exact
+MATCH	tyrunt	696	Tyrunt	exact
+MATCH	umbreon	197	Umbreon	exact
+MATCH	unfezant	521	Unfezant	exact
+MATCH	unown	201	Unown	exact
+MATCH	ursaluna	901	Ursaluna	exact
+MATCH	ursaring	217	Ursaring	exact
+MATCH	urshifu	892	Urshifu Single Strike	prefix
+MATCH	uxie	480	Uxie	exact
+MATCH	vanillish	583	Vanillish	exact
+MATCH	vanillite	582	Vanillite	exact
+MATCH	vanilluxe	584	Vanilluxe	exact
+MATCH	vaporeon	134	Vaporeon	exact
+MATCH	varoom	965	Varoom	exact
+MATCH	veluza	976	Veluza	exact
+MATCH	venipede	543	Venipede	exact
+MATCH	venomoth	49	Venomoth	exact
+MATCH	venonat	48	Venonat	exact
+MATCH	venusaur	3	Venusaur	exact
+MATCH	vespiquen	416	Vespiquen	exact
+MATCH	vibrava	329	Vibrava	exact
+MATCH	victini	494	Victini	exact
+MATCH	victreebel	71	Victreebel	exact
+MATCH	vigoroth	288	Vigoroth	exact
+MATCH	vikavolt	738	Vikavolt	exact
+MATCH	vileplume	45	Vileplume	exact
+MATCH	virizion	640	Virizion	exact
+MATCH	vivillon	666	Vivillon	exact
+MATCH	volbeat	313	Volbeat	exact
+MATCH	volcanion	721	Volcanion	exact
+MATCH	volcarona	637	Volcarona	exact
+MATCH	voltorb	100	Voltorb	exact
+MATCH	vullaby	629	Vullaby	exact
+MATCH	vulpix	37	Vulpix	exact
+MATCH	wailmer	320	Wailmer	exact
+MATCH	wailord	321	Wailord	exact
+MATCH	walking wake	1009	Walking Wake	exact
+MATCH	walrein	365	Walrein	exact
+MATCH	wartortle	8	Wartortle	exact
+MATCH	wash rotom	479	Rotom	alias
+MATCH	watchog	505	Watchog	exact
+MATCH	wattrel	940	Wattrel	exact
+MATCH	weavile	461	Weavile	exact
+MATCH	weedle	13	Weedle	exact
+MATCH	weepinbell	70	Weepinbell	exact
+MATCH	weezing	110	Weezing	exact
+MATCH	wellspring mask ogerpon	1017	Ogerpon	alias
+MATCH	whimsicott	547	Whimsicott	exact
+MATCH	whirlipede	544	Whirlipede	exact
+MATCH	whiscash	340	Whiscash	exact
+MATCH	whismur	293	Whismur	exact
+MATCH	white plumage squawkabilly	931	Squawkabilly Green Plumage	alias
+MATCH	white-striped basculin	550	Basculin Red Striped	alias
+MATCH	wigglytuff	40	Wigglytuff	exact
+MATCH	wiglett	960	Wiglett	exact
+MATCH	wimpod	767	Wimpod	exact
+MATCH	wingull	278	Wingull	exact
+MATCH	wishiwashi	746	Wishiwashi Solo	prefix
+MATCH	wo-chien	1001	Wo Chien	exact
+MATCH	wobbuffet	202	Wobbuffet	exact
+MATCH	woobat	527	Woobat	exact
+MATCH	wooloo	831	Wooloo	exact
+MATCH	wooper	194	Wooper	exact
+MATCH	wormadam	413	Wormadam Plant	prefix
+MATCH	wugtrio	961	Wugtrio	exact
+MATCH	wurmple	265	Wurmple	exact
+MATCH	wynaut	360	Wynaut	exact
+MATCH	wyrdeer	899	Wyrdeer	exact
+MATCH	xatu	178	Xatu	exact
+MATCH	xurkitree	796	Xurkitree	exact
+MATCH	yamask	562	Yamask	exact
+MATCH	yamper	835	Yamper	exact
+MATCH	yanma	193	Yanma	exact
+MATCH	yanmega	469	Yanmega	exact
+MATCH	yellow plumage squawkabilly	931	Squawkabilly Green Plumage	alias
+MATCH	yungoos	734	Yungoos	exact
+MATCH	yveltal	717	Yveltal	exact
+MATCH	zacian	888	Zacian	exact
+MATCH	zamazenta	889	Zamazenta	exact
+MATCH	zangoose	335	Zangoose	exact
+MATCH	zapdos	145	Zapdos	exact
+MATCH	zarude	893	Zarude	exact
+MATCH	zebstrika	523	Zebstrika	exact
+MATCH	zekrom	644	Zekrom	exact
+MATCH	zen darmanitan	555	Darmanitan Standard	alias
+MATCH	zenith marshadow	802	Marshadow	alias
+MATCH	zeraora	807	Zeraora	exact
+MATCH	zigzagoon	263	Zigzagoon	exact
+MATCH	zoroark	571	Zoroark	exact
+MATCH	zorua	570	Zorua	exact
+MATCH	zubat	41	Zubat	exact
+MATCH	zweilous	634	Zweilous	exact
+MATCH	zygarde	718	Zygarde 50	prefix
+MATCH	zygarde cell	718	Zygarde 50	alias
+MATCH	zygarde core	718	Zygarde 50	alias

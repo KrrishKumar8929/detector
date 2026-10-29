@@ -1,0 +1,8 @@
+{
+  "name_mode": "English",
+  "message_delay_seconds": 2.0,
+  "message_delay_range_seconds": [
+    1.2,
+    2.0
+  ]
+}
